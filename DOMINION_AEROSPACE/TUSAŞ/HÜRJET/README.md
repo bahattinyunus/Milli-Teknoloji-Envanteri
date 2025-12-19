@@ -6,6 +6,12 @@
 
 HÜRJET, Türkiye'nin ilk süpersonik jet eğitim ve hafif taarruz uçağıdır. Modern savaş uçağı eğitiminden yakın hava desteği görevlerine kadar geniş bir yelpazede hizmet verebilme kapasitesine sahiptir.
 
+## 📝 Proje Açıklaması
+HÜRJET, TUSAŞ tarafından Hava Kuvvetleri'nin T-38 ve NF-5 uçaklarının yerini alması ve geleceğin pilotlarının 5. nesil uçaklara (KAAN) hazırlanması amacıyla geliştirilmiştir. Süpersonik hız yeteneği, gelişmiş dijital uçuş sistemi (Fly-By-Wire) ve modern kokpit mimarisiyle donatılan platform, sadece bir eğitim uçağı değil, aynı zamanda mühimmat taşıma kapasitesiyle etkili bir yakın hava desteği aracıdır.
+
+### 🎭 Çok Yönlü Operasyonel Esneklik
+HÜRJET, akrobatik gösteri uçağı, hafif taarruz uçağı ve ileri jet eğitim uçağı olarak üç farklı konfigürasyonda görev yapabilir. Ayrıca, TCG Anadolu gibi uçak gemilerinden operasyon yapabilecek deniz varyantı çalışmalarıyla Türkiye'nin deniz havacılığı vizyonuna da hizmet etmektedir.
+
 ## 🛠 Teknik Master Katalog
 
 | Parametre | Detay | Özellik |
@@ -25,6 +31,23 @@ HÜRJET, Türkiye'nin ilk süpersonik jet eğitim ve hafif taarruz uçağıdır.
 ## 💥 Mühimmat ve Sensör Paketi
 - **Mühimmat:** GÖKDOĞAN, BOZDOĞAN, HGK-82, KGK-82, Minyatür Bombalar.
 - **Sensörler:** Lazer işaretleme podları, opsiyonel AESA radarı entegrasyonu.
+
+## 🌐 Ekosistem Entegrasyonu (Training Connectivity)
+HÜRJET, KAAN'a giden yolda sadece bir eğitim aracı değil, operasyonel bir köprüdür:
+- **LVC (Live-Virtual-Constructive):** Havada uçarken yerdeki simülatörlerle veya sanal düşmanlarla (VR/AR) eğitim yapabilme yeteneği.
+- **Ağ Merkezli Eğitim:** Pilot adaylarının Link-16 üzerinden KAAN ve AKINCI ile koordinasyon kurmayı havada öğrenmesi.
+- **Deniz Havacılığı:** TCG Anadolu gibi gemilere iniş-kalkış yapabilen varyantıyla deniz kuvvetleri unsurları arasında entegrasyon.
+
+## 📊 Alt Sistemler ve Yerlilik
+- **Uçuş Kontrol Bilgisayarı (FCC):** 4 yedekli, tamamen yerli yazılımla kontrol edilen dijital uçuş sistemi.
+- **Modern Kokpit (LAD):** 20 inç geniş alan ekranı (Large Area Display) ile 5. nesil uçak arayüz deneyimi.
+- **Uçuş Test Enstrümantasyonu:** Verilerin anlık olarak yer istasyonuna aktarıldığı milli telemetri sistemleri.
+
+## 🔮 Gelecek Vizyonu: Blok ve Varyantlar
+- **Varyant L (Jet Eğitim):** T-38'lerin yerini alacak ana yapı.
+- **Varyant C (Hafif Taarruz):** Terörle mücadele için optimize edilmiş, yerli mühimmat yüklü muharip yapı.
+- **Varyant N (Deniz):** Katlanabilir kanatlar ve güçlendirilmiş gövde ile uçak gemisi kullanımı.
+- **Aerobatik:** Türk Yıldızları için özel hafifletilmiş ve duman sistemli versiyon.
 
 ## 📈 Milat Çizgesi
 - [x] Konsept Tasarım Onayı

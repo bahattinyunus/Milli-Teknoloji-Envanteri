@@ -7,85 +7,96 @@
 ## 🛡️ Stratejik Egemenlik Manifestosu (Strategic Sovereignty)
 Bu envanter, sadece bir proje listesi değil; Türkiye'nin **2053 ve 2071 vizyonlarına** giden yolda döşenen teknolojik taşların dökümüdür. "Tam Bağımsızlık" ilkesiyle, ithal ikameci anlayıştan teknoloji ihraç eden ve doktrin belirleyen bir güç haline gelen Türk mühendisliğinin kolektif hafızasıdır.
 
+### 🎯 Temel Hedefler:
+1.  **Dışa Bağımlılığın Sıfırlanması:** Kritik alt sistemlerin (Motor, Radar, Yazılım) %100 yerlileştirilmesi.
+2.  **Önleyici Savunma Doktrini:** Tehdidi kendi sınırları dışında, otonom ve akıllı sistemlerle durdurma kapasitesi.
+3.  **Küresel Teknoloji İhracatı:** Standart belirleyen, oyun değiştirici platformları (SİHA, İDA, İKA) dünya pazarına sunma.
+
 ---
 
-## 🏗️ Teknolojik Katmanlar (Technological Layers)
+## 🏗️ Teknolojik Katmanlar ve Derinlik (Technological Layers)
 Türkiye'nin teknoloji ekosistemi üç ana katmanda derinleşmektedir:
 
-*   **Katman 0: Donanım ve Malzeme**: İleri kompozitler, radar emici boyalar, GaN tabanlı yarı iletkenler.
-*   **Katman 1: Yazılım ve Akıl**: Görev bilgisayarları, tamamen milli işletim sistemleri ve otonom sürü sürücü algoritmaları.
-*   **Katman 2: Enerji ve Tahrik**: Türbofan motorlar (TF6000), katı yakıtlı roket motorları ve elektrikli tahrik sistemleri.
+### 💎 Katman 0: Donanım ve Malzeme (The Foundation)
+- **İleri Kompozitler:** KAAN ve KIZILELMA için radar emici özel gövde malzemeleri.
+- **GaN Teknolojisi:** ASELSAN bünyesinde üretilen, AESA radarlarının çekirdeğini oluşturan Galyum Nitrat yarı iletkenler.
+- **Zırh Çelikleri:** ALTAY ve ZAHA için geliştirilen milli yüksek mukavemetli çelik alaşımlar.
+
+### 🧠 Katman 1: Yazılım ve Akıl (The Intelligence)
+- **ADVENT SYS:** Dünyanın en gelişmiş ağ merkezli harekat yönetim yazılımlarından biri.
+- **Milli İşletim Sistemleri:** Kritik görev bilgisayarlarında çalışan gerçek zamanlı (RTOS) sistemler.
+- **MAIN AI:** Askeri doktrine hakim, kapalı devre çalışan milli büyük dil modeli.
+
+### ⚙️ Katman 2: Enerji ve Tahrik (The Power)
+- **TF6000/TF10000:** Türkiye'nin ilk milli turbofan motor projeleri.
+- **BATU & UTKU:** Tank ve hafif zırhlı araçlar için geliştirilen milli güç grupları.
+- **Katı Yakıtlı Roketler:** Balistik füzeler ve uzay araçları için geliştirilen yüksek itkili yakıt teknolojileri.
 
 ---
 
-## 🏛️ Kurumsal Dominion Yapısı ve Sektörel Derin Dalış
+## 🏛️ Kurumsal Dominion Yapısı ve Stratejik Derinlik
 
 ### 🌌 DOMINION AEROSPACE (Hava & Uzay)
-| Proje / Platform | Üretici | Stratejik Önem | TRL (Tahmini) |
+| Proje / Platform | Üretici | Stratejik Önem | TRL |
 | :--- | :--- | :--- | :--- |
-| **[KAAN](./DOMINION_AEROSPACE/TUSAŞ/KAAN/README.md)** | TUSAŞ | 5. Nesil Görünmezlik | TRL 6-7 |
-| **[KIZILELMA](./DOMINION_AEROSPACE/BAYKAR/KIZILELMA/README.md)** | BAYKAR | İnsansız Hava Muharebesi | TRL 8 |
+| **[KAAN](./DOMINION_AEROSPACE/TUSAŞ/KAAN/README.md)** | TUSAŞ | 5. Nesil Görünmezlik | TRL 7 |
 | **[ANKA-3](./DOMINION_AEROSPACE/TUSAŞ/ANKA-3/README.md)** | TUSAŞ | Derin Darbe (Stealth) | TRL 7 |
+| **[KIZILELMA](./DOMINION_AEROSPACE/BAYKAR/KIZILELMA/README.md)** | BAYKAR | İnsansız Hava Muharebesi | TRL 8 |
 | **[HÜRJET](./DOMINION_AEROSPACE/TUSAŞ/HÜRJET/README.md)** | TUSAŞ | Jet Eğitim & Taarruz | TRL 8 |
 | **[AKINCI](./DOMINION_AEROSPACE/BAYKAR/AKINCI/README.md)** | BAYKAR | Stratejik TİHA | TRL 9 |
 | **[TAYFUN](./DOMINION_AEROSPACE/ROKETSAN/TAYFUN/README.md)** | ROKETSAN | Balistik Caydırıcılık | TRL 8 |
 
 ### 🚜 DOMINION LAND (Kara & Zırh)
-| Proje / Platform | Üretici | Stratejik Önem | TRL (Tahmini) |
+| Proje / Platform | Üretici | Stratejik Önem | TRL |
 | :--- | :--- | :--- | :--- |
 | **[ALTAY](./DOMINION_LAND/BMC/ALTAY/README.md)** | BMC | Ana Muharebe Tankı | TRL 9 |
 | **[ARMA II](./DOMINION_LAND/OTOKAR/ARMA/README.md)** | OTOKAR | Modüler Zırhlı Araç | TRL 9 |
 | **[ZAHA](./DOMINION_LAND/FNSS/ZAHA/README.md)** | FNSS | Amfibi Hücum | TRL 9 |
-| **[EJDER YALÇIN](./DOMINION_LAND/Nurol_Makina/README.md)** | Nurol Makina | Yüksek Koruma | TRL 9 |
-| **[SARBOT](./DOMINION_LAND/Sarsılmaz/README.md)** | Sarsılmaz | Silahlı Robotik | TRL 7 |
+| **[BARKAN](./DOMINION_ELECTRONICS/HAVELSAN/BARKAN/README.md)** | HAVELSAN | otonom İKA Sınıfı | TRL 9 |
 
 ### ⚓ DOMINION SEA (Mavi Vatan)
-| Proje / Platform | Üretici | Stratejik Önem | TRL (Tahmini) |
+| Proje / Platform | Üretici | Stratejik Önem | TRL |
 | :--- | :--- | :--- | :--- |
 | **[TCG ANADOLU](./DOMINION_SEA/SEDEF/TCG_ANADOLU/README.md)** | SEDEF | SİHA Gemisi / LHD | TRL 9 |
 | **[STM500](./DOMINION_SEA/STM/STM500/README.md)** | STM | Küçük Sınıf Denizaltı | TRL 6 |
-| **[ULAQ](./DOMINION_SEA/ARES/README.md)** | ARES | Silahlı SİDA | TRL 9 |
-| **[PN MİLGEM](./DOMINION_SEA/ASFAT/README.md)** | ASFAT | Fırkateyn İhracatı | TRL 9 |
 
-### 📡 DOMINION ELECTRONICS (Dijital Egemenlik)
-| Proje / Platform | Üretici | Stratejik Önem | TRL (Tahmini) |
+### 📡 DOMINION ELECTRONICS & AI (Dijital Egemenlik)
+| Proje / Platform | Üretici | Stratejik Önem | TRL |
 | :--- | :--- | :--- | :--- |
 | **[SİPER](./DOMINION_ELECTRONICS/ASELSAN/SİPER/README.md)** | ASELSAN | Uzun Menzilli HSS | TRL 8 |
-| **[BARKAN](./DOMINION_ELECTRONICS/HAVELSAN/BARKAN/README.md)** | HAVELSAN | Otonom İKA | TRL 9 |
 | **[GÜRZ](./DOMINION_ELECTRONICS/ASELSAN/GÜRZ/README.md)** | ASELSAN | Hibrit Hava Savunma | TRL 8 |
 | **[MAIN AI](./DOMINION_ELECTRONICS/HAVELSAN/MAIN_AI/README.md)** | HAVELSAN | Askeri Yapay Zeka | TRL 7 |
 
 ---
 
-## 🔗 Ekosistem Entegrasyonu (Ecosystem Integration)
+## 🔗 Ekosistem Entegrasyonu (Electronic & Neural Synergy)
 
-Aşağıdaki diyagram, farklı Dominion'lar arasındaki derin bağımlılığı ve işbirliğini göstermektedir:
+Aşağıdaki diyagram, platformların birbirine nasıl "sinirsel" olarak bağlı olduğunu gösterir:
 
 ```mermaid
-graph TD
-    subgraph SENSORS ["Elektronik & Sensör (ASELSAN/METEKSAN)"]
-    E1["AESA Radar"]
-    E2["EHTAS (EH Sistemi)"]
+graph LR
+    subgraph BRAIN ["Yapay Zeka & Kontrol (HAVELSAN/TÜBİTAK)"]
+    MAIN["MAIN AI"]
+    ADVENT["ADVENT SYS"]
     end
     
-    subgraph PLATFORMS ["Platformlar (TUSAŞ/BAYKAR/STM)"]
-    P1["KAAN"]
-    P2["KIZILELMA"]
-    P3["İ-Sınıfı Fırkateyn"]
+    subgraph STRIKE ["Vuruş Gücü (AEROSPACE)"]
+    KIZ["KIZILELMA"]
+    KAAN["KAAN"]
+    ANKA["ANKA-3"]
     end
     
-    subgraph WEAPONS ["Mühimmat (ROKETSAN/SAGE/MKE)"]
-    W1["SOM-J Seyir Füzesi"]
-    W2["HİSAR-U"]
-    W3["GÖKDOĞAN"]
+    subgraph SHIELD ["Savunma (ELECTRONICS)"]
+    SIPER["SİPER HSS"]
+    GURZ["GÜRZ"]
     end
     
-    E1 --> P1
-    E1 --> P2
-    E2 --> P1
-    W1 --> P1
-    W3 --> P2
-    W2 --> P3
+    MAIN --> ADVENT
+    ADVENT --> STRIKE
+    ADVENT --> SHIELD
+    KAAN --- KIZ
+    KAAN --- ANKA
+    SIPER --- ADVENT
 ```
 
 ---
@@ -95,7 +106,9 @@ graph TD
 - [x] Sinematik Hero Banner Entegrasyonu
 - [x] Sektörel Derin Dalış Tabloları
 - [x] Teknolojik Katmanlar Arşivi
-- [/] Her Proje İçin Detaylı Teknik "Spec-Sheet" Hazırlanması
+- [x] 15+ Kritik Proje İçin Detaylı "Spec-Sheet" Hazırlanması
+- [/] Envanter Takip Yazılımı (inventory_manager.py) Geliştirmesi
+- [ ] Karma Sürü Simülasyon Modülleri Entegrasyonu
 
 ---
 **"Yarın Değil, Şimdi! Gelecek Burada."** 🇹🇷

@@ -6,6 +6,12 @@
 
 BARKAN, HAVELSAN tarafından "Dijital Birlik" konsepti çerçevesinde geliştirilen, uzaktan komuta edilebilen veya tam otonom hareket kabiliyetine sahip orta sınıf bir insansız kara aracıdır.
 
+## 📝 Proje Açıklaması
+BARKAN, modern savaş sahasının değişen dinamiklerine yanıt olarak geliştirilmiş, çok amaçlı bir robotik platformdur. Modüler yapısı sayesinde keşif, gözetleme, silahlı koruma ve lojistik destek gibi farklı görevleri yerine getirebilir. HAVELSAN'ın otonomi algoritmaları ve "Karma Sürü" mimarisiyle donatılan BARKAN, karmaşık arazi koşullarında engelleri otonom olarak aşabilir ve diğer kara/hava araçlarıyla koordineli hareket edebilir.
+
+### 🤖 Dijital Birlik Vizyonu
+"Dijital Birlik" ekosisteminin karadaki temel unsurlarından biri olan BARKAN, askerlerin riskli bölgelerdeki maruziyetini azaltmayı ve operasyonel verimliliği artırmayı amaçlar. Otonom devriye, lider-takipçi ve sürü operasyonları yetenekleriyle geleceğin hibrit muharebe sahasında kritik bir rol oynamaktadır.
+
 ## 🛠 Teknik Master Katalog
 
 | Parametre | Detay | Özellik |
@@ -26,6 +32,23 @@ BARKAN, tek başına görev yapabildiği gibi HAVELSAN'ın "Karma Sürü" mimari
 1.  **Silahlı Varyant:** Nokta savunma ve ateş desteği.
 2.  **Lojistik Varyant:** Sedye taşıma, mühimmat nakliyesi.
 3.  **Kurtarma:** Mayın temizleme ve engel kaldırma aparatları.
+
+## 🌐 Ekosistem Entegrasyonu (Autonomous Synergy)
+BARKAN, HAVELSAN'ın "Dijital Birlik" ekosisteminin merkezinde yer alır:
+- **Karma Sürü Operasyonları:** BAHA (İnsansız Hava Aracı) ile koordineli çalışarak, havadan gelen hedef bilgisini karada anında operasyona dönüştürebilir.
+- **SANCAR SİDA Entegrasyonu:** Sahil bölgelerinde deniz unsurlarıyla ortak hareket ederek kıyı güvenliği operasyonları.
+- **Bulut Altı Entegrasyon:** Alçak irtifa İHA'lardan gelen verilerle, GPS'in olmadığı (GNSS-Denied) ortamlarda bile görsel konumlandırma ile ilerleme.
+
+## 📊 Alt Sistemler ve Yerlilik
+- **Otonomi Kiti:** HAVELSAN imzalı, engel sakınma ve dinamik rota planlama algoritmaları.
+- **ADVENT-ROBOTİK:** Gemi ve uçaklardaki savaş yönetim sisteminin robotik araçlara uyarlanmış versiyonu.
+- **LIDAR & Termal Görüş:** Her türlü hava ve ışık şartında 360 derece durumsal farkındalık sağlayan sensör katmanı.
+
+## 🔮 Gelecek Vizyonu ve Varyantlar
+- **BARKAN 2 (Ağır Sınıf):** Daha yüksek ateş gücü ve taşıma kapasitesine sahip üst model çalışmaları.
+- **Kamikaze İHA Entegrasyonu:** Üzerinde taşıdığı mini İHA'ları (vuruşçu) fırlatabilme yeteneği.
+- **Yapay Zeka Destekli Hedef Teşhisi:** Dost-Düşman ayrımını (IFF) yapabilen ileri yapay zeka katmanı.
+- **Elektronik Harp Varyantı:** Sinyal kesici ve jamming sistemleriyle donatılmış koruma aracı.
 
 ## 📈 Gelişim Süreci
 - [x] Konsept Tasarım ve Prototipleme

@@ -6,6 +6,12 @@
 
 Bayraktar AKINCI TİHA (Taarruzi İnsansız Hava Aracı), Türkiye'nin insansız hava aracı teknolojisinde ulaştığı en üst seviye platformlardan biridir. Stratejik görevleri icra edebilecek kapasitede, gelişmiş sensör ve mühimmat sistemleriyle donatılmıştır.
 
+## 📝 Proje Açıklaması
+Bayraktar AKINCI, BAYKAR tarafından geliştirilen, "Uçan Balık" olarak da bilinen dünyanın en yetenekli stratejik İHA'larından biridir. Çift turboprop motoru, 1.5 tona varan faydalı yük kapasitesi ve 45.000 fit irtifa tavanıyla, geleneksel İHA'ların çok ötesinde bir performans sergiler. Sadece keşif yapmakla kalmaz, SOM seyir füzesi ve GÖKDOĞAN/BOZDOĞAN gibi savaş uçaklarına özgü mühimmatları taşıyarak stratejik bir bombardıman uçağı gibi görev yapabilir.
+
+### 🦅 Stratejik Üstünlük ve Yapay Zeka
+AKINCI, bünyesinde barındırdığı üç yedekli yapay zeka bilgisayarları sayesinde karmaşık karar verme süreçlerini otonom olarak yönetebilir. Milli AESA radar entegrasyonu ile kendi sınıfında hava-hava harbi yapabilen nadir platformlardan biridir.
+
 ## 🛠 Teknik Master Katalog
 
 | Parametre | Detay | Özellik |
@@ -27,6 +33,23 @@ AKINCI, Türkiye'nin geliştirdiği en ağır ve stratejik mühimmatları taşı
 - **Orta ve Uzun Menzil:** SOM Seyir Füzesi ailesi.
 - **Hassas Güdüm:** HGK, KGK, LGK ve TEBER kitli bombalar.
 - **Hava-Hava Yeteneği:** GÖKDOĞAN ve BOZDOĞAN füzeleriyle İHA avlama kapasitesi.
+
+## 🌐 Ekosistem Entegrasyonu (Strategic Synergy)
+AKINCI, Türkiye'nin "SİHA Doktrini"ni stratejik seviyeye taşıyan ana unsurdur:
+- **Hava-Hava İşbirliği:** F-16 ve KAAN için "Mühimmat Taşıyıcı" (Missile Carrier) olarak görev yaparak, insanlı uçakların riskli bölgelere girmeden angajman yapmasını sağlar.
+- **Deniz Katmanı:** TCG Anadolu üzerinden operasyon yapabilme (çalışmalar devam etmektedir) ve MAVİ VATAN gemilerine uzun menzilli hava desteği.
+- **Topçu Entegrasyonu:** ÇNRA ve TAYFUN sistemleri için havadan lazer işaretleme ve hasar tespiti (BDA) sağlama.
+
+## 📊 Alt Sistemler ve Yerlilik
+- **Milli AESA Radar (MURAD):** Savaş uçakları seviyesinde hedef tespit ve çoklu takip kabiliyeti.
+- **Yapay Zeka Bilgisayarları:** Milli yazılımlarla akıllı rota planlama ve otonom hedef teşhisi.
+- **Turboprop Motorlar:** TEI tarafından geliştirilen milli turboprop motor projeleriyle (PD222 ve varyantları) tam bağımsızlık hedefi.
+
+## 🔮 Gelecek Vizyonu ve Blok Modernizasyonu
+- **AKINCI-C:** Daha güçlü motorlar ve artırılmış irtifa tavanı ile "Göklerin Hakimi" konumu.
+- **İnsansız Hava Savunma:** AESA radar ve GÖKDOĞAN füzeleriyle insansız bir hava savunma uçağına dönüşüm.
+- **Kamikaze İHA Launch:** Kanat altından mini akıllı mühimmatlar ve kamikaze dronlar fırlatma yeteneğinin artırılması.
+- **Yapay Zeka Pilot:** İlerleyen yıllarda tamamen otonom hava muharebesi yapabilen AI pilot asistanı.
 
 ## 📈 Operasyonel Başarılar
 - [x] İlk Uçuş (6 Aralık 2019)

@@ -6,6 +6,12 @@
 
 ANKA-3, TUSAŞ tarafından geliştirilen, "uçan kanat" (flying wing) mimarisi sayesinde çok düşük radar görünürlüğüne (stealth) sahip, insansız bir derin darbe ve istihbarat platformudur.
 
+## 📝 Proje Açıklaması
+ANKA-3, modern hava harbinin en zorlu görevlerini yerine getirmek üzere tasarlanmış bir "Hayalet" İHA'dır. Kuyruksuz ve dikey stabilizesiz yapısı, ona radarda neredeyse görünmezlik kazandırırken, jet motorlu tahrik sistemi yüksek hızlara ulaşmasını sağlar. Platform; düşman hava savunma sistemlerinin imhası (SEAD/DEAD), derin darbe operasyonları ve havadan yere taarruz görevlerinde Türkiye'nin gizli gücü olarak konumlanmaktadır.
+
+### 🌑 Derin Darbe ve Görünmezlik
+ANKA-3'ün en büyük avantajı, düşman radarları tarafından fark edilmeden kritik hedeflere yaklaşabilmesidir. Dahili silah yuvaları sayesinde radar kesit alanını bozmadan mühimmat taşıyabilir. Ayrıca, KAAN gibi insanlı uçaklarla ortak görev yaparak, hava savunma koridorlarını açma görevini üstlenir.
+
 ## 🛠 Teknik Master Katalog
 
 | Parametre | Detay | Özellik |
@@ -25,6 +31,23 @@ ANKA-3, tasarımının sağladığı avantajlarla düşman hava savunma radarlar
 ## 💥 Stratejik Mühimmat Entegrasyonu
 - **Dahili Taşıma:** SOM-J, HGK-82, KGK-82.
 - **Harici Taşıma:** Kanat altı istasyonlarda ağır mühimmat kapasitesi.
+
+## 🌐 Ekosistem Entegrasyonu (Stealth Synergy)
+ANKA-3, Türkiye'nin görünmezlik vizyonunun en kritik halkasıdır:
+- **KAAN (Loyal Wingman):** KAAN'ın "Vanguard"ı (öncü gücü) olarak, düşman hava savunma sistemlerini (SAM) tespit ve imha ederek KAAN için güvenli koridor açar.
+- **HÜRJET Entegrasyonu:** Hafif taarruz operasyonlarında HÜRJET ile koordineli derin darbe.
+- **Uydudan Kontrol (SATCOM):** Milli TÜRKSAT uyduları üzerinden dünyanın her yerinden kontrol edilebilme ve veri aktarımı.
+
+## 📊 Alt Sistemler ve Yerlilik
+- **Motor:** 2500 lb ile başlayan turbofan motor, ileride milli motor projeleriyle (TF6000 varyantları) desteklenecektir.
+- **Elektronik Harp Podu:** Gövde içine gömülü, düşük görünürlüklü EH sistemleri.
+- **Milli Yazılım Arabirimi:** Tamamen otonom uçuş, otonom hedefleme ve otonom üsse dönüş algoritmaları.
+
+## 🔮 Gelecek Vizyonu ve Blok Modernizasyonu
+- **ANKA-3 Blok 2:** Daha güçlü turbofan motor ve artırılmış mühimmat kapasitesi.
+- **Hava Savunma Rolü:** Üzerinde taşıdığı hava-hava füzeleriyle (GÖKDOĞAN/BOZDOĞAN) insansız hava savunma uçağına dönüşüm.
+- **Sürü Operasyonları:** Birden fazla ANKA-3'ün yapay zeka üzerinden tek bir beyin gibi hareket etmesi.
+- **Uçak Gemisi Kullanımı:** TCG Anadolu üzerinden operasyon yapabilecek kısa mesafe iniş-kalkış modifikasyonları.
 
 ## 📈 Gelişim Yol Haritası
 - [x] Tasarım ve Yapısal İmalat
