@@ -1,23 +1,26 @@
-# 📡 ASELSAN (Askeri Elektronik Sanayi)
+# 📡 ASELSAN
 
-> **"Savunma Teknolojilerinin Omurgası"**
+> **"Teknolojinin Lideri, Güvenin Adresi"**
 
-ASELSAN, Türk Silahlı Kuvvetlerini Güçlendirme Vakfı'na bağlı bir kuruluş olup, Türkiye'nin en büyük savunma elektroniği şirketidir. Haberleşmeden radara, hava savunmadan insansız sistemlere kadar çok geniş bir yelpazede kritik teknolojiler geliştirmektedir.
+ASELSAN, Türk Silahlı Kuvvetlerini Güçlendirme Vakfı'nın bir kuruluşu olarak, Türkiye'nin en büyük savunma elektroniği şirketidir.
 
 ## 🏢 Kurumsal Profil
-- **Kuruluş:** 1975
-- **Odak:** Elektronik harp, radar sistemleri, mikroelektronik bionics ve haberleşme.
-- **Konum:** Defense News Top 100 listesinde en üstteki Türk firması.
+- **Odak:** Haberleşme, radar, elektronik harp, elektro-optik ve silah sistemleri.
 
 ## 🎯 Stratejik Odak Alanları
-- **Sensör Teknolojileri:** AESA radarlar ve elektro-optik nişangahlar.
-- **Hava Savunma:** Çok katmanlı yerli hava savunma kalkanı.
-- **Mavi Vatan:** İnsansız deniz araçları ve sonar sistemleri.
+- **Hava Savunma:** SİPER ve GÜRZ ile katmanlı hava savunma.
+- **Elektronik Harp:** KORAL ve SANCAK ile spektrum hakimiyeti.
+- **Elektro-Optik:** ASELFLIR-500 ile dünya çapında keskin görüş.
 
 ## 🛡️ Projeler
-- [**SİPER** (Hava Savunma Sistemi)](./SİPER/README.md) - Uzun menzilli bölge hava savunma sistemi.
-- [**MURAD** (AESA Radar)](./MURAD/README.md) - Uçaklar ve İHA'lar için milli radar çözümü.
-- [**ULAQ** (İnsansız Deniz Aracı)](./ULAQ/README.md) - ARES Tersanesi ile ortak geliştirilen silahlı İDA.
+- [**SİPER** (Uzun Menzilli Hava Savunma)](./SİPER/README.md)
+- [**MURAD** (AESA Radar)](./MURAD/README.md)
+- [**ASELFLIR-500** (Yeni Nesil Hedefleme)](./ASELFLIR-500/README.md)
+- [**KORAL** (Elektronik Harp)](./KORAL/README.md)
+- [**SANCAK** (HF Elektronik Taarruz)](./SANCAK/README.md)
+- [**ALBATROS-S** (Sürü İDA)](./ALBATROS-S/README.md)
+- [**GÖKDENİZ** (Yakın Savunma Sistemi)](./GÖKDENİZ/README.md)
+- [**GÜRZ** (Hibrit Hava Savunma)](./GÜRZ/README.md)
 
 ---
 [🏠 Ana Sayfaya Dön](../README.md)

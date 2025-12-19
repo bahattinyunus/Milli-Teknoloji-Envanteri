@@ -1,23 +1,20 @@
-# 🛡️ HAVELSAN
+# 💻 HAVELSAN
 
-> **"Akıllı Sistemlerin Mühendisi"**
+> **"Geleceğin Teknolojisi, Yarının Birliği"**
 
-HAVELSAN, yazılım yoğunluklu sistemlerde Türkiye’nin lider teknoloji şirketidir. Komuta kontrol sistemlerinden simülasyon teknolojilerine, siber güvenlikten "Dijital Birlik" konseptine kadar savunma sanayiinin dijital beynini inşa etmektedir.
+HAVELSAN, yazılım yoğunluklu sistemlerde Türkiye'nin lider teknoloji şirketidir.
 
 ## 🏢 Kurumsal Profil
-- **Kuruluş:** 1982
-- **Odak:** Yazılım, komuta kontrol, simülasyon ve bilgi sistemleri.
-- **Vizyon:** Bilişim ve savunma teknolojilerinde küresel bir güç olmak.
-
-## 🎯 Stratejik Odak Alanları
-- **Dijital Birlik:** Karma (insanlı-insansız) birliklerin yönetimi (Robotik Ekosistem).
-- **Milli Muharebe Yönetim Sistemi:** ADVENT gibi geniş ölçekli komuta kontrol yazılımları.
-- **Simülasyon:** F-16'dan denizaltı sistemlerine kadar tam kapsamlı eğitim çözümleri.
+- **Odak:** Komuta Kontrol (C4I), Simülasyon, Siber Güvenlik ve İleri Robotik (Dijital Birlik).
 
 ## 🚀 Projeler
-- **BAKAN** - İnsansız Kara Aracı (Orta Sınıf).
-- **SANCAR** - Silahlı İnsansız Deniz Aracı (Robotik deniz gücü).
-- **BAHA** - Bulut Altı İnsansız Hava Aracı.
+- [**MAIN_AI** (Milli Yapay Zeka platformu)](./MAIN_AI/README.md)
+- [**BARKAN** (İnsansız Kara Aracı)](./BARKAN/README.md)
+- [**KAPGAN** (Ağır Sınıf İKA)](./KAPGAN/README.md)
+- [**BAHA** (Bulut Altı Uzmanı)](./BAHA/README.md)
+- [**SANCAR** (Silahlı İnsansız Deniz Aracı)](./SANCAR/README.md)
+- [**ADVENT** (Ağ Destekli Savaş Yönetim Sistemi)](./ADVENT/README.md)
+- [**CYBER_SECURITY** (Siber Kalkan)](./CYBER_SECURITY/README.md)
 
 ---
 [🏠 Ana Sayfaya Dön](../README.md)

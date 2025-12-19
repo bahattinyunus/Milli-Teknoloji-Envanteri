@@ -1,23 +1,14 @@
-# ⚓ ASFAT (Askeri Fabrika ve Tersane İşletme A.Ş.)
+# 🚢 ASFAT (Askeri Fabrika ve Tersane İşletme A.Ş.)
 
-> **"Kamu Gücü, Küresel Rekabet"**
+> **"Milli Üretim Gücü, Küresel İş Birliği"**
 
-ASFAT, Milli Savunma Bakanlığı bünyesindeki askeri fabrika ve tersanelerin imkanlarını kullanarak Türkiye'nin savunma kapasitesini dünya pazarına sunan stratejik bir devlet kuruluşudur.
+ASFAT, Milli Savunma Bakanlığı'na bağlı askeri fabrikaların ve tersanelerin imkanlarını kullanarak küresel çapta savunma projeleri yöneten stratejik bir kuruluştur.
 
-## 🏢 Kurumsal Profil
-- **Kuruluş:** 2018 (MSB bünyesinde)
-- **Odak:** Gemi inşaat, modernizasyon, ağır silah sistemleri ve askeri lojistik.
-- **Misyon:** Kamu imkanlarını özel sektör dinamizmiyle birleştirerek ihracat odaklı projeler yürütmek.
-
-## 🎯 Stratejik Odak Alanları
-- **Deniz Sistemleri:** MİLGEM ihracat projeleri ve denizaltı modernizasyonları.
-- **Lojistik Destek:** Askeri köprü sistemleri ve ağır bakım hizmetleri.
-- **Süreç Yönetimi:** Büyük ölçekli savunma projelerinin ana yükleniciliği.
-
-## ⚓ Projeler
-- [**PN MİLGEM** (Pakistan MİLGEM)](./PN_MILGEM/README.md) - Türkiye tarihindeki tek kalemde en büyük deniz platformu ihracatı.
-- **Aşırı Ağır Modüler Köprü** - Harekat kabiliyetini artıran lojistik mühendislik.
-- **Açık Deniz Karakol Gemisi (ADKG)** - Mavi Vatan'ın yeni muhafızları.
+## 🚀 Projeler
+- [**HİSAR_SINIFI_OPV** (Açık Deniz Karakol Gemisi)](./HİSAR_SINIFI_OPV/README.md)
+- [**PN_MILGEM** (Pakistan MİLGEM Projesi)](./PN_MILGEM/README.md)
+- [**MEMATT** (Mekanik Mayın Temizleme)](./MEMATT/README.md)
+- [**TEI_TF6000_TEST_CELL** (Motor Test Altyapısı)](./TEST_CELL/README.md)
 
 ---
 [🏠 Ana Sayfaya Dön](../README.md)

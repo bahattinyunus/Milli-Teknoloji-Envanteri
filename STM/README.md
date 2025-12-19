@@ -1,22 +1,22 @@
 # ⚓ STM (Savunma Teknolojileri Mühendislik)
 
-> **"Denizlerden Uzaya, Yazılımdan Siber Güvenliğe"**
+> **"Mavi Vatan'ın Mühendisi ve İHA Uzmanı"**
 
-STM, Türkiye'nin deniz platformları ve insansız sistemler konusundaki en prestijli mühendislik kuruluşlarından biridir. Savunma Sanayii Başkanlığı vizyonuyla yerli ve milli sistemler tasarlayan STM, yüksek teknoloji odaklı bir "think-tank" ve mühendislik merkezidir.
+STM, deniz projelerinde Türkiye'nin önde gelen mühendislik gücü olmasının yanı sıra, "Vuran" sınıfı kamikaze İHA sistemlerinde dünya lideridir.
 
 ## 🏢 Kurumsal Profil
-- **Odak:** Gemi inşaat, denizaltı projeleri, kamikaze İHA'lar ve siber güvenlik.
-- **Vizyon:** Mühendislik odaklı yenilikçi çözümlerle dünya pazarında fark yaratmak.
+- **Odak:** Denizaltı teknolojileri, savaş gemisi tasarımı ve loitering munitions (kamikaze İHA).
 
 ## 🎯 Stratejik Odak Alanları
-- **Mavi Vatan:** Milli gemi (MİLGEM) projeleri ve milli denizaltı tasarımı (STM500).
-- **Vurucu İHA:** KARGU ve ALPAGU gibi akıllı mühimmat sistemleri.
-- **Dijital Savunma:** Kritik altyapı güvenliği ve siber tehdit istihbaratı.
+- **Denizaltı İhyası:** STM500 ve Preveze sınıfı modernizasyon projeleri.
+- **Otonom Vuruş:** KARGU ve ALPAGU ile sürü zekası ve hassas vuruş.
 
-## ⚓ Projeler
-- [**MİLGEM** (Milli Gemi)](./MILGEM/README.md) - Türkiye'nin ilk milli fırkateyn ve korvet projeleri.
-- [**STM500** (Milli Denizaltı)](./STM500/README.md) - Sığ sular için tasarlanan yerli denizaltı.
-- [**KARGU** (Döner Kanatlı Vurucu İHA)](./KARGU/README.md) - Savaş alanında kanıtlanmış kamikaze drone sistemi.
+## 🌊 Projeler
+- [**MİLGEM** (Ada Sınıfı Korvet)](./MİLGEM/README.md) - Türkiye'nin ilk milli savaş gemisi.
+- [**STM500** (Küçük Boyutlu Denizaltı)](./STM500/README.md) - İleri teknoloji milli denizaltı.
+- [**KARGU** (Vuran İHA)](./KARGU/README.md) - Otonom döner kanatlı kamikaze sistemi.
+- **ALPAGU** - Sabit kanatlı akıllı mühimmat sistemi.
+- **TOGAN** - Otonom döner kanatlı keşif İHA sistemi.
 
 ---
 [🏠 Ana Sayfaya Dön](../README.md)

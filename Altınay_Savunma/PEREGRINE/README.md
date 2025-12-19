@@ -1,0 +1,13 @@
+# 🐦 Proje: PEREGRINE Döner Kanatlı Kamikaze İHA
+
+PEREGRINE, Altınay Savunma tarafından geliştirilen, yüksek vuruş hassasiyeti ve otonom görev icra kabiliyetine sahip döner kanatlı bir kamikaze İHA sistemidir. Meskun mahal ve nokta hedeflerin imhası için optimize edilmiştir.
+
+## 🛠 Teknik Veriler
+| Özellik | Detay |
+| :--- | :--- |
+| **Tür** | Döner Kanatlı Loitering Munition |
+| **Güdüm** | Görüntü İşleme / Yapay Zeka Destekli Hedef Takibi |
+| **Kullanım** | Tek er tarafından taşınabilir ve hızlı konuşlandırılabilir |
+
+---
+[⬅️ Altınay Savunma Ana Sayfası](../README.md) | [🏠 Ana Sayfa](../../README.md)

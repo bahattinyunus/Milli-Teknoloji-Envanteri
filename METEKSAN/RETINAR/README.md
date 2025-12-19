@@ -1,13 +1,14 @@
-# 📡 Proje: RETINAR (PTR / OPUS)
+# 📡 Proje: RETINAR Çevre Gözetleme Radar Ailesi
 
-METEKSAN tarafından geliştirilen, kara sınır güvenliği ve kritik tesis koruması için optimize edilmiş çevre gözetleme radarı ailesi.
+RETINAR, METEKSAN Savunma tarafından geliştirilen, sınır güvenliği, kritik tesis koruma ve geniş alan gözetleme görevleri için optimize edilmiş düşük güç tüketimli ve yüksek performanslı radar ailesidir.
 
 ## 🛠 Teknik Veriler
 | Özellik | Detay |
 | :--- | :--- |
-| **Tür** | L bandı Doppler radarı |
-| **Tespit Menzili** | İnsan için ~4 km, araç için ~10 km |
-| **Tarama** | 360 derece sürekli tarama |
+| **Yetenek** | İnsan, araç ve düşük süratli İHA tespiti |
+| **Teknoloji** | İleri Doppler sinyal işleme sistemleri |
+| **Varyantlar** | Retinar PTR (Portatif), Retinar OPUS (Elektro-optik entegreli) |
+| **Menzil** | İnsan: 4 km, Araç: 10+ km |
 
 ---
 [⬅️ METEKSAN Ana Sayfası](../README.md) | [🏠 Ana Sayfa](../../README.md)

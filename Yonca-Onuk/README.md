@@ -1,23 +1,20 @@
 # ⚓ Yonca-Onuk Tersanesi
 
-> **"Mavi Vatan'ın Hız Sınırlarını Zorlayan Güç"**
+> **"Mavi Vatan'ın Sürat ve Çeviklik Merkezi"**
 
-Yonca-Onuk, yüksek hızlı hücumbot (MRTP®) serisi ile dünya denizcilik literatürüne giren, ileri kompozit teknolojisi üzerine uzmanlaşmış butik bir savunma tersanesidir. Ürettiği botlar, Sahil Güvenlik ve Deniz Kuvvetleri operasyonlarında çevikliğiyle tanınır.
+İleri kompozit teknolojisi ile dünya çapında tescilli MRTP® (Multi Role Tactical Platform) serisi süratli hücumbotların tasarımcısı ve üreticisidir.
 
 ## 🏢 Kurumsal Profil
-- **Kuruluş:** 1986
-- **Odak:** Yüksek süratli zırhlı botlar, kompozit gemi inşası.
-- **Fark:** "Onuk-KO" (Kaan-Onuk) gövde formu ile denizcilikte yakıt verimliliği ve stabilite devrimi.
+- **Odak:** İleri kompozit yüksek süratli askeri botlar.
 
 ## 🎯 Stratejik Odak Alanları
-- **Operasyonel Çeviklik:** MRTP® serisi ile dar alanlarda ve yüksek hızda operasyonel üstünlük.
-- **Zırhlı Kompozit:** Hafif ama balistik korumalı özel gövde yapıları.
-- **İhracat Şampiyonluğu:** Dünyanın pek çok ülkesine ihraç edilen tescilli bot tasarımları.
+- **Onuk-KO Gövde Formu:** Yüksek hızlarda stabilite ve yakıt verimliliği.
+- **SAT/SAS Botları:** Özel kuvvetlerin hızlı sevkiyatı için optimize platformlar.
 
 ## ⚓ Projeler
-- [**MRTP SERİSİ** (Hücumbot Ailesi)](./MRTP_SERISI/README.md) - Hız ve silah sistemleriyle donatılmış operasyonel seri.
-- **MRTP34** - Yüksek süratli sahil güvenlik ve devriye gemisi.
-- **İnsansız Süratli Botlar** - Otonom teknolojilerin mevcut gövde formlarına entegrasyonu.
+- [**MRTP24/U** (Yeni SAT Botu)](./MRTP24/README.md) - Özel Kuvvetler için tasarlanmış yüksek süratli bot.
+- **MRTP34** - 40+ knot hıza ulaşabilen taktik karakol botu.
+- **MRTP20** - Çok amaçlı taktik platform.
 
 ---
 [🏠 Ana Sayfaya Dön](../README.md)

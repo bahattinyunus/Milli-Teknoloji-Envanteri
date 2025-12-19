@@ -2,20 +2,19 @@
 
 > **"Elektronik Savunmanın Akıllı Gücü"**
 
-SDT, radar, elektronik harp, haberleşme ve simülasyon sistemleri alanında özgün ürünler ve mühendislik çözümleri sunan bir teknoloji merkezidir. Özellikle hava platformları için veri kayıt ve simülasyon sistemlerinde uzmandır.
+Radar, elektronik harp ve simülasyon sistemleri alanında özgün yerli ürünler sunmaktadır.
 
 ## 🏢 Kurumsal Profil
-- **Odak:** Elektronik harp sistemleri, veri linkleri ve simülasyon teknolojileri.
-- **Bağlılık:** Savunma sanayiinde kritik alt sistem tedarikçisi.
+- **Odak:** Sinyal işleme, veri kayıt, simülasyon ve gömülü sistemler.
 
 ## 🎯 Stratejik Odak Alanları
-- **Veri Kayıt ve Analiz:** Uçuş test verilerinin anlık kaydı ve yer istasyonuna iletimi.
-- **Elektronik Harp:** RF karıştırıcı sistemler ve aldatma teknolojileri.
-- **Eğitim Sistemleri:** ACMI (Hava Muharebe Eğitim Entegrasyonu) sistemleri.
+- **Uçuş Test Sistemleri:** Dünyada sayılı ülkenin yapabildiği ACMI (Hava Muharebe Eğitimi) çözümleri.
+- **Elektronik Harp:** RF karıştırıcı (Jammer) ve sinyal analiz teknolojileri.
 
 ## 🛡️ Projeler
-- **ACMI POD** - Savaş pilotları için gerçek zamanlı eğitim ve analiz sistemi.
-- **Veri Link Sistemleri** - İHA ve füze sistemleri için yüksek hızda iletişim kanalları.
+- [**ACMI POD** (Hava Muharebe Eğitim Sistemi)](./ACMI_POD/README.md) - Savaş pilotları için gerçek zamanlı eğitim podu.
+- **ELINT/ESM** - Sinyal analiz ve tehdit tespit sistemleri.
+- **Uçak Durdurucu Sistemler** - Pistlerdeki güvenliği sağlayan yerli bariyer ve tutma sistemleri.
 
 ---
 [🏠 Ana Sayfaya Dön](../README.md)

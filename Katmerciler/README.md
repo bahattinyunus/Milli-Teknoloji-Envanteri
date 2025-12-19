@@ -1,23 +1,21 @@
 # 🚜 Katmerciler
 
-> **"Savunma Sanayiinin Çevik Gücü"**
+> **"Güç ve Dinamizmin Adresi"**
 
-Katmerciler, yenilikçi tasarımları ve hızlı üretim kabiliyeti ile Türkiye savunma sanayiinin en dinamik oyuncularından biridir. Araç üstü ekipman sektöründeki derin tecrübesini savunma araçlarına başarıyla aktarmış bir teknoloji şirketidir.
+Katmerciler, Türkiye'nin savunma sanayiinde hızla büyüyen, yenilikçi tasarımları ve geniş ürün yelpazesiyle dikkat çeken zırhlı araç üreticisidir.
 
 ## 🏢 Kurumsal Profil
-- **Kuruluş:** 1985
-- **Odak:** Taktik tekerlekli zırhlı araçlar ve insansız kara araçları.
-- **Vizyon:** Özel amaçlı araçlarda küresel bir çözüm ortağı olmak.
+- **Odak:** Taktik tekerlekli zırhlı araçlar, lojistik araçlar ve insansız kara araçları.
 
 ## 🎯 Stratejik Odak Alanları
-- **Beka Kabiliyeti:** HIZIR gibi yüksek mayın ve balistik korumalı araçlar.
-- **Asimetrik Harp:** Uzaktan kumandalı silah sistemleri ve robotik araçlar.
-- **Sınır Güvenliği:** KIRAÇ gibi özelleşmiş güvenlik ve inceleme platformları.
+- **Yüksek Koruma:** HIZIR gibi yüksek mayın ve balistik koruma seviyeli araçlar.
+- **Sınır Güvenliği:** ATEŞ projesi ile teknolojik sınır gözetleme çözümleri.
 
-## 🛡️ Projeler
-- [**HIZIR** (Zırhlı Muharebe Aracı)](./HIZIR/README.md) - Türkiye'nin kendi sınıfındaki en güçlü motoruna sahip zırhlısı.
-- **KIRAÇ** - Yeni Nesil Kriminal İnceleme Aracı.
-- **İKA (İnsansız Kara Aracı)** - Uzaktan komutalı robotik platformlar.
+## 🏹 Projeler
+- [**HIZIR** (Taktik Zırhlı Muharebe)](./HIZIR/README.md) - Sınıfının en güçlü motoruna sahip zırhlı araç.
+- [**KIRAÇ** (Yeni Nesil Kriminal İnceleme)](./KIRAÇ/README.md) - Olay yeri inceleme ve kriminal laboratuvar aracı.
+- **ATEŞ** - Zırhlı sınır güvenliği ve gözetleme aracı.
+- **EREN** - Meskun mahal müdahale aracı.
 
 ---
 [🏠 Ana Sayfaya Dön](../README.md)

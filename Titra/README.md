@@ -1,22 +1,20 @@
 # 🚁 Titra Teknoloji
 
-> **"Geleceğin İnsansız Sistemleri"**
+> **"Geleceğin İnsansız Sistemleri ve Yapay Zeka"**
 
-Titra Teknoloji, yapay zeka ve insansız platformlar konusunda uzmanlaşmış, Türkiye'nin ilk insansız helikopterini havaya kaldıran vizyoner bir teknoloji şirketidir. Akıllı sistemler ve otonom teknolojilerle savunma sanayiinde yeni bir kulvar açmaktadır.
+Titra, insansız teknolojiler, yapay zeka ve akıllı sistemler odaklı çalışan Türkiye'nin yenilikçi savunma ve teknoloji şirketlerinden biridir.
 
 ## 🏢 Kurumsal Profil
-- **Odak:** İnsansız hava araçları (İHA/İH), yapay zeka, akıllı şehir teknolojileri.
-- **Misyon:** İnsanlı platformları insansızlaştırarak harekat etkinliğini artırmak.
+- **Odak:** İnsansız helikopterler, kamikaze İHA'lar ve robotik çözümler.
 
 ## 🎯 Stratejik Odak Alanları
-- **Döner Kanat Otonomisi:** İnsansız helikopter (ALPİN) ile lojistik ve keşif devrimi.
-- **Kamikaze Sürüleri:** DELİ gibi düşük maliyetli ve etkili vuruş gücü.
-- **Sürü Zekası:** Birden fazla platformun ortak görev yürütmesini sağlayan yazılımlar.
+- **Dönüşüm:** Sivil platformların (Alpin gibi) insansız askeri sistemlere dönüştürülmesi.
+- **Loitering Munition:** DELİ gibi düşük maliyetli saldırı sistemleri.
 
-## 🤖 Projeler
-- [**ALPİN** (İnsansız Helikopter)](./ALPİN/README.md) - Türkiye'nin ilk dikey iniş-kalkış yapabilen stratejik İHA/İH'si.
-- **DELİ** - Kamikaze (Dolanıp duran) mühimmat sistemi.
-- **PARS** - Gözcü ve keşif amaçlı mini İHA sistemleri.
+## 🚀 Projeler
+- [**ALPİN** (İnsansız Helikopter)](./ALPİN/README.md) - Türkiye'nin ilk insansız helikopter sistemi.
+- [**DELİ** (Kamikaze İHA)](./DELİ/README.md) - Taktik seviye vurucu İHA sistemi.
+- **PARS** - Gözcü ve keşif amaçlı İHA çözümleri.
 
 ---
 [🏠 Ana Sayfaya Dön](../README.md)

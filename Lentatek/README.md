@@ -1,22 +1,20 @@
 # 🦅 Lentatek
 
-> **"Teknolojinin Sınırlarını Zorlayan Mühendislik"**
+> **"Geleceğin İnsansız Sistemleri ve Enerji Çözümleri"**
 
-Lentatek (Eski adıyla Vestel Savunma), Türkiye'nin insansız hava araçları ve enerji teknolojileri konusundaki stratejik oyuncularından biridir. Yüksek irtifa İHA tasarımlarından hidrojen enerji çözümlerine kadar geniş bir spektrumda mühendislik hizmeti sunmaktadır.
+Lentatek (eski adıyla Vestel Savunma), Türkiye'nin insansız hava araçları ve hidrojen enerjisi teknolojilerinde öncü şirketlerinden biridir.
 
 ## 🏢 Kurumsal Profil
-- **Odak:** İHA sistemleri, hidrojen ve yakıt pili teknolojileri, dijital sağlık.
-- **Vizyon:** Kritik teknolojilerde yerli ve özgün çözümlerle tam bağımsızlık.
+- **Odak:** İnsansız Hava Araçları (İHA), hidrojen ve yakıt pili teknolojileri.
 
 ## 🎯 Stratejik Odak Alanları
-- **Gözlem ve İstihbarat:** KARAYEL ile uzun süre havada kalış ve yüksek çözünürlüklü gözetleme.
-- **Enerji Çözümleri:** Savunma platformları için milli yakıt pili ve hidrojen enerjisi Ar-Ge'si.
-- **Havacılık Standartları:** STANAG-4671 standartlarında tasarım ve üretim kabiliyeti.
+- **Stratejik İHA:** KARAYEL ile uzun menzilli istihbarat ve vuruş kabiliyeti.
+- **Temiz Enerji:** Savunma sanayii için yüksek verimli hidrojen enerji sistemleri.
 
 ## 🚀 Projeler
-- [**KARAYEL** (Taktik İHA)](./KARAYEL/README.md) - Gelişmiş görüntüleme yeteneklerine sahip taktik sınıf İHA.
-- **Lentatek Yakıt Pili** - Hava platformları ve sessiz enerji ihtiyacı için sessiz güç kaynakları.
-- **Hidrojen Enerji Üretimi** - Geleceğin yakıt teknolojisi üzerine Ar-Ge çalışmaları.
+- [**KARAYEL-SU** (Taktik İHA)](./KARAYEL/README.md) - Türkiye'nin ilk NATO standartlarında geliştirilen İHA'sı.
+- **Hidrojen Yakıt Pili** - Gelişmiş enerji depolama ve güç çözümleri.
+- **Mikro İHA Sistemleri** - Taktik saha gözetleme çözümleri.
 
 ---
 [🏠 Ana Sayfaya Dön](../README.md)

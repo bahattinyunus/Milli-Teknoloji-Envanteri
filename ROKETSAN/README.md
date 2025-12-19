@@ -1,23 +1,25 @@
-# 💥 ROKETSAN
+# 🚀 ROKETSAN
 
 > **"Geleceği Vuran Güç"**
 
-ROKETSAN, Türkiye'nin roket ve füze sistemleri konusunda tasarım, geliştirme ve üretim merkezidir. "Geleceğin Teknolojileri" vizyonuyla, dünyada sayılı ülkenin sahip olduğu mühimmat teknolojilerini milli imkanlarla üretmektedir.
+ROKETSAN, Türkiye'nin roket ve füze sistemleri konusundaki tasarım ve üretim merkezidir.
 
 ## 🏢 Kurumsal Profil
-- **Kuruluş:** 1988
-- **Odak:** Hassas güdümlü füzeler, roketler ve uzay fırlatma sistemleri.
-- **Misyon:** Türk Silahlı Kuvvetleri'nin vuruş gücünü ve caydırıcılığını artırmak.
+- **Odak:** Taktik ve stratejik füzeler, balistik füzeler ve uzay fırlatma sistemleri.
 
 ## 🎯 Stratejik Odak Alanları
-- **Hassas Güdüm:** Lazer, radar ve IIR güdümlü akıllı mühimmatlar.
-- **Balistik Koruma:** Zırh sistemleri ve aktif koruma teknolojileri.
-- **Uzay Erişimi:** Mikro uydu fırlatma araçları.
+- **Denizaltı Harbi:** AKYA ve ORKA ile su altı üstünlüğü.
+- **Yakın Savunma:** LEVENT ile gemileri koruyan milli kalkan.
 
-## 🚀 Projeler
-- [**ATMACA** (Gemisavar Füzesi)](./ATMACA/README.md) - Türkiye'nin ilk milli seyir füzesi (deniz).
-- [**HİSAR** (Hava Savunma)](./HİSAR/README.md) - Alçak ve orta irtifa hava savunma füze ailesi.
-- [**ÇAKIR** (Seyir Füzesi)](./ÇAKIR/README.md) - Kara, deniz ve hava platformlarından atılabilen çok amaçlı füze.
+## 🏹 Projeler
+- [**TAYFUN_BLOK4** (Milli Hipersonik Füze)](./TAYFUN_BLOK4/README.md)
+- [**AKYA** (Ağır Sınıf Torpido)](./AKYA/README.md)
+- [**LEVENT** (Yakın Hava Savunma)](./LEVENT/README.md)
+- [**ATMACA** (Gemisavar Füzesi)](./ATMACA/README.md)
+- [**HİSAR** (Hava Savunma Füze Ailesi)](./HİSAR/README.md)
+- [**ÇAKIR** (Seyir Füzesi)](./ÇAKIR/README.md)
+- [**İHA-300** (Havadan Atılan Balistik Füze)](./İHA-300/README.md)
+- [**BARBAROS** (Kıyı Savunma Sistemi)](./BARBAROS/README.md)
 
 ---
 [🏠 Ana Sayfaya Dön](../README.md)

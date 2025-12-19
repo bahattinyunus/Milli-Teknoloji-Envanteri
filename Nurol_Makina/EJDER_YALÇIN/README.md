@@ -1,13 +1,15 @@
-# 🚜 Proje: EJDER YALÇIN
+# 🚜 Proje: EJDER YALÇIN 4x4 TTZA
 
-Nurol Makina tarafından geliştirilen, meskun mahal ve kırsal alan harekatlarında en yüksek korumayı sunan 4x4 zırhlı araç.
+EJDER YALÇIN, Nurol Makina tarafından geliştirilen, sınıfındaki en yüksek koruma ve hareket kabiliyetine sahip, mayın ve balistik tehditlere karşı kendini kanıtlamış bir taktik tekerlekli zırhlı araçtır.
 
 ## 🛠 Teknik Veriler
 | Özellik | Detay |
 | :--- | :--- |
-| **Beka** | Mayın ve EYP'ye karşı yüksek koruma |
-| **Yükleme** | 4 ton'a kadar faydalı yük kapasitesi |
-| **Mürettebat** | 9 personel |
+| **Tür** | Taktik Tekerlekli Zırhlı Araç (TTZA) |
+| **Personel** | 11 Kişiye kadar |
+| **Hız** | 120 km/s |
+| **Özellik** | El Yapımı Patlayıcılara karşı eşsiz koruma, modüler tasarım |
+| **Görev** | Keşif, Komuta-Kontrol, Ambulans, Sınır Gözetleme |
 
 ---
 [⬅️ Nurol Makina Ana Sayfası](../README.md) | [🏠 Ana Sayfa](../../README.md)

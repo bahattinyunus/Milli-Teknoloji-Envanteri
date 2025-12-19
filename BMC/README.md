@@ -1,23 +1,22 @@
-# 🚜 BMC Savunma
+# 🚜 BMC (Birleşik Metalurji Fabrikaları)
 
-> **"Karanın Çelik Pençesi"**
+> **"Güvenliğin ve Lojistiğin Çelik Zırhı"**
 
-BMC, Türkiye'nin lider ticari ve askeri araç üreticilerinden biri olup, özellikle zırhlı kara araçları ve tank üretiminde stratejik bir rol oynamaktadır. Türkiye'nin ilk milli ana muharebe tankı ALTAY'ın ana yüklenicisidir.
+BMC, Türkiye'nin en büyük ticari ve askeri araç üreticilerinden biridir. Özellikle tekerlekli zırhlı araçlar ve ana muharebe tankı güç grupları konusunda stratejik bir role sahiptir.
 
 ## 🏢 Kurumsal Profil
 - **Kuruluş:** 1964
-- **Odak:** Ana muharebe tankları, zırhlı personel taşıyıcılar ve taktik tekerlekli araçlar.
-- **Konum:** Kara sistemlerinde Türkiye'nin amiral gemilerinden.
+- **Odak:** Zırhlı araçlar, lojistik destek araçları ve motor teknolojileri.
 
 ## 🎯 Stratejik Odak Alanları
-- **Zırhlı Platformlar:** Mayına karşı korumalı (MRAP) araçlar ve taktik araçlar.
-- **Lojistik:** Askeri çekiciler ve lojistik destek araçları.
-- **Güç Grupları:** Yerli tank motoru ve transmizyon projeleri.
+- **Tank Teknolojileri:** ALTAY Ana Muharebe Tankı üretimi.
+- **MRAP:** Mayına karşı korumalı araçlarda dünya standartlarında çözümler.
 
-## 🛡️ Projeler
-- [**ALTAY** (Ana Muharebe Tankı)](./ALTAY/README.md) - Türkiye'nin en modern ana muharebe tankı.
-- [**VURAN** (Zırhlı Araç)](./VURAN/README.md) - Çok amaçlı taktik tekerlekli zırhlı araç.
-- [**KIRPİ** (Mayına Korumalı Araç)](./KIRPİ/README.md) - Dünya çapında rüştünü ispatlamış MRAP platformu.
+## 🚀 Projeler
+- [**ALTAY** (Ana Muharebe Tankı)](./ALTAY/README.md) - Türkiye'nin en modern tank projesi.
+- [**KİRPİ** (MRAP)](./KIRPI/README.md) - Mayına karşı yüksek korumalı efsanevi zırhlı.
+- [**VURAN** (Çok Amaçlı Zırhlı)](./VURAN/README.md) - Yüksek hareket kabiliyetli taktik araç.
+- **AMAZON** - Çok amaçlı insansız/insanlı zırhlı araç.
 
 ---
 [🏠 Ana Sayfaya Dön](../README.md)

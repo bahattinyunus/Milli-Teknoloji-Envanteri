@@ -1,23 +1,20 @@
-# 🔫 CANİK (Sarsılmaz Silah Sanayi - Dış Ticaret)
+# 🔫 CANİK (Samsun Yurt Savunma)
 
 > **"Global Arenada Bir Türk Markası"**
 
-CANİK, Samsun Yurt Savunma bünyesinde üretilen, dünya çapında en çok tercih edilen tabanca markalarından biridir. 2025 yılı itibarıyla sadece hafif silah değil, uçaksavar ve orta kalibre top sistemlerinde de Türkiye'nin küresel gücünü temsil etmektedir.
+CANİK, dünya çapında en çok tercih edilen tabanca markalarından biridir ve son yıllarda orta kalibre top sistemlerinde küresel bir oyuncu haline gelmiştir.
 
 ## 🏢 Kurumsal Profil
-- **Odak:** Tabancalar, ağır makineli tüfekler ve mühimmat transfer sistemleri.
-- **Hacim:** ABD pazarındaki en büyük 4. ithal tabanca markası.
-- **Vizyon:** Hafif silah teknolojilerinde dünya liderliğini pekiştirmek.
+- **Odak:** Tabancalar, ağır makineli tüfekler ve orta kalibre toplar.
 
 ## 🎯 Stratejik Odak Alanları
-- **Ağır Makineli Tüfekler:** M2 QCB ile Türkiye'nin .50 kalibre ihtiyacını karşılamak.
-- **Polimer Tabancalar:** METE serisi ile ergonomi ve performansı birleştirmek.
-- **Aksesuar:** MECNIK markasıyla silah sistemlerini modernize eden çözümler.
+- **Ağır Makineli Tüfekler:** M2 QCB ile .50 kalibre çözüm ortaklığı.
+- **Orta Kalibre:** VENOM LR ile 30mm top teknolojileri.
 
 ## ⚔️ Projeler
 - [**M2 QCB** (Ağır Makineli Tüfek)](./M2_QCB/README.md) - Türkiye'nin ilk milli uçaksavar kalibresindeki silahı.
-- **METE Serisi** - Dünya çapında ödül kazanmış görev tabancaları.
-- **VENOM LR** - Deniz ve kara platformları için düşük geri tepmeli 30mm top.
+- [**METE MC9 PRIME** (Tabanca)](./METE_MC9/README.md) - Mikro kompakt sınıfın en iyi tabancalarından.
+- [**VENOM LR** (30mm Top)](./VENOM_LR/README.md) - Deniz ve kara platformları için düşük geri tepmeli top.
 
 ---
 [🏠 Ana Sayfaya Dön](../README.md)

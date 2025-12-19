@@ -2,22 +2,20 @@
 
 > **"Denizlerin Süratli ve Akıllı Muhafızı"**
 
-ARES Tersanesi, yenilikçi tasarımları ve kompozit/alüminyum malzeme teknolojisindeki uzmanlığıyla tanınan, Türkiye'nin lider ihracatçı tersanelerinden biridir. Türkiye'nin ilk seri üretim insansız deniz aracı ULAQ projesinin teknoloji ortağıdır.
+ARES Tersanesi, yenilikçi tasarımları ve ileri malzeme teknolojisiyle Türkiye'nin lider ihracatçı tersanelerinden biridir.
 
 ## 🏢 Kurumsal Profil
-- **Konum:** Antalya Serbest Bölge.
 - **Odak:** Hızlı müdahale botları, karakol gemileri ve insansız deniz araçları.
-- **Vizyon:** Deniz platformlarında dünyanın en yenilikçi teknoloji merkezi olmak.
 
 ## 🎯 Stratejik Odak Alanları
-- **Otonom Sistemler:** ULAQ ailesi ile insansız deniz gücü inşası.
-- **Hız ve Performans:** Yüksek süratli sahil güvenlik ve özel kuvvet botları.
-- **Gövde Teknolojisi:** İleri kompozit ve deniz tipi alüminyum uygulama liderliği.
+- **Otonom Sistemler:** ULAQ ailesi ile insansız deniz gücü.
+- **Hız ve Performans:** 50+ knot sürate ulaşan operasyonel botlar.
 
 ## 🌊 Projeler
-- [**ULAQ** (İnsansız Deniz Aracı)](./ULAQ_DERE/README.md) - Türkiye'nin ilk silahlı insansız deniz aracı ailesi.
-- **ARES 150 BOLD** - Dünyanın en hızlı sahil güvenlik gemilerinden biri.
-- **ARES 35 FPB** - Sahil Güvenlik için geliştirilen süratli devriye botu.
+- [**ULAQ** (İnsansız Deniz Aracı)](./ULAQ_DERE/README.md) - İlk yerli ve milli silahlı İDA.
+- [**ARES 150 BOLD** (Sahil Güvenlik Gemi)](./ARES_150/README.md) - Dünyanın en hızlı sahil güvenlik gemilerinden biri.
+- **ARES 35 KB** - Yeni nesil süratli devriye botu.
+- **ARES 17 SAR** - Arama kurtarma botu serisi.
 
 ---
 [🏠 Ana Sayfaya Dön](../README.md)
