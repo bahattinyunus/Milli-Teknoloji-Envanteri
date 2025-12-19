@@ -2,92 +2,100 @@
 
 ![Milli Envanter Hero Banner](_ASSETS/hero_banner.png)
 
-> **"Köklerden Göklere, Mavi Vatan'dan Uzaya!"**
+> **"Köklerden Göklere, Mavi Vatan'dan Uzaya: Tam Bağımsız Türkiye!"**
 
-Bu depo, Türkiye'nin teknoloji devlerini ve onların imza attığı **yüzlerce stratejik projeyi** bir araya getiren en kapsamlı kurumsal teknoloji kütüphanesidir. Sadece şirketleri değil, her bir projenin teknik derinliğini ve vizyonunu içeren bir "Master Catalog" niteliğindedir.
+## 🛡️ Stratejik Egemenlik Manifestosu (Strategic Sovereignty)
+Bu envanter, sadece bir proje listesi değil; Türkiye'nin **2053 ve 2071 vizyonlarına** giden yolda döşenen teknolojik taşların dökümüdür. "Tam Bağımsızlık" ilkesiyle, ithal ikameci anlayıştan teknoloji ihraç eden ve doktrin belirleyen bir güç haline gelen Türk mühendisliğinin kolektif hafızasıdır.
 
 ---
 
-## 🏛️ Kurumsal Harekat Merkezleri (Corporate Nexus)
+## 🏗️ Teknolojik Katmanlar (Technological Layers)
+Türkiye'nin teknoloji ekosistemi üç ana katmanda derinleşmektedir:
 
-| Şirket | Sektörel Uzmanlık | Envanter Derinliği | Katalog |
+*   **Katman 0: Donanım ve Malzeme**: İleri kompozitler, radar emici boyalar, GaN tabanlı yarı iletkenler.
+*   **Katman 1: Yazılım ve Akıl**: Görev bilgisayarları, tamamen milli işletim sistemleri ve otonom sürü sürücü algoritmaları.
+*   **Katman 2: Enerji ve Tahrik**: Türbofan motorlar (TF6000), katı yakıtlı roket motorları ve elektrikli tahrik sistemleri.
+
+---
+
+## 🏛️ Kurumsal Dominion Yapısı ve Sektörel Derin Dalış
+
+### 🌌 DOMINION AEROSPACE (Hava & Uzay)
+| Proje / Platform | Üretici | Stratejik Önem | TRL (Tahmini) |
 | :--- | :--- | :--- | :--- |
-| **🚀 TUSAŞ** | Havacılık & Uzay | KAAN, GÖKBEY, HÜRJET, ATAK-2... | [Katalog](./TUSAŞ/README.md) |
-| **🦅 BAYKAR** | İHA/SİHA Teknolojileri | KIZILELMA, TB2, AKINCI, TB3... | [Katalog](./BAYKAR/README.md) |
-| **📡 ASELSAN** | EH & Radar & Haberleşme | Çelik Kubbe, SİPER, GÜRZ, MURAD... | [Katalog](./ASELSAN/README.md) |
-| **💥 ROKETSAN** | Füze & Uzay Sistemleri | TAYFUN, ATMACA, HİSAR, ÇAKIR... | [Katalog](./ROKETSAN/README.md) |
-| **⚔️ MKE A.Ş.** | Ağır Silah & Mühimmat | FIRTINA II, Milli Deniz Topu, MPT-76... | [Katalog](./MKE/README.md) |
-| **🛡️ HAVELSAN** | Yazılım & Simülasyon | ADVENT, MAIN AI, BARKAN, BAHA... | [Katalog](./HAVELSAN/README.md) |
-| **🚜 Nurol Makina** | Taktik Zırhlı Araçlar | EJDER YALÇIN, YÖRÜK, ILGAZ... | [Katalog](./Nurol_Makina/README.md) |
-| **🚜 FNSS** | Zırhlı Muharebe | PARS, ZAHA, KAPLAN... | [Katalog](./FNSS/README.md) |
-| **🚜 BMC** | Tank & Lojistik | ALTAY, KIRPİ, VURAN... | [Katalog](./BMC/README.md) |
-| **⚓ ASFAT** | Askeri Fabrikalar | PN MİLGEM, ADKG, MEMATT... | [Katalog](./ASFAT/README.md) |
-| **⚓ STM** | Denizcilik & Siber | MİLGEM, STM500, KARGU, ALPAGO... | [Katalog](./STM/README.md) |
-| **⚓ SEDEF** | Stratejik İnşaat | TCG ANADOLU, TCG TRAKYA... | [Katalog](./SEDEF/README.md) |
-| **🚜 OTOKAR** | Zırhlı Kara Araçları | ARMA, TULPAR, ALPAR... | [Katalog](./OTOKAR/README.md) |
-| **🔫 Sarsılmaz** | Hafif Silah Sistemleri | SAR9, SAR56, SARBOT... | [Katalog](./Sarsılmaz/README.md) |
-| **🔫 CANİK** | Ağır Makinalı Tüfekler | CANIK M2 QCB, VENOM LR... | [Katalog](./CANİK/README.md) |
-| **⚙️ TEI** | Havacılık Motorları | TS1400, TF6000, PD170, PD222... | [Katalog](./TEI/README.md) |
-| **🚀 TÜBİTAK SAGE** | Füze Ar-Ge | GÖKDOĞAN, BOZDOĞAN, SOM, KUZGUN... | [Katalog](./TÜBİTAK_SAGE/README.md) |
-| **📡 METEKSAN** | Savunma Elektroniği | RETINAR, YAKAMOZ, MİLDAR... | [Katalog](./METEKSAN/README.md) |
-| **🚁 Titra** | İnsansız Sistemler | ALPİN, DELİ, PARS... | [Katalog](./Titra/README.md) |
-| **🛡️ Altınay** | Hareket Kontrol & İHA | KOBOT, PEREGRINE... | [Katalog](./Altınay_Savunma/README.md) |
+| **[KAAN](./DOMINION_AEROSPACE/TUSAŞ/KAAN/README.md)** | TUSAŞ | 5. Nesil Görünmezlik | TRL 6-7 |
+| **[KIZILELMA](./DOMINION_AEROSPACE/BAYKAR/KIZILELMA/README.md)** | BAYKAR | İnsansız Hava Muharebesi | TRL 8 |
+| **[ANKA-3](./DOMINION_AEROSPACE/TUSAŞ/ANKA-3/README.md)** | TUSAŞ | Derin Darbe (Stealth) | TRL 7 |
+| **[HÜRJET](./DOMINION_AEROSPACE/TUSAŞ/HÜRJET/README.md)** | TUSAŞ | Jet Eğitim & Taarruz | TRL 8 |
+| **[AKINCI](./DOMINION_AEROSPACE/BAYKAR/AKINCI/README.md)** | BAYKAR | Stratejik TİHA | TRL 9 |
+| **[TAYFUN](./DOMINION_AEROSPACE/ROKETSAN/TAYFUN/README.md)** | ROKETSAN | Balistik Caydırıcılık | TRL 8 |
+
+### 🚜 DOMINION LAND (Kara & Zırh)
+| Proje / Platform | Üretici | Stratejik Önem | TRL (Tahmini) |
+| :--- | :--- | :--- | :--- |
+| **[ALTAY](./DOMINION_LAND/BMC/ALTAY/README.md)** | BMC | Ana Muharebe Tankı | TRL 9 |
+| **[ARMA II](./DOMINION_LAND/OTOKAR/ARMA/README.md)** | OTOKAR | Modüler Zırhlı Araç | TRL 9 |
+| **[ZAHA](./DOMINION_LAND/FNSS/ZAHA/README.md)** | FNSS | Amfibi Hücum | TRL 9 |
+| **[EJDER YALÇIN](./DOMINION_LAND/Nurol_Makina/README.md)** | Nurol Makina | Yüksek Koruma | TRL 9 |
+| **[SARBOT](./DOMINION_LAND/Sarsılmaz/README.md)** | Sarsılmaz | Silahlı Robotik | TRL 7 |
+
+### ⚓ DOMINION SEA (Mavi Vatan)
+| Proje / Platform | Üretici | Stratejik Önem | TRL (Tahmini) |
+| :--- | :--- | :--- | :--- |
+| **[TCG ANADOLU](./DOMINION_SEA/SEDEF/TCG_ANADOLU/README.md)** | SEDEF | SİHA Gemisi / LHD | TRL 9 |
+| **[STM500](./DOMINION_SEA/STM/STM500/README.md)** | STM | Küçük Sınıf Denizaltı | TRL 6 |
+| **[ULAQ](./DOMINION_SEA/ARES/README.md)** | ARES | Silahlı SİDA | TRL 9 |
+| **[PN MİLGEM](./DOMINION_SEA/ASFAT/README.md)** | ASFAT | Fırkateyn İhracatı | TRL 9 |
+
+### 📡 DOMINION ELECTRONICS (Dijital Egemenlik)
+| Proje / Platform | Üretici | Stratejik Önem | TRL (Tahmini) |
+| :--- | :--- | :--- | :--- |
+| **[SİPER](./DOMINION_ELECTRONICS/ASELSAN/SİPER/README.md)** | ASELSAN | Uzun Menzilli HSS | TRL 8 |
+| **[BARKAN](./DOMINION_ELECTRONICS/HAVELSAN/BARKAN/README.md)** | HAVELSAN | Otonom İKA | TRL 9 |
+| **[GÜRZ](./DOMINION_ELECTRONICS/ASELSAN/GÜRZ/README.md)** | ASELSAN | Hibrit Hava Savunma | TRL 8 |
+| **[MAIN AI](./DOMINION_ELECTRONICS/HAVELSAN/MAIN_AI/README.md)** | HAVELSAN | Askeri Yapay Zeka | TRL 7 |
 
 ---
 
-## 🔍 Hızlı Arama
-Depo içerisindeki tüm projeleri listelemek için:
-```powershell
-python inventory_manager.py --list
-```
+## 🔗 Ekosistem Entegrasyonu (Ecosystem Integration)
 
-## 📈 Sektörel Ekosistem Haritası
+Aşağıdaki diyagram, farklı Dominion'lar arasındaki derin bağımlılığı ve işbirliğini göstermektedir:
 
 ```mermaid
 graph TD
-    SSB["Cumhurbaşkanlığı Savunma Sanayii Başkanlığı"]
-    SSB --> HAVA
-    SSB --> KARA
-    SSB --> DENIZ
-    SSB --> ELEKTRONIK
-    
-    subgraph HAVA ["Hava & Uzay"]
-    TUSAŞ
-    BAYKAR
-    Titra
-    Lentatek
-    TEI
-    TÜBİTAK_SAGE
+    subgraph SENSORS ["Elektronik & Sensör (ASELSAN/METEKSAN)"]
+    E1["AESA Radar"]
+    E2["EHTAS (EH Sistemi)"]
     end
     
-    subgraph KARA ["Kara & Zırh"]
-    FNSS
-    Nurol[Nurol Makina]
-    OTOKAR
-    BMC
-    Katmerciler
-    MKE
-    Sarsılmaz
-    CANİK
+    subgraph PLATFORMS ["Platformlar (TUSAŞ/BAYKAR/STM)"]
+    P1["KAAN"]
+    P2["KIZILELMA"]
+    P3["İ-Sınıfı Fırkateyn"]
     end
     
-    subgraph DENIZ ["Deniz & Mavi Vatan"]
-    STM
-    ASFAT
-    SEDEF
-    ARES
-    Yonca[Yonca-Onuk]
+    subgraph WEAPONS ["Mühimmat (ROKETSAN/SAGE/MKE)"]
+    W1["SOM-J Seyir Füzesi"]
+    W2["HİSAR-U"]
+    W3["GÖKDOĞAN"]
     end
     
-    subgraph ELEKTRONIK ["Elektronik & Yazılım"]
-    ASELSAN
-    HAVELSAN
-    METEKSAN
-    MilSOFT
-    SDT
-    Altınay
-    end
+    E1 --> P1
+    E1 --> P2
+    E2 --> P1
+    W1 --> P1
+    W3 --> P2
+    W2 --> P3
 ```
 
 ---
-**"Gelecek Burada, Tam Bağımsız Türkiye!"** 🇹🇷
+
+## 📈 Gelişim Yol Haritası (Roadmap)
+- [x] Kurumsal Dominon Yapılandırması
+- [x] Sinematik Hero Banner Entegrasyonu
+- [x] Sektörel Derin Dalış Tabloları
+- [x] Teknolojik Katmanlar Arşivi
+- [/] Her Proje İçin Detaylı Teknik "Spec-Sheet" Hazırlanması
+
+---
+**"Yarın Değil, Şimdi! Gelecek Burada."** 🇹🇷
