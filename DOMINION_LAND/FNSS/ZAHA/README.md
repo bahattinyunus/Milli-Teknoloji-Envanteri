@@ -55,5 +55,9 @@ ZAHA, Deniz Kuvvetleri'nin amfibi harekat doktrininin temel taşıdır:
 - [/] Mavi Vatan Tatbikatlarında Operasyonel Deneyim
 - [ ] İhracat Modelleri ve Geliştirmeler
 
+
+## 📁 Proje Varlıkları (Project Assets)
+- (Bu proje dizininde henüz ek dosya bulunmamaktadır.)
+
 ---
 [⬅️ FNSS Ana Sayfası](../README.md) | [🏠 Ana Sayfa](../../../README.md)

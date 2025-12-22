@@ -11,5 +11,9 @@ AKYA, ROKETSAN tarafından tamamen milli imkanlarla geliştirilen, denizaltılar
 | **Güdüm** | Akustik ve Dümen Suyu Güdümü (Fiberoptik Kablo Seçeneğiyle) |
 | **Platform** | Reis Sınıfı, Preveze ve Gür Sınıfı Denizaltılar |
 
+
+## 📁 Proje Varlıkları (Project Assets)
+- (Bu proje dizininde henüz ek dosya bulunmamaktadır.)
+
 ---
 [⬅️ ROKETSAN Ana Sayfası](../README.md) | [🏠 Ana Sayfa](../../README.md)

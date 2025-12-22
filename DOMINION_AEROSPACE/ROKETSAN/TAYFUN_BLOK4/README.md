@@ -11,5 +11,9 @@ TAYFUN Blok-4, ROKETSAN tarafından geliştirilen ve Türkiye'nin ilk gerçek hi
 | **Harp Başlığı** | Yüksek Patlayıcı / Parça Tesirli / Özel Harp Başlıkları |
 | **Açıklama** | Balistik yörüngeden sapabilen manevra kabiliyeti ile radarlar tarafından takibi imkansıza yakındır. |
 
+
+## 📁 Proje Varlıkları (Project Assets)
+- (Bu proje dizininde henüz ek dosya bulunmamaktadır.)
+
 ---
 [⬅️ ROKETSAN Ana Sayfası](../README.md) | [🏠 Ana Sayfa](../../README.md)

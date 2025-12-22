@@ -1,25 +1,22 @@
-# 🚀 ROKETSAN
+# 🏢 ROKETSAN - Project Hub
 
-> **"Geleceği Vuran Güç"**
+## 🚀 ROKETSAN Bünyesindeki Projeler
 
-ROKETSAN, Türkiye'nin roket ve füze sistemleri konusundaki tasarım ve üretim merkezidir.
-
-## 🏢 Kurumsal Profil
-- **Odak:** Taktik ve stratejik füzeler, balistik füzeler ve uzay fırlatma sistemleri.
-
-## 🎯 Stratejik Odak Alanları
-- **Denizaltı Harbi:** AKYA ve ORKA ile su altı üstünlüğü.
-- **Yakın Savunma:** LEVENT ile gemileri koruyan milli kalkan.
-
-## 🏹 Projeler
-- [**TAYFUN_BLOK4** (Milli Hipersonik Füze)](./TAYFUN_BLOK4/README.md)
-- [**AKYA** (Ağır Sınıf Torpido)](./AKYA/README.md)
-- [**LEVENT** (Yakın Hava Savunma)](./LEVENT/README.md)
-- [**ATMACA** (Gemisavar Füzesi)](./ATMACA/README.md)
-- [**HİSAR** (Hava Savunma Füze Ailesi)](./HİSAR/README.md)
-- [**ÇAKIR** (Seyir Füzesi)](./ÇAKIR/README.md)
-- [**İHA-300** (Havadan Atılan Balistik Füze)](./İHA-300/README.md)
-- [**BARBAROS** (Kıyı Savunma Sistemi)](./BARBAROS/README.md)
+- [AKATA](AKATA/README.md)
+- [AKYA](AKYA/README.md)
+- [ALKA](ALKA/README.md)
+- [ATMACA](ATMACA/README.md)
+- [BARBAROS](BARBAROS/README.md)
+- [GÖKBORA](GÖKBORA/README.md)
+- [HİSAR](HİSAR/README.md)
+- [KARAOK](KARAOK/README.md)
+- [LEVENT](LEVENT/README.md)
+- [ORKA](ORKA/README.md)
+- [SUNGUR](SUNGUR/README.md)
+- [TAYFUN](TAYFUN/README.md)
+- [TAYFUN BLOK4](TAYFUN_BLOK4/README.md)
+- [ÇAKIR](ÇAKIR/README.md)
+- [İHA-300](İHA-300/README.md)
 
 ---
-[🏠 Ana Sayfaya Dön](../README.md)
+**"Yarın Değil, Şimdi! Gelecek Burada."** 🇹🇷

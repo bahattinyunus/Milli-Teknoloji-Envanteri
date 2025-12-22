@@ -10,5 +10,9 @@ BARBAROS, ROKETSAN tarafından geliştirilen, ATMACA ve ÇAKIR füzelerini kulla
 | **Yetenek** | "At-Unut" kabiliyeti ve kıyıdan 220+ km denizin kontrolü |
 | **Mobilite** | 8x8 Taktik Tekerlekli Araç Platformu |
 
+
+## 📁 Proje Varlıkları (Project Assets)
+- (Bu proje dizininde henüz ek dosya bulunmamaktadır.)
+
 ---
 [⬅️ ROKETSAN Ana Sayfası](../README.md) | [🏠 Ana Sayfa](../../README.md)

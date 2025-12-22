@@ -10,5 +10,9 @@ HİSAR, ROKETSAN ve ASELSAN ortaklığıyla geliştirilen, askeri üs, liman ve 
 | **Hedefler** | Savaş Uçakları, Helikopterler, İHA'lar, Seyir Füzeleri |
 | **Özellik** | 360 Derece Etki Alanı, Dikey Atış Kabiliyeti |
 
+
+## 📁 Proje Varlıkları (Project Assets)
+- (Bu proje dizininde henüz ek dosya bulunmamaktadır.)
+
 ---
 [⬅️ ROKETSAN Ana Sayfası](../README.md) | [🏠 Ana Sayfa](../../README.md)

@@ -11,5 +11,9 @@ EJDER YALÇIN, Nurol Makina tarafından geliştirilen, sınıfındaki en yüksek
 | **Özellik** | El Yapımı Patlayıcılara karşı eşsiz koruma, modüler tasarım |
 | **Görev** | Keşif, Komuta-Kontrol, Ambulans, Sınır Gözetleme |
 
+
+## 📁 Proje Varlıkları (Project Assets)
+- (Bu proje dizininde henüz ek dosya bulunmamaktadır.)
+
 ---
 [⬅️ Nurol Makina Ana Sayfası](../README.md) | [🏠 Ana Sayfa](../../README.md)

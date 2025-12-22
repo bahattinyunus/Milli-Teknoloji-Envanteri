@@ -10,5 +10,9 @@ KOBOT, Altınay Savunma tarafından geliştirilen, insanla güvenli bir şekilde
 | **Yük Kapasitesi** | 5-15 kg (Modellere göre) |
 | **Güvenlik** | Kuvvet-Moment sensörleri ile insan çarpışma güvenliği |
 
+
+## 📁 Proje Varlıkları (Project Assets)
+- (Bu proje dizininde henüz ek dosya bulunmamaktadır.)
+
 ---
 [⬅️ Altınay Ana Sayfası](../README.md) | [🏠 Ana Sayfa](../../README.md)

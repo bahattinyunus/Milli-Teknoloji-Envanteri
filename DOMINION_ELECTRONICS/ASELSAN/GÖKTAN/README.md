@@ -9,5 +9,9 @@ GÖKTAN, ASELSAN tarafından "Çelik Kubbe" mimarisinin bir parçası olarak gel
 | **Hassasiyet** | Gelişmiş IIR / Aktif RF güdüm seçenekleri |
 | **Konum** | Çelik Kubbe'nin en iç katmanlarından biri |
 
+
+## 📁 Proje Varlıkları (Project Assets)
+- (Bu proje dizininde henüz ek dosya bulunmamaktadır.)
+
 ---
 [⬅️ ASELSAN Ana Sayfası](../README.md) | [🏠 Ana Sayfa](../../README.md)

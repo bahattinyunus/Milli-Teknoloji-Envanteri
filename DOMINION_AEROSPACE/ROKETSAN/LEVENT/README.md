@@ -10,5 +10,9 @@ LEVENT, ROKETSAN tarafından gemilerin hava savunma kabiliyetlerini artırmak i�
 | **Hedefler** | Gemisavar füzeleri, helikopterler, uçaklar ve İHA'lar |
 | **Özellik** | %100 yerli ve milli yakın savunma kalkanı |
 
+
+## 📁 Proje Varlıkları (Project Assets)
+- (Bu proje dizininde henüz ek dosya bulunmamaktadır.)
+
 ---
 [⬅️ ROKETSAN Ana Sayfası](../README.md) | [🏠 Ana Sayfa](../../README.md)

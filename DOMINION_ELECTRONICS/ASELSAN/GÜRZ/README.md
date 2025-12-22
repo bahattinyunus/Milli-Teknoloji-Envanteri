@@ -43,5 +43,9 @@ GÜRZ, Türkiye'nin "Çelik Kubbe" mimarisinin son katman savunma (point defense
 - **İHA Avcısı Drone Launch:** Üzerinden küçük "kamikaze drone"lar fırlatarak, tehditleri henüz yaklaşmadan havada karşılama.
 - **Yapay Zeka Destekli Swarm Defense:** Düzinelerce dronu aynı anda takip edip, en etkili imha yöntemini (top veya füze) otomatik seçen AI katmanı.
 
+
+## 📁 Proje Varlıkları (Project Assets)
+- (Bu proje dizininde henüz ek dosya bulunmamaktadır.)
+
 ---
 [⬅️ ASELSAN Ana Sayfası](../README.md) | [🏠 Ana Sayfa](../../../README.md)

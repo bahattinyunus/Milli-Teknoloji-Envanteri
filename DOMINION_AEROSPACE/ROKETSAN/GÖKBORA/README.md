@@ -10,5 +10,9 @@ GÖKBORA (BVRAAM), ROKETSAN tarafından geliştirilen, savaş uçakları ve mode
 | **Hedefler** | Savaş uçakları, seyir füzeleri ve İHA'lar |
 | **Platform** | KAAN, HÜRJET, F-16 ÖZGÜR, AKINCI |
 
+
+## 📁 Proje Varlıkları (Project Assets)
+- (Bu proje dizininde henüz ek dosya bulunmamaktadır.)
+
 ---
 [⬅️ ROKETSAN Ana Sayfası](../README.md) | [🏠 Ana Sayfa](../../README.md)

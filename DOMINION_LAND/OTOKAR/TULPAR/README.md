@@ -10,5 +10,9 @@ TULPAR, OTOKAR tarafından 21. yüzyılın savaş alanı ihtiyaçlarına göre t
 | **Silah** | 30mm - 120mm arası farklı kule sistemleri |
 | **Mürettebat** | 3 Personel + 9 Personel taşıma kapasitesi |
 
+
+## 📁 Proje Varlıkları (Project Assets)
+- (Bu proje dizininde henüz ek dosya bulunmamaktadır.)
+
 ---
 [⬅️ OTOKAR Ana Sayfası](../README.md) | [🏠 Ana Sayfa](../../README.md)

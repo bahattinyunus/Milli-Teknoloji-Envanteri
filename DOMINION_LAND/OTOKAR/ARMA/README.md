@@ -57,5 +57,9 @@ ARMA ailesinin en büyük gücü, diğer savunma unsurlarıyla olan kusursuz uyu
 - [/] Aktif Koruma Sistemleri (AKKOR) Entegrasyonu
 - [ ] Yeni İnsansız Kule Entegrasyonları
 
+
+## 📁 Proje Varlıkları (Project Assets)
+- (Bu proje dizininde henüz ek dosya bulunmamaktadır.)
+
 ---
 [⬅️ OTOKAR Ana Sayfası](../README.md) | [🏠 Ana Sayfa](../../../README.md)

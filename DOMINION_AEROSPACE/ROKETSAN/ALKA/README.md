@@ -10,5 +10,9 @@ ALKA, ROKETSAN tarafından geliştirilen, lazer silahı ve elektromanyetik karı
 | **Menzil** | Işık hızıyla müdahale |
 | **Görev** | Drone imhası, EYP imhası, Kritik Tesis Savunma |
 
+
+## 📁 Proje Varlıkları (Project Assets)
+- (Bu proje dizininde henüz ek dosya bulunmamaktadır.)
+
 ---
 [⬅️ ROKETSAN Ana Sayfası](../README.md) | [🏠 Ana Sayfa](../../README.md)

@@ -10,5 +10,9 @@ TOMRİS, Baykar bünyesinde geliştirilen Türkiye'nin ilk milli mobil nükleer 
 | **Kullanım Alanı** | Uzak operasyon bölgeleri, veri merkezleri, sürdürülebilir enerji ağları |
 | **Güvenlik** | Yeni nesil pasif güvenlik sistemleri ve modüler mimari |
 
+
+## 📁 Proje Varlıkları (Project Assets)
+- (Bu proje dizininde henüz ek dosya bulunmamaktadır.)
+
 ---
 [⬅️ BAYKAR Ana Sayfası](../README.md) | [🏠 Ana Sayfa](../../README.md)

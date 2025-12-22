@@ -51,5 +51,9 @@ KIZILELMA, Türkiye'nin "İnsansız Hava Muharebesi" doktrininin öncü kuvvetid
 - [/] Seri Üretim Hazırlıkları (A Blok)
 - [ ] Operasyonel Göreve Kabul
 
+
+## 📁 Proje Varlıkları (Project Assets)
+- (Bu proje dizininde henüz ek dosya bulunmamaktadır.)
+
 ---
 [⬅️ BAYKAR Ana Sayfası](../README.md) | [🏠 Ana Sayfa](../../../README.md)

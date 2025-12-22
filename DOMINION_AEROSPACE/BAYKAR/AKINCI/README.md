@@ -58,5 +58,9 @@ AKINCI, Türkiye'nin "SİHA Doktrini"ni stratejik seviyeye taşıyan ana unsurdu
 - [x] İhracat Başarıları (10+ ülke)
 - [/] Yeni Motor Modelleri ve Sensör Geliştirmeleri
 
+
+## 📁 Proje Varlıkları (Project Assets)
+- (Bu proje dizininde henüz ek dosya bulunmamaktadır.)
+
 ---
 [⬅️ BAYKAR Ana Sayfası](../README.md) | [🏠 Ana Sayfa](../../../README.md)

@@ -10,5 +10,9 @@ DELİ, Titra Teknoloji tarafından geliştirilen, elden veya katapulttan fırlat
 | **Harp Başlığı** | 3.1 kg özel tasarım başlık |
 | **Menzil** | 30 km |
 
+
+## 📁 Proje Varlıkları (Project Assets)
+- (Bu proje dizininde henüz ek dosya bulunmamaktadır.)
+
 ---
 [⬅️ Titra Ana Sayfası](../README.md) | [🏠 Ana Sayfa](../../README.md)

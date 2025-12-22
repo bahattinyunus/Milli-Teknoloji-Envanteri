@@ -11,5 +11,9 @@ HİSAR Sınıfı, ASFAT tarafından MİLGEM Ada Sınıfı Korvet formu üzerinde
 | **Silah Sistemleri** | 76mm Milli Deniz Topu, GÖKDENİZ YS, 2x STAMP, 2x 4'lü Hisar Füzesi (Opsiyonel) |
 | **Fark** | Korvet yeteneklerine sahip ancak lojistik ve operasyonel maliyeti düşük platform |
 
+
+## 📁 Proje Varlıkları (Project Assets)
+- (Bu proje dizininde henüz ek dosya bulunmamaktadır.)
+
 ---
 [⬅️ ASFAT Ana Sayfası](../README.md) | [🏠 Ana Sayfa](../../README.md)

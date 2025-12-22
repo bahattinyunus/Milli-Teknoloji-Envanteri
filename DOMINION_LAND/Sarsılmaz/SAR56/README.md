@@ -10,5 +10,9 @@ SAR 56, Sarsılmaz tarafından modern muharebe sahası ihtiyaçlarına göre gel
 | **Özellik** | 5 konumlu teleskopik dipçik, Picatinny ray sistemleri |
 | **Kullanım** | Özel harekat birlikleri ve sınır güvenliği unsurları |
 
+
+## 📁 Proje Varlıkları (Project Assets)
+- (Bu proje dizininde henüz ek dosya bulunmamaktadır.)
+
 ---
 [⬅️ Sarsılmaz Ana Sayfası](../README.md) | [🏠 Ana Sayfa](../../README.md)

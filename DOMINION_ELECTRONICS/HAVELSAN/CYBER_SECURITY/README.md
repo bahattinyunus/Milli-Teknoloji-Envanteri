@@ -8,5 +8,9 @@ HAVELSAN, Türkiye'nin kritik altyapılarını siber tehditlere karşı korumak 
 - **Milli Yazılımlar**: KBRN, bariyer yazılımları ve güvenli haberleşme platformları.
 - **Varlık Keşfi ve Anomali Tespiti**: Ağ trafiğini analiz ederek siber saldırıları önceden tespit eden yapay zeka destekli sistemler.
 
+
+## 📁 Proje Varlıkları (Project Assets)
+- (Bu proje dizininde henüz ek dosya bulunmamaktadır.)
+
 ---
 [⬅️ HAVELSAN Ana Sayfası](../README.md) | [🏠 Ana Sayfa](../../README.md)

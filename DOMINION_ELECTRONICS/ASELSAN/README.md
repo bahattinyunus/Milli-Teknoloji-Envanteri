@@ -1,26 +1,25 @@
-# 📡 ASELSAN
+# 🏢 ASELSAN - Project Hub
 
-> **"Teknolojinin Lideri, Güvenin Adresi"**
+## 🚀 ASELSAN Bünyesindeki Projeler
 
-ASELSAN, Türk Silahlı Kuvvetlerini Güçlendirme Vakfı'nın bir kuruluşu olarak, Türkiye'nin en büyük savunma elektroniği şirketidir.
-
-## 🏢 Kurumsal Profil
-- **Odak:** Haberleşme, radar, elektronik harp, elektro-optik ve silah sistemleri.
-
-## 🎯 Stratejik Odak Alanları
-- **Hava Savunma:** SİPER ve GÜRZ ile katmanlı hava savunma.
-- **Elektronik Harp:** KORAL ve SANCAK ile spektrum hakimiyeti.
-- **Elektro-Optik:** ASELFLIR-500 ile dünya çapında keskin görüş.
-
-## 🛡️ Projeler
-- [**SİPER** (Uzun Menzilli Hava Savunma)](./SİPER/README.md)
-- [**MURAD** (AESA Radar)](./MURAD/README.md)
-- [**ASELFLIR-500** (Yeni Nesil Hedefleme)](./ASELFLIR-500/README.md)
-- [**KORAL** (Elektronik Harp)](./KORAL/README.md)
-- [**SANCAK** (HF Elektronik Taarruz)](./SANCAK/README.md)
-- [**ALBATROS-S** (Sürü İDA)](./ALBATROS-S/README.md)
-- [**GÖKDENİZ** (Yakın Savunma Sistemi)](./GÖKDENİZ/README.md)
-- [**GÜRZ** (Hibrit Hava Savunma)](./GÜRZ/README.md)
+- [ALBATROS-S](ALBATROS-S/README.md)
+- [ASELFLIR-500](ASELFLIR-500/README.md)
+- [CENK 350N](CENK_350N/README.md)
+- [EJDERHA](EJDERHA/README.md)
+- [ERALP](ERALP/README.md)
+- [GÖKTAN](GÖKTAN/README.md)
+- [GÜRZ](GÜRZ/README.md)
+- [IHTAR](IHTAR/README.md)
+- [KORAL](KORAL/README.md)
+- [MURAD](MURAD/README.md)
+- [MURAD RADAR](MURAD_RADAR/README.md)
+- [MİLKAR](MİLKAR/README.md)
+- [SANCAK](SANCAK/README.md)
+- [SIPER](SIPER/README.md)
+- [SİPER](SİPER/README.md)
+- [TOYGUN](TOYGUN/README.md)
+- [TURAN](TURAN/README.md)
+- [ULAQ](ULAQ/README.md)
 
 ---
-[🏠 Ana Sayfaya Dön](../README.md)
+**"Yarın Değil, Şimdi! Gelecek Burada."** 🇹🇷

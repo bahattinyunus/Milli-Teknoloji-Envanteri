@@ -56,5 +56,9 @@ ALTAY, modern orduların "Ağ Merkezli Harp" stratejisinin kara ayağını oluş
 - [/] Seri Üretim Bandına Geçiş (BMC Savunma Arifiye Tesisleri)
 - [ ] TSK Envanterine Teslimat (2025+)
 
+
+## 📁 Proje Varlıkları (Project Assets)
+- (Bu proje dizininde henüz ek dosya bulunmamaktadır.)
+
 ---
 [⬅️ BMC Ana Sayfası](../README.md) | [🏠 Ana Sayfa](../../../README.md)

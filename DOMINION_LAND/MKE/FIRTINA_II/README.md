@@ -10,5 +10,9 @@ FIRTINA, Türk Kara Kuvvetleri'nin en önemli ateş destek unsurlarından biridi
 | **Atış Hızı** | 6-8 mermi/dakika |
 | **Motor** | Yerli Güç Grubu (Planlanan) |
 
+
+## 📁 Proje Varlıkları (Project Assets)
+- (Bu proje dizininde henüz ek dosya bulunmamaktadır.)
+
 ---
 [⬅️ MKE Ana Sayfası](../README.md) | [🏠 Ana Sayfa](../../README.md)

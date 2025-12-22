@@ -10,5 +10,9 @@ SAR 9, Sarsılmaz tarafından "Türkiye'nin Özgün Yerli Tabancası" projesi ka
 | **Gövde** | Yeni nesil polimer gövde |
 | **Test** | 50.000 atım ömrü ve zorlu çevre testleri |
 
+
+## 📁 Proje Varlıkları (Project Assets)
+- (Bu proje dizininde henüz ek dosya bulunmamaktadır.)
+
 ---
 [⬅️ Sarsılmaz Ana Sayfası](../README.md) | [🏠 Ana Sayfa](../../README.md)

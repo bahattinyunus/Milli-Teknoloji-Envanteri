@@ -10,5 +10,9 @@ VENOM LR, CANİK bünyesindeki AEI Systems tarafından geliştirilen, düşük g
 | **Geri Tepme** | Düşük geri tepme ile hafif platformlarda (UAV, UGV) kullanılabilme |
 | **Mühimmat** | Yüksek patlayıcı (HE), Zırh delici (API) |
 
+
+## 📁 Proje Varlıkları (Project Assets)
+- (Bu proje dizininde henüz ek dosya bulunmamaktadır.)
+
 ---
 [⬅️ CANİK Ana Sayfası](../README.md) | [🏠 Ana Sayfa](../../README.md)

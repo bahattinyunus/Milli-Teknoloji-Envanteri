@@ -10,5 +10,9 @@ PİRANA, MKE tarafından geliştirilen, deniz hedeflerine karşı kullanılmak �
 | **Harp Başlığı** | Yüksek infilaklı parça tesirli başlık |
 | **Kontrol** | Otonom veya Uzaktan Komuta |
 
+
+## 📁 Proje Varlıkları (Project Assets)
+- (Bu proje dizininde henüz ek dosya bulunmamaktadır.)
+
 ---
 [⬅️ MKE Ana Sayfası](../README.md) | [🏠 Ana Sayfa](../../README.md)

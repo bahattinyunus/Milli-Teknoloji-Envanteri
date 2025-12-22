@@ -10,5 +10,9 @@ SAR 127, Sarsılmaz tarafından yerli imkanlarla geliştirilen, 12.7x99 mm NATO 
 | **Menzil** | 1.830 metre (Etkili) |
 | **Kullanım** | Taktik tekerlekli zırhlı araçlar, Helikopterler ve Sabit Mevziler |
 
+
+## 📁 Proje Varlıkları (Project Assets)
+- (Bu proje dizininde henüz ek dosya bulunmamaktadır.)
+
 ---
 [⬅️ Sarsılmaz Ana Sayfası](../README.md) | [🏠 Ana Sayfa](../../README.md)

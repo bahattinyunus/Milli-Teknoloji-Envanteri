@@ -10,5 +10,9 @@ Bayraktar KALKAN, BAYKAR tarafından geliştirilen, pist ihtiyacı duymadan dike
 | **Baz İstasyonu** | Mobil araçlar veya gemiler üzerinden kullanım |
 | **Görev** | Keşif, Gözetleme, Sınır Güvenliği |
 
+
+## 📁 Proje Varlıkları (Project Assets)
+- (Bu proje dizininde henüz ek dosya bulunmamaktadır.)
+
 ---
 [⬅️ BAYKAR Ana Sayfası](../README.md) | [🏠 Ana Sayfa](../../README.md)

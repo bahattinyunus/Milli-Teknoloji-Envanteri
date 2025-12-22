@@ -11,5 +11,9 @@ SOM, TÜBİTAK SAGE tarafından geliştirilen ve ROKETSAN tarafından üretilen,
 | **Hassasiyet** | Ataletsel Navigasyon + GPS + TRN + IIR Arayıcı Başlık |
 | **Uyum** | F-16, F-4E ve KAAN platformları |
 
+
+## 📁 Proje Varlıkları (Project Assets)
+- (Bu proje dizininde henüz ek dosya bulunmamaktadır.)
+
 ---
 [⬅️ SAGE Ana Sayfası](../README.md) | [🏠 Ana Sayfa](../../README.md)

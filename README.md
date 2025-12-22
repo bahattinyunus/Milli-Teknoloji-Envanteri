@@ -36,7 +36,7 @@ Türkiye'nin teknoloji ekosistemi üç ana katmanda derinleşmektedir:
 
 ## 🏛️ Kurumsal Dominion Yapısı ve Stratejik Derinlik
 
-### 🌌 DOMINION AEROSPACE (Hava & Uzay)
+### 🌌 [DOMINION AEROSPACE (Hava & Uzay)](./DOMINION_AEROSPACE/README.md)
 | Proje / Platform | Üretici | Stratejik Önem | TRL |
 | :--- | :--- | :--- | :--- |
 | **[KAAN](./DOMINION_AEROSPACE/TUSAŞ/KAAN/README.md)** | TUSAŞ | 5. Nesil Görünmezlik | TRL 7 |
@@ -46,7 +46,7 @@ Türkiye'nin teknoloji ekosistemi üç ana katmanda derinleşmektedir:
 | **[AKINCI](./DOMINION_AEROSPACE/BAYKAR/AKINCI/README.md)** | BAYKAR | Stratejik TİHA | TRL 9 |
 | **[TAYFUN](./DOMINION_AEROSPACE/ROKETSAN/TAYFUN/README.md)** | ROKETSAN | Balistik Caydırıcılık | TRL 8 |
 
-### 🚜 DOMINION LAND (Kara & Zırh)
+### 🚜 [DOMINION LAND (Kara & Zırh)](./DOMINION_LAND/README.md)
 | Proje / Platform | Üretici | Stratejik Önem | TRL |
 | :--- | :--- | :--- | :--- |
 | **[ALTAY](./DOMINION_LAND/BMC/ALTAY/README.md)** | BMC | Ana Muharebe Tankı | TRL 9 |
@@ -54,13 +54,13 @@ Türkiye'nin teknoloji ekosistemi üç ana katmanda derinleşmektedir:
 | **[ZAHA](./DOMINION_LAND/FNSS/ZAHA/README.md)** | FNSS | Amfibi Hücum | TRL 9 |
 | **[BARKAN](./DOMINION_ELECTRONICS/HAVELSAN/BARKAN/README.md)** | HAVELSAN | otonom İKA Sınıfı | TRL 9 |
 
-### ⚓ DOMINION SEA (Mavi Vatan)
+### ⚓ [DOMINION SEA (Mavi Vatan)](./DOMINION_SEA/README.md)
 | Proje / Platform | Üretici | Stratejik Önem | TRL |
 | :--- | :--- | :--- | :--- |
 | **[TCG ANADOLU](./DOMINION_SEA/SEDEF/TCG_ANADOLU/README.md)** | SEDEF | SİHA Gemisi / LHD | TRL 9 |
 | **[STM500](./DOMINION_SEA/STM/STM500/README.md)** | STM | Küçük Sınıf Denizaltı | TRL 6 |
 
-### 📡 DOMINION ELECTRONICS & AI (Dijital Egemenlik)
+### 📡 [DOMINION ELECTRONICS & AI (Dijital Egemenlik)](./DOMINION_ELECTRONICS/README.md)
 | Proje / Platform | Üretici | Stratejik Önem | TRL |
 | :--- | :--- | :--- | :--- |
 | **[SİPER](./DOMINION_ELECTRONICS/ASELSAN/SİPER/README.md)** | ASELSAN | Uzun Menzilli HSS | TRL 8 |
@@ -108,7 +108,17 @@ graph LR
 - [x] Teknolojik Katmanlar Arşivi
 - [x] 15+ Kritik Proje İçin Detaylı "Spec-Sheet" Hazırlanması
 - [/] Envanter Takip Yazılımı (inventory_manager.py) Geliştirmesi
+- [x] Sektörel ve Kurumsal Hiyerarşik İndeksleme
 - [ ] Karma Sürü Simülasyon Modülleri Entegrasyonu
 
 ---
+
+## 📁 Depo Varlıkları (Repository Assets)
+- [.gitignore](.gitignore)
+- [CONTRIBUTING.md](CONTRIBUTING.md)
+- [LICENSE](LICENSE)
+- [inventory_manager.py](inventory_manager.py)
+
+---
+
 **"Yarın Değil, Şimdi! Gelecek Burada."** 🇹🇷

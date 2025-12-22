@@ -57,5 +57,9 @@ BARKAN, HAVELSAN'ın "Dijital Birlik" ekosisteminin merkezinde yer alır:
 - [/] Yeni Faydalı Yük Entegrasyonları (Kamikaze İHA Launch)
 - [ ] Tam Ölçekli Operasyonel Kullanım
 
+
+## 📁 Proje Varlıkları (Project Assets)
+- (Bu proje dizininde henüz ek dosya bulunmamaktadır.)
+
 ---
 [⬅️ HAVELSAN Ana Sayfası](../README.md) | [🏠 Ana Sayfa](../../../README.md)

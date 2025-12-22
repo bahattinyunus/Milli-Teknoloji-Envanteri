@@ -10,5 +10,9 @@ HAVELSAN, Türkiye'nin savunma sanayiinde simülasyon ve eğitim teknolojileri k
 - **HeS (Helikopter Eğitim Sistemi)**: GÖKBEY ve ATAK pilotları için eğitim platformları.
 - **D-Level Sivil Simülatörler**: Boeing 737MAX gibi sivil havacılık uçuş simülatörleri.
 
+
+## 📁 Proje Varlıkları (Project Assets)
+- (Bu proje dizininde henüz ek dosya bulunmamaktadır.)
+
 ---
 [⬅️ HAVELSAN Ana Sayfası](../README.md) | [🏠 Ana Sayfa](../../README.md)

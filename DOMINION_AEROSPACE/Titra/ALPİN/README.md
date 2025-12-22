@@ -9,5 +9,9 @@ Türkiye'nin ilk insansız helikopteri olan ALPİN, Titra Teknoloji tarafından 
 | **Faydalı Yük** | 160 kg (Yakıt dahil/hariç yük dağılımına göre) |
 | **Menzil** | 840 km |
 
+
+## 📁 Proje Varlıkları (Project Assets)
+- (Bu proje dizininde henüz ek dosya bulunmamaktadır.)
+
 ---
 [⬅️ Titra Ana Sayfası](../README.md) | [🏠 Ana Sayfa](../../README.md)

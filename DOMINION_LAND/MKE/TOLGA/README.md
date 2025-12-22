@@ -9,5 +9,9 @@ TOLGA, MKE tarafından geliştirilen, özellikle sürü İHA (drone) tehditlerin
 | **Platform** | Sabit veya Mobil Araç Üstü Entegrasyon |
 | **Yetenek** | Sürü saldırılarına karşı çoklu hedef takibi |
 
+
+## 📁 Proje Varlıkları (Project Assets)
+- (Bu proje dizininde henüz ek dosya bulunmamaktadır.)
+
 ---
 [⬅️ MKE Ana Sayfası](../README.md) | [🏠 Ana Sayfa](../../README.md)

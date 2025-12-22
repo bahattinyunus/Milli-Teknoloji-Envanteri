@@ -10,5 +10,9 @@ ATMACA, ROKETSAN tarafından geliştirilen, her türlü hava şartında kullanı
 | **Hız** | High Subsonic (Mach 0.9) |
 | **Güdüm** | Ataletsel Navigasyon + GPS + Barometrik Altimetre + Radar Altimetre + Aktif RF Arayıcı Başlık |
 
+
+## 📁 Proje Varlıkları (Project Assets)
+- (Bu proje dizininde henüz ek dosya bulunmamaktadır.)
+
 ---
 [⬅️ ROKETSAN Ana Sayfası](../README.md) | [🏠 Ana Sayfa](../../README.md)

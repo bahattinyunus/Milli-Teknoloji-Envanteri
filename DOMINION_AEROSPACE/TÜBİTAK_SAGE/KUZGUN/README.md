@@ -10,5 +10,9 @@ KUZGUN, TÜBİTAK SAGE tarafından geliştirilen, turbojet (KY), katı yakıtlı
 | **Menzil** | 40 km (SS) ile 180+ km (TJ) arası |
 | **Ağırlık** | ~100 kg |
 
+
+## 📁 Proje Varlıkları (Project Assets)
+- (Bu proje dizininde henüz ek dosya bulunmamaktadır.)
+
 ---
 [⬅️ SAGE Ana Sayfası](../README.md) | [🏠 Ana Sayfa](../../README.md)

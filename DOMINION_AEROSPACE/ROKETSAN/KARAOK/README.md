@@ -10,5 +10,9 @@ KARAOK, ROKETSAN tarafından geliştirilen, omuzdan atılan, gece-gündüz göre
 | **Menzil** | 2.500+ metre |
 | **Yetenek** | Doğrudan Vuruş ve Üstten Vuruş (Top Attack) |
 
+
+## 📁 Proje Varlıkları (Project Assets)
+- (Bu proje dizininde henüz ek dosya bulunmamaktadır.)
+
 ---
 [⬅️ ROKETSAN Ana Sayfası](../README.md) | [🏠 Ana Sayfa](../../README.md)

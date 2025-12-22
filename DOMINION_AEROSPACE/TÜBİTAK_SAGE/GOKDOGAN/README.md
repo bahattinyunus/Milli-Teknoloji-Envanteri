@@ -9,5 +9,9 @@ TÜBİTAK SAGE tarafından geliştirilen Türkiye'nin ilk milli hava-hava füzes
 | **Radar** | Aktif Radar Arayıcı Başlık |
 | **Menzil** | 65+ km |
 
+
+## 📁 Proje Varlıkları (Project Assets)
+- (Bu proje dizininde henüz ek dosya bulunmamaktadır.)
+
 ---
 [⬅️ TÜBİTAK SAGE Ana Sayfası](../README.md) | [🏠 Ana Sayfa](../../README.md)

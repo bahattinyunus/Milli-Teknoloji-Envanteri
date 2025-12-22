@@ -9,5 +9,9 @@ PEREGRINE, Altınay Savunma tarafından geliştirilen, yüksek vuruş hassasiyet
 | **Güdüm** | Görüntü İşleme / Yapay Zeka Destekli Hedef Takibi |
 | **Kullanım** | Tek er tarafından taşınabilir ve hızlı konuşlandırılabilir |
 
+
+## 📁 Proje Varlıkları (Project Assets)
+- (Bu proje dizininde henüz ek dosya bulunmamaktadır.)
+
 ---
 [⬅️ Altınay Savunma Ana Sayfası](../README.md) | [🏠 Ana Sayfa](../../README.md)

@@ -10,5 +10,9 @@ YAKAMOZ, METEKSAN Savunma tarafından MİLGEM Ada Sınıfı Korvetler için geli
 | **Özellik** | Dijital sinyal işleme, yüksek kaynak seviyesi ve modüler yapı |
 | **Uyum** | MİLGEM Korvetleri ve i-Sınıfı Fırkateynler |
 
+
+## 📁 Proje Varlıkları (Project Assets)
+- (Bu proje dizininde henüz ek dosya bulunmamaktadır.)
+
 ---
 [⬅️ METEKSAN Ana Sayfası](../README.md) | [🏠 Ana Sayfa](../../README.md)

@@ -11,5 +11,9 @@ ALBATROS-S, ASELSAN tarafından geliştirilen, yüksek otonomi kabiliyetine sahi
 | **Yetenek** | Otonom engelden sakınma, sürü formasyonu ve kamikaze saldırı kabiliyeti |
 | **Operasyon** | Tek merkezden çoklu bot kontrolü |
 
+
+## 📁 Proje Varlıkları (Project Assets)
+- (Bu proje dizininde henüz ek dosya bulunmamaktadır.)
+
 ---
 [⬅️ ASELSAN Ana Sayfası](../README.md) | [🏠 Ana Sayfa](../../README.md)

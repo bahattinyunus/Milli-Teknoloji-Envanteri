@@ -1,14 +1,11 @@
-# 🚢 ASFAT (Askeri Fabrika ve Tersane İşletme A.Ş.)
+# 🏢 ASFAT - Project Hub
 
-> **"Milli Üretim Gücü, Küresel İş Birliği"**
+## 🚀 ASFAT Bünyesindeki Projeler
 
-ASFAT, Milli Savunma Bakanlığı'na bağlı askeri fabrikaların ve tersanelerin imkanlarını kullanarak küresel çapta savunma projeleri yöneten stratejik bir kuruluştur.
-
-## 🚀 Projeler
-- [**HİSAR_SINIFI_OPV** (Açık Deniz Karakol Gemisi)](./HİSAR_SINIFI_OPV/README.md)
-- [**PN_MILGEM** (Pakistan MİLGEM Projesi)](./PN_MILGEM/README.md)
-- [**MEMATT** (Mekanik Mayın Temizleme)](./MEMATT/README.md)
-- [**TEI_TF6000_TEST_CELL** (Motor Test Altyapısı)](./TEST_CELL/README.md)
+- [ADKG](ADKG/README.md)
+- [HİSAR SINIFI OPV](HİSAR_SINIFI_OPV/README.md)
+- [MEMATT](MEMATT/README.md)
+- [PN MILGEM](PN_MILGEM/README.md)
 
 ---
-[🏠 Ana Sayfaya Dön](../README.md)
+**"Yarın Değil, Şimdi! Gelecek Burada."** 🇹🇷

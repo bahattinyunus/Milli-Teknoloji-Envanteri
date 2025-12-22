@@ -61,5 +61,9 @@ KAAN projesi, teknolojik olgunluğa göre aşamalı bir yol izlemektedir:
 - [/] Sistem Entegrasyon Testleri (Avionics Fusion)
 - [ ] Seri Üretim ve Envantere Giriş (2028+)
 
+
+## 📁 Proje Varlıkları (Project Assets)
+- (Bu proje dizininde henüz ek dosya bulunmamaktadır.)
+
 ---
 [⬅️ TUSAŞ Ana Sayfası](../README.md) | [🏠 Ana Sayfa](../../../README.md)

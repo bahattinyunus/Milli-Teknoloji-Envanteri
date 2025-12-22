@@ -11,5 +11,9 @@ HIZIR 4x4, Katmerciler tarafından geliştirilen, NATO standartlarında en yüks
 | **Kapasite** | 9 Personel |
 | **Varyantlar** | Komuta kontrol, KBRN, Silah taşıyıcı, Ambulans |
 
+
+## 📁 Proje Varlıkları (Project Assets)
+- (Bu proje dizininde henüz ek dosya bulunmamaktadır.)
+
 ---
 [⬅️ Katmerciler Ana Sayfası](../README.md) | [🏠 Ana Sayfa](../../README.md)

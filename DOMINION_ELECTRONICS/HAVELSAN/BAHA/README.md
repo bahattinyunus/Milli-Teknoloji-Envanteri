@@ -10,5 +10,9 @@ BAHA, HAVELSAN tarafından geliştirilen, dikey kalkış-iniş (VTOL) yapabilen,
 | **İrtifa** | 15.000 Feet |
 | **Özellik** | Karma sürülere entegre olabilme ve bulut altı otonom istihbarat |
 
+
+## 📁 Proje Varlıkları (Project Assets)
+- (Bu proje dizininde henüz ek dosya bulunmamaktadır.)
+
 ---
 [⬅️ HAVELSAN Ana Sayfası](../README.md) | [🏠 Ana Sayfa](../../README.md)

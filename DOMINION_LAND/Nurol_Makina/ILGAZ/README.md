@@ -1,0 +1,10 @@
+# 🚀 Proje: ILGAZ
+
+**Geliştirici:** Nurol Makina
+
+
+## 📁 Proje Varlıkları (Project Assets)
+- (Bu proje dizininde henüz ek dosya bulunmamaktadır.)
+
+---
+[⬅️ Nurol Makina Ana Sayfası](../README.md) | [🏠 Ana Sayfa](../../../README.md)

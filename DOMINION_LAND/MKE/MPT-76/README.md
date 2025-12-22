@@ -10,5 +10,9 @@ MPT-76, Türk Silahlı Kuvvetleri'nin piyade tüfeği ihtiyacını karşılamak 
 | **Menzil** | 600 metre (Etkili menzil) |
 | **Ağırlık** | 4.2 kg |
 
+
+## 📁 Proje Varlıkları (Project Assets)
+- (Bu proje dizininde henüz ek dosya bulunmamaktadır.)
+
 ---
 [⬅️ MKE Ana Sayfası](../README.md) | [🏠 Ana Sayfa](../../README.md)

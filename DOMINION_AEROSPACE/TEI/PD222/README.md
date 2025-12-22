@@ -11,5 +11,9 @@ TEI-PD222, Türkiye'nin ilk yerli üretim turbodizel havacılık motoru olan PD1
 | **Ömür** | 3.600 Saat TBO |
 | **Uyum** | ANKA, AKSUNGUR, BAYRAKTAR AKINCI-C |
 
+
+## 📁 Proje Varlıkları (Project Assets)
+- (Bu proje dizininde henüz ek dosya bulunmamaktadır.)
+
 ---
 [⬅️ TEI Ana Sayfası](../README.md) | [🏠 Ana Sayfa](../../README.md)

@@ -10,5 +10,9 @@ ARES 150 BOLD, ARES Tersanesi tarafından geliştirilen, 37 deniz mili (knot) ü
 | **Gövde** | Deniz Tipi Alüminyum |
 | **Silah** | 30mm Uzaktan Komutalı Stabilize Top + 2x 12.7mm Makineli Tüfek |
 
+
+## 📁 Proje Varlıkları (Project Assets)
+- (Bu proje dizininde henüz ek dosya bulunmamaktadır.)
+
 ---
 [⬅️ ARES Ana Sayfası](../README.md) | [🏠 Ana Sayfa](../../README.md)

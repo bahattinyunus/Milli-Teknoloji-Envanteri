@@ -10,5 +10,9 @@ ATAK-2, TUSAŞ tarafından geliştirilen, dünyada sadece birkaç ülkenin üret
 | **Namlulu Silah** | 30mm Burun Topu |
 | **Kullanım Amacı** | Taarruz, Yakın Hava Desteği, Hava-Hava Muharebesi |
 
+
+## 📁 Proje Varlıkları (Project Assets)
+- (Bu proje dizininde henüz ek dosya bulunmamaktadır.)
+
 ---
 [⬅️ TUSAŞ Ana Sayfası](../README.md) | [🏠 Ana Sayfa](../../README.md)

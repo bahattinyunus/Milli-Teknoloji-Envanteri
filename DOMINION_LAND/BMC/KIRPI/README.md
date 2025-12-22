@@ -10,5 +10,9 @@ KİRPİ, mayına karşı korumalı araç (MRAP) sınıfında Türkiye'nin en ba�
 | **Koruma** | Mayın, El Yapımı Patlayıcı (EYP) ve Balistik Tehditler |
 | **Özellik** | Bağımsız süspansiyon, otomatik yangın söndürme, 4x4 ve 6x6 varyantlar |
 
+
+## 📁 Proje Varlıkları (Project Assets)
+- (Bu proje dizininde henüz ek dosya bulunmamaktadır.)
+
 ---
 [⬅️ BMC Ana Sayfası](../README.md) | [🏠 Ana Sayfa](../../README.md)
