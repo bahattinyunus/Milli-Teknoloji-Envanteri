@@ -1,9 +1,9 @@
-# 🏢 ARES - Project Hub
+# ARES Project Hub
 
-## 🚀 ARES Bünyesindeki Projeler
+## 🚀 Projects
 
 - [ARES 150](ARES_150/README.md)
 - [ULAQ DERE](ULAQ_DERE/README.md)
 
 ---
-**"Yarın Değil, Şimdi! Gelecek Burada."** 🇹🇷
+[Kök Dizine Dön](../../README.md) | [Dominion Hub'ına Dön](../README.md)

@@ -1,6 +1,6 @@
-# 🏢 BAYKAR - Project Hub
+# BAYKAR Project Hub
 
-## 🚀 BAYKAR Bünyesindeki Projeler
+## 🚀 Projects
 
 - [AKINCI](AKINCI/README.md)
 - [FERGANİ](FERGANİ/README.md)
@@ -13,4 +13,4 @@
 - [TOMRİS](TOMRİS/README.md)
 
 ---
-**"Yarın Değil, Şimdi! Gelecek Burada."** 🇹🇷
+[Kök Dizine Dön](../../README.md) | [Dominion Hub'ına Dön](../README.md)

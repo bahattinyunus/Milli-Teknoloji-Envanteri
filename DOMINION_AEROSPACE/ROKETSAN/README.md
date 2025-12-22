@@ -1,6 +1,6 @@
-# 🏢 ROKETSAN - Project Hub
+# ROKETSAN Project Hub
 
-## 🚀 ROKETSAN Bünyesindeki Projeler
+## 🚀 Projects
 
 - [AKATA](AKATA/README.md)
 - [AKYA](AKYA/README.md)
@@ -19,4 +19,4 @@
 - [İHA-300](İHA-300/README.md)
 
 ---
-**"Yarın Değil, Şimdi! Gelecek Burada."** 🇹🇷
+[Kök Dizine Dön](../../README.md) | [Dominion Hub'ına Dön](../README.md)

@@ -1,9 +1,8 @@
-# 🏢 TUSAŞ - Project Hub
+# TUSAŞ Project Hub
 
-## 🚀 TUSAŞ Bünyesindeki Projeler
+## 🚀 Projects
 
 - [ANKA-3](ANKA-3/README.md)
-- [ANKA3](ANKA3/README.md)
 - [ATAK-2](ATAK-2/README.md)
 - [GÖKBEY](GÖKBEY/README.md)
 - [GÖKTÜRK](GÖKTÜRK/README.md)
@@ -13,4 +12,4 @@
 - [TÜRKSAT 6A](TÜRKSAT_6A/README.md)
 
 ---
-**"Yarın Değil, Şimdi! Gelecek Burada."** 🇹🇷
+[Kök Dizine Dön](../../README.md) | [Dominion Hub'ına Dön](../README.md)

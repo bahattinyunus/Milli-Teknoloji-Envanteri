@@ -1,6 +1,6 @@
-# 🏢 FNSS - Project Hub
+# FNSS Project Hub
 
-## 🚀 FNSS Bünyesindeki Projeler
+## 🚀 Projects
 
 - [KAPLAN](KAPLAN/README.md)
 - [PARS](PARS/README.md)
@@ -8,4 +8,4 @@
 - [ZAHA](ZAHA/README.md)
 
 ---
-**"Yarın Değil, Şimdi! Gelecek Burada."** 🇹🇷
+[Kök Dizine Dön](../../README.md) | [Dominion Hub'ına Dön](../README.md)

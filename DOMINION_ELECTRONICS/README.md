@@ -1,29 +1,11 @@
-# 📡 ELECTRONICS & AI (Dijital Egemenlik)
+# DOMINION ELECTRONICS Index
 
 ## 🏢 Corporate Index
 
-### 🛡️ Katmanlı Hava Savunma Doktrini
-```mermaid
-graph BT
-    subgraph HIGH ["Üst Katman (150+ km)"]
-        SIPER["SİPER Ürün-2"]
-    end
-    
-    subgraph MID ["Orta Katman (100 km)"]
-        SIP1["SİPER Ürün-1"]
-        HISARU["HİSAR-U"]
-    end
-    
-    subgraph LOW ["Alçak Katman & Nokta Savunma"]
-        GURZ["GÜRZ (Hibrit)"]
-        HISARA["HİSAR-A+"]
-        SUNGUR["SUNGUR"]
-    end
-    
-    LOW --- MID
-    MID --- HIGH
-```
-
+### [Altınay Savunma](Altınay_Savunma/README.md)
+- [GIMBAL SISTEMLERI](Altınay_Savunma/GIMBAL_SISTEMLERI/README.md)
+- [KOBOT](Altınay_Savunma/KOBOT/README.md)
+- [PEREGRINE](Altınay_Savunma/PEREGRINE/README.md)
 
 ### [ASELSAN](ASELSAN/README.md)
 - [ALBATROS-S](ASELSAN/ALBATROS-S/README.md)
@@ -36,19 +18,12 @@ graph BT
 - [IHTAR](ASELSAN/IHTAR/README.md)
 - [KORAL](ASELSAN/KORAL/README.md)
 - [MURAD](ASELSAN/MURAD/README.md)
-- [MURAD RADAR](ASELSAN/MURAD_RADAR/README.md)
 - [MİLKAR](ASELSAN/MİLKAR/README.md)
 - [SANCAK](ASELSAN/SANCAK/README.md)
-- [SIPER](ASELSAN/SIPER/README.md)
 - [SİPER](ASELSAN/SİPER/README.md)
 - [TOYGUN](ASELSAN/TOYGUN/README.md)
 - [TURAN](ASELSAN/TURAN/README.md)
 - [ULAQ](ASELSAN/ULAQ/README.md)
-
-### [Altınay Savunma](Altınay_Savunma/README.md)
-- [GIMBAL SISTEMLERI](Altınay_Savunma/GIMBAL_SISTEMLERI/README.md)
-- [KOBOT](Altınay_Savunma/KOBOT/README.md)
-- [PEREGRINE](Altınay_Savunma/PEREGRINE/README.md)
 
 ### [HAVELSAN](HAVELSAN/README.md)
 - [ADVENT](HAVELSAN/ADVENT/README.md)
@@ -72,4 +47,4 @@ graph BT
 - [ACMI POD](SDT/ACMI_POD/README.md)
 
 ---
-**"Yarın Değil, Şimdi! Gelecek Burada."** 🇹🇷
+[Kök Dizine Dön](../README.md)

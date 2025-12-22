@@ -1,8 +1,8 @@
-# 🏢 MilSOFT - Project Hub
+# MilSOFT Project Hub
 
-## 🚀 MilSOFT Bünyesindeki Projeler
+## 🚀 Projects
 
 - [DATA LINKS](DATA_LINKS/README.md)
 
 ---
-**"Yarın Değil, Şimdi! Gelecek Burada."** 🇹🇷
+[Kök Dizine Dön](../../README.md) | [Dominion Hub'ına Dön](../README.md)

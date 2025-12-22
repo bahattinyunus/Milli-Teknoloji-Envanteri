@@ -1,9 +1,9 @@
-# 🏢 SEDEF - Project Hub
+# SEDEF Project Hub
 
-## 🚀 SEDEF Bünyesindeki Projeler
+## 🚀 Projects
 
 - [TCG ANADOLU](TCG_ANADOLU/README.md)
 - [TCG TRAKYA](TCG_TRAKYA/README.md)
 
 ---
-**"Yarın Değil, Şimdi! Gelecek Burada."** 🇹🇷
+[Kök Dizine Dön](../../README.md) | [Dominion Hub'ına Dön](../README.md)

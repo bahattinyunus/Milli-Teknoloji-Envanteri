@@ -1,4 +1,4 @@
-# ⚓ SEA (Mavi Vatan)
+# DOMINION SEA Index
 
 ## 🏢 Corporate Index
 
@@ -18,7 +18,6 @@
 
 ### [STM](STM/README.md)
 - [KARGU](STM/KARGU/README.md)
-- [MILGEM](STM/MILGEM/README.md)
 - [MİLGEM](STM/MİLGEM/README.md)
 - [STM500](STM/STM500/README.md)
 
@@ -27,4 +26,4 @@
 - [MRTP SERISI](Yonca-Onuk/MRTP_SERISI/README.md)
 
 ---
-**"Yarın Değil, Şimdi! Gelecek Burada."** 🇹🇷
+[Kök Dizine Dön](../README.md)

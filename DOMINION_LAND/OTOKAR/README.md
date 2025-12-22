@@ -1,6 +1,6 @@
-# 🏢 OTOKAR - Project Hub
+# OTOKAR Project Hub
 
-## 🚀 OTOKAR Bünyesindeki Projeler
+## 🚀 Projects
 
 - [AKREP II](AKREP_II/README.md)
 - [ALPAR](ALPAR/README.md)
@@ -9,4 +9,4 @@
 - [TULPAR](TULPAR/README.md)
 
 ---
-**"Yarın Değil, Şimdi! Gelecek Burada."** 🇹🇷
+[Kök Dizine Dön](../../README.md) | [Dominion Hub'ına Dön](../README.md)

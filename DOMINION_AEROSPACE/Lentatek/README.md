@@ -1,8 +1,8 @@
-# 🏢 Lentatek - Project Hub
+# Lentatek Project Hub
 
-## 🚀 Lentatek Bünyesindeki Projeler
+## 🚀 Projects
 
 - [KARAYEL](KARAYEL/README.md)
 
 ---
-**"Yarın Değil, Şimdi! Gelecek Burada."** 🇹🇷
+[Kök Dizine Dön](../../README.md) | [Dominion Hub'ına Dön](../README.md)

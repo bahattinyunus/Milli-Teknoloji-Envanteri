@@ -1,4 +1,4 @@
-# 🚜 LAND (Kara & Zırh)
+# DOMINION LAND Index
 
 ## 🏢 Corporate Index
 
@@ -24,7 +24,6 @@
 
 ### [MKE](MKE/README.md)
 - [76MM DENİZ TOPU](MKE/76MM_DENİZ_TOPU/README.md)
-- [DENIZ TOPU](MKE/DENIZ_TOPU/README.md)
 - [FIRTINA II](MKE/FIRTINA_II/README.md)
 - [MPT-76](MKE/MPT-76/README.md)
 - [PIRANA](MKE/PIRANA/README.md)
@@ -50,4 +49,4 @@
 - [SARBOT](Sarsılmaz/SARBOT/README.md)
 
 ---
-**"Yarın Değil, Şimdi! Gelecek Burada."** 🇹🇷
+[Kök Dizine Dön](../README.md)

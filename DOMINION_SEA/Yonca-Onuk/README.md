@@ -1,9 +1,9 @@
-# 🏢 Yonca-Onuk - Project Hub
+# Yonca-Onuk Project Hub
 
-## 🚀 Yonca-Onuk Bünyesindeki Projeler
+## 🚀 Projects
 
 - [MRTP24](MRTP24/README.md)
 - [MRTP SERISI](MRTP_SERISI/README.md)
 
 ---
-**"Yarın Değil, Şimdi! Gelecek Burada."** 🇹🇷
+[Kök Dizine Dön](../../README.md) | [Dominion Hub'ına Dön](../README.md)

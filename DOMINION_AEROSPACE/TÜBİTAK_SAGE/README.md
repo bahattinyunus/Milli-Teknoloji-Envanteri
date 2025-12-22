@@ -1,6 +1,6 @@
-# 🏢 TÜBİTAK SAGE - Project Hub
+# TÜBİTAK SAGE Project Hub
 
-## 🚀 TÜBİTAK SAGE Bünyesindeki Projeler
+## 🚀 Projects
 
 - [GOKDOGAN](GOKDOGAN/README.md)
 - [GÜNEŞ](GÜNEŞ/README.md)
@@ -10,4 +10,4 @@
 - [İMECE](İMECE/README.md)
 
 ---
-**"Yarın Değil, Şimdi! Gelecek Burada."** 🇹🇷
+[Kök Dizine Dön](../../README.md) | [Dominion Hub'ına Dön](../README.md)

@@ -1,6 +1,6 @@
-# 🏢 TEI - Project Hub
+# TEI Project Hub
 
-## 🚀 TEI Bünyesindeki Projeler
+## 🚀 Projects
 
 - [PD170](PD170/README.md)
 - [PD222](PD222/README.md)
@@ -10,4 +10,4 @@
 - [TS1400](TS1400/README.md)
 
 ---
-**"Yarın Değil, Şimdi! Gelecek Burada."** 🇹🇷
+[Kök Dizine Dön](../../README.md) | [Dominion Hub'ına Dön](../README.md)

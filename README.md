@@ -71,7 +71,6 @@ Türkiye'nin teknoloji ekosistemi üç ana katmanda derinleşmektedir:
 | **[TJ90](./DOMINION_AEROSPACE/TEI/TJ90/README.md)** | TEI | Detaylı analiz bekleniyor | TRL 1-3 |
 | **[TS1400](./DOMINION_AEROSPACE/TEI/TS1400/README.md)** | TEI | Detaylı analiz bekleniyor | TRL 1-3 |
 | **[ANKA-3](./DOMINION_AEROSPACE/TUSAŞ/ANKA-3/README.md)** | TUSAŞ | Derin Darbe (Stealth) | TRL 7 |
-| **[ANKA3](./DOMINION_AEROSPACE/TUSAŞ/ANKA3/README.md)** | TUSAŞ | Detaylı analiz bekleniyor | TRL 1-3 |
 | **[ATAK-2](./DOMINION_AEROSPACE/TUSAŞ/ATAK-2/README.md)** | TUSAŞ | Detaylı analiz bekleniyor | TRL 1-3 |
 | **[GÖKBEY](./DOMINION_AEROSPACE/TUSAŞ/GÖKBEY/README.md)** | TUSAŞ | Detaylı analiz bekleniyor | TRL 1-3 |
 | **[GÖKTÜRK](./DOMINION_AEROSPACE/TUSAŞ/GÖKTÜRK/README.md)** | TUSAŞ | Detaylı analiz bekleniyor | TRL 1-3 |
@@ -101,10 +100,8 @@ Türkiye'nin teknoloji ekosistemi üç ana katmanda derinleşmektedir:
 | **[IHTAR](./DOMINION_ELECTRONICS/ASELSAN/IHTAR/README.md)** | ASELSAN | Detaylı analiz bekleniyor | TRL 1-3 |
 | **[KORAL](./DOMINION_ELECTRONICS/ASELSAN/KORAL/README.md)** | ASELSAN | Detaylı analiz bekleniyor | TRL 1-3 |
 | **[MURAD](./DOMINION_ELECTRONICS/ASELSAN/MURAD/README.md)** | ASELSAN | Detaylı analiz bekleniyor | TRL 1-3 |
-| **[MURAD RADAR](./DOMINION_ELECTRONICS/ASELSAN/MURAD_RADAR/README.md)** | ASELSAN | Detaylı analiz bekleniyor | TRL 1-3 |
 | **[MİLKAR](./DOMINION_ELECTRONICS/ASELSAN/MİLKAR/README.md)** | ASELSAN | Detaylı analiz bekleniyor | TRL 1-3 |
 | **[SANCAK](./DOMINION_ELECTRONICS/ASELSAN/SANCAK/README.md)** | ASELSAN | Detaylı analiz bekleniyor | TRL 1-3 |
-| **[SIPER](./DOMINION_ELECTRONICS/ASELSAN/SIPER/README.md)** | ASELSAN | Detaylı analiz bekleniyor | TRL 1-3 |
 | **[SİPER](./DOMINION_ELECTRONICS/ASELSAN/SİPER/README.md)** | ASELSAN | Uzun Menzilli HSS (150+ km) | TRL 8 |
 | **[TOYGUN](./DOMINION_ELECTRONICS/ASELSAN/TOYGUN/README.md)** | ASELSAN | Detaylı analiz bekleniyor | TRL 1-3 |
 | **[TURAN](./DOMINION_ELECTRONICS/ASELSAN/TURAN/README.md)** | ASELSAN | Detaylı analiz bekleniyor | TRL 1-3 |
@@ -142,7 +139,6 @@ Türkiye'nin teknoloji ekosistemi üç ana katmanda derinleşmektedir:
 | **[HIZIR](./DOMINION_LAND/Katmerciler/HIZIR/README.md)** | Katmerciler | Detaylı analiz bekleniyor | TRL 1-3 |
 | **[KIRAÇ](./DOMINION_LAND/Katmerciler/KIRAÇ/README.md)** | Katmerciler | Detaylı analiz bekleniyor | TRL 1-3 |
 | **[76MM DENİZ TOPU](./DOMINION_LAND/MKE/76MM_DENİZ_TOPU/README.md)** | MKE | Detaylı analiz bekleniyor | TRL 1-3 |
-| **[DENIZ TOPU](./DOMINION_LAND/MKE/DENIZ_TOPU/README.md)** | MKE | Detaylı analiz bekleniyor | TRL 1-3 |
 | **[FIRTINA II](./DOMINION_LAND/MKE/FIRTINA_II/README.md)** | MKE | Detaylı analiz bekleniyor | TRL 1-3 |
 | **[MPT-76](./DOMINION_LAND/MKE/MPT-76/README.md)** | MKE | Detaylı analiz bekleniyor | TRL 1-3 |
 | **[PIRANA](./DOMINION_LAND/MKE/PIRANA/README.md)** | MKE | Detaylı analiz bekleniyor | TRL 1-3 |
@@ -173,7 +169,6 @@ Türkiye'nin teknoloji ekosistemi üç ana katmanda derinleşmektedir:
 | **[TCG ANADOLU](./DOMINION_SEA/SEDEF/TCG_ANADOLU/README.md)** | SEDEF | SİHA Gemisi / LHD | TRL 9 |
 | **[TCG TRAKYA](./DOMINION_SEA/SEDEF/TCG_TRAKYA/README.md)** | SEDEF | Detaylı analiz bekleniyor | TRL 1-3 |
 | **[KARGU](./DOMINION_SEA/STM/KARGU/README.md)** | STM | Detaylı analiz bekleniyor | TRL 1-3 |
-| **[MILGEM](./DOMINION_SEA/STM/MILGEM/README.md)** | STM | Detaylı analiz bekleniyor | TRL 1-3 |
 | **[MİLGEM](./DOMINION_SEA/STM/MİLGEM/README.md)** | STM | Detaylı analiz bekleniyor | TRL 1-3 |
 | **[STM500](./DOMINION_SEA/STM/STM500/README.md)** | STM | Küçük Sınıf Denizaltı | TRL 6 |
 | **[MRTP24](./DOMINION_SEA/Yonca-Onuk/MRTP24/README.md)** | Yonca-Onuk | Detaylı analiz bekleniyor | TRL 1-3 |

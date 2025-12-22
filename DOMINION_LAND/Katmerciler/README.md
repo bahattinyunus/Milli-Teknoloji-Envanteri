@@ -1,9 +1,9 @@
-# 🏢 Katmerciler - Project Hub
+# Katmerciler Project Hub
 
-## 🚀 Katmerciler Bünyesindeki Projeler
+## 🚀 Projects
 
 - [HIZIR](HIZIR/README.md)
 - [KIRAÇ](KIRAÇ/README.md)
 
 ---
-**"Yarın Değil, Şimdi! Gelecek Burada."** 🇹🇷
+[Kök Dizine Dön](../../README.md) | [Dominion Hub'ına Dön](../README.md)

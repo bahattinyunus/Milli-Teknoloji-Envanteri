@@ -1,10 +1,10 @@
-# 🏢 Altınay Savunma - Project Hub
+# Altınay Savunma Project Hub
 
-## 🚀 Altınay Savunma Bünyesindeki Projeler
+## 🚀 Projects
 
 - [GIMBAL SISTEMLERI](GIMBAL_SISTEMLERI/README.md)
 - [KOBOT](KOBOT/README.md)
 - [PEREGRINE](PEREGRINE/README.md)
 
 ---
-**"Yarın Değil, Şimdi! Gelecek Burada."** 🇹🇷
+[Kök Dizine Dön](../../README.md) | [Dominion Hub'ına Dön](../README.md)

@@ -1,11 +1,10 @@
-# 🏢 STM - Project Hub
+# STM Project Hub
 
-## 🚀 STM Bünyesindeki Projeler
+## 🚀 Projects
 
 - [KARGU](KARGU/README.md)
-- [MILGEM](MILGEM/README.md)
 - [MİLGEM](MİLGEM/README.md)
 - [STM500](STM500/README.md)
 
 ---
-**"Yarın Değil, Şimdi! Gelecek Burada."** 🇹🇷
+[Kök Dizine Dön](../../README.md) | [Dominion Hub'ına Dön](../README.md)

@@ -1,6 +1,6 @@
-# 🏢 HAVELSAN - Project Hub
+# HAVELSAN Project Hub
 
-## 🚀 HAVELSAN Bünyesindeki Projeler
+## 🚀 Projects
 
 - [ADVENT](ADVENT/README.md)
 - [BAHA](BAHA/README.md)
@@ -12,4 +12,4 @@
 - [SIMULATORS](SIMULATORS/README.md)
 
 ---
-**"Yarın Değil, Şimdi! Gelecek Burada."** 🇹🇷
+[Kök Dizine Dön](../../README.md) | [Dominion Hub'ına Dön](../README.md)

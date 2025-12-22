@@ -1,6 +1,6 @@
-# 🏢 ASELSAN - Project Hub
+# ASELSAN Project Hub
 
-## 🚀 ASELSAN Bünyesindeki Projeler
+## 🚀 Projects
 
 - [ALBATROS-S](ALBATROS-S/README.md)
 - [ASELFLIR-500](ASELFLIR-500/README.md)
@@ -12,14 +12,12 @@
 - [IHTAR](IHTAR/README.md)
 - [KORAL](KORAL/README.md)
 - [MURAD](MURAD/README.md)
-- [MURAD RADAR](MURAD_RADAR/README.md)
 - [MİLKAR](MİLKAR/README.md)
 - [SANCAK](SANCAK/README.md)
-- [SIPER](SIPER/README.md)
 - [SİPER](SİPER/README.md)
 - [TOYGUN](TOYGUN/README.md)
 - [TURAN](TURAN/README.md)
 - [ULAQ](ULAQ/README.md)
 
 ---
-**"Yarın Değil, Şimdi! Gelecek Burada."** 🇹🇷
+[Kök Dizine Dön](../../README.md) | [Dominion Hub'ına Dön](../README.md)

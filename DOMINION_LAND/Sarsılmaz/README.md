@@ -1,6 +1,6 @@
-# 🏢 Sarsılmaz - Project Hub
+# Sarsılmaz Project Hub
 
-## 🚀 Sarsılmaz Bünyesindeki Projeler
+## 🚀 Projects
 
 - [SAR127](SAR127/README.md)
 - [SAR56](SAR56/README.md)
@@ -8,4 +8,4 @@
 - [SARBOT](SARBOT/README.md)
 
 ---
-**"Yarın Değil, Şimdi! Gelecek Burada."** 🇹🇷
+[Kök Dizine Dön](../../README.md) | [Dominion Hub'ına Dön](../README.md)

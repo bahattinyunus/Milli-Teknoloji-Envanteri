@@ -1,6 +1,6 @@
-# 🏢 ASFAT - Project Hub
+# ASFAT Project Hub
 
-## 🚀 ASFAT Bünyesindeki Projeler
+## 🚀 Projects
 
 - [ADKG](ADKG/README.md)
 - [HİSAR SINIFI OPV](HİSAR_SINIFI_OPV/README.md)
@@ -8,4 +8,4 @@
 - [PN MILGEM](PN_MILGEM/README.md)
 
 ---
-**"Yarın Değil, Şimdi! Gelecek Burada."** 🇹🇷
+[Kök Dizine Dön](../../README.md) | [Dominion Hub'ına Dön](../README.md)

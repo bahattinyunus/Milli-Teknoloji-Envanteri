@@ -1,10 +1,10 @@
-# 🏢 METEKSAN - Project Hub
+# METEKSAN Project Hub
 
-## 🚀 METEKSAN Bünyesindeki Projeler
+## 🚀 Projects
 
 - [MİLDAR](MİLDAR/README.md)
 - [RETINAR](RETINAR/README.md)
 - [YAKAMOZ](YAKAMOZ/README.md)
 
 ---
-**"Yarın Değil, Şimdi! Gelecek Burada."** 🇹🇷
+[Kök Dizine Dön](../../README.md) | [Dominion Hub'ına Dön](../README.md)

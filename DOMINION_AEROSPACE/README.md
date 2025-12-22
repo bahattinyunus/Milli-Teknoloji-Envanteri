@@ -1,26 +1,7 @@
-# 🌌 AEROSPACE (Hava & Uzay)
+# DOMINION AEROSPACE Index
 
 ## 🏢 Corporate Index
 
-### 📊 Stratejik Sinerji Diyagramı
-```mermaid
-graph TD
-    subgraph STRIKE ["Vuruş ve Derin Darbe"]
-        KAAN["KAAN (5. Nesil)"]
-        ANKA3["ANKA-3 (Stealth)"]
-        KIZ["KIZILELMA (MİUS)"]
-    end
-    
-    subgraph SUPPORT ["Stratejik Destek"]
-        AKN["AKINCI (TİHA)"]
-        FERG["FERGANİ (LEO Uydu)"]
-    end
-    
-    FERG -.->|Veri Bağı| KAAN
-    FERG -.->|Hedefleme| AKN
-    KAAN ===|Hava Hakimiyeti| STRIKE
-    AKN ---|Sürü Kontrol| KIZ
-```
 
 
 ### [BAYKAR](BAYKAR/README.md)
@@ -62,9 +43,12 @@ graph TD
 - [TJ90](TEI/TJ90/README.md)
 - [TS1400](TEI/TS1400/README.md)
 
+### [Titra](Titra/README.md)
+- [ALPİN](Titra/ALPİN/README.md)
+- [DELİ](Titra/DELİ/README.md)
+
 ### [TUSAŞ](TUSAŞ/README.md)
 - [ANKA-3](TUSAŞ/ANKA-3/README.md)
-- [ANKA3](TUSAŞ/ANKA3/README.md)
 - [ATAK-2](TUSAŞ/ATAK-2/README.md)
 - [GÖKBEY](TUSAŞ/GÖKBEY/README.md)
 - [GÖKTÜRK](TUSAŞ/GÖKTÜRK/README.md)
@@ -72,10 +56,6 @@ graph TD
 - [HÜRKUŞ](TUSAŞ/HÜRKUŞ/README.md)
 - [KAAN](TUSAŞ/KAAN/README.md)
 - [TÜRKSAT 6A](TUSAŞ/TÜRKSAT_6A/README.md)
-
-### [Titra](Titra/README.md)
-- [ALPİN](Titra/ALPİN/README.md)
-- [DELİ](Titra/DELİ/README.md)
 
 ### [TÜBİTAK SAGE](TÜBİTAK_SAGE/README.md)
 - [GOKDOGAN](TÜBİTAK_SAGE/GOKDOGAN/README.md)
@@ -86,4 +66,4 @@ graph TD
 - [İMECE](TÜBİTAK_SAGE/İMECE/README.md)
 
 ---
-**"Yarın Değil, Şimdi! Gelecek Burada."** 🇹🇷
+[Kök Dizine Dön](../README.md)
