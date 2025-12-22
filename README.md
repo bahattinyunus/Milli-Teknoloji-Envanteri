@@ -40,7 +40,7 @@ Türkiye'nin teknoloji ekosistemi üç ana katmanda derinleşmektedir:
 | Proje / Platform | Üretici | Stratejik Önem | TRL |
 | :--- | :--- | :--- | :--- |
 | **[AKINCI](./DOMINION_AEROSPACE/BAYKAR/AKINCI/README.md)** | BAYKAR | Stratejik TİHA | TRL 9 |
-| **[FERGANİ](./DOMINION_AEROSPACE/BAYKAR/FERGANİ/README.md)** | BAYKAR | Detaylı analiz bekleniyor | TRL 1-3 |
+| **[FERGANİ](./DOMINION_AEROSPACE/BAYKAR/FERGANİ/README.md)** | BAYKAR | LEO Takım Uydu / Küresel Konumlama | TRL 9 |
 | **[KALKAN](./DOMINION_AEROSPACE/BAYKAR/KALKAN/README.md)** | BAYKAR | Detaylı analiz bekleniyor | TRL 1-3 |
 | **[KEMANKEŞ](./DOMINION_AEROSPACE/BAYKAR/KEMANKEŞ/README.md)** | BAYKAR | Detaylı analiz bekleniyor | TRL 1-3 |
 | **[KEMANKEŞ 2](./DOMINION_AEROSPACE/BAYKAR/KEMANKEŞ_2/README.md)** | BAYKAR | Detaylı analiz bekleniyor | TRL 1-3 |
@@ -60,9 +60,9 @@ Türkiye'nin teknoloji ekosistemi üç ana katmanda derinleşmektedir:
 | **[LEVENT](./DOMINION_AEROSPACE/ROKETSAN/LEVENT/README.md)** | ROKETSAN | Detaylı analiz bekleniyor | TRL 1-3 |
 | **[ORKA](./DOMINION_AEROSPACE/ROKETSAN/ORKA/README.md)** | ROKETSAN | Detaylı analiz bekleniyor | TRL 1-3 |
 | **[SUNGUR](./DOMINION_AEROSPACE/ROKETSAN/SUNGUR/README.md)** | ROKETSAN | Detaylı analiz bekleniyor | TRL 1-3 |
-| **[TAYFUN](./DOMINION_AEROSPACE/ROKETSAN/TAYFUN/README.md)** | ROKETSAN | Balistik Caydırıcılık | TRL 8 |
+| **[TAYFUN](./DOMINION_AEROSPACE/ROKETSAN/TAYFUN/README.md)** | ROKETSAN | Balistik Caydırıcılık (1000+ km) | TRL 9 |
 | **[TAYFUN BLOK4](./DOMINION_AEROSPACE/ROKETSAN/TAYFUN_BLOK4/README.md)** | ROKETSAN | Detaylı analiz bekleniyor | TRL 1-3 |
-| **[ÇAKIR](./DOMINION_AEROSPACE/ROKETSAN/ÇAKIR/README.md)** | ROKETSAN | Detaylı analiz bekleniyor | TRL 1-3 |
+| **[ÇAKIR](./DOMINION_AEROSPACE/ROKETSAN/ÇAKIR/README.md)** | ROKETSAN | Yeni Nesil Seyir Füzesi (150+ km) | TRL 9 |
 | **[İHA-300](./DOMINION_AEROSPACE/ROKETSAN/İHA-300/README.md)** | ROKETSAN | Detaylı analiz bekleniyor | TRL 1-3 |
 | **[PD170](./DOMINION_AEROSPACE/TEI/PD170/README.md)** | TEI | Detaylı analiz bekleniyor | TRL 1-3 |
 | **[PD222](./DOMINION_AEROSPACE/TEI/PD222/README.md)** | TEI | Detaylı analiz bekleniyor | TRL 1-3 |
@@ -97,7 +97,7 @@ Türkiye'nin teknoloji ekosistemi üç ana katmanda derinleşmektedir:
 | **[EJDERHA](./DOMINION_ELECTRONICS/ASELSAN/EJDERHA/README.md)** | ASELSAN | Detaylı analiz bekleniyor | TRL 1-3 |
 | **[ERALP](./DOMINION_ELECTRONICS/ASELSAN/ERALP/README.md)** | ASELSAN | Detaylı analiz bekleniyor | TRL 1-3 |
 | **[GÖKTAN](./DOMINION_ELECTRONICS/ASELSAN/GÖKTAN/README.md)** | ASELSAN | Detaylı analiz bekleniyor | TRL 1-3 |
-| **[GÜRZ](./DOMINION_ELECTRONICS/ASELSAN/GÜRZ/README.md)** | ASELSAN | Hibrit Hava Savunma | TRL 8 |
+| **[GÜRZ](./DOMINION_ELECTRONICS/ASELSAN/GÜRZ/README.md)** | ASELSAN | Hibrit Hava Savunma (AESA Destekli) | TRL 8 |
 | **[IHTAR](./DOMINION_ELECTRONICS/ASELSAN/IHTAR/README.md)** | ASELSAN | Detaylı analiz bekleniyor | TRL 1-3 |
 | **[KORAL](./DOMINION_ELECTRONICS/ASELSAN/KORAL/README.md)** | ASELSAN | Detaylı analiz bekleniyor | TRL 1-3 |
 | **[MURAD](./DOMINION_ELECTRONICS/ASELSAN/MURAD/README.md)** | ASELSAN | Detaylı analiz bekleniyor | TRL 1-3 |
@@ -105,7 +105,7 @@ Türkiye'nin teknoloji ekosistemi üç ana katmanda derinleşmektedir:
 | **[MİLKAR](./DOMINION_ELECTRONICS/ASELSAN/MİLKAR/README.md)** | ASELSAN | Detaylı analiz bekleniyor | TRL 1-3 |
 | **[SANCAK](./DOMINION_ELECTRONICS/ASELSAN/SANCAK/README.md)** | ASELSAN | Detaylı analiz bekleniyor | TRL 1-3 |
 | **[SIPER](./DOMINION_ELECTRONICS/ASELSAN/SIPER/README.md)** | ASELSAN | Detaylı analiz bekleniyor | TRL 1-3 |
-| **[SİPER](./DOMINION_ELECTRONICS/ASELSAN/SİPER/README.md)** | ASELSAN | Uzun Menzilli HSS | TRL 8 |
+| **[SİPER](./DOMINION_ELECTRONICS/ASELSAN/SİPER/README.md)** | ASELSAN | Uzun Menzilli HSS (150+ km) | TRL 8 |
 | **[TOYGUN](./DOMINION_ELECTRONICS/ASELSAN/TOYGUN/README.md)** | ASELSAN | Detaylı analiz bekleniyor | TRL 1-3 |
 | **[TURAN](./DOMINION_ELECTRONICS/ASELSAN/TURAN/README.md)** | ASELSAN | Detaylı analiz bekleniyor | TRL 1-3 |
 | **[ULAQ](./DOMINION_ELECTRONICS/ASELSAN/ULAQ/README.md)** | ASELSAN | Detaylı analiz bekleniyor | TRL 1-3 |

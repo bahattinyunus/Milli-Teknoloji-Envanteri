@@ -2,6 +2,27 @@
 
 ## 🏢 Corporate Index
 
+### 📊 Stratejik Sinerji Diyagramı
+```mermaid
+graph TD
+    subgraph STRIKE ["Vuruş ve Derin Darbe"]
+        KAAN["KAAN (5. Nesil)"]
+        ANKA3["ANKA-3 (Stealth)"]
+        KIZ["KIZILELMA (MİUS)"]
+    end
+    
+    subgraph SUPPORT ["Stratejik Destek"]
+        AKN["AKINCI (TİHA)"]
+        FERG["FERGANİ (LEO Uydu)"]
+    end
+    
+    FERG -.->|Veri Bağı| KAAN
+    FERG -.->|Hedefleme| AKN
+    KAAN ===|Hava Hakimiyeti| STRIKE
+    AKN ---|Sürü Kontrol| KIZ
+```
+
+
 ### [BAYKAR](BAYKAR/README.md)
 - [AKINCI](BAYKAR/AKINCI/README.md)
 - [FERGANİ](BAYKAR/FERGANİ/README.md)
