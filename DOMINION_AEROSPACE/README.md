@@ -2,6 +2,50 @@
 
 ## 🏢 Corporate Index
 
+### 📊 Stratejik Sinerji Diyagramı
+```mermaid
+graph TD
+    subgraph STRIKE ["Vuruş ve Derin Darbe"]
+        KAAN["KAAN (5. Nesil)"]
+        ANKA3["ANKA-3 (Stealth)"]
+        KIZ["KIZILELMA (MİUS)"]
+    end
+    
+    subgraph SUPPORT ["Stratejik Destek"]
+        AKN["AKINCI (TİHA)"]
+        FERG["FERGANİ (LEO Uydu)"]
+    end
+    
+    FERG -.->|Veri Bağı| KAAN
+    FERG -.->|Hedefleme| AKN
+    KAAN ===|Hava Hakimiyeti| STRIKE
+    AKN ---|Sürü Kontrol| KIZ
+```
+
+### 🐝 Sürü Zekası ve Operasyonel Doktrin (Swarm Intelligence)
+```mermaid
+graph TD
+    subgraph SPACE ["Uzay Katmanı (Space Layer)"]
+        FERG["FERGANİ LEO Takımı"]
+    end
+    
+    subgraph COMMAND ["Karar Katmanı (Command & AI)"]
+        A3["ANKA-3 (Orkestra Şefi)"]
+    end
+    
+    subgraph SWARM ["Sürü Katmanı (Swarm Layer)"]
+        KEM2["KEMANKEŞ 2 (Sürü İntihar)"]
+        KEM1["KEMANKEŞ 1 (Sürü İntihar)"]
+        ALP["ALPİN (Lojistik Sürü)"]
+    end
+    
+    FERG ===>|Hedef Verisi| A3
+    A3 ---|Otonom Karar| SWARM
+    KEM2 -.->|Kamikaze| TARGET["Düşman Unsuru"]
+    KEM1 -.->|Kamikaze| TARGET
+```
+
+
 
 
 ### [BAYKAR](BAYKAR/README.md)

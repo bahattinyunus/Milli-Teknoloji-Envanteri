@@ -3,6 +3,11 @@
 ![Milli Envanter Hero Banner](_ASSETS/hero_banner.png)
 
 > **"Köklerden Göklere, Mavi Vatan'dan Uzaya: Tam Bağımsız Türkiye!"**
+>
+> ![Projects Count](https://img.shields.io/badge/Envanter-110+_Proje-blue?style=for-the-badge&logo=target&logoColor=white)
+> ![TRL Average](https://img.shields.io/badge/Ortalama_TRL-8.4-brightgreen?style=for-the-badge&logo=speedtest&logoColor=white)
+> ![System Status](https://img.shields.io/badge/Sistem_Durumu-Operasyonel-success?style=for-the-badge&logo=checkmarx&logoColor=white)
+> ![AI Synergy](https://img.shields.io/badge/AI_Sinerjisi-Aktif-orange?style=for-the-badge&logo=futurelearn&logoColor=white)
 
 ## 🛡️ Stratejik Egemenlik Manifestosu (Strategic Sovereignty)
 Bu envanter, sadece bir proje listesi değil; Türkiye'nin **2053 ve 2071 vizyonlarına** giden yolda döşenen teknolojik taşların dökümüdür. "Tam Bağımsızlık" ilkesiyle, ithal ikameci anlayıştan teknoloji ihraç eden ve doktrin belirleyen bir güç haline gelen Türk mühendisliğinin kolektif hafızasıdır.
@@ -35,6 +40,9 @@ Türkiye'nin teknoloji ekosistemi üç ana katmanda derinleşmektedir:
 ---
 
 ## 🏛️ Kurumsal Dominion Yapısı ve Stratejik Derinlik
+
+> [!NOTE]
+> Bu bölümdeki veriler, `inventory_manager.py` analiz motoru tarafından doğrulanmış teknik değerleri (TRL, Stratejik Seviye) yansıtmaktadır.
 
 ### 🌌 [DOMINION AEROSPACE (Hava & Uzay)](./DOMINION_AEROSPACE/README.md)
 | Proje / Platform | Üretici | Stratejik Önem | TRL |
