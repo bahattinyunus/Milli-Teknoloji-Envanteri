@@ -11,8 +11,8 @@ ADVENT, Türk Deniz Kuvvetleri ve HAVELSAN işbirliğiyle geliştirilen, gemiler
 | **Fark** | Ağ destekli yetenek ile birden fazla geminin tek bir birim gibi çalışması |
 
 
+
 ## 📁 Proje Varlıkları (Project Assets)
 - (Bu proje dizininde henüz ek dosya bulunmamaktadır.)
-
 ---
 [⬅️ HAVELSAN Ana Sayfası](../README.md) | [🏠 Ana Sayfa](../../README.md)

@@ -12,8 +12,8 @@ KARGU, STM tarafından geliştirilen, "antiterror" ve asimetrik harp operasyonla
 | **Yetenek** | Yapay Zeka destekli görüntü işleme ve sürü (swarm) kabiliyeti |
 
 
+
 ## 📁 Proje Varlıkları (Project Assets)
 - (Bu proje dizininde henüz ek dosya bulunmamaktadır.)
-
 ---
 [⬅️ STM Ana Sayfası](../README.md) | [🏠 Ana Sayfa](../../README.md)

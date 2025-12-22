@@ -11,8 +11,8 @@ Bayraktar TB2, dünya savunma tarihinde yeni bir çığır açan, savaş meydanl
 | **Kontrol** | Tam Otonom Taksi, Kalkış, Seyir ve İniş |
 
 
+
 ## 📁 Proje Varlıkları (Project Assets)
 - (Bu proje dizininde henüz ek dosya bulunmamaktadır.)
-
 ---
 [⬅️ BAYKAR Ana Sayfası](../README.md) | [🏠 Ana Sayfa](../../README.md)

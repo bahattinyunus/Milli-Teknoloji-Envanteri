@@ -11,8 +11,8 @@ DELİ, Titra Teknoloji tarafından geliştirilen, elden veya katapulttan fırlat
 | **Menzil** | 30 km |
 
 
+
 ## 📁 Proje Varlıkları (Project Assets)
 - (Bu proje dizininde henüz ek dosya bulunmamaktadır.)
-
 ---
 [⬅️ Titra Ana Sayfası](../README.md) | [🏠 Ana Sayfa](../../README.md)

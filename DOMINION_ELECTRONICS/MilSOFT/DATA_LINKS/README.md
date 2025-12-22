@@ -11,8 +11,8 @@ MilSOFT tarafından geliştirilen Veri Linki yazılım ve donanım bileşenleri,
 | **Yetenek** | Çoklu ağ yönetimi ve otomatik röle kabiliyeti |
 
 
+
 ## 📁 Proje Varlıkları (Project Assets)
 - (Bu proje dizininde henüz ek dosya bulunmamaktadır.)
-
 ---
 [⬅️ MilSOFT Ana Sayfası](../README.md) | [🏠 Ana Sayfa](../../README.md)

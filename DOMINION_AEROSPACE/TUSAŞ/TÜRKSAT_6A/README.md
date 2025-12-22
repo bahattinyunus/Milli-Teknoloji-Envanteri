@@ -12,8 +12,8 @@ TÜRKSAT 6A, Türkiye'nin ilk yerli ve milli haberleşme uydusudur. TUSAŞ, ASEL
 | **Kapsama** | Türkiye, Avrupa, Kuzey Afrika, Orta Doğu ve Güney Asya |
 
 
+
 ## 📁 Proje Varlıkları (Project Assets)
 - (Bu proje dizininde henüz ek dosya bulunmamaktadır.)
-
 ---
 [⬅️ TUSAŞ Ana Sayfası](../README.md) | [🏠 Ana Sayfa](../../README.md)

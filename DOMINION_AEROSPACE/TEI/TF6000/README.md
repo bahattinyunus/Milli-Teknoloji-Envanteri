@@ -11,8 +11,8 @@ TEI-TF6000, Türkiye'nin yerli imkanlarla tasarladığı ilk gerçek turbofan mo
 | **Özellik** | %100 yerli tasarım ve üretim |
 
 
+
 ## 📁 Proje Varlıkları (Project Assets)
 - (Bu proje dizininde henüz ek dosya bulunmamaktadır.)
-
 ---
 [⬅️ TEI Ana Sayfası](../README.md) | [🏠 Ana Sayfa](../../README.md)

@@ -11,8 +11,8 @@ GÖKTÜRK, Türkiye'nin askeri ve sivil amaçlı yüksek çözünürlüklü gör
 | **Görev** | İstihbarat, Haritalama, Doğal Afet İzleme |
 
 
+
 ## 📁 Proje Varlıkları (Project Assets)
 - (Bu proje dizininde henüz ek dosya bulunmamaktadır.)
-
 ---
 [⬅️ TUSAŞ Ana Sayfası](../README.md) | [🏠 Ana Sayfa](../../README.md)

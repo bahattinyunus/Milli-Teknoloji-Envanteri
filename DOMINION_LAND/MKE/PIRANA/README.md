@@ -11,8 +11,8 @@ PİRANA, MKE tarafından geliştirilen, deniz hedeflerine karşı kullanılmak �
 | **Kontrol** | Otonom veya Uzaktan Komuta |
 
 
+
 ## 📁 Proje Varlıkları (Project Assets)
 - (Bu proje dizininde henüz ek dosya bulunmamaktadır.)
-
 ---
 [⬅️ MKE Ana Sayfası](../README.md) | [🏠 Ana Sayfa](../../README.md)

@@ -12,8 +12,8 @@ SANCAR SİDA, HAVELSAN ve Yonca-Onuk Tersanesi iş birliğiyle geliştirilen, ke
 | **Özellik** | Otonom seyir, ADVENT SYS entegrasyonu ve deniz durumu 4'e kadar operasyon |
 
 
+
 ## 📁 Proje Varlıkları (Project Assets)
 - (Bu proje dizininde henüz ek dosya bulunmamaktadır.)
-
 ---
 [⬅️ HAVELSAN Ana Sayfası](../README.md) | [🏠 Ana Sayfa](../../README.md)

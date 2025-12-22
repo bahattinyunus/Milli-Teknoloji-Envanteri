@@ -11,8 +11,8 @@ KUZGUN, TÜBİTAK SAGE tarafından geliştirilen, turbojet (KY), katı yakıtlı
 | **Ağırlık** | ~100 kg |
 
 
+
 ## 📁 Proje Varlıkları (Project Assets)
 - (Bu proje dizininde henüz ek dosya bulunmamaktadır.)
-
 ---
 [⬅️ SAGE Ana Sayfası](../README.md) | [🏠 Ana Sayfa](../../README.md)

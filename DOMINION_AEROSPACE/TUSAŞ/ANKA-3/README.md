@@ -57,8 +57,8 @@ ANKA-3, Türkiye'nin görünmezlik vizyonunun en kritik halkasıdır:
 - [ ] Operasyonel Görev Hazırlığı
 
 
+
 ## 📁 Proje Varlıkları (Project Assets)
 - (Bu proje dizininde henüz ek dosya bulunmamaktadır.)
-
 ---
 [⬅️ TUSAŞ Ana Sayfası](../README.md) | [🏠 Ana Sayfa](../../../README.md)

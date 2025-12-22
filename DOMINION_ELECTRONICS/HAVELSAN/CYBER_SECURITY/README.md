@@ -9,8 +9,8 @@ HAVELSAN, Türkiye'nin kritik altyapılarını siber tehditlere karşı korumak 
 - **Varlık Keşfi ve Anomali Tespiti**: Ağ trafiğini analiz ederek siber saldırıları önceden tespit eden yapay zeka destekli sistemler.
 
 
+
 ## 📁 Proje Varlıkları (Project Assets)
 - (Bu proje dizininde henüz ek dosya bulunmamaktadır.)
-
 ---
 [⬅️ HAVELSAN Ana Sayfası](../README.md) | [🏠 Ana Sayfa](../../README.md)

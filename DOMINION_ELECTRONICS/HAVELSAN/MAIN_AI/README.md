@@ -32,8 +32,8 @@ MAIN, savunma ekosisteminde birçok kritik süreci otomatize eder:
 - **Otonom Kod Üretimi:** Savunma projelerinde kullanılan yazılımlar için güvenlik açığı taraması ve otomatik kod iyileştirme.
 
 
+
 ## 📁 Proje Varlıkları (Project Assets)
 - (Bu proje dizininde henüz ek dosya bulunmamaktadır.)
-
 ---
 [⬅️ HAVELSAN Ana Sayfası](../README.md) | [🏠 Ana Sayfa](../../../README.md)

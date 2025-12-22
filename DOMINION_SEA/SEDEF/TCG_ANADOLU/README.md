@@ -56,8 +56,8 @@ TCG ANADOLU, Türk Deniz Kuvvetleri'nin yüzer harekat merkezidir:
 - **Hava Savunma:** ASELSAN (GÖKDENİZ, STOP)
 
 
+
 ## 📁 Proje Varlıkları (Project Assets)
 - (Bu proje dizininde henüz ek dosya bulunmamaktadır.)
-
 ---
 [⬅️ SEDEF Ana Sayfası](../README.md) | [🏠 Ana Sayfa](../../../README.md)

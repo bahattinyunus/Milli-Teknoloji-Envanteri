@@ -12,8 +12,8 @@ ALPAR, OTOKAR tarafından geliştirilen Türkiye'nin ilk ağır sınıf (15 ton)
 | **Otonomi** | ADAS destekli otonom sürüş, düşük termal ve akustik iz |
 
 
+
 ## 📁 Proje Varlıkları (Project Assets)
 - (Bu proje dizininde henüz ek dosya bulunmamaktadır.)
-
 ---
 [⬅️ OTOKAR Ana Sayfası](../README.md) | [🏠 Ana Sayfa](../../README.md)

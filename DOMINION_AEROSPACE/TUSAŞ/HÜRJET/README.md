@@ -57,8 +57,8 @@ HÜRJET, KAAN'a giden yolda sadece bir eğitim aracı değil, operasyonel bir k�
 - [ ] Hava Kuvvetleri Envanterine Giriş (2025+)
 
 
+
 ## 📁 Proje Varlıkları (Project Assets)
 - (Bu proje dizininde henüz ek dosya bulunmamaktadır.)
-
 ---
 [⬅️ TUSAŞ Ana Sayfası](../README.md) | [🏠 Ana Sayfa](../../../README.md)

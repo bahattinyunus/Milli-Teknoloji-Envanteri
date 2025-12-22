@@ -12,8 +12,8 @@ ASELFLIR-500, ASELSAN tarafından geliştirilen, İHA'lar, helikopterler ve uça
 | **Platform** | AKINCI, ANKA-3, KAAN, ATAK-2 |
 
 
+
 ## 📁 Proje Varlıkları (Project Assets)
 - (Bu proje dizininde henüz ek dosya bulunmamaktadır.)
-
 ---
 [⬅️ ASELSAN Ana Sayfası](../README.md) | [🏠 Ana Sayfa](../../README.md)

@@ -57,8 +57,8 @@ ALTAY, modern orduların "Ağ Merkezli Harp" stratejisinin kara ayağını oluş
 - [ ] TSK Envanterine Teslimat (2025+)
 
 
+
 ## 📁 Proje Varlıkları (Project Assets)
 - (Bu proje dizininde henüz ek dosya bulunmamaktadır.)
-
 ---
 [⬅️ BMC Ana Sayfası](../README.md) | [🏠 Ana Sayfa](../../../README.md)

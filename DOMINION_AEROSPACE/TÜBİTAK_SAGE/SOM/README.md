@@ -12,8 +12,8 @@ SOM, TÜBİTAK SAGE tarafından geliştirilen ve ROKETSAN tarafından üretilen,
 | **Uyum** | F-16, F-4E ve KAAN platformları |
 
 
+
 ## 📁 Proje Varlıkları (Project Assets)
 - (Bu proje dizininde henüz ek dosya bulunmamaktadır.)
-
 ---
 [⬅️ SAGE Ana Sayfası](../README.md) | [🏠 Ana Sayfa](../../README.md)

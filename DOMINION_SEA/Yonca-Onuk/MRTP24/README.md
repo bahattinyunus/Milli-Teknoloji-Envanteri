@@ -11,8 +11,8 @@ MRTP24/U, Yonca-Onuk Tersanesi tarafından Türk Deniz Kuvvetleri SAT (Su Altı 
 | **Fark** | Çok yüksek hızlarda bile üstün denizcilik ve manevra yeteneği |
 
 
+
 ## 📁 Proje Varlıkları (Project Assets)
 - (Bu proje dizininde henüz ek dosya bulunmamaktadır.)
-
 ---
 [⬅️ Yonca-Onuk Ana Sayfası](../README.md) | [🏠 Ana Sayfa](../../README.md)

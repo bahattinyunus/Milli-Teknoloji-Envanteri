@@ -12,8 +12,8 @@ AKYA, ROKETSAN tarafından tamamen milli imkanlarla geliştirilen, denizaltılar
 | **Platform** | Reis Sınıfı, Preveze ve Gür Sınıfı Denizaltılar |
 
 
+
 ## 📁 Proje Varlıkları (Project Assets)
 - (Bu proje dizininde henüz ek dosya bulunmamaktadır.)
-
 ---
 [⬅️ ROKETSAN Ana Sayfası](../README.md) | [🏠 Ana Sayfa](../../README.md)

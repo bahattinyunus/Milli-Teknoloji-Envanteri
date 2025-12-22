@@ -11,8 +11,8 @@ KEMANKEŞ, BAYKAR tarafından geliştirilen, İHA platformlarından atılabilen,
 | **Görev** | Stratejik hedeflere karşı cerrahi operasyon |
 
 
+
 ## 📁 Proje Varlıkları (Project Assets)
 - (Bu proje dizininde henüz ek dosya bulunmamaktadır.)
-
 ---
 [⬅️ BAYKAR Ana Sayfası](../README.md) | [🏠 Ana Sayfa](../../README.md)

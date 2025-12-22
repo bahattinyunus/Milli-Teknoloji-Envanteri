@@ -11,8 +11,8 @@ GÖKBEY, TUSAŞ tarafından yerli imkanlarla tasarlanan ve üretilen ilk genel m
 | **Kullanım** | VIP, Kargo, Hava Ambulans, SAR |
 
 
+
 ## 📁 Proje Varlıkları (Project Assets)
 - (Bu proje dizininde henüz ek dosya bulunmamaktadır.)
-
 ---
 [⬅️ TUSAŞ Ana Sayfası](../README.md) | [🏠 Ana Sayfa](../../README.md)

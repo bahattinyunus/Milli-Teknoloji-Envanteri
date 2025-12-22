@@ -44,8 +44,8 @@ GÜRZ, Türkiye'nin "Çelik Kubbe" mimarisinin son katman savunma (point defense
 - **Yapay Zeka Destekli Swarm Defense:** Düzinelerce dronu aynı anda takip edip, en etkili imha yöntemini (top veya füze) otomatik seçen AI katmanı.
 
 
+
 ## 📁 Proje Varlıkları (Project Assets)
 - (Bu proje dizininde henüz ek dosya bulunmamaktadır.)
-
 ---
 [⬅️ ASELSAN Ana Sayfası](../README.md) | [🏠 Ana Sayfa](../../../README.md)

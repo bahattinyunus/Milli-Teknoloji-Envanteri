@@ -11,8 +11,8 @@ ASFAT tarafından Türk Deniz Kuvvetleri için geliştirilen Açık Deniz Karako
 | **Yetenek** | Helikopter Operasyonları, İHA İniş-Kalkış, Deniz Haydutluğu ile Mücadele |
 
 
+
 ## 📁 Proje Varlıkları (Project Assets)
 - (Bu proje dizininde henüz ek dosya bulunmamaktadır.)
-
 ---
 [⬅️ ASFAT Ana Sayfası](../README.md) | [🏠 Ana Sayfa](../../README.md)

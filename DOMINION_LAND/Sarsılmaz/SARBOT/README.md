@@ -11,8 +11,8 @@ SARBOT, Sarsılmaz'ın savunma sanayiinde otonomlaşma vizyonu kapsamında geli�
 | **Platform** | Paletli ve tekerlekli şasiler |
 
 
+
 ## 📁 Proje Varlıkları (Project Assets)
 - (Bu proje dizininde henüz ek dosya bulunmamaktadır.)
-
 ---
 [⬅️ Sarsılmaz Ana Sayfası](../README.md) | [🏠 Ana Sayfa](../../README.md)

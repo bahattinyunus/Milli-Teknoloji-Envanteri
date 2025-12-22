@@ -12,8 +12,8 @@ TEI-TJ90, TUSAŞ'ın Şimşek gibi yüksek hızlı hedef uçakları ve seyir fü
 | **Uygulama** | TUSAŞ Şimşek ve diğer insansız platformlar |
 
 
+
 ## 📁 Proje Varlıkları (Project Assets)
 - (Bu proje dizininde henüz ek dosya bulunmamaktadır.)
-
 ---
 [⬅️ TEI Ana Sayfası](../README.md) | [🏠 Ana Sayfa](../../README.md)

@@ -10,8 +10,8 @@ TS1400, TEI tarafından tamamen yerli imkanlarla tasarlanan ve geliştirilen Tü
 | **Özellik** | Zorlu irtifa ve sıcaklık koşullarında operasyon kabiliyeti |
 
 
+
 ## 📁 Proje Varlıkları (Project Assets)
 - (Bu proje dizininde henüz ek dosya bulunmamaktadır.)
-
 ---
 [⬅️ TEI Ana Sayfası](../README.md) | [🏠 Ana Sayfa](../../README.md)

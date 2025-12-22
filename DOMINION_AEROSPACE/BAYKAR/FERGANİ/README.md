@@ -11,8 +11,8 @@ FERGANİ, Baykar'ın uzay girişimleri kapsamında başlattığı, Türkiye'nin 
 | **Durum** | Geliştirme ve Test aşaması (2025+) |
 
 
+
 ## 📁 Proje Varlıkları (Project Assets)
 - (Bu proje dizininde henüz ek dosya bulunmamaktadır.)
-
 ---
 [⬅️ BAYKAR Ana Sayfası](../README.md) | [🏠 Ana Sayfa](../../README.md)

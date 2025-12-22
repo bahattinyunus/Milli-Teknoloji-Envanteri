@@ -10,8 +10,8 @@ ASFAT ana yükleniciliğinde Pakistan Deniz Kuvvetleri için inşa edilen, MİLG
 | **Silahlar** | Gelişmiş hava savunma, gemisavar füzeleri ve torpido savunma sistemleri. |
 
 
+
 ## 📁 Proje Varlıkları (Project Assets)
 - (Bu proje dizininde henüz ek dosya bulunmamaktadır.)
-
 ---
 [⬅️ ASFAT Ana Sayfası](../README.md) | [🏠 Ana Sayfa](../../README.md)

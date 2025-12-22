@@ -11,8 +11,8 @@ KAPLAN, FNSS tarafından geliştirilen, yeni nesil zırhlı muharebe araçları 
 | **Güç** | Yüksek güç/ağırlık oranı ile üstün arazi performansı |
 
 
+
 ## 📁 Proje Varlıkları (Project Assets)
 - (Bu proje dizininde henüz ek dosya bulunmamaktadır.)
-
 ---
 [⬅️ FNSS Ana Sayfası](../README.md) | [🏠 Ana Sayfa](../../README.md)

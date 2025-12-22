@@ -12,8 +12,8 @@ KAPGAN, HAVELSAN tarafından "Dijital Birlik" konsepti kapsamında geliştirilen
 | **Görev** | Ateş desteği, keşif, yaralı tahliyesi ve lojistik |
 
 
+
 ## 📁 Proje Varlıkları (Project Assets)
 - (Bu proje dizininde henüz ek dosya bulunmamaktadır.)
-
 ---
 [⬅️ HAVELSAN Ana Sayfası](../README.md) | [🏠 Ana Sayfa](../../README.md)
