@@ -22,32 +22,6 @@ graph TD
     AKN ---|Sürü Kontrol| KIZ
 ```
 
-### 🐝 Sürü Zekası ve Operasyonel Doktrin (Swarm Intelligence)
-```mermaid
-graph TD
-    subgraph SPACE ["Uzay Katmanı (Space Layer)"]
-        FERG["FERGANİ LEO Takımı"]
-    end
-    
-    subgraph COMMAND ["Karar Katmanı (Command & AI)"]
-        A3["ANKA-3 (Orkestra Şefi)"]
-    end
-    
-    subgraph SWARM ["Sürü Katmanı (Swarm Layer)"]
-        KEM2["KEMANKEŞ 2 (Sürü İntihar)"]
-        KEM1["KEMANKEŞ 1 (Sürü İntihar)"]
-        ALP["ALPİN (Lojistik Sürü)"]
-    end
-    
-    FERG ===>|Hedef Verisi| A3
-    A3 ---|Otonom Karar| SWARM
-    KEM2 -.->|Kamikaze| TARGET["Düşman Unsuru"]
-    KEM1 -.->|Kamikaze| TARGET
-```
-
-
-
-
 ### [BAYKAR](BAYKAR/README.md)
 - [AKINCI](BAYKAR/AKINCI/README.md)
 - [FERGANİ](BAYKAR/FERGANİ/README.md)
@@ -64,16 +38,9 @@ graph TD
 
 ### [ROKETSAN](ROKETSAN/README.md)
 - [AKATA](ROKETSAN/AKATA/README.md)
-- [AKYA](ROKETSAN/AKYA/README.md)
 - [ALKA](ROKETSAN/ALKA/README.md)
-- [ATMACA](ROKETSAN/ATMACA/README.md)
 - [BARBAROS](ROKETSAN/BARBAROS/README.md)
-- [GÖKBORA](ROKETSAN/GÖKBORA/README.md)
 - [HİSAR](ROKETSAN/HİSAR/README.md)
-- [KARAOK](ROKETSAN/KARAOK/README.md)
-- [LEVENT](ROKETSAN/LEVENT/README.md)
-- [ORKA](ROKETSAN/ORKA/README.md)
-- [SUNGUR](ROKETSAN/SUNGUR/README.md)
 - [TAYFUN](ROKETSAN/TAYFUN/README.md)
 - [TAYFUN BLOK4](ROKETSAN/TAYFUN_BLOK4/README.md)
 - [ÇAKIR](ROKETSAN/ÇAKIR/README.md)
@@ -92,6 +59,7 @@ graph TD
 - [DELİ](Titra/DELİ/README.md)
 
 ### [TUSAŞ](TUSAŞ/README.md)
+- [ANKA](TUSAŞ/ANKA/README.md)
 - [ANKA-3](TUSAŞ/ANKA-3/README.md)
 - [ATAK-2](TUSAŞ/ATAK-2/README.md)
 - [GÖKBEY](TUSAŞ/GÖKBEY/README.md)

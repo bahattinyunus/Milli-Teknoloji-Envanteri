@@ -1,18 +1,18 @@
-# 📡 Proje: MURAD AESA Radar Sistemi
+# MURAD - AESA Burun Radarı
 
-MURAD, ASELSAN tarafından geliştirilen, uçaklar (KAAN, HÜRJET, F-16) ve İHA'lar (AKINCI) için tasarlanan yeni nesil aktif faz dizinli (AESA) burun radarıdır. Türkiye'nin radar teknolojisindeki en üst noktasıdır.
+MURAD, milli muharip uçak KAAN ve F-16 ÖZGÜR platformları için geliştirilen Aktif Elektronik Taramalı Dizi (AESA) radardır.
 
-## 🛠 Teknik Veriler
-| Özellik | Detay |
-| :--- | :--- |
-| **Teknoloji** | Galyum Nitrat (GaN) tabanlı AESA |
-| **Yetenek** | Çoklu hedef takibi, elektronik harp direnci, yüksek çözünürlüklü görüntüleme (SAR) |
-| **Kullanım** | KAAN, HÜRJET, F-16 ÖZGÜR ve AKINCI |
-| **Fark** | Aynı anda hem hava-hava hem de hava-yer görevlerini icra edebilme |
+## 📡 Teknik Yetenekler
+- **Teknoloji:** GaN (Galyum Nitrür) tabanlı gönderme/alma modülleri.
+- **Menzil:** Uzun menzilli tespit ve takip (Emsallerine göre %20+ avantaj).
+- **Kabiliyet:** Aynı anda çoklu hedef takibi ve angajman.
+- **Direnç:** Yüksek elektronik karıştırma direnci (LPI mode).
 
+## 🛡️ Entegrasyon
+- KAAN
+- F-16 ÖZGÜR
+- AKINCI TİHA
+- KIZILELMA
 
-
-## 📁 Proje Varlıkları (Project Assets)
-- (Bu proje dizininde henüz ek dosya bulunmamaktadır.)
 ---
-[⬅️ ASELSAN Ana Sayfası](../README.md) | [🏠 Ana Sayfa](../../README.md)
+[Kök Dizine Dön](../../../README.md) | [Şirket Sayfasına Dön](../../README.md)

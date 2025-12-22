@@ -58,32 +58,32 @@ Türkiye'nin teknoloji ekosistemi üç ana katmanda derinleşmektedir:
 | **[TOMRİS](./DOMINION_AEROSPACE/BAYKAR/TOMRİS/README.md)** | BAYKAR | Detaylı analiz bekleniyor | TRL 1-3 |
 | **[KARAYEL](./DOMINION_AEROSPACE/Lentatek/KARAYEL/README.md)** | Lentatek | Detaylı analiz bekleniyor | TRL 1-3 |
 | **[AKATA](./DOMINION_AEROSPACE/ROKETSAN/AKATA/README.md)** | ROKETSAN | Detaylı analiz bekleniyor | TRL 1-3 |
-| **[AKYA](./DOMINION_AEROSPACE/ROKETSAN/AKYA/README.md)** | ROKETSAN | Detaylı analiz bekleniyor | TRL 1-3 |
+| **[AKYA](./DOMINION_SEA/ROKETSAN/AKYA/README.md)** | ROKETSAN | Yeni Nesil Ağır Sınıf Torpido (50+ km) | TRL 9 |
 | **[ALKA](./DOMINION_AEROSPACE/ROKETSAN/ALKA/README.md)** | ROKETSAN | Detaylı analiz bekleniyor | TRL 1-3 |
-| **[ATMACA](./DOMINION_AEROSPACE/ROKETSAN/ATMACA/README.md)** | ROKETSAN | Detaylı analiz bekleniyor | TRL 1-3 |
+| **[ATMACA](./DOMINION_SEA/ROKETSAN/ATMACA/README.md)** | ROKETSAN | Satıhtan Satıha Güdümlü Mermi (250 km) | TRL 9 |
 | **[BARBAROS](./DOMINION_AEROSPACE/ROKETSAN/BARBAROS/README.md)** | ROKETSAN | Detaylı analiz bekleniyor | TRL 1-3 |
 | **[GÖKBORA](./DOMINION_AEROSPACE/ROKETSAN/GÖKBORA/README.md)** | ROKETSAN | Detaylı analiz bekleniyor | TRL 1-3 |
-| **[HİSAR](./DOMINION_AEROSPACE/ROKETSAN/HİSAR/README.md)** | ROKETSAN | Detaylı analiz bekleniyor | TRL 1-3 |
-| **[KARAOK](./DOMINION_AEROSPACE/ROKETSAN/KARAOK/README.md)** | ROKETSAN | Detaylı analiz bekleniyor | TRL 1-3 |
+| **[HİSAR](./DOMINION_AEROSPACE/ROKETSAN/HİSAR/README.md)** | ROKETSAN | Milli Hava Savunma Ailesi (A+/O+) | TRL 9 |
+| **[KARAOK](./DOMINION_LAND/ROKETSAN/KARAOK/README.md)** | ROKETSAN | Omuzdan Atılan Tanksavar (2.5 km) | TRL 9 |
 | **[LEVENT](./DOMINION_AEROSPACE/ROKETSAN/LEVENT/README.md)** | ROKETSAN | Detaylı analiz bekleniyor | TRL 1-3 |
 | **[ORKA](./DOMINION_AEROSPACE/ROKETSAN/ORKA/README.md)** | ROKETSAN | Detaylı analiz bekleniyor | TRL 1-3 |
-| **[SUNGUR](./DOMINION_AEROSPACE/ROKETSAN/SUNGUR/README.md)** | ROKETSAN | Detaylı analiz bekleniyor | TRL 1-3 |
+| **[SUNGUR](./DOMINION_LAND/ROKETSAN/SUNGUR/README.md)** | ROKETSAN | Portatif Hava Savunma Füze Sistemi (8 km) | TRL 9 |
 | **[TAYFUN](./DOMINION_AEROSPACE/ROKETSAN/TAYFUN/README.md)** | ROKETSAN | Balistik Caydırıcılık (1000+ km) | TRL 9 |
 | **[TAYFUN BLOK4](./DOMINION_AEROSPACE/ROKETSAN/TAYFUN_BLOK4/README.md)** | ROKETSAN | Detaylı analiz bekleniyor | TRL 1-3 |
 | **[ÇAKIR](./DOMINION_AEROSPACE/ROKETSAN/ÇAKIR/README.md)** | ROKETSAN | Yeni Nesil Seyir Füzesi (150+ km) | TRL 9 |
 | **[İHA-300](./DOMINION_AEROSPACE/ROKETSAN/İHA-300/README.md)** | ROKETSAN | Detaylı analiz bekleniyor | TRL 1-3 |
-| **[PD170](./DOMINION_AEROSPACE/TEI/PD170/README.md)** | TEI | Detaylı analiz bekleniyor | TRL 1-3 |
-| **[PD222](./DOMINION_AEROSPACE/TEI/PD222/README.md)** | TEI | Detaylı analiz bekleniyor | TRL 1-3 |
-| **[TF6000](./DOMINION_AEROSPACE/TEI/TF6000/README.md)** | TEI | Detaylı analiz bekleniyor | TRL 1-3 |
-| **[TJ300](./DOMINION_AEROSPACE/TEI/TJ300/README.md)** | TEI | Detaylı analiz bekleniyor | TRL 1-3 |
-| **[TJ90](./DOMINION_AEROSPACE/TEI/TJ90/README.md)** | TEI | Detaylı analiz bekleniyor | TRL 1-3 |
+| **[PD170](./DOMINION_AEROSPACE/TEI/PD170/README.md)** | TEI | Turbodizel Havacılık Motoru (İHA'lar için) | TRL 9 |
+| **[PD222](./DOMINION_AEROSPACE/TEI/PD222/README.md)** | TEI | Turbodizel Havacılık Motoru (Daha Yüksek Güç) | TRL 8 |
+| **[TF6000](./DOMINION_AEROSPACE/TEI/TF6000/README.md)** | TEI | Milli Turbofan Motor (KIZILELMA için) | TRL 7 |
+| **[TJ300](./DOMINION_AEROSPACE/TEI/TJ300/README.md)** | TEI | Turbojet Motor (Seyir Füzeleri için) | TRL 9 |
+| **[TJ90](./DOMINION_AEROSPACE/TEI/TJ90/README.md)** | TEI | Turbojet Motor (Mini Seyir Füzeleri için) | TRL 9 |
 | **[TS1400](./DOMINION_AEROSPACE/TEI/TS1400/README.md)** | TEI | Detaylı analiz bekleniyor | TRL 1-3 |
-| **[ANKA-3](./DOMINION_AEROSPACE/TUSAŞ/ANKA-3/README.md)** | TUSAŞ | Derin Darbe (Stealth) | TRL 7 |
+| **[ANKA-3](./DOMINION_AEROSPACE/TUSAŞ/ANKA-3/README.md)** | TUSAŞ | Derin Darbe (Stealth) İnsansız Savaş Uçağı | TRL 7 |
 | **[ATAK-2](./DOMINION_AEROSPACE/TUSAŞ/ATAK-2/README.md)** | TUSAŞ | Detaylı analiz bekleniyor | TRL 1-3 |
-| **[GÖKBEY](./DOMINION_AEROSPACE/TUSAŞ/GÖKBEY/README.md)** | TUSAŞ | Detaylı analiz bekleniyor | TRL 1-3 |
+| **[GÖKBEY](./DOMINION_AEROSPACE/TUSAŞ/GÖKBEY/README.md)** | TUSAŞ | Genel Maksat Helikopteri (Milli Motor TS1400) | TRL 8 |
 | **[GÖKTÜRK](./DOMINION_AEROSPACE/TUSAŞ/GÖKTÜRK/README.md)** | TUSAŞ | Detaylı analiz bekleniyor | TRL 1-3 |
 | **[HÜRJET](./DOMINION_AEROSPACE/TUSAŞ/HÜRJET/README.md)** | TUSAŞ | Jet Eğitim & Taarruz | TRL 8 |
-| **[HÜRKUŞ](./DOMINION_AEROSPACE/TUSAŞ/HÜRKUŞ/README.md)** | TUSAŞ | Detaylı analiz bekleniyor | TRL 1-3 |
+| **[HÜRKUŞ](./DOMINION_AEROSPACE/TUSAŞ/HÜRKUŞ/README.md)** | TUSAŞ | Temel Eğitim ve Hafif Taarruz Uçağı | TRL 9 |
 | **[KAAN](./DOMINION_AEROSPACE/TUSAŞ/KAAN/README.md)** | TUSAŞ | 5. Nesil Görünmezlik | TRL 7 |
 | **[TÜRKSAT 6A](./DOMINION_AEROSPACE/TUSAŞ/TÜRKSAT_6A/README.md)** | TUSAŞ | Detaylı analiz bekleniyor | TRL 1-3 |
 | **[ALPİN](./DOMINION_AEROSPACE/Titra/ALPİN/README.md)** | Titra | Detaylı analiz bekleniyor | TRL 1-3 |
@@ -106,8 +106,8 @@ Türkiye'nin teknoloji ekosistemi üç ana katmanda derinleşmektedir:
 | **[GÖKTAN](./DOMINION_ELECTRONICS/ASELSAN/GÖKTAN/README.md)** | ASELSAN | Detaylı analiz bekleniyor | TRL 1-3 |
 | **[GÜRZ](./DOMINION_ELECTRONICS/ASELSAN/GÜRZ/README.md)** | ASELSAN | Hibrit Hava Savunma (AESA Destekli) | TRL 8 |
 | **[IHTAR](./DOMINION_ELECTRONICS/ASELSAN/IHTAR/README.md)** | ASELSAN | Detaylı analiz bekleniyor | TRL 1-3 |
-| **[KORAL](./DOMINION_ELECTRONICS/ASELSAN/KORAL/README.md)** | ASELSAN | Detaylı analiz bekleniyor | TRL 1-3 |
-| **[MURAD](./DOMINION_ELECTRONICS/ASELSAN/MURAD/README.md)** | ASELSAN | Detaylı analiz bekleniyor | TRL 1-3 |
+| **[KORAL](./DOMINION_ELECTRONICS/ASELSAN/KORAL/README.md)** | ASELSAN | Mobil/Stratejik Elektronik Harp Sistemi | TRL 9 |
+| **[MURAD](./DOMINION_ELECTRONICS/ASELSAN/MURAD/README.md)** | ASELSAN | AESA Burun Radarı (GaN Teknolojisi) | TRL 7 |
 | **[MİLKAR](./DOMINION_ELECTRONICS/ASELSAN/MİLKAR/README.md)** | ASELSAN | Detaylı analiz bekleniyor | TRL 1-3 |
 | **[SANCAK](./DOMINION_ELECTRONICS/ASELSAN/SANCAK/README.md)** | ASELSAN | Detaylı analiz bekleniyor | TRL 1-3 |
 | **[SİPER](./DOMINION_ELECTRONICS/ASELSAN/SİPER/README.md)** | ASELSAN | Uzun Menzilli HSS (150+ km) | TRL 8 |
@@ -147,7 +147,7 @@ Türkiye'nin teknoloji ekosistemi üç ana katmanda derinleşmektedir:
 | **[HIZIR](./DOMINION_LAND/Katmerciler/HIZIR/README.md)** | Katmerciler | Detaylı analiz bekleniyor | TRL 1-3 |
 | **[KIRAÇ](./DOMINION_LAND/Katmerciler/KIRAÇ/README.md)** | Katmerciler | Detaylı analiz bekleniyor | TRL 1-3 |
 | **[76MM DENİZ TOPU](./DOMINION_LAND/MKE/76MM_DENİZ_TOPU/README.md)** | MKE | Detaylı analiz bekleniyor | TRL 1-3 |
-| **[FIRTINA II](./DOMINION_LAND/MKE/FIRTINA_II/README.md)** | MKE | Detaylı analiz bekleniyor | TRL 1-3 |
+| **[FIRTINA II](./DOMINION_LAND/MKE/FIRTINA_II/README.md)** | MKE | Yeni Nesil KND Obüs (40+ km Menzil) | TRL 9 |
 | **[MPT-76](./DOMINION_LAND/MKE/MPT-76/README.md)** | MKE | Detaylı analiz bekleniyor | TRL 1-3 |
 | **[PIRANA](./DOMINION_LAND/MKE/PIRANA/README.md)** | MKE | Detaylı analiz bekleniyor | TRL 1-3 |
 | **[TOLGA](./DOMINION_LAND/MKE/TOLGA/README.md)** | MKE | Detaylı analiz bekleniyor | TRL 1-3 |

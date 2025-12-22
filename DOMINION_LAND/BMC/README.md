@@ -4,6 +4,7 @@
 
 - [ALTAY](ALTAY/README.md)
 - [KIRPI](KIRPI/README.md)
+- [KİRPİ II](KİRPİ_II/README.md)
 - [VURAN](VURAN/README.md)
 
 ---
