@@ -1,18 +1,36 @@
-# 🚜 Proje: TULPAR Yeni Nesil Zırhlı Muharebe Aracı
+# 🎠 Proje: TULPAR
 
-TULPAR, OTOKAR tarafından 21. yüzyılın savaş alanı ihtiyaçlarına göre tasarlanmış, modüler, paletli bir zırhlı araç ailesidir. Yüksek koruma düzeyi ve üstün ateş gücü ile her türlü harekat ortamında görev yapabilir.
+> **Üretici:** OTOKAR  
+> **Sınıf:** Yeni Nesil Paletli Zırhlı Muharebe Aracı (ZMA)  
+> **Stratejik Önem:** Ana Muharebe Tankları ile müşterek harekat icra edebilecek ağır sınıf zırhlı araç.
 
-## 🛠 Teknik Veriler
-| Özellik | Detay |
+![TULPAR](https://www.otokar.com.tr/media/4p1j1x5k/tulpar_gallery_01.jpg)
+
+## 📝 Proje Tanımı
+İsmini Manas Destanı'ndaki kanatlı attan alan TULPAR; günümüzün ve geleceğin muharebe sahası gereksinimlerine cevap verecek şekilde tasarlanmış, çok amaçlı ve modüler bir paletli araç platformudur. ALTAY tankı ile birlikte görev yapabilecek beka ve hareket kabiliyetine sahiptir.
+
+## ⚙️ Teknik Özellikler
+
+| Özellik | Değer |
 | :--- | :--- |
-| **Tür** | Ağır Sınıf Zırhlı Muharebe Aracı |
-| **Koruma** | Modüler zırh paketi (Mine/Ballistic) |
-| **Silah** | 30mm - 120mm arası farklı kule sistemleri |
-| **Mürettebat** | 3 Personel + 9 Personel taşıma kapasitesi |
+| **Ağırlık** | 28 - 45 Ton (Konfigürasyona bağlı) |
+| **Mürettebat** | 3 (Mürettebat) + 9 (Personel) |
+| **Motor Gücü** | 700 - 1100 BG |
+| **Azami Hız** | 70 km/s |
+| **Menzil** | 500 km |
+| **Ana Silah** | 30mm MIZRAK-30 Kule / 105mm Cockerill Kule (Hafif Tank versiyonu) |
 
+## 🌟 Öne Çıkan Yetenekler
+- **Ağır Sınıf Beka:** Modüler zırh yapısı sayesinde tehdit seviyesine göre zırhlandırma.
+- **Ateş Gücü:** 105mm top entegrasyonu ile "Hafif Tank" olarak kullanılabilme.
+- **Yaşam Destek:** KBRN koruma ve otomatik yangın bastırma sistemleri.
+- **Elektronik:** Açık mimari elektronik altyapı.
 
+## 🚀 Geliştirme Durumu (TRL 8)
+- [x] Prototip ve Kalifikasyon
+- [x] Şili ve Kazakistan Testleri
+- [ ] TSK Seri Üretim Kararı Bekleniyor
+- [ ] Potansiyel İhracat Görüşmeleri
 
-## 📁 Proje Varlıkları (Project Assets)
-- (Bu proje dizininde henüz ek dosya bulunmamaktadır.)
 ---
-[⬅️ OTOKAR Ana Sayfası](../README.md) | [🏠 Ana Sayfa](../../README.md)
+[⬅️ OTOKAR Ana Sayfası](../README.md) | [🏠 Ana Sayfa](../../../README.md)

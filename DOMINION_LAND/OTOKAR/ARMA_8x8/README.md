@@ -1,17 +1,36 @@
-# ARMA 8x8 - Zırhlı Muharebe Aracı
+# 🐢 Proje: ARMA 8x8
 
-ARMA 8x8, yüksek hareket kabiliyeti ve modüler yapısıyla öne çıkan yeni nesil zırhlı muharebe aracı ailesidir.
+> **Üretici:** OTOKAR  
+> **Sınıf:** 8x8 Tekerlekli Zırhlı Muharebe Aracı  
+> **Stratejik Önem:** Yüksek tonaj taşıma kapasitesi ve üstün arazi performansı.
 
-## 🚀 Performans ve Mobilite
-- **Hız:** 105 km/sa.
-- **Amfibi:** Suda yüzebilme ve pervaneli hareket kabiliyeti.
-- **Süspansiyon:** Tam bağımsız hidropnömatik süspansiyon.
-- **Ağırlık:** 24 - 30 Ton (Zırh paketine göre).
+![ARMA 8x8](https://www.otokar.com.tr/media/2ujf5x5k/arma-8x8_gallery_01.jpg)
 
-## 🛡️ Görev ve Silahlanma
-- **Modülerlik:** 7.62 mm'den 120 mm havan/top sistemine kadar entegrasyon.
-- **Personel:** 12 - 14 Kişi.
-- **Koruma:** MRAP seviyesinde mayın ve balistik koruma paketleri.
+## 📝 Proje Tanımı
+ARMA 8x8; ARMA ailesinin en güçlü üyesidir. Daha yüksek koruma, daha fazla ateş gücü ve daha geniş iç hacim sunar. Özellikle ağır silah kulelerinin entegrasyonu için ideal bir platformdur.
+
+## ⚙️ Teknik Özellikler
+
+| Özellik | Değer |
+| :--- | :--- |
+| **Ağırlık** | 30 Ton (Muharebe Yüklü) |
+| **Motor** | Turbo Dizel, 720 BG |
+| **Şanzıman** | Tam Otomatik |
+| **Mürettebat** | 12 Kişi |
+| **Uzunluk** | 7.8 m |
+| **Genişlik** | 2.7 m |
+| **Yükseklik** | 2.2 m (Gövde) |
+
+## 🌟 Öne Çıkan Yetenekler
+- **Ateş Gücü:** 105mm'ye kadar ağır silah kuleleri taşıyabilir (Örn: MIZRAK-30, BOZOK).
+- **Hareket:** Bağımsız hidro-pnömatik süspansiyon sistemi.
+- **Koruma:** Modüler zırh kitleri ile balistik ve mayın koruması artırılabilir.
+- **KBRN:** Tüm mürettebat için KBRN koruma sistemi.
+
+## 🚀 Geliştirme Durumu (TRL 9)
+- [x] Kalifikasyon Tamamlandı
+- [x] Seri Üretim
+- [x] İhracat Başarısı
 
 ---
-[Kök Dizine Dön](../../../README.md) | [Şirket Sayfasına Dön](../../README.md)
+[⬅️ OTOKAR Ana Sayfası](../README.md) | [🏠 Ana Sayfa](../../../README.md)

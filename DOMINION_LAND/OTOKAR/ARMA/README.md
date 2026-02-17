@@ -1,65 +1,37 @@
-# 🚜 Proje: ARMA (Yeni Nesil Çok Tekerlekli Zırhlı Araç)
+# 🐢 Proje: ARMA (6x6 & 8x8)
 
-![ARMA](../../../_ASSETS/hero_banner.png)
+> **Üretici:** OTOKAR  
+> **Sınıf:** Çok Tekerlekli Modüler Zırhlı Araç  
+> **Stratejik Önem:** Yüksek taktik hareket kabiliyeti ve amfibi yetenek.
 
-> **"Modüler Güç, Hareketli Kale: Savaş Alanının Dinamik Zırhı"**
+![ARMA](https://www.otokar.com.tr/media/2ujf5x5k/arma-8x8_gallery_01.jpg)
 
-ARMA, OTOKAR'ın modüler, yüksek koruma ve hareket kabiliyetine sahip yeni nesil çok tekerlekli (6x6 ve 8x8) zırhlı aracıdır. Modern orduların farklı görev setlerine göre dakikalar içinde konfigüre edilebilen bir mühendislik harikasıdır.
+## 📝 Proje Tanımı
+ARMA ailesi, yüksek taktik ve teknik özelliklere sahip, çok amaçlı tekerlekli zırhlı araçlardır. Modüler yapısı sayesinde; Zırhlı Personel Taşıyıcı, Zırhlı Muharebe Aracı, Havan Aracı, Komuta Kontrol Aracı gibi farklı görev profillerine uyarlanabilir. Mayın ve balistik koruması ile personelin güvenliğini en üst düzeyde sağlar.
 
-## 📝 Proje Açıklaması
-ARMA, OTOKAR tarafından geliştirilen, dünya savunma pazarında kendini kanıtlamış, yüksek bekâ kabiliyetine sahip modüler bir zırhlı araç ailesidir. 6x6 ve 8x8 konfigürasyonları bulunan platform, mayın ve balistik koruma seviyeleriyle mürettebat güvenliğini en üstte tutarken, amfibik yeteneği sayesinde akarsu ve gölet geçişlerini duraksamadan gerçekleştirebilir. Bir personelden tüm bir timin güvenli intikaline kadar geniş bir kapasite sunar.
+## ⚙️ Teknik Özellikler
 
-### 🚜 Modüler Savaşçı ve Görev Esnekliği
-ARMA'nın en belirgin özelliği, "tak-çalıştır" (plug-and-play) mantığıyla farklı silah kuleleri ve görev ekipmanlarının entegre edilebilmesidir. Keşif, lojistik, ambulans veya komuta kontrol aracı olarak dakikalar içinde hazır hale getirilebilir, bu da onu lojistik açıdan benzersiz bir kuvvet çarpanı yapar.
-
-## 🛠 Teknik Master Katalog
-
-| Parametre | Detay | Özellik |
+| Özellik | ARMA 6x6 | ARMA 8x8 |
 | :--- | :--- | :--- |
-| **Konfigürasyon** | 6x6 / 8x8 Seçenekleri | Tamamen Modüler Altyapı |
-| **Motor Gücü** | 450 - 720 BG | Bağımsız Süspansiyon Sistemi |
-| **Koruma** | STANAG 4569 Seviye 2-4 | Mayın, Balistik ve RPG Koruması |
-| **Kapasite** | 10 - 12+ Personel | Ergonomik İç Hacim |
-| **Yetenek** | Amfibik (Opsiyonel) | Sudaki Hız: 8 km/s |
+| **Ağırlık** | 23 Ton | 30 Ton |
+| **Motor Gücü** | 450 BG | 720 BG |
+| **Mürettebat** | 10 Kişi | 12 Kişi |
+| **Azami Hız** | 105 km/s | 105 km/s |
+| **Amfibi Hız** | 8 km/s | 8 km/s |
+| **Tırmanma** | %60 | %60 |
+| **Yan Eğim** | %30 | %30 |
 
-## 🛡️ Modüler Görev Profileri
-ARMA platformu, aşağıdaki görevler için optimize edilebilir:
-- **Zırhlı Personel Taşıyıcı (ZPT):** Güvenli tim intikali.
-- **Zırhlı Muharebe Aracı (ZMA):** 25mm - 105mm arası silah kuleleri.
-- **Komuta Kontrol / Ambulans / KBRN:** Özel amaçlı taktik görevler.
-- **Havan Aracı:** 120mm havan sistemi entegrasyonu.
+## 🌟 Öne Çıkan Yetenekler
+- **Amfibi Kabiliyet:** Hazırlıksız suda yüzebilme (Opsiyonel).
+- **Yüksek Koruma:** Mayın, EYP ve Kinetik enerjili mühimmatlara karşı üstün koruma.
+- **Entegrasyon:** MIZRAK-30, BOZOK-25, KESKİN ve ÜÇOK gibi çeşitli kule sistemleri entegre edilebilir.
+- **Bağımsız Süspansiyon:** Zorlu arazi koşullarında üstün yol tutuş ve konfor.
 
-## 💥 Ateş Gücü Entegrasyonu
-- **Mızrak UKSS:** OTOKAR imzalı uzaktan komutalı kule sistemleri.
-- **Hava Savunma:** Alçak irtifa füze veya namlulu sistem taşıma kapasitesi.
+## 🚀 Geliştirme Durumu (TRL 9)
+- [x] Tasarım ve Prototip
+- [x] Kalifikasyon Testleri
+- [x] Seri Üretim
+- [x] İhracat Başarısı (BAE, Bahreyn, Estonya vb.)
 
-## 🌐 Ekosistem Entegrasyonu (Modular Synergy)
-ARMA ailesinin en büyük gücü, diğer savunma unsurlarıyla olan kusursuz uyumudur:
-- **Ağ Merkezli Muharebe:** Diğer ARMA araçları ve İHA/SİHA platformlarıyla gerçek zamanlı taktik resim paylaşımı.
-- **Müşterek Görev Kuvveti:** ALTAY tanklarına keşif ve hızlı müdahale desteği sağlayarak ana muharebe gücünün yanlarını koruma.
-- **Geleceğin Askeri Entegrasyonu:** Personelin giyilebilir teknolojilerinden gelen verilerin araç içi yönetim sistemine aktarılması.
-
-## 📊 Alt Sistemler ve Yerlilik
-- **Bağımsız Hidropnömatik Süspansiyon:** Her türlü arazi koşulunda tekerleklerin yerle temasını kesmeyen yüksek teknoloji.
-- **Merkezi Lastik Şişirme Sistemi (CTIS):** Patlak lastikle yola devam edebilmeyi sağlayan run-flat ve basınç kontrol üniteleri.
-- **Dijital Sürücü Paneli:** Araç sağlığı ve çevre farkındalığını tek ekranda toplayan milli aviyonik yapı.
-
-## 🔮 Gelecek Vizyonu ve ARMA II
-- **ARMA II Gelişimi:** 720 BG'ye kadar çıkan motor gücü ve 40 tonluk azami yüklü ağırlık ile ağır sınıf tekerlekli zırhlı segmenti.
-- **İnsansız ARMA:** Lojistik ve tehlikeli keşif görevleri için uzaktan komutalı varyantlar.
-- **Lazer Silah Entegrasyonu:** İHA ve drone tehditlerine karşı araç üzerine monte edilen milli lazer silah sistemleri.
-- **Hibrit Tahrikli ARMA:** Sessiz intikal ve düşük termal iz için elektrikli motor takviyeli modeller.
-
-## 📈 Küresel Başarılar
-- [x] Dünya Çapında İhracat Başarıları (Birçok Ordu Tarafından Tercih)
-- [x] Ağır Çöl ve Kış Şartları Testleri
-- [x] ARMA II (Yeni Nesil) Geliştirme Süreci
-- [/] Aktif Koruma Sistemleri (AKKOR) Entegrasyonu
-- [ ] Yeni İnsansız Kule Entegrasyonları
-
-
-
-## 📁 Proje Varlıkları (Project Assets)
-- (Bu proje dizininde henüz ek dosya bulunmamaktadır.)
 ---
 [⬅️ OTOKAR Ana Sayfası](../README.md) | [🏠 Ana Sayfa](../../../README.md)
