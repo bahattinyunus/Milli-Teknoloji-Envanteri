@@ -1,6 +1,6 @@
 # 🇹🇷 Milli Teknoloji Envanteri Raporu
 
-**Tarih:** 2026-02-17 11:23
+**Tarih:** 2026-02-17 11:29
 
 ## Özet
 - **Toplam Proje Sayısı:** 126
@@ -52,11 +52,11 @@
 - ANKA
 #### ROKETSAN
 - TAYFUN (TRL 9.0)
-- ALKA (TRL 2.0)
+- ALKA
 - HİSAR (TRL 9.0)
 - TAYFUN BLOK4 (TRL 2.0)
 - AKATA (TRL 2.0)
-- BARBAROS (TRL 2.0)
+- BARBAROS
 - İHA-300 (TRL 2.0)
 - ÇAKIR (TRL 9.0)
 
@@ -84,16 +84,16 @@
 - SANCAR (TRL 2.0)
 #### ASELSAN
 - GÜRZ (TRL 8.0)
-- IHTAR (TRL 2.0)
+- IHTAR (TRL 9.0)
 - SİPER (TRL 8.0)
-- MURAD (TRL 7.0)
-- GÖKTAN (TRL 2.0)
-- CENK 350N (TRL 2.0)
-- TOYGUN (TRL 2.0)
+- MURAD (TRL 8.0)
+- GÖKTAN (TRL 7.0)
+- CENK 350N (TRL 7.0)
+- TOYGUN (TRL 6.0)
 - SANCAK (TRL 2.0)
 - ALBATROS-S (TRL 2.0)
 - ASELFLIR-500 (TRL 2.0)
-- EJDERHA (TRL 2.0)
+- EJDERHA (TRL 7.0)
 - ERALP (TRL 2.0)
 - KORAL (TRL 9.0)
 - MİLKAR (TRL 2.0)
@@ -144,7 +144,7 @@
 - PARS 4x4
 #### ROKETSAN
 - KARAOK (TRL 9.0)
-- GÖKBORA (TRL 2.0)
+- GÖKBORA
 - SUNGUR (TRL 9.0)
 
 ### DOMINION_SEA
@@ -167,7 +167,7 @@
 - KARGU (TRL 2.0)
 - MİLGEM (TRL 2.0)
 #### ROKETSAN
-- ATMACA (TRL 9.0)
+- ATMACA
 - AKYA (TRL 9.0)
 - LEVENT (TRL 2.0)
 - ORKA (TRL 2.0)

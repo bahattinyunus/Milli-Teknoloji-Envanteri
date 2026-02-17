@@ -1,65 +1,32 @@
-# 🛡️ Proje: SİPER (HİSAR-U - Uzun Menzilli Bölge Hava Savunma Sistemi)
+# 🛡️ Proje: SİPER
 
-![SİPER](../../../_ASSETS/hero_banner.png)
+> **Üretici:** ASELSAN & ROKETSAN & TÜBİTAK SAGE  
+> **Sınıf:** Uzun Menzilli Bölge Hava Savunma Sistemi  
+> **Stratejik Önem:** Türkiye'nin "Çelik Kubbesi". S-400 ve Patriot muadili yerli stratejik hava savunma sistemi.
 
-> **"Gök Vatan'ın Çelik Kilidi: Stratejik Menzilde Tam Koruma"**
+![SİPER](https://www.aselsan.com/img/siper_gorsel_1.jpg)
 
-SİPER, Türkiye'nin çok katmanlı hava savunma kalkanının en üst basamağını oluşturan, ASELSAN-ROKETSAN-TÜBİTAK SAGE ortaklığıyla geliştirilen stratejik bir bölge hava savunma sistemidir.
+## 📝 Proje Tanımı
+SİPER, stratejik tesisleri düşman hava taarruzlarına (savaş uçakları, seyir füzeleri, balistik füzeler) karşı uzun menzilde korumak için geliştirilmiştir. Katmanlı hava savunma mimarisinin en üst katmanını oluşturur.
 
-## 📝 Proje Açıklaması
-SİPER, Türkiye'nin yerli ve milli imkanlarla geliştirdiği en uzun menzilli hava savunma sistemidir. Patriot ve S-400 gibi dünyadaki muadilleriyle benzer bir kategoride yer alan sistem; uçaklar, seyir füzeleri ve havadan karaya mühimmatlar gibi geniş bir tehdit yelpazesine karşı 100+ kilometrenin üzerinde koruma sağlar. Dağıtık mimarisi sayesinde farklı radar ve fırlatıcı ünitelerle koordineli çalışarak "Çelik Kubbe"nin en kritik katmanını oluşturur.
+## ⚙️ Teknik Özellikler
 
-### 🛡️ Gök Vatan'ın Çelik Kilidi
-SİPER, sadece bir füze sistemi değil, Türkiye'nin hava savunma doktrinindeki bağımsızlık ilanıdır. Gelişmiş RF arayıcı başlık teknolojisi ve yüksek irtifa önleme kapasitesi ile stratejik tesislerin ve şehirlerin hava güvenliğini garanti altına alır.
+| Model | Menzil | İrtifa | Hedef Kapasitesi |
+| :--- | :--- | :--- | :--- |
+| **SİPER Ürün-1** | 100+ km | 20+ km | Çoklu Hedef Engelleme |
+| **SİPER Ürün-2** | 150+ km | 30+ km | Gelişmiş Balistik Koruma |
 
-## 🛠 Teknik Master Katalog
+## 🌟 Öne Çıkan Yetenekler
+- **AESA Radar:** ERALP Erken İhbar Radarı ile yüzlerce kilometreden tespit ve takip.
+- **Dikey Atış:** 360 derece tehdit algılama ve engelleme.
+- **Ağ Merkezli Harp:** RADNET üzerinden tüm hava resmi ile entegre çalışma.
+- **RF Güdüm:** Aktif Radar Arayıcı başlık ile hedefe son yaklaşmada otonom vuruş.
 
-| Parametre | Detay | Özellik |
-| :--- | :--- | :--- |
-| **Menzil** | 100+ km (Blok-1), 150+ km (Blok-2/3) | Stratejik Seviye Önleme |
-| **İrtifa** | 20.000+ metre | Balistik Füze ve Uçak İmhası |
-| **Hız** | High Supersonic / Hypersonic | Yüksek Manevra Kabiliyeti |
-| **Radar** | ASELSAN EİRS (Erken İhbar Radar Sistemi) | 600+ km Tespit Menzili |
-| **Mimari** | Dağıtık Komuta Kontrol | Ağ Merkezli Harp Entegrasyonu |
+## 🚀 Geliştirme Durumu (TRL 8)
+- [x] Tasarım ve Sistem Entegrasyonu
+- [x] SİPER Ürün-1 Atışlı Testleri (100 km menzilde hedef vuruşu)
+- [x] Seri Üretim Kararı
+- [ ] Envantere Tam Katılım ve Yaygınlaştırma
 
-## 🔋 Batarya Yapısı ve Bileşenleri
-SİPER Sistemi, kompleks bir operasyonel mimariye sahiptir:
-- **Atış Kontrol Merkezi (AKM):** Batarya seviyesinde tüm angajman yönetimi.
-- **EİRS (Erken İhbar Radarı):** Uzun menzilli arama ve takip radarı.
-- **Füze Fırlatma Sistemi (FFS):** 8x8 platform üzerinde dikey atım kabiliyeti.
-- **Haberleşme İstasyon Aracı (HİA):** Güvenli veri bağı ve RF iletişim.
-
-## 💥 Önleme Yetenekleri
-- **Hedef Seti:** Savaş uçakları, seyir füzeleri, havadan karaya mühimmatlar ve balistik füzeler.
-- **Mühimmat:** SİPER Blok serisi füzeler (RF arayıcı başlık entegreli).
-
-## 🌐 Ekosistem Entegrasyonu (Air Defense Shield)
-SİPER, "Çelik Kubbe" (Steel Dome) mimarisinin stratejik katmanıdır:
-- **Katmanlı Savunma:** KORKUT (Alçak), HİSAR (Orta) ve SİPER (Uzun) sistemlerinin entegre bir radar ağı üzerinden (RADNET) veri paylaşımı.
-- **Hava Katmanı Bağlantısı:** HAVA SOJ ve EİRS radarlarından gelen verilerle, tehdit henüz sınır dışındayken önleme planlaması.
-- **Deniz Katmanı:** İ-Sınıfı fırkateynlerin dikey atım sistemleriyle (MİDLAS) koordineli bölge savunması.
-
-## 📊 Alt Sistemler ve Yerlilik
-- **Çok Fonksiyonlu Atış Kontrol Radarı:** ASELSAN tarafından geliştirilen, aynı anda onlarca hedefi takip ve angajman kapasiteli radar.
-- **Milli Arf (RF) Arayıcı Başlık:** Füzenin son aşamada hedefi yüksek hassasiyetle bulmasını sağlayan milli RF sensor.
-- **Dual-Pulse Motor:** Füzenin manevra kabiliyetini ve menzilini artıran iki kademeli katı yakıtlı motor teknolojisi.
-
-## 🔮 Gelecek Vizyonu: Blok Yapısı
-- **SİPER Blok-1:** 100 km menzil ile envantere giriş.
-- **SİPER Blok-2:** 150 km+ menzil ve balistik füze önleme yeteneğinin artırıldığı varyant.
-- **SİPER Blok-3:** Hipersonik tehditlere karşı geliştirilmiş, çok daha yüksek irtifa ve menzil hedefi.
-- **Mobil ve Deniz Varyantları:** Sistemlerin hem gemilere hem de daha mobil kara platformlarına tam entegrasyonu.
-
-## 📈 Stratejik Dönüm Noktaları
-- [x] Kavramsal Tasarım ve Test Füzeleri
-- [x] İlk Atışlı Test ve Hedef İmhası
-- [x] Blok-1 Başarılı Kabul Testleri
-- [/] Blok-2 Seri Üretim ve Entegrasyon
-- [ ] Tam Kapasite TSK Bölge Savunma Şemsiyesi
-
-
-
-## 📁 Proje Varlıkları (Project Assets)
-- (Bu proje dizininde henüz ek dosya bulunmamaktadır.)
 ---
 [⬅️ ASELSAN Ana Sayfası](../README.md) | [🏠 Ana Sayfa](../../../README.md)

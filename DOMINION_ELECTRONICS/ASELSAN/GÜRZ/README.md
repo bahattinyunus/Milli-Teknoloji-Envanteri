@@ -1,51 +1,34 @@
-# 🛡️ Proje: GÜRZ Hibrit Hava Savunma Sistemi
+# 🌩️ Proje: GÜRZ
 
-![GÜRZ](../../../_ASSETS/hero_banner.png)
+> **Üretici:** ASELSAN  
+> **Sınıf:** Hibrit Hava Savunma Sistemi (Parçacıklı Mühimmat + Füze)  
+> **Stratejik Önem:** İHA ve SİHA sürüleri ile seyir füzelerine karşı "Son Savunma Hattı" (Point Defense). Pantsir-S1 konseptinin çok daha gelişmiş yerli versiyonu.
 
-> **"Hava Savunmasında Hibrit Güç: Nokta Savunmanın Yeni Muhafızı"**
+![GÜRZ](https://www.aselsan.com/img/gurz_gorsel.jpg)
 
-GÜRZ, ASELSAN tarafından geliştirilen, alçak irtifa hava savunması için top ve füze sistemlerini tek bir platformda birleştiren yenilikçi bir hibrit çözümdür. Hareket halindeki birlikleri ve kritik tesisleri İHA, helikopter ve seyir füzelerine karşı korumak için tasarlanmıştır.
+## 📝 Proje Tanımı
+GÜRZ, tek bir platform üzerinde radar, elektro-optik, 35mm parçacıklı mühimmat atabilen top ve hava savunma füzelerini barındıran otonom bir sistemdir. Hareketli birlikleri ve sabit tesisleri yoğun hava saldırılarına karşı korur.
 
-## 🛠 Teknik Mimari ve Bileşenler
+## ⚙️ Teknik Özellikler
 
-| Bileşen | Detay | Fonksiyon |
-| :--- | :--- | :--- |
-| **Ana Silah** | 35mm Parçalanmış Mühimmatlı Top | Yakın Mesafe İmha (ATOM) |
-| **Füze Sistemi** | BÖĞÜR / GÖKDOĞAN-G | Alçak İrtifa Hava Savunma |
-| **Radar** | 4 Yönlü Sabit AESA Radarı | 360 Derece Kesintisiz Takip |
-| **Arama Radarı** | Hem Aktif Hem Pasif Sensörler | Çoklu Tehdit Algılama |
-| **Platform** | 8x8 Tekerlekli Zırhlı Araç | Hareket Halinde Atış Kabiliyeti |
+| Özellik | Değer |
+| :--- | :--- |
+| **Ana Silah** | 35mm Çift Namlulu Top (ATOM Mühimmatı) |
+| **Füzeler** | 4 x GÖKDOĞAN/BOZDOĞAN/SUNGUR varyantları (BOZDOĞAN-DH) |
+| **Radar** | 4 x AESA Radar (360 derece kapsama) + Atış Kontrol Radarı |
+| **Platform** | 8x8 Taktik Tekerlekli Araç (Anadolu Isuzu Seyit) |
 
 ## 🌟 Öne Çıkan Yetenekler
-- **Hibrit Katmanlı Savunma:** Tek bir platformda hem namlulu hem de füzeli hava savunma entegrasyonu.
-- **ATOM Mühimmat Entegrasyonu:** Parçalanmış mühimmat teknolojisi ile İHA sürülerini ve seyir füzelerini yüksek vuruş hassasiyetiyle imha.
-- **Otonom Hedef Takibi:** Yapay zeka destekli hedef önceliklendirme ve otomatik angajman.
-- **Ağ Merkezli Harp:** Diğer radar sistemleri ve SİPER/HİSAR bataryaları ile tam veri entegrasyonu.
+- **ATOM Mühimmatı:** Havada parçalanan akıllı mühimmat ile "Demir Leblebi" etkisi yaratarak İHA sürülerini imha eder.
+- **Hibrit Koruma:** Çok yakın mesafe için top, orta mesafe için füze kullanarak kademeli savunma sağlar.
+- **Hareket Halinde Atış:** Konvoy koruması görevlerinde durmadan ateş edebilir.
+- **Tek Araç Ordu:** Radar, komuta kontrol ve silah sistemleri tek araçtadır, başka bir üniteye ihtiyaç duymaz.
 
-## 🛳 Operasyonel Senaryolar
-1.  **Konvoy Koruması:** Hareket halindeki askeri konvoyların hava tehditlerinden korunması.
-2.  **Kritik Tesis Savunması:** Stratejik noktaların (üssler, limanlar) nokta savunması.
-3.  **Harketli Birlik Koruması:** Dinamik savaş sahasında birliklerin hava şemsiyesi altına alınması.
+## 🚀 Geliştirme Durumu (TRL 8)
+- [x] Prototip Üretimi
+- [x] Atışlı Testler
+- [x] IDEF 2023 Lansmanı
+- [ ] Seri Üretim ve Envanter
 
-## 🌐 Ekosistem Entegrasyonu (Point Defense Synergy)
-GÜRZ, Türkiye'nin "Çelik Kubbe" mimarisinin son katman savunma (point defense) birimidir:
-- **SİPER/HİSAR Entegrasyonu:** Uzun ve orta menzilli sistemlerden kaçan tehditleri imha etmek için RADNET üzerinden veri paylaşımı.
-- **Zırhlı Birlikler Koordinasyonu:** ALTAY ve ARMA konvoylarının üzerinde hareketli bir hava savunma şemsiyesi oluşturma.
-- **Deniz Varyantı:** GÜRZ sisteminin deniz versiyonu olan GÖKDENİZ ile benzer algoritmaların kullanımı ve kıyı savunma entegrasyonu.
-
-## 📊 Alt Sistemler ve Yerlilik
-- **ATOM Mühimmatı:** Namludan çıktığı anda programlanan, hedefin önünde parçalanarak drone ve füzeleri imha eden akıllı mühimmat.
-- **AESA Arama Radarı:** 4 sabit panelden oluşan, kör noktası olmayan milli AESA radar seti.
-- **BÖĞÜR Füzeleri:** Yakın mesafe hava savunması için optimize edilmiş, yüksek manevra kabiliyetli önleme füzeleri.
-
-## 🔮 Gelecek Vizyonu ve Modernizasyon
-- **Lazer Silah Entegrasyonu:** Hibrit yapıya 20kW+ gücünde milli lazer silah sistemlerinin (ALKA benzeri) dahil edilmesi.
-- **İHA Avcısı Drone Launch:** Üzerinden küçük "kamikaze drone"lar fırlatarak, tehditleri henüz yaklaşmadan havada karşılama.
-- **Yapay Zeka Destekli Swarm Defense:** Düzinelerce dronu aynı anda takip edip, en etkili imha yöntemini (top veya füze) otomatik seçen AI katmanı.
-
-
-
-## 📁 Proje Varlıkları (Project Assets)
-- (Bu proje dizininde henüz ek dosya bulunmamaktadır.)
 ---
 [⬅️ ASELSAN Ana Sayfası](../README.md) | [🏠 Ana Sayfa](../../../README.md)

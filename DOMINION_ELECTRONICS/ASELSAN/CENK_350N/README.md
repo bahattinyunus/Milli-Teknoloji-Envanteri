@@ -1,18 +1,32 @@
-# 📡 Proje: CENK 350N (Milli Naval Radar)
+# 📡 Proje: CENK-350N
 
-CENK 350N, ASELSAN tarafından geliştirilen, hava gözetleme, hedef tespit ve takip yeteneklerine sahip, yüksek performanslı bir aktif faz dizinli (AESA) deniz radarıdır. MİLGEM fırkateyn sınıfı gemilerin ana radar sensörü olacaktır.
+> **Üretici:** ASELSAN  
+> **Sınıf:** AESA Gemi Radarı (4 Yüzlü Sabit Dizin)  
+> **Stratejik Önem:** TF-2000 Hava Savunma Muhribi ve İSTİF Sınıfı Fırkateynlerin ana sensörü.
 
-## 🛠 Teknik Veriler
-| Özellik | Detay |
+![CENK](https://www.aselsan.com/img/cenk.jpg)
+
+## 📝 Proje Tanımı
+CENK-350N, gemilere entegre edilen, döner bir anten yerine geminin 4 yüzüne yerleştirilen sabit panellerden oluşan, GaN AESA teknolojisine sahip bir radardır. Ufuk hattı üzerindeki yüzlerce hedefi aynı anda takip edebilir.
+
+## ⚙️ Teknik Özellikler
+
+| Özellik | Değer |
 | :--- | :--- |
-| **Teknoloji** | AESA (Aktif Faz Dizinli Radar) |
-| **Menzil** | 350-400 km (Hava tespiti) |
-| **Yetenek** | Alçaktan uçan füzelerin ve balistik tehditlerin yüksek hassasiyetle tespiti |
-| **Platform** | İ-Sınıfı Fırkateynler ve TF-2000 Hava Savunma Muhribi |
+| **Menzil** | 350+ km (Hava Hedefleri İçin) |
+| **Yapı** | 4 Yüzlü Sabit AESA Mimari |
+| **Teknoloji** | GaN L-Bant (Uzun Menzil) / X-Bant (Aydınlatma - ÇAFRAD Konsepti) |
+| **Hedef Kapasitesi** | 1000+ Hedef |
 
+## 🌟 Öne Çıkan Yetenekler
+- **Kesintisiz Gözetleme:** Mekanik dönüş olmadığı için 360 dereceyi milisaniyeler içinde tarayabilir.
+- **Balistik Füze Tespiti:** Yükseklere tırmanan balistik füzeleri tespit ve takip yeteneği.
+- **SİPER Entegrasyonu:** Gemiden atılan uzun menzilli füzeleri (SİPER Deniz) güdümleyebilir.
 
+## 🚀 Geliştirme Durumu (TRL 7)
+- [x] Prototip Üretimi
+- [x] Kara Konuşlu Testler
+- [ ] Gemi Entegrasyonu (İSTİF 2-3-4 ve TF-2000)
 
-## 📁 Proje Varlıkları (Project Assets)
-- (Bu proje dizininde henüz ek dosya bulunmamaktadır.)
 ---
-[⬅️ ASELSAN Ana Sayfası](../README.md) | [🏠 Ana Sayfa](../../README.md)
+[⬅️ ASELSAN Ana Sayfası](../README.md) | [🏠 Ana Sayfa](../../../README.md)

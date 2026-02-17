@@ -1,18 +1,33 @@
-# 🛡️ Proje: HİSAR Hava Savunma Füze Ailesi
+# 🛡️ Proje: HİSAR Ailesi (A+ / O+ / RF)
 
-HİSAR, ROKETSAN ve ASELSAN ortaklığıyla geliştirilen, askeri üs, liman ve kritik tesislerin korunmasını sağlayan milli hava savunma füze ailesidir.
+> **Üretici:** ROKETSAN & ASELSAN  
+> **Sınıf:** Alçak ve Orta İrtifa Hava Savunma Füze Sistemi  
+> **Stratejik Önem:** Türkiye'nin katmanlı hava savunma ağının bel kemiği.
 
-## 🛠 Teknik Veriler
-| Özellik | Detay |
-| :--- | :--- |
-| **HİSAR-A+** | Alçak İrtifa Hava Savunma (15+ km menzil) |
-| **HİSAR-O+** | Orta İrtifa Hava Savunma (25+ km menzil) |
-| **Hedefler** | Savaş Uçakları, Helikopterler, İHA'lar, Seyir Füzeleri |
-| **Özellik** | 360 Derece Etki Alanı, Dikey Atış Kabiliyeti |
+![HİSAR](https://www.roketsan.com.tr/uploads/docs/1655106176_hisar-o-tr-web.jpg)
 
+## 📝 Proje Tanımı
+HİSAR projeleri, askeri üs, liman, tesis ve birliklerin hava tehditlerinden korunması amacıyla geliştirilmiştir. Sabit ve döner kanatlı uçaklara, seyir füzelerine, insansız hava araçlarına ve havadan karaya atılan füzelere karşı etkilidir.
 
+## ⚙️ Teknik Özellikler
 
-## 📁 Proje Varlıkları (Project Assets)
-- (Bu proje dizininde henüz ek dosya bulunmamaktadır.)
+| Model | Menzil | İrtifa | Arayıcı Başlık |
+| :--- | :--- | :--- | :--- |
+| **HİSAR-A+** | 15+ km | 8 km | IIR (Kızılötesi Görüntüleyici) |
+| **HİSAR-O+** | 25+ km | 15 km | IIR (Kızılötesi Görüntüleyici) |
+| **HİSAR-RF** | 35+ km | 20 km (?) | RF (Aktif Radar) |
+
+## 🌟 Öne Çıkan Yetenekler
+- **Dikey Atış:** 360 derece koruma sağlayan dikey atış yeteneği.
+- **Çift Darbe Motoru:** HİSAR-A+ ve O+ füzelerinde manevra kabiliyetini artıran çift darbeli katı yakıtlı motor.
+- **Ağ Destekli:** Link-16 ve milli veri bağları ile radar ağından hedef bilgisi alabilme.
+- **Mobilite:** Paletli (HİSAR-A+) ve Tekerlekli (HİSAR-O+) şasiler üzerinde yüksek hareket kabiliyeti.
+
+## 🚀 Geliştirme Durumu (TRL 9)
+- [x] HİSAR-A+ Seri Üretim ve Envanter
+- [x] HİSAR-O+ Seri Üretim ve Envanter
+- [x] HİSAR-RF Test Atışları ve Envanter
+- [ ] Gelişmiş Varyantlar (HİSAR-U / SİPER ile entegrasyon)
+
 ---
-[⬅️ ROKETSAN Ana Sayfası](../README.md) | [🏠 Ana Sayfa](../../README.md)
+[⬅️ ROKETSAN Ana Sayfası](../README.md) | [🏠 Ana Sayfa](../../../README.md)
