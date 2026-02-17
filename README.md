@@ -50,12 +50,13 @@ Türkiye'nin teknoloji ekosistemi üç ana katmanda derinleşmektedir:
 | **[AKINCI](./DOMINION_AEROSPACE/BAYKAR/AKINCI/README.md)** | BAYKAR | Stratejik TİHA | TRL 9 |
 | **[FERGANİ](./DOMINION_AEROSPACE/BAYKAR/FERGANİ/README.md)** | BAYKAR | LEO Takım Uydu / Küresel Konumlama | TRL 9 |
 | **[KALKAN](./DOMINION_AEROSPACE/BAYKAR/KALKAN/README.md)** | BAYKAR | Detaylı analiz bekleniyor | TRL 1-3 |
-| **[KEMANKEŞ](./DOMINION_AEROSPACE/BAYKAR/KEMANKEŞ/README.md)** | BAYKAR | Detaylı analiz bekleniyor | TRL 1-3 |
+| **[KEMANKEŞ](./DOMINION_AEROSPACE/BAYKAR/KEMANKEŞ/README.md)** | BAYKAR | Mini Akıllı Seyir Füzesi | TRL 7 |
 | **[KEMANKEŞ 2](./DOMINION_AEROSPACE/BAYKAR/KEMANKEŞ_2/README.md)** | BAYKAR | Detaylı analiz bekleniyor | TRL 1-3 |
 | **[KIZILELMA](./DOMINION_AEROSPACE/BAYKAR/KIZILELMA/README.md)** | BAYKAR | İnsansız Hava Muharebesi | TRL 8 |
-| **[TB2](./DOMINION_AEROSPACE/BAYKAR/TB2/README.md)** | BAYKAR | Detaylı analiz bekleniyor | TRL 1-3 |
-| **[TB3](./DOMINION_AEROSPACE/BAYKAR/TB3/README.md)** | BAYKAR | Detaylı analiz bekleniyor | TRL 1-3 |
+| **[TB2](./DOMINION_AEROSPACE/BAYKAR/TB2/README.md)** | BAYKAR | Taktik SİHA (Combat Proven) | TRL 9 |
+| **[TB3](./DOMINION_AEROSPACE/BAYKAR/TB3/README.md)** | BAYKAR | Kısa Pist / Gemi Konuşlu SİHA | TRL 7 |
 | **[TOMRİS](./DOMINION_AEROSPACE/BAYKAR/TOMRİS/README.md)** | BAYKAR | Detaylı analiz bekleniyor | TRL 1-3 |
+
 | **[KARAYEL](./DOMINION_AEROSPACE/Lentatek/KARAYEL/README.md)** | Lentatek | Detaylı analiz bekleniyor | TRL 1-3 |
 | **[AKATA](./DOMINION_AEROSPACE/ROKETSAN/AKATA/README.md)** | ROKETSAN | Detaylı analiz bekleniyor | TRL 1-3 |
 | **[AKYA](./DOMINION_SEA/ROKETSAN/AKYA/README.md)** | ROKETSAN | Yeni Nesil Ağır Sınıf Torpido (50+ km) | TRL 9 |
@@ -79,7 +80,8 @@ Türkiye'nin teknoloji ekosistemi üç ana katmanda derinleşmektedir:
 | **[TJ90](./DOMINION_AEROSPACE/TEI/TJ90/README.md)** | TEI | Turbojet Motor (Mini Seyir Füzeleri için) | TRL 9 |
 | **[TS1400](./DOMINION_AEROSPACE/TEI/TS1400/README.md)** | TEI | Detaylı analiz bekleniyor | TRL 1-3 |
 | **[ANKA-3](./DOMINION_AEROSPACE/TUSAŞ/ANKA-3/README.md)** | TUSAŞ | Derin Darbe (Stealth) İnsansız Savaş Uçağı | TRL 7 |
-| **[ATAK-2](./DOMINION_AEROSPACE/TUSAŞ/ATAK-2/README.md)** | TUSAŞ | Detaylı analiz bekleniyor | TRL 1-3 |
+| **[ATAK-2](./DOMINION_AEROSPACE/TUSAŞ/ATAK-2/README.md)** | TUSAŞ | Ağır Sınıf Taarruz Helikopteri | TRL 7 |
+
 | **[GÖKBEY](./DOMINION_AEROSPACE/TUSAŞ/GÖKBEY/README.md)** | TUSAŞ | Genel Maksat Helikopteri (Milli Motor TS1400) | TRL 8 |
 | **[GÖKTÜRK](./DOMINION_AEROSPACE/TUSAŞ/GÖKTÜRK/README.md)** | TUSAŞ | Detaylı analiz bekleniyor | TRL 1-3 |
 | **[HÜRJET](./DOMINION_AEROSPACE/TUSAŞ/HÜRJET/README.md)** | TUSAŞ | Jet Eğitim & Taarruz | TRL 8 |
@@ -155,11 +157,12 @@ Türkiye'nin teknoloji ekosistemi üç ana katmanda derinleşmektedir:
 | **[EJDER YALÇIN](./DOMINION_LAND/Nurol_Makina/EJDER_YALÇIN/README.md)** | Nurol Makina | Detaylı analiz bekleniyor | TRL 1-3 |
 | **[ILGAZ](./DOMINION_LAND/Nurol_Makina/ILGAZ/README.md)** | Nurol Makina | Detaylı analiz bekleniyor | TRL 1-3 |
 | **[YÖRÜK](./DOMINION_LAND/Nurol_Makina/YÖRÜK/README.md)** | Nurol Makina | Detaylı analiz bekleniyor | TRL 1-3 |
-| **[AKREP II](./DOMINION_LAND/OTOKAR/AKREP_II/README.md)** | OTOKAR | Detaylı analiz bekleniyor | TRL 1-3 |
-| **[ALPAR](./DOMINION_LAND/OTOKAR/ALPAR/README.md)** | OTOKAR | Detaylı analiz bekleniyor | TRL 1-3 |
-| **[ARMA](./DOMINION_LAND/OTOKAR/ARMA/README.md)** | OTOKAR | Detaylı analiz bekleniyor | TRL 1-3 |
-| **[COBRA II](./DOMINION_LAND/OTOKAR/COBRA_II/README.md)** | OTOKAR | Detaylı analiz bekleniyor | TRL 1-3 |
-| **[TULPAR](./DOMINION_LAND/OTOKAR/TULPAR/README.md)** | OTOKAR | Detaylı analiz bekleniyor | TRL 1-3 |
+| **[AKREP II](./DOMINION_LAND/OTOKAR/AKREP_II/README.md)** | OTOKAR | Elektrikli Zırhlı Keşif Aracı | TRL 8 |
+| **[ALPAR](./DOMINION_LAND/OTOKAR/ALPAR/README.md)** | OTOKAR | Ağır Sınıf İnsansız Kara Aracı | TRL 6 |
+| **[ARMA](./DOMINION_LAND/OTOKAR/ARMA/README.md)** | OTOKAR | 6x6 Modüler Zırhlı Araç | TRL 9 |
+| **[COBRA II](./DOMINION_LAND/OTOKAR/COBRA_II/README.md)** | OTOKAR | Taktik Tekerlekli Zırhlı Araç | TRL 9 |
+| **[TULPAR](./DOMINION_LAND/OTOKAR/TULPAR/README.md)** | OTOKAR | Yeni Nesil ZMA (Ağır Sınıf) | TRL 8 |
+
 | **[SAR127](./DOMINION_LAND/Sarsılmaz/SAR127/README.md)** | Sarsılmaz | Detaylı analiz bekleniyor | TRL 1-3 |
 | **[SAR56](./DOMINION_LAND/Sarsılmaz/SAR56/README.md)** | Sarsılmaz | Detaylı analiz bekleniyor | TRL 1-3 |
 | **[SAR9](./DOMINION_LAND/Sarsılmaz/SAR9/README.md)** | Sarsılmaz | Detaylı analiz bekleniyor | TRL 1-3 |

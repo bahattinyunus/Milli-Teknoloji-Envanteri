@@ -1,18 +1,40 @@
-# 🦅 Proje: Bayraktar TB3 SİHA
+# 🚢 Proje: Bayraktar TB3 SİHA
 
-Bayraktar TB3, BAYKAR tarafından TCG ANADOLU gibi kısa pistli gemilere iniş ve kalkış yapabilecek şekilde özel olarak tasarlanmış, katlanabilir kanat yapısına sahip taktik insansız hava aracıdır.
+> **Üretici:** BAYKAR  
+> **Sınıf:** Gemi Konuşlu / Katlanır Kanatlı Taktik SİHA  
+> **Stratejik Önem:** TCG ANADOLU gibi kısa pistli gemilerden kalkıp inebilen dünyanın ilk silahlı İHA'sı.
 
-## 🛠 Teknik Veriler
-| Özellik | Detay |
+![TB3](https://cdn.baykartech.com/media/repository/taktik-iha-tb3/tb3-kalkis.jpg)
+
+## 📝 Proje Tanımı
+Bayraktar TB3, Bayraktar TB2 üzerinden geliştirilen ancak daha yüksek faydalı yük kapasitesine, katlanır kanat yapısına ve deniz şartlarına (korozyon, rüzgar) dayanıklı bir gövdeye sahip özel bir SİHA'dır. Mavi Vatan savunmasında kuvvet çarpanı olarak görev yapacaktır.
+
+## ⚙️ Teknik Özellikler
+
+| Özellik | Değer |
 | :--- | :--- |
+| **Kanat Açıklığı** | 14 Metre |
+| **Uzunluk** | 8.35 Metre |
+| **Maksimum Kalkış Ağırlığı** | 1.450 kg |
+| **Faydalı Yük Kapasitesi** | 280 kg |
+| **Motor** | TEI-PD170 (170 BG) |
+| **Seyir - Maksimum Hız** | 125 knot - 160 knot |
 | **Havada Kalış** | 24+ Saat |
-| **Özellik** | Katlanabilir Kanat Yapısı |
-| **Kontrol** | Otomatik Gemi İniş-Kalkış Sistemi |
-| **Operasyonel İrtifa** | 20.000 - 30.000 Feet |
+| **Kalkış/İniş** | Kısa Pistli Gemilerden (STOL) |
 
+## 🌟 Öne Çıkan Yetenekler
+- **Gemi Operasyonu:** Katlanır kanatları sayesinde gemi hangarlarında az yer kaplar. TCG ANADOLU'dan vinç yardımı olmadan operasyon yapabilir.
+- **Güçlü Motor:** Yerli TEI-PD170 motoru ile yüksek irtifa performansı.
+- **Görüş Ötesi:** SATCOM (Uydu haberleşmesi) yeteneği ile çok uzun menzillerde görev yapabilir.
+- **Yüksek Faydalı Yük:** TB2'ye göre daha fazla mühimmat ve daha gelişmiş sensörler (ASELFLIR-500 vb.) taşıyabilir.
 
+## 🚀 Geliştirme Durumu (TRL 7)
+- [x] Tasarım ve Prototip Üretimi
+- [x] İlk Uçuş
+- [x] Yüksek İrtifa Testleri
+- [x] Ski-Jump Rampa Kalkış Testleri
+- [ ] Gemiye İniş-Kalkış Testleri
+- [ ] Seri Üretim
 
-## 📁 Proje Varlıkları (Project Assets)
-- (Bu proje dizininde henüz ek dosya bulunmamaktadır.)
 ---
-[⬅️ BAYKAR Ana Sayfası](../README.md) | [🏠 Ana Sayfa](../../README.md)
+[⬅️ BAYKAR Ana Sayfası](../README.md) | [🏠 Ana Sayfa](../../../README.md)

@@ -1,6 +1,6 @@
 # 🇹🇷 Milli Teknoloji Envanteri Raporu
 
-**Tarih:** 2026-02-17 11:00
+**Tarih:** 2026-02-17 11:23
 
 ## Özet
 - **Toplam Proje Sayısı:** 126
@@ -18,11 +18,11 @@
 - DELİ (TRL 2.0)
 #### BAYKAR
 - KIZILELMA (TRL 8.0)
-- TB2 (TRL 2.0)
+- TB2 (TRL 9.0)
 - KALKAN (TRL 2.0)
-- KEMANKEŞ (TRL 2.0)
+- KEMANKEŞ (TRL 7.0)
 - AKINCI (TRL 9.0)
-- TB3 (TRL 2.0)
+- TB3 (TRL 7.0)
 - TOMRİS (TRL 2.0)
 - FERGANİ (TRL 9.0)
 - KEMANKEŞ 2 (TRL 2.0)
@@ -43,7 +43,7 @@
 #### TUSAŞ
 - KAAN (TRL 7.0)
 - GÖKBEY (TRL 8.0)
-- ATAK-2 (TRL 2.0)
+- ATAK-2 (TRL 7.0)
 - GÖKTÜRK (TRL 2.0)
 - ANKA-3 (TRL 7.0)
 - HÜRJET (TRL 8.0)
@@ -130,11 +130,11 @@
 - VURAN (TRL 2.0)
 - KİRPİ II
 #### OTOKAR
-- ARMA (TRL 2.0)
-- TULPAR (TRL 2.0)
-- COBRA II (TRL 2.0)
-- ALPAR (TRL 2.0)
-- AKREP II (TRL 2.0)
+- ARMA (TRL 9.0)
+- TULPAR (TRL 8.0)
+- COBRA II (TRL 9.0)
+- ALPAR (TRL 6.0)
+- AKREP II (TRL 8.0)
 - ARMA 8x8
 #### FNSS
 - ZAHA (TRL 9.0)
