@@ -1,19 +1,30 @@
-# 🏹 Proje: Katmerciler HIZIR 4x4
+# 🚜 Proje: HIZIR
 
-HIZIR 4x4, Katmerciler tarafından geliştirilen, NATO standartlarında en yüksek mayın ve balistik koruma seviyelerinden birine sahip olan, 400 beygir gücüyle sınıfının en güçlü zırhlı muharebe aracıdır.
+> **Üretici:** Katmerciler  
+> **Sınıf:** Taktik Tekerlekli Zırhlı Araç (4x4)  
+> **Stratejik Önem:** Sınır güvenliği ve terörle mücadele için geliştirilmiş güçlü bir platform.
 
-## 🛠 Teknik Veriler
-| Özellik | Detay |
+![HIZIR](https://www.katmerciler.com.tr/Dosyalar/Urunler/Gorsel/hizir-1.jpg)
+
+## 📝 Proje Tanımı
+HIZIR; 9 personeli taşıyabilen, kırsal ve kentsel alanlarda operasyonel ihtiyaçları karşılamak üzere geliştirilmiş, yüksek balistik ve mayın korumasına sahip bir araçtır.
+
+## ⚙️ Teknik Özellikler
+
+| Özellik | Değer |
 | :--- | :--- |
 | **Motor** | 400 BG (Sınıfının en güçlüsü) |
-| **Hız** | 110+ km/s |
-| **Koruma** | Yüksek Mayın ve Balistik Korunma (STANAG) |
-| **Kapasite** | 9 Personel |
-| **Varyantlar** | Komuta kontrol, KBRN, Silah taşıyıcı, Ambulans |
+| **Tırmanma** | %70 Eğim |
+| **Yan Eğim** | %30 |
+| **Hız** | 120 km/s |
 
+## 🌟 Öne Çıkan Yetenekler
+- **Yüksek Güç:** 400 beygirlik motoru sayesinde zorlu arazilerde bayılmaz.
+- **Versiyonlar:** Sınır gözetleme (ATEŞ), ambulans ve komuta kontrol versiyonları mevcuttur.
 
+## 🚀 Geliştirme Durumu (TRL 9)
+- [x] TSK Sınır Birliklerinde Aktif (ATEŞ Versiyonu)
+- [x] Afrika Ülkelerine (Kenya, Gambiya) İhracat
 
-## 📁 Proje Varlıkları (Project Assets)
-- (Bu proje dizininde henüz ek dosya bulunmamaktadır.)
 ---
-[⬅️ Katmerciler Ana Sayfası](../README.md) | [🏠 Ana Sayfa](../../README.md)
+[⬅️ Katmerciler Ana Sayfası](../README.md) | [🏠 Ana Sayfa](../../../README.md)

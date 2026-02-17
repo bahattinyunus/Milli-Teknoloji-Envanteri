@@ -1,6 +1,6 @@
 # 🇹🇷 Milli Teknoloji Envanteri Raporu
 
-**Tarih:** 2026-02-17 11:57
+**Tarih:** 2026-02-17 12:51
 
 ## Özet
 - **Toplam Proje Sayısı:** 126
@@ -102,21 +102,21 @@
 
 ### DOMINION_LAND
 #### CANİK
-- M2 QCB (TRL 2.0)
-- VENOM LR (TRL 2.0)
-- METE MC9 (TRL 2.0)
+- M2 QCB (TRL 9.0)
+- VENOM LR (TRL 9.0)
+- METE MC9 (TRL 9.0)
 #### Nurol_Makina
-- EJDER YALÇIN (TRL 2.0)
-- YÖRÜK (TRL 2.0)
-- ILGAZ (TRL 2.0)
+- EJDER YALÇIN (TRL 9.0)
+- YÖRÜK (TRL 9.0)
+- ILGAZ (TRL 9.0)
 #### Katmerciler
-- HIZIR (TRL 2.0)
-- KIRAÇ (TRL 2.0)
+- HIZIR (TRL 9.0)
+- KIRAÇ (TRL 9.0)
 #### Sarsılmaz
-- SAR127 (TRL 2.0)
-- SAR9 (TRL 2.0)
-- SAR56 (TRL 2.0)
-- SARBOT (TRL 2.0)
+- SAR127 (TRL 9.0)
+- SAR9 (TRL 9.0)
+- SAR56 (TRL 9.0)
+- SARBOT (TRL 7.0)
 #### MKE
 - FIRTINA II (TRL 9.0)
 - PIRANA (TRL 2.0)
@@ -152,8 +152,8 @@
 - ARES 150 (TRL 9.0)
 - ULAQ DERE (TRL 9.0)
 #### Yonca-Onuk
-- MRTP24 (TRL 2.0)
-- MRTP SERISI (TRL 2.0)
+- MRTP24 (TRL 9.0)
+- MRTP SERISI (TRL 9.0)
 #### SEDEF
 - TCG ANADOLU (TRL 9.0)
 - TCG TRAKYA (TRL 1.0)

@@ -140,35 +140,39 @@ Türkiye'nin teknoloji ekosistemi üç ana katmanda derinleşmektedir:
 | **[KIRPI](./DOMINION_LAND/BMC/KIRPI/README.md)** | BMC | Mayına Karşı Korumalı Araç (MRAP) | TRL 9 |
 | **[KİRPİ II](./DOMINION_LAND/BMC/KİRPİ_II/README.md)** | BMC | Gelişmiş MRAP (Bağımsız Süspansiyon) | TRL 9 |
 | **[VURAN](./DOMINION_LAND/BMC/VURAN/README.md)** | BMC | Taktik Tekerlekli Zırhlı Araç (4x4) | TRL 9 |
-| **[M2 QCB](./DOMINION_LAND/CANİK/M2_QCB/README.md)** | CANİK | Detaylı analiz bekleniyor | TRL 1-3 |
-| **[METE MC9](./DOMINION_LAND/CANİK/METE_MC9/README.md)** | CANİK | Detaylı analiz bekleniyor | TRL 1-3 |
-| **[VENOM LR](./DOMINION_LAND/CANİK/VENOM_LR/README.md)** | CANİK | Detaylı analiz bekleniyor | TRL 1-3 |
+| **[M2 QCB](./DOMINION_LAND/CANİK/M2_QCB/README.md)** | CANİK | Ağır Makineli Tüfek (12.7mm) | TRL 9 |
+| **[METE MC9](./DOMINION_LAND/CANİK/METE_MC9/README.md)** | CANİK | Mikro Kompakt Tabanca | TRL 9 |
+| **[VENOM LR](./DOMINION_LAND/CANİK/VENOM_LR/README.md)** | CANİK | Orta Kalibre Top (30mm) | TRL 9 |
+
 | **[KAPLAN](./DOMINION_LAND/FNSS/KAPLAN/README.md)** | FNSS | Orta Sınıf Tank / Silah Taşıyıcı Araç | TRL 9 |
 | **[PARS](./DOMINION_LAND/FNSS/PARS/README.md)** | FNSS | Taktik Tekerlekli Zırhlı Araç (6x6/8x8) | TRL 9 |
 | **[PARS 4x4](./DOMINION_LAND/FNSS/PARS_4x4/README.md)** | FNSS | Özel Maksatlı Taktik Araç | TRL 9 |
 | **[SAMUR](./DOMINION_LAND/FNSS/SAMUR/README.md)** | FNSS | Seyyar Yüzücü Hücum Köprüsü | TRL 9 |
 | **[ZAHA](./DOMINION_LAND/FNSS/ZAHA/README.md)** | FNSS | Zırhlı Amfibi Hücum Aracı | TRL 9 |
-| **[HIZIR](./DOMINION_LAND/Katmerciler/HIZIR/README.md)** | Katmerciler | Detaylı analiz bekleniyor | TRL 1-3 |
-| **[KIRAÇ](./DOMINION_LAND/Katmerciler/KIRAÇ/README.md)** | Katmerciler | Detaylı analiz bekleniyor | TRL 1-3 |
+| **[HIZIR](./DOMINION_LAND/Katmerciler/HIZIR/README.md)** | Katmerciler | Taktik Tekerlekli Zırhlı Araç | TRL 9 |
+| **[KIRAÇ](./DOMINION_LAND/Katmerciler/KIRAÇ/README.md)** | Katmerciler | Kriminal İnceleme Aracı | TRL 9 |
+
 | **[76MM DENİZ TOPU](./DOMINION_LAND/MKE/76MM_DENİZ_TOPU/README.md)** | MKE | Milli Gemi Topu | TRL 9 |
 | **[FIRTINA II](./DOMINION_LAND/MKE/FIRTINA_II/README.md)** | MKE | Kundağı Motorlu Obüs (155mm) | TRL 9 |
 | **[MPT-76](./DOMINION_LAND/MKE/MPT-76/README.md)** | MKE | Milli Piyade Tüfeği | TRL 9 |
 | **[PIRANA](./DOMINION_LAND/MKE/PIRANA/README.md)** | MKE | Detaylı analiz bekleniyor | TRL 1-3 |
 | **[TOLGA](./DOMINION_LAND/MKE/TOLGA/README.md)** | MKE | Detaylı analiz bekleniyor | TRL 1-3 |
 | **[YAVUZ](./DOMINION_LAND/MKE/YAVUZ/README.md)** | MKE | Kamyona Monteli Obüs (155mm) | TRL 9 |
-| **[EJDER YALÇIN](./DOMINION_LAND/Nurol_Makina/EJDER_YALÇIN/README.md)** | Nurol Makina | Detaylı analiz bekleniyor | TRL 1-3 |
-| **[ILGAZ](./DOMINION_LAND/Nurol_Makina/ILGAZ/README.md)** | Nurol Makina | Detaylı analiz bekleniyor | TRL 1-3 |
-| **[YÖRÜK](./DOMINION_LAND/Nurol_Makina/YÖRÜK/README.md)** | Nurol Makina | Detaylı analiz bekleniyor | TRL 1-3 |
+| **[EJDER YALÇIN](./DOMINION_LAND/Nurol_Makina/EJDER_YALÇIN/README.md)** | Nurol Makina | Taktik Tekerlekli Zırhlı Araç (4x4) | TRL 9 |
+| **[ILGAZ](./DOMINION_LAND/Nurol_Makina/ILGAZ/README.md)** | Nurol Makina | İç Güvenlik Aracı | TRL 9 |
+| **[YÖRÜK](./DOMINION_LAND/Nurol_Makina/YÖRÜK/README.md)** | Nurol Makina | Yeni Nesil Hafif Zırhlı Araç (NMS) | TRL 9 |
+
 | **[AKREP II](./DOMINION_LAND/OTOKAR/AKREP_II/README.md)** | OTOKAR | Elektrikli Zırhlı Keşif Aracı | TRL 8 |
 | **[ALPAR](./DOMINION_LAND/OTOKAR/ALPAR/README.md)** | OTOKAR | Ağır Sınıf İnsansız Kara Aracı | TRL 6 |
 | **[ARMA](./DOMINION_LAND/OTOKAR/ARMA/README.md)** | OTOKAR | 6x6 Modüler Zırhlı Araç | TRL 9 |
 | **[COBRA II](./DOMINION_LAND/OTOKAR/COBRA_II/README.md)** | OTOKAR | Taktik Tekerlekli Zırhlı Araç | TRL 9 |
 | **[TULPAR](./DOMINION_LAND/OTOKAR/TULPAR/README.md)** | OTOKAR | Yeni Nesil ZMA (Ağır Sınıf) | TRL 8 |
 
-| **[SAR127](./DOMINION_LAND/Sarsılmaz/SAR127/README.md)** | Sarsılmaz | Detaylı analiz bekleniyor | TRL 1-3 |
-| **[SAR56](./DOMINION_LAND/Sarsılmaz/SAR56/README.md)** | Sarsılmaz | Detaylı analiz bekleniyor | TRL 1-3 |
-| **[SAR9](./DOMINION_LAND/Sarsılmaz/SAR9/README.md)** | Sarsılmaz | Detaylı analiz bekleniyor | TRL 1-3 |
-| **[SARBOT](./DOMINION_LAND/Sarsılmaz/SARBOT/README.md)** | Sarsılmaz | Detaylı analiz bekleniyor | TRL 1-3 |
+| **[SAR127](./DOMINION_LAND/Sarsılmaz/SAR127/README.md)** | Sarsılmaz | Ağır Makineli Tüfek (12.7mm) | TRL 9 |
+| **[SAR56](./DOMINION_LAND/Sarsılmaz/SAR56/README.md)** | Sarsılmaz | Piyade Tüfeği (5.56mm) | TRL 9 |
+| **[SAR9](./DOMINION_LAND/Sarsılmaz/SAR9/README.md)** | Sarsılmaz | Görev Tabancası | TRL 9 |
+| **[SARBOT](./DOMINION_LAND/Sarsılmaz/SARBOT/README.md)** | Sarsılmaz | Robotik Silah Sistemi | TRL 7 |
+
 
 ### ⚓ [DOMINION SEA (Mavi Vatan)](./DOMINION_SEA/README.md)
 | Proje / Platform | Üretici | Stratejik Önem | TRL |
@@ -185,8 +189,9 @@ Türkiye'nin teknoloji ekosistemi üç ana katmanda derinleşmektedir:
 | **[MİLGEM](./DOMINION_SEA/STM/MİLGEM/README.md)** | STM | ADA Sınıfı Korvet | TRL 9 |
 | **[STM500](./DOMINION_SEA/STM/STM500/README.md)** | STM | Küçük Sınıf Denizaltı | TRL 6 |
 
-| **[MRTP24](./DOMINION_SEA/Yonca-Onuk/MRTP24/README.md)** | Yonca-Onuk | Detaylı analiz bekleniyor | TRL 1-3 |
-| **[MRTP SERISI](./DOMINION_SEA/Yonca-Onuk/MRTP_SERISI/README.md)** | Yonca-Onuk | Detaylı analiz bekleniyor | TRL 1-3 |
+| **[MRTP24](./DOMINION_SEA/Yonca-Onuk/MRTP24/README.md)** | Yonca-Onuk | Hızlı Müdahale Botu | TRL 9 |
+| **[MRTP SERISI](./DOMINION_SEA/Yonca-Onuk/MRTP_SERISI/README.md)** | Yonca-Onuk | Kaan Sınıfı Hücumbotlar | TRL 9 |
+
 
 ---
 

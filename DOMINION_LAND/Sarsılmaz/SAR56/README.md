@@ -1,18 +1,30 @@
-# 🔫 Proje: SARSILMAZ SAR 56 Piyade Tüfeği
+# 🔫 Proje: SAR56
 
-SAR 56, Sarsılmaz tarafından modern muharebe sahası ihtiyaçlarına göre geliştirilen, 5.56x45 mm NATO kalibresinde, ergonomisi ve güvenilirliğiyle öne çıkan bir piyade tüfeğidir.
+> **Üretici:** Sarsılmaz  
+> **Sınıf:** Piyade Tüfeği (5.56x45mm)  
+> **Stratejik Önem:** Özel Kuvvetler ve Jandarma'nın ihtiyaçlarına göre tasarlanmış, ergonomik ve hafif saldırı tüfeği.
 
-## 🛠 Teknik Veriler
-| Özellik | Detay |
+![SAR56](https://www.sarsilmaz.com/public/images/urunler/sar56.jpg)
+
+## 📝 Proje Tanımı
+SAR56; AR-15 platformunun ergonomisini, kısa vuruşlu gaz piston sisteminin (short stroke gas piston) güvenilirliği ile birleştiren modern bir piyade tüfeğidir. MPT-55'ten edinilen tecrübelerle geliştirilmiştir.
+
+## ⚙️ Teknik Özellikler
+
+| Özellik | Değer |
 | :--- | :--- |
-| **Kalibre** | 5.56x45 mm NATO |
-| **Çalışma Prensibi** | Kısa stroklu gaz piston sistemi |
-| **Özellik** | 5 konumlu teleskopik dipçik, Picatinny ray sistemleri |
-| **Kullanım** | Özel harekat birlikleri ve sınır güvenliği unsurları |
+| **Kalibre** | 5.56x45mm NATO |
+| **Namlu Boyu** | 7.5", 11", 14.5" (Değişken) |
+| **Ağırlık** | ~3.0 kg (Oldukça Hafif) |
+| **Atış Hızı** | 750-950 Atım/Dakika |
 
+## 🌟 Öne Çıkan Yetenekler
+- **Kısa Gaz Pistonu:** Barut gazı mekanizmayı kirletmez, bu sayede tutukluk yapma riski azalır ve temizliği kolaylaşır.
+- **Ergonomi:** Çift taraflı (ambidextrous) mandallar sayesinde hem sağ hem sol elle kullanılabilir.
 
+## 🚀 Geliştirme Durumu (TRL 9)
+- [x] Jandarma Özel Harekat (JÖH) ve Polis Özel Harekat (PÖH) Envanterinde
+- [x] İhracat
 
-## 📁 Proje Varlıkları (Project Assets)
-- (Bu proje dizininde henüz ek dosya bulunmamaktadır.)
 ---
-[⬅️ Sarsılmaz Ana Sayfası](../README.md) | [🏠 Ana Sayfa](../../README.md)
+[⬅️ Sarsılmaz Ana Sayfası](../README.md) | [🏠 Ana Sayfa](../../../README.md)
