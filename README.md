@@ -66,8 +66,9 @@ Türkiye'nin teknoloji ekosistemi üç ana katmanda derinleşmektedir:
 
 | **[KARAOK](./DOMINION_LAND/ROKETSAN/KARAOK/README.md)** | ROKETSAN | Omuzdan Atılan Tanksavar (2.5 km) | TRL 9 |
 | **[LEVENT](./DOMINION_AEROSPACE/ROKETSAN/LEVENT/README.md)** | ROKETSAN | Detaylı analiz bekleniyor | TRL 1-3 |
-| **[ORKA](./DOMINION_AEROSPACE/ROKETSAN/ORKA/README.md)** | ROKETSAN | Detaylı analiz bekleniyor | TRL 1-3 |
+| **[ORKA](./DOMINION_SEA/ROKETSAN/ORKA/README.md)** | ROKETSAN | Milli Hafif Sınıf Torpido (324mm) | TRL 7 |
 | **[SUNGUR](./DOMINION_LAND/ROKETSAN/SUNGUR/README.md)** | ROKETSAN | Portatif Hava Savunma Füze Sistemi (8 km) | TRL 9 |
+
 | **[TAYFUN](./DOMINION_AEROSPACE/ROKETSAN/TAYFUN/README.md)** | ROKETSAN | Balistik Caydırıcılık (560+ km) | TRL 9 |
 | **[TAYFUN BLOK4](./DOMINION_AEROSPACE/ROKETSAN/TAYFUN_BLOK4/README.md)** | ROKETSAN | Detaylı analiz bekleniyor | TRL 1-3 |
 | **[ÇAKIR](./DOMINION_AEROSPACE/ROKETSAN/ÇAKIR/README.md)** | ROKETSAN | Yeni Nesil Seyir Füzesi (150+ km) | TRL 9 |
@@ -83,7 +84,9 @@ Türkiye'nin teknoloji ekosistemi üç ana katmanda derinleşmektedir:
 | **[ATAK-2](./DOMINION_AEROSPACE/TUSAŞ/ATAK-2/README.md)** | TUSAŞ | Ağır Sınıf Taarruz Helikopteri | TRL 7 |
 | **[GÖKBEY](./DOMINION_AEROSPACE/TUSAŞ/GÖKBEY/README.md)** | TUSAŞ | Genel Maksat Helikopteri | TRL 8 |
 | **[GÖKTÜRK](./DOMINION_AEROSPACE/TUSAŞ/GÖKTÜRK/README.md)** | TUSAŞ | Keşif Gözetleme Uydusu | TRL 9 |
+| **[GÖKTÜRK-3](./DOMINION_AEROSPACE/TUSAŞ/GÖKTÜRK-3/README.md)** | TUSAŞ | SAR (Radar) Keşif-Gözetleme Uydusu | TRL 6 |
 | **[HÜRJET](./DOMINION_AEROSPACE/TUSAŞ/HÜRJET/README.md)** | TUSAŞ | Jet Eğitim & Taarruz Uçağı | TRL 8 |
+
 | **[HÜRKUŞ](./DOMINION_AEROSPACE/TUSAŞ/HÜRKUŞ/README.md)** | TUSAŞ | Temel Eğitim ve Hafif Taarruz Uçağı | TRL 9 |
 | **[KAAN](./DOMINION_AEROSPACE/TUSAŞ/KAAN/README.md)** | TUSAŞ | 5. Nesil Milli Muharip Uçak | TRL 7 |
 | **[ŞİMŞEK](./DOMINION_AEROSPACE/TUSAŞ/ŞİMŞEK/README.md)** | TUSAŞ | Yüksek Hızlı Hedef Uçak / Kamikaze | TRL 9 |
@@ -195,13 +198,17 @@ Türkiye'nin teknoloji ekosistemi üç ana katmanda derinleşmektedir:
 | **[MEMATT](./DOMINION_SEA/ASFAT/MEMATT/README.md)** | ASFAT | Mekanik Mayın Temizleme Teçhizatı | TRL 9 |
 | **[PN MILGEM](./DOMINION_SEA/ASFAT/PN_MILGEM/README.md)** | ASFAT | Ağır Korvet / Hafif Firkateyn (Babur Sınıfı) | TRL 9 |
 | **[TCG ANADOLU](./DOMINION_SEA/SEDEF/TCG_ANADOLU/README.md)** | SEDEF | Çok Maksatlı Amfibi Hücum Gemisi (LHD) | TRL 9 |
-| **[TCG TRAKYA](./DOMINION_SEA/SEDEF/TCG_TRAKYA/README.md)** | SEDEF | Uçak Gemisi (Planlama Aşamasında) | TRL 1 |
+| **[TCG TRAKYA](./DOMINION_SEA/SEDEF/TCG_TRAKYA/README.md)** | SEDEF | Milli Uçak Gemisi (Hava Kuvveti Odaklı) | TRL 1 |
 | **[KARGU](./DOMINION_SEA/STM/KARGU/README.md)** | STM | Kamikaze İHA (Döner Kanatlı) | TRL 9 |
+
 | **[MİLGEM](./DOMINION_SEA/STM/MİLGEM/README.md)** | STM | ADA Sınıfı Korvet | TRL 9 |
 | **[STM500](./DOMINION_SEA/STM/STM500/README.md)** | STM | Küçük Sınıf Denizaltı | TRL 6 |
 
 | **[MRTP24](./DOMINION_SEA/Yonca-Onuk/MRTP24/README.md)** | Yonca-Onuk | Hızlı Müdahale Botu | TRL 9 |
 | **[MRTP SERISI](./DOMINION_SEA/Yonca-Onuk/MRTP_SERISI/README.md)** | Yonca-Onuk | Kaan Sınıfı Hücumbotlar | TRL 9 |
+| **[MİLDEN](./DOMINION_SEA/MİLDEN/README.md)** | Dz.K.K. | Milli Denizaltı Projesi (AIP) | TRL 4 |
+| **[AY GÖREVİ](./DOMINION_AEROSPACE/TUA/AY_GÖREVİ/README.md)** | TUA | Milli Uzay Programı (Lunar Mission) | TRL 5 |
+
 
 
 ---

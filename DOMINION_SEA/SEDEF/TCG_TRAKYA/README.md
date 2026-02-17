@@ -1,30 +1,31 @@
-# 🚢 Proje: TCG TRAKYA
+# 🚢 Proje: TCG TRAKYA (Milli Uçak Gemisi)
 
-> **Üretici:** Planlama Aşamasında (Muhtemel: İspanyol Navantia İşbirliği veya Tamamen Milli Tasarım)  
-> **Sınıf:** Uçak Gemisi / Büyük SİHA Gemisi  
-> **Stratejik Önem:** Türkiye'nin ilk gerçek uçak gemisi projesi. TCG ANADOLU'dan daha büyük ve kapasiteli.
+> **Durum:** Kavramsal Tasarım Aşamasında  
+> **Sınıf:** Uçak Gemisi (Aircraft Carrier)  
+> **Stratejik Önem:** Türkiye'nin "Mavi Vatan" ve ötesindeki haklarını koruyacak, yüzen bir hava üssü. TCG Anadolu'dan daha büyük, daha hızlı ve daha fazla uçak kapasiteli.
+
+![TCG TRAKYA](https://cdnuploads.aa.com.tr/uploads/Contents/2021/10/21/thumbs_b_c_0989f66f91726a420b991a0c4973347c.jpg)
 
 ## 📝 Proje Tanımı
-TCG TRAKYA, TCG ANADOLU'dan elde edilen tecrübelerle planlanan, Türk Donanması'nın açık denizlerdeki hava gücünü oluşturacak ikinci ve daha büyük platformdur. Cumhurbaşkanı tarafından "Bir sonraki adımımız uçak gemisi inşa etmektir" sözleriyle işaret edilmiştir.
+TCG TRAKYA, TCG Anadolu'nun (LHD) başarısının ardından Türkiye'nin gerçek anlamda bir uçak gemisine sahip olma vizyonunun ürünüdür. Tamamıyla milli imkanlarla tasarlanması ve inşa edilmesi planlanmaktadır.
 
-## ⚙️ Teknik Özellikler (Tahmini)
+## ⚙️ Tahmini Teknik Özellikler
 
-| Özellik | TCG TRAKYA (Hedeflenen) | TCG ANADOLU (Mevcut) |
-| :--- | :--- | :--- |
-| **Boy** | 260 - 280 Metre | 231 Metre |
-| **Deplasman** | 40.000+ Ton | 27.000 Ton |
-| **Hava Aracı** | KAAN (Deniz), KIZILELMA, HÜRJET, TB3 | TB3, Helikopter |
-| **Pist** | CATOBAR veya STOBAR (Manevra Alanı Geniş) | Ski-Jump (Kısa Pist) |
+| Özellik | Beklenen Değer |
+| :--- | :--- |
+| **Boy** | 285+ Metre |
+| **Deplasman** | 60.000+ Ton |
+| **Hız** | 25+ Knot |
+| **Hava Araçları** | KAAN, KIZILELMA, ANKA-3, Bayraktar TB3 |
 
 ## 🌟 Öne Çıkan Yetenekler
-- **Jet Operasyonu:** TCG ANADOLU'dan farklı olarak insanlı jet uçaklarının (KAAN veya HÜRJET Naval) iniş kalkışına uygun olması hedeflenmektedir.
-- **Nükleer Tahrik?**: Henüz kesinleşmemekle birlikte uzun menzil için nükleer veya gelişmiş gaz türbini seçenekleri masadadır.
+- **Daha Büyük Hava Gücü:** TCG Anadolu helikopter odaklıyken, TCG Trakya jet uçakları (KAAN Deniz Versiyonu) için optimize edilecektir.
+- **Milli Katapult/STOBAR:** İHA ve jetlerin kalkışı için milli güç grupları ve yakalama sistemleri.
 
 ## 🚀 Geliştirme Durumu (TRL 1)
-- [x] Siyasi İrade Beyanı
-- [x] İspanya ile Ön Görüşmeler
-- [ ] Tasarım Ofisi Kurulumu (Dizayn Proje Ofisi Müdürlüğü kuruldu)
-- [ ] Sac Kesimi ve İnşa
+- [x] Siyasi Karar ve Vizyon Belirlendi
+- [ ] Kavramsal Tasarım Devam Ediyor
+- [ ] Tersane Hazırlıkları
 
 ---
 [⬅️ SEDEF Ana Sayfası](../README.md) | [🏠 Ana Sayfa](../../../README.md)
