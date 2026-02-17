@@ -1,12 +1,12 @@
 # 🇹🇷 Milli Teknoloji Envanteri Raporu
 
-**Tarih:** 2026-02-17 12:51
+**Tarih:** 2026-02-17 13:00
 
 ## Özet
-- **Toplam Proje Sayısı:** 126
-- **AEROSPACE:** 41 Proje
-- **ELECTRONICS:** 32 Proje
-- **LAND:** 36 Proje
+- **Toplam Proje Sayısı:** 132
+- **AEROSPACE:** 44 Proje
+- **ELECTRONICS:** 34 Proje
+- **LAND:** 37 Proje
 - **SEA:** 17 Proje
 
 ## Detaylı Envanter
@@ -50,6 +50,7 @@
 - TÜRKSAT 6A (TRL 8.0)
 - HÜRKUŞ (TRL 9.0)
 - ANKA
+- ŞİMŞEK (TRL 9.0)
 #### ROKETSAN
 - TAYFUN (TRL 9.0)
 - ALKA
@@ -59,6 +60,8 @@
 - BARBAROS
 - İHA-300 (TRL 2.0)
 - ÇAKIR (TRL 9.0)
+- MAM AILESI (TRL 9.0)
+- CİRİT (TRL 9.0)
 
 ### DOMINION_ELECTRONICS
 #### METEKSAN
@@ -99,6 +102,8 @@
 - MİLKAR (TRL 2.0)
 - TURAN (TRL 2.0)
 - ULAQ (TRL 2.0)
+- KORKUT (TRL 9.0)
+- GÖKDENİZ (TRL 9.0)
 
 ### DOMINION_LAND
 #### CANİK
@@ -124,6 +129,7 @@
 - MPT-76 (TRL 9.0)
 - 76MM DENİZ TOPU (TRL 9.0)
 - YAVUZ (TRL 9.0)
+- BORAN (TRL 9.0)
 #### BMC
 - ALTAY (TRL 9.0)
 - KIRPI (TRL 9.0)

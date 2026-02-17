@@ -60,7 +60,10 @@ Türkiye'nin teknoloji ekosistemi üç ana katmanda derinleşmektedir:
 | **[KARAYEL](./DOMINION_AEROSPACE/Lentatek/KARAYEL/README.md)** | Lentatek | Detaylı analiz bekleniyor | TRL 1-3 |
 | **[AKATA](./DOMINION_AEROSPACE/ROKETSAN/AKATA/README.md)** | ROKETSAN | Detaylı analiz bekleniyor | TRL 1-3 |
 | **[AKYA](./DOMINION_SEA/ROKETSAN/AKYA/README.md)** | ROKETSAN | Yeni Nesil Ağır Sınıf Torpido (50+ km) | TRL 9 |
+| **[CİRİT](./DOMINION_AEROSPACE/ROKETSAN/CİRİT/README.md)** | ROKETSAN | Lazer Güdümlü 2.75" Füze | TRL 9 |
+| **[MAM AİLESİ](./DOMINION_AEROSPACE/ROKETSAN/MAM_AILESI/README.md)** | ROKETSAN | Mini Akıllı Mühimmat (MAM-L/C/T) | TRL 9 |
 | **[HİSAR](./DOMINION_AEROSPACE/ROKETSAN/HİSAR/README.md)** | ROKETSAN | Milli Hava Savunma Ailesi (A+/O+/RF) | TRL 9 |
+
 | **[KARAOK](./DOMINION_LAND/ROKETSAN/KARAOK/README.md)** | ROKETSAN | Omuzdan Atılan Tanksavar (2.5 km) | TRL 9 |
 | **[LEVENT](./DOMINION_AEROSPACE/ROKETSAN/LEVENT/README.md)** | ROKETSAN | Detaylı analiz bekleniyor | TRL 1-3 |
 | **[ORKA](./DOMINION_AEROSPACE/ROKETSAN/ORKA/README.md)** | ROKETSAN | Detaylı analiz bekleniyor | TRL 1-3 |
@@ -83,7 +86,9 @@ Türkiye'nin teknoloji ekosistemi üç ana katmanda derinleşmektedir:
 | **[HÜRJET](./DOMINION_AEROSPACE/TUSAŞ/HÜRJET/README.md)** | TUSAŞ | Jet Eğitim & Taarruz Uçağı | TRL 8 |
 | **[HÜRKUŞ](./DOMINION_AEROSPACE/TUSAŞ/HÜRKUŞ/README.md)** | TUSAŞ | Temel Eğitim ve Hafif Taarruz Uçağı | TRL 9 |
 | **[KAAN](./DOMINION_AEROSPACE/TUSAŞ/KAAN/README.md)** | TUSAŞ | 5. Nesil Milli Muharip Uçak | TRL 7 |
+| **[ŞİMŞEK](./DOMINION_AEROSPACE/TUSAŞ/ŞİMŞEK/README.md)** | TUSAŞ | Yüksek Hızlı Hedef Uçak / Kamikaze | TRL 9 |
 | **[TÜRKSAT 6A](./DOMINION_AEROSPACE/TUSAŞ/TÜRKSAT_6A/README.md)** | TUSAŞ | İlk Milli Haberleşme Uydusu | TRL 8 |
+
 | **[ALPİN](./DOMINION_AEROSPACE/Titra/ALPİN/README.md)** | Titra | İnsansız Helikopter (Kargo/Lojistik) | TRL 7 |
 | **[DELİ](./DOMINION_AEROSPACE/Titra/DELİ/README.md)** | Titra | Kamikaze İHA (Sabit Kanatlı) | TRL 9 |
 | **[GOKDOGAN](./DOMINION_AEROSPACE/TÜBİTAK_SAGE/GOKDOGAN/README.md)** | TÜBİTAK SAGE | Görüş Ötesi Hava-Hava Füzesi (BVRAAM) | TRL 9 |
@@ -104,9 +109,13 @@ Türkiye'nin teknoloji ekosistemi üç ana katmanda derinleşmektedir:
 | **[EJDERHA](./DOMINION_ELECTRONICS/ASELSAN/EJDERHA/README.md)** | ASELSAN | Yüksek Güçlü Elektromanyetik Silah | TRL 7 |
 | **[ERALP](./DOMINION_ELECTRONICS/ASELSAN/ERALP/README.md)** | ASELSAN | Detaylı analiz bekleniyor | TRL 1-3 |
 | **[GÖKTAN](./DOMINION_ELECTRONICS/ASELSAN/GÖKTAN/README.md)** | ASELSAN | AESA İHA Radarı (SAR/GMTI) | TRL 7 |
+| **[GÖKDENİZ](./DOMINION_ELECTRONICS/ASELSAN/GÖKDENİZ/README.md)** | ASELSAN | Yakın Hava Savunma Sistemi (CIWS) | TRL 9 |
 | **[GÜRZ](./DOMINION_ELECTRONICS/ASELSAN/GÜRZ/README.md)** | ASELSAN | Hibrit Hava Savunma Sistemi | TRL 8 |
+
 | **[IHTAR](./DOMINION_ELECTRONICS/ASELSAN/IHTAR/README.md)** | ASELSAN | Anti-Drone Sistemi (Soft/Hard Kill) | TRL 9 |
+| **[KORKUT](./DOMINION_ELECTRONICS/ASELSAN/KORKUT/README.md)** | ASELSAN | Kundağı Motorlu Hava Savunma Topu | TRL 9 |
 | **[KORAL](./DOMINION_ELECTRONICS/ASELSAN/KORAL/README.md)** | ASELSAN | Mobil/Stratejik Elektronik Harp Sistemi | TRL 9 |
+
 | **[MURAD](./DOMINION_ELECTRONICS/ASELSAN/MURAD/README.md)** | ASELSAN | AESA Burun Radarı (GaN Teknolojisi) | TRL 8 |
 | **[MİLKAR](./DOMINION_ELECTRONICS/ASELSAN/MİLKAR/README.md)** | ASELSAN | Detaylı analiz bekleniyor | TRL 1-3 |
 | **[SANCAK](./DOMINION_ELECTRONICS/ASELSAN/SANCAK/README.md)** | ASELSAN | Detaylı analiz bekleniyor | TRL 1-3 |
@@ -153,7 +162,9 @@ Türkiye'nin teknoloji ekosistemi üç ana katmanda derinleşmektedir:
 | **[KIRAÇ](./DOMINION_LAND/Katmerciler/KIRAÇ/README.md)** | Katmerciler | Kriminal İnceleme Aracı | TRL 9 |
 
 | **[76MM DENİZ TOPU](./DOMINION_LAND/MKE/76MM_DENİZ_TOPU/README.md)** | MKE | Milli Gemi Topu | TRL 9 |
+| **[BORAN](./DOMINION_LAND/MKE/BORAN/README.md)** | MKE | Havadan Taşınabilir Hafif Obüs (105mm) | TRL 9 |
 | **[FIRTINA II](./DOMINION_LAND/MKE/FIRTINA_II/README.md)** | MKE | Kundağı Motorlu Obüs (155mm) | TRL 9 |
+
 | **[MPT-76](./DOMINION_LAND/MKE/MPT-76/README.md)** | MKE | Milli Piyade Tüfeği | TRL 9 |
 | **[PIRANA](./DOMINION_LAND/MKE/PIRANA/README.md)** | MKE | Detaylı analiz bekleniyor | TRL 1-3 |
 | **[TOLGA](./DOMINION_LAND/MKE/TOLGA/README.md)** | MKE | Detaylı analiz bekleniyor | TRL 1-3 |
