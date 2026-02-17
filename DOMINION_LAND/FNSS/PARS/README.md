@@ -1,18 +1,33 @@
-# 🚜 Proje: PARS Tektik Tekerlekli Zırhlı Araç Ailesi
+# 🐆 Proje: PARS (6x6 / 8x8)
 
-PARS ailesi, FNSS tarafından geliştirilen, 4x4, 6x6 ve 8x8 konfigürasyonlara sahip modüler bir zırhlı araç ailesidir. Düşük silueti ve yüksek hareket kabiliyetiyle modern orduların öncelikli tercihidir.
+> **Üretici:** FNSS  
+> **Sınıf:** Taktik Tekerlekli Zırhlı Araç (TTZA)  
+> **Stratejik Önem:** Malezya ve Umman gibi ülkelerin ordularının bel kemiğini oluşturan, ihracat şampiyonu zırhlı araç ailesi.
 
-## 🛠 Teknik Veriler
-| Özellik | Detay |
+![PARS](https://www.fnss.com.tr/uploads/products/pars-iii-8x8/pars_iii_8x8_01.jpg)
+
+## 📝 Proje Tanımı
+PARS ailesi (PARS III, PARS IV, PARS ALPHA), yüksek hareket kabiliyetine sahip, modüler ve çok yönlü tekerlekli zırhlı araçlardır. Özellikle mayın koruması ve bağımsız süspansiyon sistemi ile öne çıkar.
+
+## ⚙️ Teknik Özellikler
+
+| Özellik | PARS 8x8 |
 | :--- | :--- |
-| **Varyantlar** | İleri Gözetleme, Anti-Tank, Komuta Kontrol |
-| **Süspansiyon** | Tam bağımsız yükseklik ayarlı hidropnömatik süspansiyon |
-| **Hareket** | 4, 6 veya 8 tekerlekten çekiş |
-| **Koruma** | STANAG 4569 Seviye 4+ (Modüler) |
+| **Ağırlık** | 30 - 35 Ton |
+| **Motor** | 600+ BG Dizel |
+| **Hız** | 100 km/s |
+| **Dönüş** | Tüm tekerlerden dönüş (Yengeç Yürüyüşü) |
+| **Mürettebat** | 12 Kişi |
 
+## 🌟 Öne Çıkan Yetenekler
+- **Yükseklik Ayarı:** Hidropnömatik süspansiyon ile araç alçaltılıp yükseltilebilir.
+- **PARS ALPHA:** Yeni nesil hibrit varyantı, daha yüksek zırh ve ateş gücü sunar.
+- **Özel Kuvvetler (6x6):** TSK Özel Kuvvetler Komutanlığı için üretilen, mayına karşı ekstra korumalı "6x6 Komando" versiyonu mevcuttur.
 
+## 🚀 Geliştirme Durumu (TRL 9)
+- [x] İhracat (Malezya - AV8 Gempita adıyla üretim)
+- [x] İhracat (Umman)
+- [x] TSK Envanteri (6x6 ve 8x8 versiyonları)
 
-## 📁 Proje Varlıkları (Project Assets)
-- (Bu proje dizininde henüz ek dosya bulunmamaktadır.)
 ---
-[⬅️ FNSS Ana Sayfası](../README.md) | [🏠 Ana Sayfa](../../README.md)
+[⬅️ FNSS Ana Sayfası](../README.md) | [🏠 Ana Sayfa](../../../README.md)

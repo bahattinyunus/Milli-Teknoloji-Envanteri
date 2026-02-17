@@ -1,63 +1,35 @@
-# ⚓ Proje: ZAHA (Zırhlı Amfibi Hücum Aracı)
+# 🌊 Proje: ZAHA
 
-![ZAHA](../../../_ASSETS/hero_banner.png)
+> **Üretici:** FNSS  
+> **Sınıf:** Zırhlı Amfibi Hücum Aracı (MAV - Marine Assault Vehicle)  
+> **Stratejik Önem:** TCG ANADOLU'dan kıyıya zırhlı çıkarma yapabilen, dünyada sadece iki ülkenin (ABD ve Türkiye) üretebildiği nadir bir araç.
 
-> **"Denizden Karaya Çelikten Bir Köprü: Amfibi Harekatın Gücü"**
+![ZAHA](https://www.fnss.com.tr/uploads/products/zaha/zaha_01.jpg)
 
-ZAHA, çıkarma gemileri (LHD TCG Anadolu gibi) ile sahil arasındaki mesafeyi en güvenli ve hızlı şekilde kat etmek, karaya çıktığında ise zırhlı personel taşıyıcı olarak operasyona devam etmek üzere FNSS tarafından geliştirilmiştir.
+## 📝 Proje Tanımı
+ZAHA; havuzlu çıkarma gemilerinden (LHD) denize inip, yüksek süratle kıyıya yüzerek çıkan ve karada bir zırhlı personel taşıyıcı gibi harekat icra edebilen amfibi bir araçtır. Deniz piyadelerinin güvenli intikali için kritiktir.
 
-## 📝 Proje Açıklaması
-ZAHA (Zırhlı Amfibi Hücum Aracı), Türk Deniz Kuvvetleri'nin amfibi harekat yeteneğini modernize etmek amacıyla FNSS tarafından geliştirilen özel bir platformdur. Denizde 7 knot hızla ilerleyebilen araç, kumsala çıktığı anda paletli yürüyüş sistemiyle 70 km/s hıza ulaşarak bir zırhlı muharebe aracına dönüşür. Alüminyum zırh gövdesi hem hafiflik hem de korozyon direnci sağlarak, yüksek taşıma kapasitesiyle çıkarma timlerini ateş altında güvenle hedefe ulaştırır.
+## ⚙️ Teknik Özellikler
 
-### ⚓ Sahil Başının Muhafızı
-ZAHA, denizde alabora olma (ters dönme) durumunda bile kendi kendini düzeltebilme yeteneğiyle dünyada bu sınıftaki nadir araçlardan biridir. ÇAKA uzaktan komutalı kule sistemiyle donatılan araç, çıkarma sırasında piyadeye kesintisiz ve yoğun ateş desteği sağlar.
+| Özellik | Değer |
+| :--- | :--- |
+| **Ağırlık** | 30 Ton |
+| **Personel** | 21 Piyade + 3 Mürettebat |
+| **Deniz Hızı** | 7 Knot (Su Jetleri ile) |
+| **Kara Hızı** | 70 km/s |
+| **Gövde** | Alüminyum (Korozyon direnci ve hafiflik için) |
+| **Silah** | ÇAKA Kulesi (12.7mm MT + 40mm Bombaatar) |
 
-## 🛠 Teknik Master Katalog
+## 🌟 Öne Çıkan Yetenekler
+- **Self-Righting:** Denizde alabora olsa bile (devrilse bile) otomatik olarak kendini düzeltebilir.
+- **Balistik Koruma:** Denizdeki mayınlara ve kıyıdan gelen ateşlere karşı zırhlıdır.
+- **Uzaktan Komutalı Kule:** FNSS tarafından tasarlanan ÇAKA UKSS, nişancının zırh altında kalarak ateş etmesini sağlar.
 
-| Parametre | Detay | Özellik |
-| :--- | :--- | :--- |
-| **Tür** | Zırhlı Amfibi Hücum Aracı | Kendini Doğrultma Yeteneği |
-| **Personel Kapasitesi** | 21 (Piyade) + 3 (Mürettebat) | Yüksek Taşıma Kapasitesi |
-| **Su Üstü Hızı** | 7 knot | Hydrodynamic Tasarım |
-| **Karadaki Hız** | 70 km/s | Paletli Hareket Sistemi |
-| **Gövde** | Deniz Suyu Dirençli Alüminyum | Balistik ve Mayın Koruması |
+## 🚀 Geliştirme Durumu (TRL 9)
+- [x] Prototip ve Kalifikasyon
+- [x] Deniz Testleri (TCG ANADOLU ile)
+- [x] Seri Üretim ve Envanter Teslimatı
+- [x] İhracat (Endonezya İlgisi)
 
-## 🌊 Amfibi Operasyonel Kabiliyet
-ZAHA, zorlu deniz şartlarında operasyon yapabilmek için özel yeteneklerle donatılmıştır:
-- **Alabora Olma Durumu:** Gemi denizde ters dönse dahi kendini otomatik olarak düzeltme yeteneğine sahiptir.
-- **Güdümlü İniş:** TCG Anadolu havuzundan denize inerek doğrudan hedefe yönelim.
-- **Sudan Karaya Kesintisiz Geçiş:** Kumsala ulaştığı anda hız kesmeden karada muharebe.
-
-## 🔫 Ateş Gücü: ÇAKA UKSS
-- **Silah Sistemi:** 12.7 mm Ağır Makinalı Tüfek + 40 mm Otomatik Bombaatar.
-- **Gece/Gündüz Görüş:** Termal ve panoramik sensör paketi.
-
-## 🌐 Ekosistem Entegrasyonu (Amphibious Synergy)
-ZAHA, Deniz Kuvvetleri'nin amfibi harekat doktrininin temel taşıdır:
-- **LHD TCG ANADOLU:** Gemi havuzundan denize inerek, SİHA desteği altında kıyıya çıkarma yapma yeteneği.
-- **Deniz-Kara Veri Bağı:** Çıkarma sırasında fırkateynlerden ve uçaklardan gelen tehdit bilgilerinin doğrudan araç komutanı ekranına düşmesi.
-- **Müşterek Harekat:** ZAHA'ların karaya çıkışını takiben, ALTAY tankları ile tugay seviyesinde koordineli ilerleyiş.
-
-## 📊 Alt Sistemler ve Yerlilik
-- **Su Jeti Sistemi:** Denizde yüksek sürat ve manevra sağlayan milli su jeti üniteleri.
-- **ÇAKA UKSS:** FNSS tarafından geliştirilen, sis havanları ve 40mm bombaatar ile entegre uzaktan komutalı silah kulesi.
-- **Korozyon Dirençli Gövde:** Deniz suyu ve zorlu sahil şartlarına dayanıklı, hafif alüminyum alaşım yapı.
-
-## 🔮 Gelecek Vizyonu ve Gelişim
-- **İnsansız ZAHA:** Amfibi operasyonların en riskli ilk dalgasında kullanılmak üzere tamamen otonom çıkarma aracı varyantı.
-- **Ağır Silah Varyantı:** Sahil başını tutmak için anti-tank füzeleri (OMTAS) ile donatılmış ZAHA modelleri.
-- **KBRN Koruma Geliştirmeleri:** Her türlü kimyasal ve radyoaktif ortamda çıkarma yapabilme kapasitesinin artırılması.
-
-## 📈 Milat Çizgisi
-- [x] İhtiyaç Makamı Tasarım Onayı
-- [x] Kalifikasyon Testleri (Deniz ve Kara)
-- [x] Seri Üretim Teslimat Başlangıcı
-- [/] Mavi Vatan Tatbikatlarında Operasyonel Deneyim
-- [ ] İhracat Modelleri ve Geliştirmeler
-
-
-
-## 📁 Proje Varlıkları (Project Assets)
-- (Bu proje dizininde henüz ek dosya bulunmamaktadır.)
 ---
 [⬅️ FNSS Ana Sayfası](../README.md) | [🏠 Ana Sayfa](../../../README.md)

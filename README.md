@@ -134,24 +134,26 @@ Türkiye'nin teknoloji ekosistemi üç ana katmanda derinleşmektedir:
 ### 🚜 [DOMINION LAND (Kara & Zırh)](./DOMINION_LAND/README.md)
 | Proje / Platform | Üretici | Stratejik Önem | TRL |
 | :--- | :--- | :--- | :--- |
-| **[ALTAY](./DOMINION_LAND/BMC/ALTAY/README.md)** | BMC | Ana Muharebe Tankı | TRL 9 |
-| **[KIRPI](./DOMINION_LAND/BMC/KIRPI/README.md)** | BMC | Detaylı analiz bekleniyor | TRL 1-3 |
-| **[VURAN](./DOMINION_LAND/BMC/VURAN/README.md)** | BMC | Detaylı analiz bekleniyor | TRL 1-3 |
+| **[ALTAY](./DOMINION_LAND/BMC/ALTAY/README.md)** | BMC | Yeni Nesil Ana Muharebe Tankı | TRL 9 |
+| **[KIRPI](./DOMINION_LAND/BMC/KIRPI/README.md)** | BMC | Mayına Karşı Korumalı Araç (MRAP) | TRL 9 |
+| **[KİRPİ II](./DOMINION_LAND/BMC/KİRPİ_II/README.md)** | BMC | Gelişmiş MRAP (Bağımsız Süspansiyon) | TRL 9 |
+| **[VURAN](./DOMINION_LAND/BMC/VURAN/README.md)** | BMC | Taktik Tekerlekli Zırhlı Araç (4x4) | TRL 9 |
 | **[M2 QCB](./DOMINION_LAND/CANİK/M2_QCB/README.md)** | CANİK | Detaylı analiz bekleniyor | TRL 1-3 |
 | **[METE MC9](./DOMINION_LAND/CANİK/METE_MC9/README.md)** | CANİK | Detaylı analiz bekleniyor | TRL 1-3 |
 | **[VENOM LR](./DOMINION_LAND/CANİK/VENOM_LR/README.md)** | CANİK | Detaylı analiz bekleniyor | TRL 1-3 |
-| **[KAPLAN](./DOMINION_LAND/FNSS/KAPLAN/README.md)** | FNSS | Detaylı analiz bekleniyor | TRL 1-3 |
-| **[PARS](./DOMINION_LAND/FNSS/PARS/README.md)** | FNSS | Detaylı analiz bekleniyor | TRL 1-3 |
-| **[SAMUR](./DOMINION_LAND/FNSS/SAMUR/README.md)** | FNSS | Detaylı analiz bekleniyor | TRL 1-3 |
-| **[ZAHA](./DOMINION_LAND/FNSS/ZAHA/README.md)** | FNSS | Amfibi Hücum | TRL 9 |
+| **[KAPLAN](./DOMINION_LAND/FNSS/KAPLAN/README.md)** | FNSS | Orta Sınıf Tank / Silah Taşıyıcı Araç | TRL 9 |
+| **[PARS](./DOMINION_LAND/FNSS/PARS/README.md)** | FNSS | Taktik Tekerlekli Zırhlı Araç (6x6/8x8) | TRL 9 |
+| **[PARS 4x4](./DOMINION_LAND/FNSS/PARS_4x4/README.md)** | FNSS | Özel Maksatlı Taktik Araç | TRL 9 |
+| **[SAMUR](./DOMINION_LAND/FNSS/SAMUR/README.md)** | FNSS | Seyyar Yüzücü Hücum Köprüsü | TRL 9 |
+| **[ZAHA](./DOMINION_LAND/FNSS/ZAHA/README.md)** | FNSS | Zırhlı Amfibi Hücum Aracı | TRL 9 |
 | **[HIZIR](./DOMINION_LAND/Katmerciler/HIZIR/README.md)** | Katmerciler | Detaylı analiz bekleniyor | TRL 1-3 |
 | **[KIRAÇ](./DOMINION_LAND/Katmerciler/KIRAÇ/README.md)** | Katmerciler | Detaylı analiz bekleniyor | TRL 1-3 |
-| **[76MM DENİZ TOPU](./DOMINION_LAND/MKE/76MM_DENİZ_TOPU/README.md)** | MKE | Detaylı analiz bekleniyor | TRL 1-3 |
-| **[FIRTINA II](./DOMINION_LAND/MKE/FIRTINA_II/README.md)** | MKE | Yeni Nesil KND Obüs (40+ km Menzil) | TRL 9 |
-| **[MPT-76](./DOMINION_LAND/MKE/MPT-76/README.md)** | MKE | Detaylı analiz bekleniyor | TRL 1-3 |
+| **[76MM DENİZ TOPU](./DOMINION_LAND/MKE/76MM_DENİZ_TOPU/README.md)** | MKE | Milli Gemi Topu | TRL 9 |
+| **[FIRTINA II](./DOMINION_LAND/MKE/FIRTINA_II/README.md)** | MKE | Kundağı Motorlu Obüs (155mm) | TRL 9 |
+| **[MPT-76](./DOMINION_LAND/MKE/MPT-76/README.md)** | MKE | Milli Piyade Tüfeği | TRL 9 |
 | **[PIRANA](./DOMINION_LAND/MKE/PIRANA/README.md)** | MKE | Detaylı analiz bekleniyor | TRL 1-3 |
 | **[TOLGA](./DOMINION_LAND/MKE/TOLGA/README.md)** | MKE | Detaylı analiz bekleniyor | TRL 1-3 |
-| **[YAVUZ](./DOMINION_LAND/MKE/YAVUZ/README.md)** | MKE | Detaylı analiz bekleniyor | TRL 1-3 |
+| **[YAVUZ](./DOMINION_LAND/MKE/YAVUZ/README.md)** | MKE | Kamyona Monteli Obüs (155mm) | TRL 9 |
 | **[EJDER YALÇIN](./DOMINION_LAND/Nurol_Makina/EJDER_YALÇIN/README.md)** | Nurol Makina | Detaylı analiz bekleniyor | TRL 1-3 |
 | **[ILGAZ](./DOMINION_LAND/Nurol_Makina/ILGAZ/README.md)** | Nurol Makina | Detaylı analiz bekleniyor | TRL 1-3 |
 | **[YÖRÜK](./DOMINION_LAND/Nurol_Makina/YÖRÜK/README.md)** | Nurol Makina | Detaylı analiz bekleniyor | TRL 1-3 |
@@ -169,16 +171,16 @@ Türkiye'nin teknoloji ekosistemi üç ana katmanda derinleşmektedir:
 ### ⚓ [DOMINION SEA (Mavi Vatan)](./DOMINION_SEA/README.md)
 | Proje / Platform | Üretici | Stratejik Önem | TRL |
 | :--- | :--- | :--- | :--- |
-| **[ARES 150](./DOMINION_SEA/ARES/ARES_150/README.md)** | ARES | Detaylı analiz bekleniyor | TRL 1-3 |
-| **[ULAQ DERE](./DOMINION_SEA/ARES/ULAQ_DERE/README.md)** | ARES | Detaylı analiz bekleniyor | TRL 1-3 |
-| **[ADKG](./DOMINION_SEA/ASFAT/ADKG/README.md)** | ASFAT | Detaylı analiz bekleniyor | TRL 1-3 |
-| **[HİSAR SINIFI OPV](./DOMINION_SEA/ASFAT/HİSAR_SINIFI_OPV/README.md)** | ASFAT | Detaylı analiz bekleniyor | TRL 1-3 |
-| **[MEMATT](./DOMINION_SEA/ASFAT/MEMATT/README.md)** | ASFAT | Detaylı analiz bekleniyor | TRL 1-3 |
-| **[PN MILGEM](./DOMINION_SEA/ASFAT/PN_MILGEM/README.md)** | ASFAT | Detaylı analiz bekleniyor | TRL 1-3 |
-| **[TCG ANADOLU](./DOMINION_SEA/SEDEF/TCG_ANADOLU/README.md)** | SEDEF | SİHA Gemisi / LHD | TRL 9 |
-| **[TCG TRAKYA](./DOMINION_SEA/SEDEF/TCG_TRAKYA/README.md)** | SEDEF | Detaylı analiz bekleniyor | TRL 1-3 |
-| **[KARGU](./DOMINION_SEA/STM/KARGU/README.md)** | STM | Detaylı analiz bekleniyor | TRL 1-3 |
-| **[MİLGEM](./DOMINION_SEA/STM/MİLGEM/README.md)** | STM | Detaylı analiz bekleniyor | TRL 1-3 |
+| **[ARES 150](./DOMINION_SEA/ARES/ARES_150/README.md)** | ARES | Süratli Devriye Botu | TRL 9 |
+| **[ULAQ DERE](./DOMINION_SEA/ARES/ULAQ_DERE/README.md)** | ARES | Silahlı İnsansız Deniz Aracı (SİDA) | TRL 9 |
+| **[ADKG](./DOMINION_SEA/ASFAT/ADKG/README.md)** | ASFAT | Açık Deniz Karakol Gemisi (HİSAR Sınıfı) | TRL 7 |
+| **[HİSAR SINIFI OPV](./DOMINION_SEA/ASFAT/HİSAR_SINIFI_OPV/README.md)** | ASFAT | Detaylı analiz bekleniyor | TRL 7 |
+| **[MEMATT](./DOMINION_SEA/ASFAT/MEMATT/README.md)** | ASFAT | Mekanik Mayın Temizleme Teçhizatı | TRL 9 |
+| **[PN MILGEM](./DOMINION_SEA/ASFAT/PN_MILGEM/README.md)** | ASFAT | Ağır Korvet / Hafif Firkateyn (Babur Sınıfı) | TRL 9 |
+| **[TCG ANADOLU](./DOMINION_SEA/SEDEF/TCG_ANADOLU/README.md)** | SEDEF | Çok Maksatlı Amfibi Hücum Gemisi (LHD) | TRL 9 |
+| **[TCG TRAKYA](./DOMINION_SEA/SEDEF/TCG_TRAKYA/README.md)** | SEDEF | Uçak Gemisi (Planlama Aşamasında) | TRL 1 |
+| **[KARGU](./DOMINION_SEA/STM/KARGU/README.md)** | STM | Kamikaze İHA (Döner Kanatlı) | TRL 9 |
+| **[MİLGEM](./DOMINION_SEA/STM/MİLGEM/README.md)** | STM | ADA Sınıfı Korvet | TRL 9 |
 | **[STM500](./DOMINION_SEA/STM/STM500/README.md)** | STM | Küçük Sınıf Denizaltı | TRL 6 |
 | **[MRTP24](./DOMINION_SEA/Yonca-Onuk/MRTP24/README.md)** | Yonca-Onuk | Detaylı analiz bekleniyor | TRL 1-3 |
 | **[MRTP SERISI](./DOMINION_SEA/Yonca-Onuk/MRTP_SERISI/README.md)** | Yonca-Onuk | Detaylı analiz bekleniyor | TRL 1-3 |

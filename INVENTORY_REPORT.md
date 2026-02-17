@@ -1,6 +1,6 @@
 # 🇹🇷 Milli Teknoloji Envanteri Raporu
 
-**Tarih:** 2026-02-17 11:29
+**Tarih:** 2026-02-17 11:40
 
 ## Özet
 - **Toplam Proje Sayısı:** 126
@@ -121,14 +121,14 @@
 - FIRTINA II (TRL 9.0)
 - PIRANA (TRL 2.0)
 - TOLGA (TRL 2.0)
-- MPT-76 (TRL 2.0)
-- 76MM DENİZ TOPU (TRL 2.0)
-- YAVUZ (TRL 2.0)
+- MPT-76 (TRL 9.0)
+- 76MM DENİZ TOPU (TRL 9.0)
+- YAVUZ (TRL 9.0)
 #### BMC
 - ALTAY (TRL 9.0)
-- KIRPI (TRL 2.0)
-- VURAN (TRL 2.0)
-- KİRPİ II
+- KIRPI (TRL 9.0)
+- VURAN (TRL 9.0)
+- KİRPİ II (TRL 9.0)
 #### OTOKAR
 - ARMA (TRL 9.0)
 - TULPAR (TRL 8.0)
@@ -138,10 +138,10 @@
 - ARMA 8x8
 #### FNSS
 - ZAHA (TRL 9.0)
-- KAPLAN (TRL 2.0)
-- PARS (TRL 2.0)
-- SAMUR (TRL 2.0)
-- PARS 4x4
+- KAPLAN (TRL 9.0)
+- PARS (TRL 9.0)
+- SAMUR (TRL 9.0)
+- PARS 4x4 (TRL 9.0)
 #### ROKETSAN
 - KARAOK (TRL 9.0)
 - GÖKBORA
@@ -149,23 +149,23 @@
 
 ### DOMINION_SEA
 #### ARES
-- ARES 150 (TRL 2.0)
-- ULAQ DERE (TRL 2.0)
+- ARES 150 (TRL 9.0)
+- ULAQ DERE (TRL 9.0)
 #### Yonca-Onuk
 - MRTP24 (TRL 2.0)
 - MRTP SERISI (TRL 2.0)
 #### SEDEF
 - TCG ANADOLU (TRL 9.0)
-- TCG TRAKYA (TRL 2.0)
+- TCG TRAKYA (TRL 1.0)
 #### ASFAT
-- PN MILGEM (TRL 2.0)
-- ADKG (TRL 2.0)
-- MEMATT (TRL 2.0)
-- HİSAR SINIFI OPV (TRL 2.0)
+- PN MILGEM (TRL 9.0)
+- ADKG (TRL 7.0)
+- MEMATT (TRL 9.0)
+- HİSAR SINIFI OPV (TRL 7.0)
 #### STM
 - STM500 (TRL 6.0)
-- KARGU (TRL 2.0)
-- MİLGEM (TRL 2.0)
+- KARGU (TRL 9.0)
+- MİLGEM (TRL 9.0)
 #### ROKETSAN
 - ATMACA
 - AKYA (TRL 9.0)
