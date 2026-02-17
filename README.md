@@ -114,9 +114,9 @@ Türkiye'nin teknoloji ekosistemi üç ana katmanda derinleşmektedir:
 
 | **[TURAN](./DOMINION_ELECTRONICS/ASELSAN/TURAN/README.md)** | ASELSAN | Detaylı analiz bekleniyor | TRL 1-3 |
 | **[ULAQ](./DOMINION_ELECTRONICS/ASELSAN/ULAQ/README.md)** | ASELSAN | Detaylı analiz bekleniyor | TRL 1-3 |
-| **[GIMBAL SISTEMLERI](./DOMINION_ELECTRONICS/Altınay_Savunma/GIMBAL_SISTEMLERI/README.md)** | Altınay Savunma | Detaylı analiz bekleniyor | TRL 1-3 |
-| **[KOBOT](./DOMINION_ELECTRONICS/Altınay_Savunma/KOBOT/README.md)** | Altınay Savunma | Detaylı analiz bekleniyor | TRL 1-3 |
-| **[PEREGRINE](./DOMINION_ELECTRONICS/Altınay_Savunma/PEREGRINE/README.md)** | Altınay Savunma | Detaylı analiz bekleniyor | TRL 1-3 |
+| **[GIMBAL SISTEMLERI](./DOMINION_ELECTRONICS/Altınay_Savunma/GIMBAL_SISTEMLERI/README.md)** | Altınay Savunma | İHA Kamera Sistemleri | TRL 9 |
+| **[KOBOT](./DOMINION_ELECTRONICS/Altınay_Savunma/KOBOT/README.md)** | Altınay Savunma | Bomba İmha Robotu | TRL 9 |
+| **[PEREGRINE](./DOMINION_ELECTRONICS/Altınay_Savunma/PEREGRINE/README.md)** | Altınay Savunma | Güdümlü Mühimmat | TRL 7 |
 | **[ADVENT](./DOMINION_ELECTRONICS/HAVELSAN/ADVENT/README.md)** | HAVELSAN | Ağ Destekli Savaş Yönetim Sistemi | TRL 9 |
 | **[BAHA](./DOMINION_ELECTRONICS/HAVELSAN/BAHA/README.md)** | HAVELSAN | Bulut Altı İHA | TRL 9 |
 | **[BARKAN](./DOMINION_ELECTRONICS/HAVELSAN/BARKAN/README.md)** | HAVELSAN | Orta Sınıf İnsansız Kara Aracı | TRL 9 |
@@ -128,9 +128,9 @@ Türkiye'nin teknoloji ekosistemi üç ana katmanda derinleşmektedir:
 | **[MİLDAR](./DOMINION_ELECTRONICS/METEKSAN/MİLDAR/README.md)** | METEKSAN | Milimetre Dalga Radarı (Helikopter/İHA) | TRL 8 |
 | **[RETINAR](./DOMINION_ELECTRONICS/METEKSAN/RETINAR/README.md)** | METEKSAN | Çevre Gözetleme Radarı | TRL 9 |
 | **[YAKAMOZ](./DOMINION_ELECTRONICS/METEKSAN/YAKAMOZ/README.md)** | METEKSAN | Karinaya Monteli Sonar Sistemi | TRL 9 |
+| **[DATA LINKS](./DOMINION_ELECTRONICS/MilSOFT/DATA_LINKS/README.md)** | MilSOFT | Taktik Veri Linkleri (Link-16/22/JREAP) | TRL 9 |
+| **[ACMI POD](./DOMINION_ELECTRONICS/SDT/ACMI_POD/README.md)** | SDT | Hava Muharebe Eğitim Sistemi | TRL 9 |
 
-| **[DATA LINKS](./DOMINION_ELECTRONICS/MilSOFT/DATA_LINKS/README.md)** | MilSOFT | Detaylı analiz bekleniyor | TRL 1-3 |
-| **[ACMI POD](./DOMINION_ELECTRONICS/SDT/ACMI_POD/README.md)** | SDT | Detaylı analiz bekleniyor | TRL 1-3 |
 
 ### 🚜 [DOMINION LAND (Kara & Zırh)](./DOMINION_LAND/README.md)
 | Proje / Platform | Üretici | Stratejik Önem | TRL |
@@ -175,7 +175,7 @@ Türkiye'nin teknoloji ekosistemi üç ana katmanda derinleşmektedir:
 | **[ARES 150](./DOMINION_SEA/ARES/ARES_150/README.md)** | ARES | Süratli Devriye Botu | TRL 9 |
 | **[ULAQ DERE](./DOMINION_SEA/ARES/ULAQ_DERE/README.md)** | ARES | Silahlı İnsansız Deniz Aracı (SİDA) | TRL 9 |
 | **[ADKG](./DOMINION_SEA/ASFAT/ADKG/README.md)** | ASFAT | Açık Deniz Karakol Gemisi (HİSAR Sınıfı) | TRL 7 |
-| **[HİSAR SINIFI OPV](./DOMINION_SEA/ASFAT/HİSAR_SINIFI_OPV/README.md)** | ASFAT | Detaylı analiz bekleniyor | TRL 7 |
+| **[HİSAR SINIFI OPV](./DOMINION_SEA/ASFAT/HİSAR_SINIFI_OPV/README.md)** | ASFAT | Açık Deniz Karakol Gemisi (HİSAR Sınıfı) | TRL 7 |
 | **[MEMATT](./DOMINION_SEA/ASFAT/MEMATT/README.md)** | ASFAT | Mekanik Mayın Temizleme Teçhizatı | TRL 9 |
 | **[PN MILGEM](./DOMINION_SEA/ASFAT/PN_MILGEM/README.md)** | ASFAT | Ağır Korvet / Hafif Firkateyn (Babur Sınıfı) | TRL 9 |
 | **[TCG ANADOLU](./DOMINION_SEA/SEDEF/TCG_ANADOLU/README.md)** | SEDEF | Çok Maksatlı Amfibi Hücum Gemisi (LHD) | TRL 9 |
@@ -183,6 +183,7 @@ Türkiye'nin teknoloji ekosistemi üç ana katmanda derinleşmektedir:
 | **[KARGU](./DOMINION_SEA/STM/KARGU/README.md)** | STM | Kamikaze İHA (Döner Kanatlı) | TRL 9 |
 | **[MİLGEM](./DOMINION_SEA/STM/MİLGEM/README.md)** | STM | ADA Sınıfı Korvet | TRL 9 |
 | **[STM500](./DOMINION_SEA/STM/STM500/README.md)** | STM | Küçük Sınıf Denizaltı | TRL 6 |
+
 | **[MRTP24](./DOMINION_SEA/Yonca-Onuk/MRTP24/README.md)** | Yonca-Onuk | Detaylı analiz bekleniyor | TRL 1-3 |
 | **[MRTP SERISI](./DOMINION_SEA/Yonca-Onuk/MRTP_SERISI/README.md)** | Yonca-Onuk | Detaylı analiz bekleniyor | TRL 1-3 |
 

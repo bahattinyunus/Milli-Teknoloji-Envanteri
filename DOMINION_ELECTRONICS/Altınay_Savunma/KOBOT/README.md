@@ -1,18 +1,29 @@
-# 🤖 Proje: KOBOT (İşbirlikçi Robotik Sistem)
+# 🤖 Proje: KOBOT
 
-KOBOT, Altınay Savunma tarafından geliştirilen, insanla güvenli bir şekilde yan yana çalışabilen (Cobot), yüksek hassasiyetli bir robotik kol sistemidir. Savunma sanayiinde mühimmat montajı, hassas boyama ve üretim hatlarında kullanılır.
+> **Üretici:** Altınay Savunma  
+> **Sınıf:** İnsansız Kara Aracı (İKA)  
+> **Stratejik Önem:** Bomba imha ve keşif görevlerinde personelin güvenliğini sağlayan çevik robot.
 
-## 🛠 Teknik Veriler
-| Özellik | Detay |
+![KOBOT](https://www.altinay.com/wp-content/uploads/2021/05/kobot-1.jpg)
+
+## 📝 Proje Tanımı
+KOBOT; zorlu arazi koşullarında, dar alanlarda, bina içlerinde veya mağaralarda keşif, gözetleme ve şüpheli paketlere müdahale edebilen, modüler yapılı, hafif sınıf bir insansız kara aracıdır.
+
+## ⚙️ Teknik Özellikler
+
+| Özellik | Değer |
 | :--- | :--- |
-| **Tür** | Kolaboratif Robot (Cobot) |
-| **Serbestlik Derecesi** | 6 ve 7 Eksen varyantları |
-| **Yük Kapasitesi** | 5-15 kg (Modellere göre) |
-| **Güvenlik** | Kuvvet-Moment sensörleri ile insan çarpışma güvenliği |
+| **Ağırlık** | Hafif Sınıf (Sırtta Taşınabilir) |
+| **Hareket** | Paletli Sistem |
+| **Kol** | Çok eksenli robotik kol (Bomba imha için) |
 
+## 🌟 Öne Çıkan Yetenekler
+- **Tırmanma:** Merdiven çıkabilir, engelleri aşabilir.
+- **Kullanım Kolaylığı:** Tablet veya joystick ile kolayca kontrol edilebilir.
 
+## 🚀 Geliştirme Durumu (TRL 9)
+- [x] TSK ve Emniyet Envanterinde
+- [x] Sahada Aktif Kullanım
 
-## 📁 Proje Varlıkları (Project Assets)
-- (Bu proje dizininde henüz ek dosya bulunmamaktadır.)
 ---
-[⬅️ Altınay Ana Sayfası](../README.md) | [🏠 Ana Sayfa](../../README.md)
+[⬅️ Altınay Savunma Ana Sayfası](../README.md) | [🏠 Ana Sayfa](../../../README.md)

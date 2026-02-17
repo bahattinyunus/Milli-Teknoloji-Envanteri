@@ -1,35 +1,32 @@
-# 🦅 Proje: KARGU
+# 🐝 Proje: KARGU
 
 > **Üretici:** STM  
-> **Sınıf:** Döner Kanatlı Vurucu İHA (Kamikaze Drone / Loitering Munition)  
-> **Stratejik Önem:** Asimetrik harpte ve meskun mahalde "Görünmez Avcı". Tek er tarafından kullanılan sürü yetenekli sistem.
+> **Sınıf:** Döner Kanatlı Vurucu İHA (Kamikaze Drone)  
+> **Stratejik Önem:** Terörle mücadelede ve asimetrik harpte oyun değiştirici. Mağara girişleri, pencere içleri gibi hassas hedefleri cerrah titizliğiyle vurabilir.
 
-![KARGU](https://www.stm.com.tr/uploads/docs/1628151806_kargu.jpg)
+![KARGU](https://www.stm.com.tr/uploads/docs/kargu-web.jpg)
 
 ## 📝 Proje Tanımı
-KARGU, otonom veya uzaktan kumandalı olarak keşif, gözetleme ve hassas vuruş yapabilen taşınabilir bir döner kanatlı İHA sistemidir. Yapay zeka destekli görüntü işleme yeteneği ile hedefleri tanır ve operatör onayıyla dalış yaparak imha eder. Libya'da dünyanın ilk otonom İHA saldırısını gerçekleştirdiği iddia edilmiştir.
+KARGU; tek er tarafından taşınabilen, döner kanatlı (quadcopter benzeri), yapay zeka destekli görüntü işleme ile hedefini otonom tespit edip dalış yaparak imha eden bir vurucu İHA sistemidir.
 
 ## ⚙️ Teknik Özellikler
 
 | Özellik | Değer |
 | :--- | :--- |
-| **Menzil** | 5 - 10 km |
+| **Menzil** | 10 km |
 | **Havada Kalış** | 30 Dakika |
-| **Harp Başlığı** | 1.3 kg (Parçacıklı / Termobarik / Zırh Delici) |
+| **Harp Başlığı** | 1.3 kg (Parçacıklı / Termobarik) |
 | **Ağırlık** | 7 kg |
-| **İrtifa** | 500 Metre (Operasyonel) |
 
 ## 🌟 Öne Çıkan Yetenekler
-- **Sürü Zekası (KERKES):** GPS olmayan ortamlarda bile sürü halinde görev yapabilme.
-- **Otonom Vuruş:** Hareketli hedefleri takip edip en uygun açıda dalış yapma.
-- **İptal Yeteneği:** Son ana kadar görevi iptal edip üsse dönebilme ("Eve Dön" modu).
-- **Yüz Tanıma:** (Opsiyonel) Biyometrik veri ile hedef kişi tespiti.
+- **Sürü Saldırısı:** KERKES projesi kapsamında GPS olmayan ortamlarda sürü halinde görev yapabilir.
+- **İptal Görevi:** Daldığı hedeften son anda vazgeçip tekrar irtifa alabilir ve başka hedefe yönelebilir.
+- **Yüz Tanıma:** Hedef şahısları veya araçları görüntü işleme ile tanıyabilir.
 
 ## 🚀 Geliştirme Durumu (TRL 9)
-- [x] Seri Üretim ve Envanter
-- [x] Sürü Testleri
-- [x] Combat Proven (Libya, Karabağ, Suriye)
-- [x] 10+ Ülkeye İhracat
+- [x] TSK ve Jandarma Envanterinde Aktif Kullanım (Suriye, Libya, Karabağ)
+- [x] İhracat (10+ Ülke)
+- [x] Sürü Yeteneği Kazanımı
 
 ---
 [⬅️ STM Ana Sayfası](../README.md) | [🏠 Ana Sayfa](../../../README.md)

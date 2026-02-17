@@ -1,32 +1,32 @@
-# 🚢 Proje: PN MİLGEM (BABUR Sınıfı)
+# 🚢 Proje: PN MİLGEM (Babur Sınıfı)
 
 > **Üretici:** ASFAT  
 > **Sınıf:** Ağır Korvet / Hafif Firkateyn  
-> **Stratejik Önem:** Türkiye'nin tek kalemde gerçekleştirdiği en büyük savunma ihracatı (Pakistan'a 4 Gemi). Türk gemi inşa sanayiinin rüştünü ispatı.
+> **Stratejik Önem:** Türkiye'nin tek kalemde gerçekleştirdiği en büyük savunma sanayii ihracatı (Pakistan). MİLGEM ADA sınıfının daha büyük ve ağır silahlı versiyonu.
 
-![PN MİLGEM](https://asfat.com.tr/uploads/proje/pn-milgem-slider.jpg)
+![PN MİLGEM](https://www.asfat.com.tr/uploads/docs/pn-milgem.jpg)
 
 ## 📝 Proje Tanımı
-PN MİLGEM, Türk Donanması için geliştirilen ADA Sınıfı korvetlerin, Pakistan Donanması'nın ihtiyaçlarına göre özelleştirilmiş, boyu uzatılmış, silah yükü artırılmış ve daha ağır tonajlı versiyonudur. "Babur Sınıfı" olarak adlandırılmaktadır.
+Pakistan Donanması boister (PN) için özel olarak tasarlanan bu gemiler, ADA sınıfı korvetlerin gövde tasarımı üzerine inşa edilmiş, ancak daha gelişmiş sensörler ve dikey atım sistemi (VLS) ile donatılarak bir firkateyn yeteneğine kavuşturulmuştur.
 
 ## ⚙️ Teknik Özellikler
 
-| Özellik | PN MİLGEM | ADA Sınıfı |
-| :--- | :--- | :--- |
-| **Boy** | 108.8 m | 99.5 m |
-| **Deplasman** | 2.880 Ton | 2.400 Ton |
-| **Silahlar** | VLS (Dikey Atım Sistemi), Albatros NG HSS | RAM HSS (ADA Sınıfı) |
-| **Personel** | 140+ | 93 |
+| Özellik | Değer |
+| :--- | :--- |
+| **Boy** | 108.8 metre |
+| **Deplasman** | ~3000 Ton |
+| **Hız** | 26+ Knot |
+| **Silahlar** | 1 x 76mm Top, 2 x 25mm STOP, 6 x VLS (Hava Savunma) |
 
 ## 🌟 Öne Çıkan Yetenekler
-- **Dikey Atım Sistemi (VLS):** Gemiye entegre edilen VLS sayesinde hava savunma füzeleri (CAMM-ER) atabilir, bu da onu ADA sınıfından daha yetenekli bir "Firkateyn" yapar.
-- **Teknoloji Transferi:** 2 gemi İstanbul Tersanesi'nde, 2 gemi ise teknoloji transferi ile Karaçi Tersanesi'nde (Pakistan) inşa edilmektedir.
+- **Hava Savunma:** ADA sınıfından farklı olarak öz savunma füzelerine (Albatros NG / CAMM-ER) sahiptir.
+- **Teknoloji Transferi:** 2 gemi İstanbul Tersanesi'nde, 2 gemi Pakistan Karaçi Tersanesi'nde (teknoloji transferi ile) üretilmiştir.
 
 ## 🚀 Geliştirme Durumu (TRL 9)
-- [x] PNS BABUR (F-280) - Teslim Edildi
-- [x] PNS BADR (F-281) - Denize İndi
-- [x] PNS KHAIBAR (F-282) - Denize İndi
-- [x] PNS TARIQ (F-283) - İnşa Halinde
+- [x] PNS BABUR (F-280) Teslim Edildi
+- [x] PNS BADR (F-281) Denize İndirildi
+- [x] PNS KHAIBAR (F-282) Denize İndirildi
+- [ ] 4. Gemi İnşası Devam Ediyor
 
 ---
 [⬅️ ASFAT Ana Sayfası](../README.md) | [🏠 Ana Sayfa](../../../README.md)

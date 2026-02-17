@@ -1,6 +1,6 @@
 # 🇹🇷 Milli Teknoloji Envanteri Raporu
 
-**Tarih:** 2026-02-17 11:46
+**Tarih:** 2026-02-17 11:51
 
 ## Özet
 - **Toplam Proje Sayısı:** 126
@@ -66,13 +66,13 @@
 - YAKAMOZ (TRL 9.0)
 - MİLDAR (TRL 8.0)
 #### MilSOFT
-- DATA LINKS (TRL 2.0)
+- DATA LINKS (TRL 9.0)
 #### SDT
-- ACMI POD (TRL 2.0)
+- ACMI POD (TRL 9.0)
 #### Altınay_Savunma
-- KOBOT (TRL 2.0)
-- PEREGRINE (TRL 2.0)
-- GIMBAL SISTEMLERI (TRL 2.0)
+- KOBOT (TRL 9.0)
+- PEREGRINE (TRL 7.0)
+- GIMBAL SISTEMLERI (TRL 9.0)
 #### HAVELSAN
 - MAIN AI (TRL 7.0)
 - BARKAN (TRL 9.0)
