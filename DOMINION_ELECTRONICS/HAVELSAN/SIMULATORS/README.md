@@ -1,18 +1,32 @@
-# 🎮 Proje: HAVELSAN Simülatör ve Eğitim Sistemleri
+# 🎮 Proje: SİMÜLATÖRLER (Simulators)
 
-HAVELSAN, Türkiye'nin savunma sanayiinde simülasyon ve eğitim teknolojileri konusundaki lider kuruluşudur. Karadan havaya, denizden uzaya kadar geniş bir yelpazede tam uçuş ve görev simülatörleri geliştirir.
+> **Üretici:** HAVELSAN  
+> **Sınıf:** Askeri ve Sivil Eğitim Simülatörleri  
+> **Stratejik Önem:** Pilotların, tankçıların ve gemi personelinin gerçek mühimmat ve risk olmadan, en gerçekçi senaryolarda eğitilmesini sağlayan sistemler. Bölgesel eğitim merkezi olma vizyonu.
 
-## 🛠 Önemli Simülatörler
-- **F-16 Simülatörleri**: F-16 pilotları için tam görev simülasyonu.
-- **ARİSİM (T-38)**: Jet tekamül eğitim uçağı simülatörü.
-- **CN-235 Simülatörü**: Nakliye uçağı tam uçuş simülatörü (İhracat başarısı).
-- **AW139 Helikopter Simülatörü**: Katar Hava Kuvvetleri için kurulan eğitim merkezi.
-- **HeS (Helikopter Eğitim Sistemi)**: GÖKBEY ve ATAK pilotları için eğitim platformları.
-- **D-Level Sivil Simülatörler**: Boeing 737MAX gibi sivil havacılık uçuş simülatörleri.
+![SIMULATOR](https://www.havelsan.com.tr/uploads/docs/simulator-web.jpg)
 
+## 📝 Proje Tanımı
+HAVELSAN; uçak (F-16, HÜRJET), helikopter (ATAK, BLACKHAWK), kara aracı (ZMA, Tank) ve denizaltı simülatörleri konusunda dünyanın önde gelen firmalarından biridir. THY başta olmak üzere sivil havayollarına da pilot eğitim simülatörleri (Level D) üretir.
 
+## ⚙️ Ürün Ailesi
 
-## 📁 Proje Varlıkları (Project Assets)
-- (Bu proje dizininde henüz ek dosya bulunmamaktadır.)
+| Simülatör | Platform |
+| :--- | :--- |
+| **F-16 Simülatörü** | Tam Görev Simülatörü (Full Mission Simulator) |
+| **ATAK Simülatörü** | Atış ve uçuş eğitimi |
+| **Hezarfen** | Paraşüt eğitimi simülatörü |
+| **Keskin Nişancı** | Piyade çatışma simülatörü |
+| **Airbus A320** | Sivil pilot eğitimi (EASA Sertifikalı) |
+
+## 🌟 Öne Çıkan Yetenekler
+- **Sanal Taktik Eğitici:** Pilotlar havada uçarken, simülatördeki pilotlarla aynı sanal ortamda görev yapabilir (LVC - Live Virtual Constructive).
+- **Milli Görüntü Üreteci:** Yüksek çözünürlüklü uydu görüntüleri ile gerçekçi arazi modellemesi.
+
+## 🚀 Geliştirme Durumu (TRL 9)
+- [x] TSK Eğitim Merkezlerinin Ana Tedarikçisi
+- [x] THY Eğitim Merkezinde Aktif (EASA Level D Sertifikalı)
+- [x] İhracat (Katar, Malezya vb.)
+
 ---
-[⬅️ HAVELSAN Ana Sayfası](../README.md) | [🏠 Ana Sayfa](../../README.md)
+[⬅️ HAVELSAN Ana Sayfası](../README.md) | [🏠 Ana Sayfa](../../../README.md)

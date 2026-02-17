@@ -84,10 +84,11 @@ Türkiye'nin teknoloji ekosistemi üç ana katmanda derinleşmektedir:
 | **[HÜRKUŞ](./DOMINION_AEROSPACE/TUSAŞ/HÜRKUŞ/README.md)** | TUSAŞ | Temel Eğitim ve Hafif Taarruz Uçağı | TRL 9 |
 | **[KAAN](./DOMINION_AEROSPACE/TUSAŞ/KAAN/README.md)** | TUSAŞ | 5. Nesil Milli Muharip Uçak | TRL 7 |
 | **[TÜRKSAT 6A](./DOMINION_AEROSPACE/TUSAŞ/TÜRKSAT_6A/README.md)** | TUSAŞ | İlk Milli Haberleşme Uydusu | TRL 8 |
-| **[ALPİN](./DOMINION_AEROSPACE/Titra/ALPİN/README.md)** | Titra | İnsansız Helikopter | TRL 7 |
-| **[DELİ](./DOMINION_AEROSPACE/Titra/DELİ/README.md)** | Titra | Kamikaze İHA | TRL 9 |
+| **[ALPİN](./DOMINION_AEROSPACE/Titra/ALPİN/README.md)** | Titra | İnsansız Helikopter (Kargo/Lojistik) | TRL 7 |
+| **[DELİ](./DOMINION_AEROSPACE/Titra/DELİ/README.md)** | Titra | Kamikaze İHA (Sabit Kanatlı) | TRL 9 |
 | **[GOKDOGAN](./DOMINION_AEROSPACE/TÜBİTAK_SAGE/GOKDOGAN/README.md)** | TÜBİTAK SAGE | Görüş Ötesi Hava-Hava Füzesi (BVRAAM) | TRL 9 |
 | **[GÜNEŞ](./DOMINION_AEROSPACE/TÜBİTAK_SAGE/GÜNEŞ/README.md)** | TÜBİTAK SAGE | Güdüm Kiti | TRL 9 |
+
 | **[KUZGUN](./DOMINION_AEROSPACE/TÜBİTAK_SAGE/KUZGUN/README.md)** | TÜBİTAK SAGE | Modüler Mühimmat Ailesi | TRL 7 |
 | **[MORS](./DOMINION_AEROSPACE/TÜBİTAK_SAGE/MORS/README.md)** | TÜBİTAK SAGE | Havan Mühimmatı | TRL 9 |
 | **[SOM](./DOMINION_AEROSPACE/TÜBİTAK_SAGE/SOM/README.md)** | TÜBİTAK SAGE | Seyir Füzesi (Cruise Missile) | TRL 9 |

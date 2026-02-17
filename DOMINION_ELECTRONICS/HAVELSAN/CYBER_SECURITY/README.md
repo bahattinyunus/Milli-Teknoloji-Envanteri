@@ -1,16 +1,32 @@
-# 🛡️ Proje: HAVELSAN Siber Güvenlik Çözümleri
+# 🛡️ Proje: SİBER GÜVENLİK (Cyber Security)
 
-HAVELSAN, Türkiye'nin kritik altyapılarını siber tehditlere karşı korumak amacıyla yerli ve milli siber güvenlik yazılımları ve operasyon merkezleri geliştirmektedir.
+> **Üretici:** HAVELSAN  
+> **Sınıf:** Siber Savunma ve Operasyon Merkezleri (SOC)  
+> **Stratejik Önem:** Türkiye'nin dijital sınırlarını koruyan "Siber Vatan" savunması. Kritik altyapıların ve askeri ağların güvenliği.
 
-## 🛠 Temel Ürünler ve Hizmetler
-- **SGOM (Siber Güvenlik Operasyon Merkezi)**: 7/24 izleme ve müdahale hizmeti.
-- **Kritik Altyapı Güvenliği**: Enerji ve savunma tesisleri için OT (Operational Technology) güvenliği.
-- **Milli Yazılımlar**: KBRN, bariyer yazılımları ve güvenli haberleşme platformları.
-- **Varlık Keşfi ve Anomali Tespiti**: Ağ trafiğini analiz ederek siber saldırıları önceden tespit eden yapay zeka destekli sistemler.
+![CYBER](https://www.havelsan.com.tr/uploads/docs/siber-guvenlik.jpg)
 
+## 📝 Proje Tanımı
+HAVELSAN, Türkiye'nin siber güvenlik stratejilerinin merkezinde yer alarak; Siber Operasyon Merkezleri (SOM) kurulumu, yerli siber güvenlik yazılımları (Gözcü, Kalkan) ve siber istihbarat çözümleri sunar.
 
+## ⚙️ Çözümler
 
-## 📁 Proje Varlıkları (Project Assets)
-- (Bu proje dizininde henüz ek dosya bulunmamaktadır.)
+| Ürün/Hizmet | Açıklama |
+| :--- | :--- |
+| **GÖZCÜ** | Siber Olay Algılama ve Müdahale (SIEM) |
+| **KALKAN** | Ağ Güvenliği ve Güvenlik Duvarı Yönetimi |
+| **BARİYER** | Veri Sızıntısı Engelleme (DLP) |
+| **Siber Talimhane** | Siber uzmanların eğitildiği simülasyon ortamı (Cyber Range) |
+
+## 🌟 Öne Çıkan Yetenekler
+- **Yerli SIEM:** Yabancı log yönetim sistemlerine (Splunk, QRadar) milli alternatif.
+- **Malware Analizi:** Zararlı yazılımları tersine mühendislik ile analiz etme.
+- **7/24 İzleme:** Kamu kurumlarının siber trafiğini anlık izleyen merkezler.
+
+## 🚀 Geliştirme Durumu (TRL 9)
+- [x] Kamu Kurumlarında (Cumhurbaşkanlığı, Bakanlıklar) Aktif
+- [x] TSK Ağlarında Kullanım
+- [x] NATO Siber Tatbikatlarında Başarı
+
 ---
-[⬅️ HAVELSAN Ana Sayfası](../README.md) | [🏠 Ana Sayfa](../../README.md)
+[⬅️ HAVELSAN Ana Sayfası](../README.md) | [🏠 Ana Sayfa](../../../README.md)

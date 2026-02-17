@@ -1,18 +1,31 @@
-# 🦅 Proje: DELİ Kamikaze İHA
+# 🦅 Proje: DELİ
 
-DELİ, Titra Teknoloji tarafından geliştirilen, elden veya katapulttan fırlatılabilen, düşük maliyetli ve yüksek etkili bir kamikaze (loitering munition) sistemidir. Operasyonel sahada birliklere anlık vuruş kabiliyeti sağlar.
+> **Üretici:** Titra  
+> **Sınıf:** Taktik Kamikaze İHA (Loitering Munition)  
+> **Stratejik Önem:** Düşük maliyetli, elle atılabilen, sürü yeteneğine sahip intihar dronu.
 
-## 🛠 Teknik Veriler
-| Özellik | Detay |
+![DELİ](https://www.titra.com.tr/uploads/slider/deli.jpg)
+
+## 📝 Proje Tanımı
+DELİ; sabit kanatlı, katlanabilir pervaneli, yüksek süratle hedefe dalış yapabilen ve harp başlığı patlatarak hedefi imha eden bir kamikaze İHA sistemidir. Ukrayna-Rusya savaşında önemi anlaşılan "Switchblade" muadili bir sistemdir.
+
+## ⚙️ Teknik Özellikler
+
+| Özellik | Değer |
 | :--- | :--- |
-| **Hız** | 80 km/s (Seyir) / 180 km/s (Dalış) |
+| **Menzil** | 85 km |
 | **Havada Kalış** | 75 Dakika |
-| **Harp Başlığı** | 3.1 kg özel tasarım başlık |
-| **Menzil** | 30 km |
+| **Hız** | 180 km/s (Dalış Hızı) |
+| **Harp Başlığı** | 3.1 kg (TÜBİTAK SAGE) |
 
+## 🌟 Öne Çıkan Yetenekler
+- **Modülerlik:** Sökülüp takılabilir, sırtta taşınabilir.
+- **Sürü:** Birden fazla DELİ aynı anda hedefe saldırabilir.
+- **Maliyet Etkin:** Pahalı füzelere göre çok daha ekonomik bir çözüm.
 
+## 🚀 Geliştirme Durumu (TRL 9)
+- [x] Atışlı Testler (Başarılı Vuruş)
+- [x] TSK Envanterine Giriş (Kara Kuvvetleri)
 
-## 📁 Proje Varlıkları (Project Assets)
-- (Bu proje dizininde henüz ek dosya bulunmamaktadır.)
 ---
-[⬅️ Titra Ana Sayfası](../README.md) | [🏠 Ana Sayfa](../../README.md)
+[⬅️ Titra Ana Sayfası](../README.md) | [🏠 Ana Sayfa](../../../README.md)

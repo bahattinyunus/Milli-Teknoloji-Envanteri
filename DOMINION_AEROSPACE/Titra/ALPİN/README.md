@@ -1,17 +1,32 @@
 # 🚁 Proje: ALPİN
 
-Türkiye'nin ilk insansız helikopteri olan ALPİN, Titra Teknoloji tarafından insanlı bir platformun (Heli-Sport CH7) insansızlaştırılmasıyla geliştirilmiştir.
+> **Üretici:** Titra  
+> **Sınıf:** İnsansız Helikopter (Rotary Wing UAV)  
+> **Stratejik Önem:** Kargo taşıma, lojistik destek ve afet bölgelerinde (yangın gözetleme gibi) insan riskini ortadan kaldıran çok yönlü platform.
 
-## 🛠 Teknik Veriler
-| Özellik | Detay |
+![ALPİN](https://www.titra.com.tr/uploads/slider/alpin.jpg)
+
+## 📝 Proje Tanımı
+ALPİN, insanlı bir İtalyan helikopterinin (Heli-Sport CH-7) Titra mühendisleri tarafından tamamen otonom hale getirilmesiyle ortaya çıkmış, uzun menzilli ve yüksek yük kapasiteli bir insansız helikopterdir.
+
+## ⚙️ Teknik Özellikler
+
+| Özellik | Değer |
 | :--- | :--- |
-| **Görev** | Lojistik taşıma ve keşif/gözetleme |
-| **Faydalı Yük** | 160 kg (Yakıt dahil/hariç yük dağılımına göre) |
-| **Menzil** | 840 km |
+| **Faydalı Yük** | 200 kg (Kargo veya Sensör) |
+| **Havada Kalış** | 7+ Saat |
+| **Menzil** | 800+ km |
+| **İrtifa** | 15.000 ft |
 
+## 🌟 Öne Çıkan Yetenekler
+- **Lojistik:** Ulaşılması zor dağ karakollarına mühimmat veya erzak taşıyabilir.
+- **Röle:** Üzerine baz istasyonu takılarak afet bölgelerinde haberleşme sağlayabilir (`TURKCELL Dronecell` projesinde kullanıldı).
+- **Otonomi:** Tek tuşla kalkış, uçuş ve iniş yapabilir.
 
+## 🚀 Geliştirme Durumu (TRL 7)
+- [x] Otonom Uçuş Testleri
+- [x] TSK ile Lojistik Destek Demoları
+- [x] Kamu Kurumları (OGM) Kullanımı (Yangın Gözetleme)
 
-## 📁 Proje Varlıkları (Project Assets)
-- (Bu proje dizininde henüz ek dosya bulunmamaktadır.)
 ---
-[⬅️ Titra Ana Sayfası](../README.md) | [🏠 Ana Sayfa](../../README.md)
+[⬅️ Titra Ana Sayfası](../README.md) | [🏠 Ana Sayfa](../../../README.md)
