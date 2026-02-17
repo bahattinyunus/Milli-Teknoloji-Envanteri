@@ -1,0 +1,174 @@
+# 🇹🇷 Milli Teknoloji Envanteri Raporu
+
+**Tarih:** 2026-02-17 10:52
+
+## Özet
+- **Toplam Proje Sayısı:** 126
+- **AEROSPACE:** 41 Proje
+- **ELECTRONICS:** 32 Proje
+- **LAND:** 36 Proje
+- **SEA:** 17 Proje
+
+## Detaylı Envanter
+### DOMINION_AEROSPACE
+#### Lentatek
+- KARAYEL (TRL 2.0)
+#### Titra
+- ALPİN (TRL 2.0)
+- DELİ (TRL 2.0)
+#### BAYKAR
+- KIZILELMA (TRL 8.0)
+- TB2 (TRL 2.0)
+- KALKAN (TRL 2.0)
+- KEMANKEŞ (TRL 2.0)
+- AKINCI (TRL 9.0)
+- TB3 (TRL 2.0)
+- TOMRİS (TRL 2.0)
+- FERGANİ (TRL 9.0)
+- KEMANKEŞ 2 (TRL 2.0)
+#### TÜBİTAK_SAGE
+- GOKDOGAN (TRL 2.0)
+- KUZGUN (TRL 2.0)
+- SOM (TRL 2.0)
+- İMECE (TRL 2.0)
+- GÜNEŞ (TRL 2.0)
+- MORS (TRL 2.0)
+#### TEI
+- TF6000 (TRL 7.0)
+- TS1400 (TRL 2.0)
+- PD222 (TRL 8.0)
+- TJ90 (TRL 9.0)
+- PD170 (TRL 9.0)
+- TJ300 (TRL 9.0)
+#### TUSAŞ
+- KAAN (TRL 7.0)
+- GÖKBEY (TRL 8.0)
+- ATAK-2 (TRL 2.0)
+- GÖKTÜRK (TRL 2.0)
+- ANKA-3 (TRL 7.0)
+- HÜRJET (TRL 8.0)
+- TÜRKSAT 6A (TRL 2.0)
+- HÜRKUŞ (TRL 9.0)
+- ANKA
+#### ROKETSAN
+- TAYFUN (TRL 9.0)
+- ALKA (TRL 2.0)
+- HİSAR (TRL 9.0)
+- TAYFUN BLOK4 (TRL 2.0)
+- AKATA (TRL 2.0)
+- BARBAROS (TRL 2.0)
+- İHA-300 (TRL 2.0)
+- ÇAKIR (TRL 9.0)
+
+### DOMINION_ELECTRONICS
+#### METEKSAN
+- RETINAR (TRL 2.0)
+- YAKAMOZ (TRL 2.0)
+- MİLDAR (TRL 2.0)
+#### MilSOFT
+- DATA LINKS (TRL 2.0)
+#### SDT
+- ACMI POD (TRL 2.0)
+#### Altınay_Savunma
+- KOBOT (TRL 2.0)
+- PEREGRINE (TRL 2.0)
+- GIMBAL SISTEMLERI (TRL 2.0)
+#### HAVELSAN
+- MAIN AI (TRL 7.0)
+- BARKAN (TRL 9.0)
+- ADVENT (TRL 2.0)
+- KAPGAN (TRL 2.0)
+- SIMULATORS (TRL 2.0)
+- CYBER SECURITY (TRL 2.0)
+- BAHA (TRL 2.0)
+- SANCAR (TRL 2.0)
+#### ASELSAN
+- GÜRZ (TRL 8.0)
+- IHTAR (TRL 2.0)
+- SİPER (TRL 8.0)
+- MURAD (TRL 7.0)
+- GÖKTAN (TRL 2.0)
+- CENK 350N (TRL 2.0)
+- TOYGUN (TRL 2.0)
+- SANCAK (TRL 2.0)
+- ALBATROS-S (TRL 2.0)
+- ASELFLIR-500 (TRL 2.0)
+- EJDERHA (TRL 2.0)
+- ERALP (TRL 2.0)
+- KORAL (TRL 9.0)
+- MİLKAR (TRL 2.0)
+- TURAN (TRL 2.0)
+- ULAQ (TRL 2.0)
+
+### DOMINION_LAND
+#### CANİK
+- M2 QCB (TRL 2.0)
+- VENOM LR (TRL 2.0)
+- METE MC9 (TRL 2.0)
+#### Nurol_Makina
+- EJDER YALÇIN (TRL 2.0)
+- YÖRÜK (TRL 2.0)
+- ILGAZ (TRL 2.0)
+#### Katmerciler
+- HIZIR (TRL 2.0)
+- KIRAÇ (TRL 2.0)
+#### Sarsılmaz
+- SAR127 (TRL 2.0)
+- SAR9 (TRL 2.0)
+- SAR56 (TRL 2.0)
+- SARBOT (TRL 2.0)
+#### MKE
+- FIRTINA II (TRL 9.0)
+- PIRANA (TRL 2.0)
+- TOLGA (TRL 2.0)
+- MPT-76 (TRL 2.0)
+- 76MM DENİZ TOPU (TRL 2.0)
+- YAVUZ (TRL 2.0)
+#### BMC
+- ALTAY (TRL 9.0)
+- KIRPI (TRL 2.0)
+- VURAN (TRL 2.0)
+- KİRPİ II
+#### OTOKAR
+- ARMA (TRL 2.0)
+- TULPAR (TRL 2.0)
+- COBRA II (TRL 2.0)
+- ALPAR (TRL 2.0)
+- AKREP II (TRL 2.0)
+- ARMA 8x8
+#### FNSS
+- ZAHA (TRL 9.0)
+- KAPLAN (TRL 2.0)
+- PARS (TRL 2.0)
+- SAMUR (TRL 2.0)
+- PARS 4x4
+#### ROKETSAN
+- KARAOK (TRL 9.0)
+- GÖKBORA (TRL 2.0)
+- SUNGUR (TRL 9.0)
+
+### DOMINION_SEA
+#### ARES
+- ARES 150 (TRL 2.0)
+- ULAQ DERE (TRL 2.0)
+#### Yonca-Onuk
+- MRTP24 (TRL 2.0)
+- MRTP SERISI (TRL 2.0)
+#### SEDEF
+- TCG ANADOLU (TRL 9.0)
+- TCG TRAKYA (TRL 2.0)
+#### ASFAT
+- PN MILGEM (TRL 2.0)
+- ADKG (TRL 2.0)
+- MEMATT (TRL 2.0)
+- HİSAR SINIFI OPV (TRL 2.0)
+#### STM
+- STM500 (TRL 6.0)
+- KARGU (TRL 2.0)
+- MİLGEM (TRL 2.0)
+#### ROKETSAN
+- ATMACA (TRL 9.0)
+- AKYA (TRL 9.0)
+- LEVENT (TRL 2.0)
+- ORKA (TRL 2.0)
+

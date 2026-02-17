@@ -1,69 +1,135 @@
-
-    <!DOCTYPE html>
-    <html lang="tr">
-    <head>
-        <meta charset="UTF-8">
-        <title>Milli Teknoloji Dashboard</title>
-        <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-        <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&family=Inter:wght@300;400;600&display=swap" rel="stylesheet">
-        <style>
-            body { background-color: #0d1117; color: #c9d1d9; font-family: 'Inter', sans-serif; margin: 0; padding: 20px; }
-            h1 { font-family: 'Orbitron', sans-serif; color: #58a6ff; text-align: center; text-transform: uppercase; letter-spacing: 3px; }
-            .container { display: flex; flex-wrap: wrap; justify-content: center; gap: 30px; margin-top: 40px; }
-            .card { background: #161b22; border: 1px solid #30363d; border-radius: 12px; padding: 20px; width: 450px; box-shadow: 0 4px 20px rgba(0,0,0,0.5); }
-            .stats-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin-bottom: 20px; }
-            .stat-box { background: #21262d; padding: 15px; border-radius: 8px; text-align: center; border-left: 4px solid #238636; }
-            .stat-box h3 { margin: 0; font-size: 14px; color: #8b949e; }
-            .stat-box p { margin: 5px 0 0; font-size: 24px; font-weight: bold; color: #fff; }
-        </style>
-    </head>
-    <body>
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Milli Teknoloji Envanteri</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&family=Inter:wght@300;400;600&display=swap" rel="stylesheet">
+    <style>
+        :root { --bg-dark: #0d1117; --card-bg: #161b22; --border: #30363d; --accent: #58a6ff; --text: #c9d1d9; --success: #238636; }
+        body { background-color: var(--bg-dark); color: var(--text); font-family: 'Inter', sans-serif; margin: 0; padding: 20px; }
+        h1, h2 { font-family: 'Orbitron', sans-serif; color: var(--accent); text-transform: uppercase; letter-spacing: 2px; }
+        .header { text-align: center; margin-bottom: 40px; border-bottom: 1px solid var(--border); padding-bottom: 20px; }
+        .grid-container { display: grid; grid-template-columns: repeat(auto-fit, minmax(400px, 1fr)); gap: 20px; margin-bottom: 40px; }
+        .card { background: var(--card-bg); border: 1px solid var(--border); border-radius: 12px; padding: 20px; box-shadow: 0 4px 20px rgba(0,0,0,0.5); }
+        .stat-box { background: #21262d; padding: 15px; border-radius: 8px; text-align: center; border-left: 4px solid var(--success); margin-bottom: 10px; }
+        .stat-box h3 { margin: 0; font-size: 12px; color: #8b949e; }
+        .stat-box p { margin: 5px 0 0; font-size: 24px; font-weight: bold; color: #fff; }
+        
+        table { width: 100%; border-collapse: collapse; margin-top: 10px; }
+        th, td { padding: 12px; text-align: left; border-bottom: 1px solid var(--border); }
+        th { color: var(--accent); font-family: 'Orbitron', sans-serif; font-size: 12px; }
+        tr:hover { background-color: #21262d; }
+        input[type="text"] { width: 100%; padding: 10px; margin-bottom: 10px; background: #0d1117; border: 1px solid var(--border); color: #fff; border-radius: 6px; }
+    </style>
+</head>
+<body>
+    <div class="header">
         <h1>Milli Teknoloji Envanteri Dashboard</h1>
-        <div class="container">
-            <div class="card">
-                <div class="stats-grid">
-                    <div class="stat-box"><h3>Toplam Proje</h3><p>126</p></div>
-                    <div class="stat-box" style="border-left-color: #58a6ff;"><h3>Sistem Durumu</h3><p>Aktif</p></div>
-                </div>
-                <canvas id="dominionChart"></canvas>
-            </div>
-            <div class="card">
-                <canvas id="trlChart"></canvas>
+        <p>Stratejik Teknoloji Takip Sistemi</p>
+    </div>
+
+    <div class="grid-container">
+        <!-- İstatistikler -->
+        <div class="card">
+            <h2>Genel Durum</h2>
+            <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px;">
+                <div class="stat-box"><h3>TOPLAM PROJE</h3><p>126</p></div>
+                <div class="stat-box" style="border-left-color: var(--accent);"><h3>SİSTEM DURUMU</h3><p>OPERASYONEL</p></div>
+                <div class="stat-box" style="border-left-color: #cb81fe;"><h3>DOMINION SAYISI</h3><p>4</p></div>
+                <div class="stat-box" style="border-left-color: #f85149;"><h3>ORTALAMA TRL</h3><p>N/A</p></div>
             </div>
         </div>
 
-        <script>
-            const domCtx = document.getElementById('dominionChart').getContext('2d');
-            new Chart(domCtx, {
-                type: 'polarArea',
-                data: {
-                    labels: ['AEROSPACE', 'ELECTRONICS', 'LAND', 'SEA'],
-                    datasets: [{
-                        label: 'Proje Sayısı',
-                        data: [41, 32, 36, 17],
-                        backgroundColor: ['#58a6ffCC', '#238636CC', '#cb81feCC', '#f85149CC']
-                    }]
-                },
-                options: { responsive: true, plugins: { legend: { position: 'bottom', labels: { color: '#fff' } } } }
-            });
+        <!-- Grafikler -->
+        <div class="card">
+            <canvas id="dominionChart"></canvas>
+        </div>
+        <div class="card">
+            <canvas id="trlChart"></canvas>
+        </div>
+    </div>
 
-            const trlCtx = document.getElementById('trlChart').getContext('2d');
-            new Chart(trlCtx, {
-                type: 'bar',
-                data: {
-                    labels: ['TRL 2', 'TRL 6', 'TRL 7', 'TRL 8', 'TRL 9'],
-                    datasets: [{
-                        label: 'TRL Dağılımı',
-                        data: [91, 1, 5, 6, 19],
-                        backgroundColor: '#238636'
-                    }]
-                },
-                options: { 
-                    scales: { y: { beginAtZero: true, grid: { color: '#30363d' }, ticks: { color: '#8b949e' } }, x: { ticks: { color: '#8b949e' } } },
-                    plugins: { legend: { labels: { color: '#fff' } } }
-                }
+    <!-- Veri Tablosu -->
+    <div class="card" style="width: 100%; box-sizing: border-box;">
+        <h2>Envanter Listesi</h2>
+        <input type="text" id="searchInput" onkeyup="filterTable()" placeholder="Proje, Şirket veya Dominion ara...">
+        <table id="projectTable">
+            <thead>
+                <tr>
+                    <th>Proje Adı</th>
+                    <th>Şirket</th>
+                    <th>Dominion</th>
+                    <th>TRL Seviyesi</th>
+                </tr>
+            </thead>
+            <tbody>
+                <!-- JS ile doldurulacak -->
+            </tbody>
+        </table>
+    </div>
+
+    <script>
+        const projectData = [{"name": "KARAYEL", "company": "Lentatek", "dominion": "AEROSPACE", "trl": 2.0}, {"name": "ALP\u0130N", "company": "Titra", "dominion": "AEROSPACE", "trl": 2.0}, {"name": "DEL\u0130", "company": "Titra", "dominion": "AEROSPACE", "trl": 2.0}, {"name": "KIZILELMA", "company": "BAYKAR", "dominion": "AEROSPACE", "trl": 8.0}, {"name": "TB2", "company": "BAYKAR", "dominion": "AEROSPACE", "trl": 2.0}, {"name": "KALKAN", "company": "BAYKAR", "dominion": "AEROSPACE", "trl": 2.0}, {"name": "KEMANKE\u015e", "company": "BAYKAR", "dominion": "AEROSPACE", "trl": 2.0}, {"name": "AKINCI", "company": "BAYKAR", "dominion": "AEROSPACE", "trl": 9.0}, {"name": "TB3", "company": "BAYKAR", "dominion": "AEROSPACE", "trl": 2.0}, {"name": "TOMR\u0130S", "company": "BAYKAR", "dominion": "AEROSPACE", "trl": 2.0}, {"name": "FERGAN\u0130", "company": "BAYKAR", "dominion": "AEROSPACE", "trl": 9.0}, {"name": "KEMANKE\u015e 2", "company": "BAYKAR", "dominion": "AEROSPACE", "trl": 2.0}, {"name": "GOKDOGAN", "company": "T\u00dcB\u0130TAK SAGE", "dominion": "AEROSPACE", "trl": 2.0}, {"name": "KUZGUN", "company": "T\u00dcB\u0130TAK SAGE", "dominion": "AEROSPACE", "trl": 2.0}, {"name": "SOM", "company": "T\u00dcB\u0130TAK SAGE", "dominion": "AEROSPACE", "trl": 2.0}, {"name": "\u0130MECE", "company": "T\u00dcB\u0130TAK SAGE", "dominion": "AEROSPACE", "trl": 2.0}, {"name": "G\u00dcNE\u015e", "company": "T\u00dcB\u0130TAK SAGE", "dominion": "AEROSPACE", "trl": 2.0}, {"name": "MORS", "company": "T\u00dcB\u0130TAK SAGE", "dominion": "AEROSPACE", "trl": 2.0}, {"name": "TF6000", "company": "TEI", "dominion": "AEROSPACE", "trl": 7.0}, {"name": "TS1400", "company": "TEI", "dominion": "AEROSPACE", "trl": 2.0}, {"name": "PD222", "company": "TEI", "dominion": "AEROSPACE", "trl": 8.0}, {"name": "TJ90", "company": "TEI", "dominion": "AEROSPACE", "trl": 9.0}, {"name": "PD170", "company": "TEI", "dominion": "AEROSPACE", "trl": 9.0}, {"name": "TJ300", "company": "TEI", "dominion": "AEROSPACE", "trl": 9.0}, {"name": "KAAN", "company": "TUSA\u015e", "dominion": "AEROSPACE", "trl": 7.0}, {"name": "G\u00d6KBEY", "company": "TUSA\u015e", "dominion": "AEROSPACE", "trl": 8.0}, {"name": "ATAK-2", "company": "TUSA\u015e", "dominion": "AEROSPACE", "trl": 2.0}, {"name": "G\u00d6KT\u00dcRK", "company": "TUSA\u015e", "dominion": "AEROSPACE", "trl": 2.0}, {"name": "ANKA-3", "company": "TUSA\u015e", "dominion": "AEROSPACE", "trl": 7.0}, {"name": "H\u00dcRJET", "company": "TUSA\u015e", "dominion": "AEROSPACE", "trl": 8.0}, {"name": "T\u00dcRKSAT 6A", "company": "TUSA\u015e", "dominion": "AEROSPACE", "trl": 2.0}, {"name": "H\u00dcRKU\u015e", "company": "TUSA\u015e", "dominion": "AEROSPACE", "trl": 9.0}, {"name": "ANKA", "company": "TUSA\u015e", "dominion": "AEROSPACE", "trl": "N/A"}, {"name": "TAYFUN", "company": "ROKETSAN", "dominion": "AEROSPACE", "trl": 9.0}, {"name": "ALKA", "company": "ROKETSAN", "dominion": "AEROSPACE", "trl": 2.0}, {"name": "H\u0130SAR", "company": "ROKETSAN", "dominion": "AEROSPACE", "trl": 9.0}, {"name": "TAYFUN BLOK4", "company": "ROKETSAN", "dominion": "AEROSPACE", "trl": 2.0}, {"name": "AKATA", "company": "ROKETSAN", "dominion": "AEROSPACE", "trl": 2.0}, {"name": "BARBAROS", "company": "ROKETSAN", "dominion": "AEROSPACE", "trl": 2.0}, {"name": "\u0130HA-300", "company": "ROKETSAN", "dominion": "AEROSPACE", "trl": 2.0}, {"name": "\u00c7AKIR", "company": "ROKETSAN", "dominion": "AEROSPACE", "trl": 9.0}, {"name": "RETINAR", "company": "METEKSAN", "dominion": "ELECTRONICS", "trl": 2.0}, {"name": "YAKAMOZ", "company": "METEKSAN", "dominion": "ELECTRONICS", "trl": 2.0}, {"name": "M\u0130LDAR", "company": "METEKSAN", "dominion": "ELECTRONICS", "trl": 2.0}, {"name": "DATA LINKS", "company": "MilSOFT", "dominion": "ELECTRONICS", "trl": 2.0}, {"name": "ACMI POD", "company": "SDT", "dominion": "ELECTRONICS", "trl": 2.0}, {"name": "KOBOT", "company": "Alt\u0131nay Savunma", "dominion": "ELECTRONICS", "trl": 2.0}, {"name": "PEREGRINE", "company": "Alt\u0131nay Savunma", "dominion": "ELECTRONICS", "trl": 2.0}, {"name": "GIMBAL SISTEMLERI", "company": "Alt\u0131nay Savunma", "dominion": "ELECTRONICS", "trl": 2.0}, {"name": "MAIN AI", "company": "HAVELSAN", "dominion": "ELECTRONICS", "trl": 7.0}, {"name": "BARKAN", "company": "HAVELSAN", "dominion": "ELECTRONICS", "trl": 9.0}, {"name": "ADVENT", "company": "HAVELSAN", "dominion": "ELECTRONICS", "trl": 2.0}, {"name": "KAPGAN", "company": "HAVELSAN", "dominion": "ELECTRONICS", "trl": 2.0}, {"name": "SIMULATORS", "company": "HAVELSAN", "dominion": "ELECTRONICS", "trl": 2.0}, {"name": "CYBER SECURITY", "company": "HAVELSAN", "dominion": "ELECTRONICS", "trl": 2.0}, {"name": "BAHA", "company": "HAVELSAN", "dominion": "ELECTRONICS", "trl": 2.0}, {"name": "SANCAR", "company": "HAVELSAN", "dominion": "ELECTRONICS", "trl": 2.0}, {"name": "G\u00dcRZ", "company": "ASELSAN", "dominion": "ELECTRONICS", "trl": 8.0}, {"name": "IHTAR", "company": "ASELSAN", "dominion": "ELECTRONICS", "trl": 2.0}, {"name": "S\u0130PER", "company": "ASELSAN", "dominion": "ELECTRONICS", "trl": 8.0}, {"name": "MURAD", "company": "ASELSAN", "dominion": "ELECTRONICS", "trl": 7.0}, {"name": "G\u00d6KTAN", "company": "ASELSAN", "dominion": "ELECTRONICS", "trl": 2.0}, {"name": "CENK 350N", "company": "ASELSAN", "dominion": "ELECTRONICS", "trl": 2.0}, {"name": "TOYGUN", "company": "ASELSAN", "dominion": "ELECTRONICS", "trl": 2.0}, {"name": "SANCAK", "company": "ASELSAN", "dominion": "ELECTRONICS", "trl": 2.0}, {"name": "ALBATROS-S", "company": "ASELSAN", "dominion": "ELECTRONICS", "trl": 2.0}, {"name": "ASELFLIR-500", "company": "ASELSAN", "dominion": "ELECTRONICS", "trl": 2.0}, {"name": "EJDERHA", "company": "ASELSAN", "dominion": "ELECTRONICS", "trl": 2.0}, {"name": "ERALP", "company": "ASELSAN", "dominion": "ELECTRONICS", "trl": 2.0}, {"name": "KORAL", "company": "ASELSAN", "dominion": "ELECTRONICS", "trl": 9.0}, {"name": "M\u0130LKAR", "company": "ASELSAN", "dominion": "ELECTRONICS", "trl": 2.0}, {"name": "TURAN", "company": "ASELSAN", "dominion": "ELECTRONICS", "trl": 2.0}, {"name": "ULAQ", "company": "ASELSAN", "dominion": "ELECTRONICS", "trl": 2.0}, {"name": "M2 QCB", "company": "CAN\u0130K", "dominion": "LAND", "trl": 2.0}, {"name": "VENOM LR", "company": "CAN\u0130K", "dominion": "LAND", "trl": 2.0}, {"name": "METE MC9", "company": "CAN\u0130K", "dominion": "LAND", "trl": 2.0}, {"name": "EJDER YAL\u00c7IN", "company": "Nurol Makina", "dominion": "LAND", "trl": 2.0}, {"name": "Y\u00d6R\u00dcK", "company": "Nurol Makina", "dominion": "LAND", "trl": 2.0}, {"name": "ILGAZ", "company": "Nurol Makina", "dominion": "LAND", "trl": 2.0}, {"name": "HIZIR", "company": "Katmerciler", "dominion": "LAND", "trl": 2.0}, {"name": "KIRA\u00c7", "company": "Katmerciler", "dominion": "LAND", "trl": 2.0}, {"name": "SAR127", "company": "Sars\u0131lmaz", "dominion": "LAND", "trl": 2.0}, {"name": "SAR9", "company": "Sars\u0131lmaz", "dominion": "LAND", "trl": 2.0}, {"name": "SAR56", "company": "Sars\u0131lmaz", "dominion": "LAND", "trl": 2.0}, {"name": "SARBOT", "company": "Sars\u0131lmaz", "dominion": "LAND", "trl": 2.0}, {"name": "FIRTINA II", "company": "MKE", "dominion": "LAND", "trl": 9.0}, {"name": "PIRANA", "company": "MKE", "dominion": "LAND", "trl": 2.0}, {"name": "TOLGA", "company": "MKE", "dominion": "LAND", "trl": 2.0}, {"name": "MPT-76", "company": "MKE", "dominion": "LAND", "trl": 2.0}, {"name": "76MM DEN\u0130Z TOPU", "company": "MKE", "dominion": "LAND", "trl": 2.0}, {"name": "YAVUZ", "company": "MKE", "dominion": "LAND", "trl": 2.0}, {"name": "ALTAY", "company": "BMC", "dominion": "LAND", "trl": 9.0}, {"name": "KIRPI", "company": "BMC", "dominion": "LAND", "trl": 2.0}, {"name": "VURAN", "company": "BMC", "dominion": "LAND", "trl": 2.0}, {"name": "K\u0130RP\u0130 II", "company": "BMC", "dominion": "LAND", "trl": "N/A"}, {"name": "ARMA", "company": "OTOKAR", "dominion": "LAND", "trl": 2.0}, {"name": "TULPAR", "company": "OTOKAR", "dominion": "LAND", "trl": 2.0}, {"name": "COBRA II", "company": "OTOKAR", "dominion": "LAND", "trl": 2.0}, {"name": "ALPAR", "company": "OTOKAR", "dominion": "LAND", "trl": 2.0}, {"name": "AKREP II", "company": "OTOKAR", "dominion": "LAND", "trl": 2.0}, {"name": "ARMA 8x8", "company": "OTOKAR", "dominion": "LAND", "trl": "N/A"}, {"name": "ZAHA", "company": "FNSS", "dominion": "LAND", "trl": 9.0}, {"name": "KAPLAN", "company": "FNSS", "dominion": "LAND", "trl": 2.0}, {"name": "PARS", "company": "FNSS", "dominion": "LAND", "trl": 2.0}, {"name": "SAMUR", "company": "FNSS", "dominion": "LAND", "trl": 2.0}, {"name": "PARS 4x4", "company": "FNSS", "dominion": "LAND", "trl": "N/A"}, {"name": "KARAOK", "company": "ROKETSAN", "dominion": "LAND", "trl": 9.0}, {"name": "G\u00d6KBORA", "company": "ROKETSAN", "dominion": "LAND", "trl": 2.0}, {"name": "SUNGUR", "company": "ROKETSAN", "dominion": "LAND", "trl": 9.0}, {"name": "ARES 150", "company": "ARES", "dominion": "SEA", "trl": 2.0}, {"name": "ULAQ DERE", "company": "ARES", "dominion": "SEA", "trl": 2.0}, {"name": "MRTP24", "company": "Yonca-Onuk", "dominion": "SEA", "trl": 2.0}, {"name": "MRTP SERISI", "company": "Yonca-Onuk", "dominion": "SEA", "trl": 2.0}, {"name": "TCG ANADOLU", "company": "SEDEF", "dominion": "SEA", "trl": 9.0}, {"name": "TCG TRAKYA", "company": "SEDEF", "dominion": "SEA", "trl": 2.0}, {"name": "PN MILGEM", "company": "ASFAT", "dominion": "SEA", "trl": 2.0}, {"name": "ADKG", "company": "ASFAT", "dominion": "SEA", "trl": 2.0}, {"name": "MEMATT", "company": "ASFAT", "dominion": "SEA", "trl": 2.0}, {"name": "H\u0130SAR SINIFI OPV", "company": "ASFAT", "dominion": "SEA", "trl": 2.0}, {"name": "STM500", "company": "STM", "dominion": "SEA", "trl": 6.0}, {"name": "KARGU", "company": "STM", "dominion": "SEA", "trl": 2.0}, {"name": "M\u0130LGEM", "company": "STM", "dominion": "SEA", "trl": 2.0}, {"name": "ATMACA", "company": "ROKETSAN", "dominion": "SEA", "trl": 9.0}, {"name": "AKYA", "company": "ROKETSAN", "dominion": "SEA", "trl": 9.0}, {"name": "LEVENT", "company": "ROKETSAN", "dominion": "SEA", "trl": 2.0}, {"name": "ORKA", "company": "ROKETSAN", "dominion": "SEA", "trl": 2.0}];
+
+        // Tabloyu Doldur
+        const tableBody = document.querySelector("#projectTable tbody");
+        
+        function renderTable(data) {
+            tableBody.innerHTML = "";
+            data.forEach(p => {
+                const row = `<tr>
+                    <td><strong>${p.name}</strong></td>
+                    <td>${p.company}</td>
+                    <td><span style="font-size: 10px; padding: 2px 6px; border-radius: 4px; background: #30363d;">${p.dominion}</span></td>
+                    <td>${p.trl}</td>
+                </tr>`;
+                tableBody.innerHTML += row;
             });
-        </script>
-    </body>
-    </html>
-    
+        }
+        renderTable(projectData);
+
+        // Arama Fonksiyonu
+        function filterTable() {
+            const query = document.getElementById("searchInput").value.toLowerCase();
+            const filtered = projectData.filter(p => 
+                p.name.toLowerCase().includes(query) || 
+                p.company.toLowerCase().includes(query) || 
+                p.dominion.toLowerCase().includes(query)
+            );
+            renderTable(filtered);
+        }
+
+        // Grafikler
+        new Chart(document.getElementById('dominionChart'), {
+            type: 'doughnut',
+            data: {
+                labels: ['AEROSPACE', 'ELECTRONICS', 'LAND', 'SEA'],
+                datasets: [{
+                    data: [41, 32, 36, 17],
+                    backgroundColor: ['#58a6ff', '#238636', '#cb81fe', '#f85149'],
+                    borderWidth: 0
+                }]
+            },
+            options: { plugins: { legend: { position: 'right', labels: { color: '#fff' } } } }
+        });
+
+        new Chart(document.getElementById('trlChart'), {
+            type: 'bar',
+            data: {
+                labels: ['Bilinmiyor', 'TRL 2', 'TRL 6', 'TRL 7', 'TRL 8', 'TRL 9'],
+                datasets: [{
+                    label: 'Proje Sayısı',
+                    data: [4, 91, 1, 5, 6, 19],
+                    backgroundColor: '#238636'
+                }]
+            },
+            options: { 
+                plugins: { legend: { display: false } },
+                scales: { y: { grid: { color: '#30363d' }, ticks: { color: '#8b949e' } } }
+            }
+        });
+    </script>
+</body>
+</html>
