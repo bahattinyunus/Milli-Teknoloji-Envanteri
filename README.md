@@ -70,29 +70,29 @@ Türkiye'nin teknoloji ekosistemi üç ana katmanda derinleşmektedir:
 | **[ÇAKIR](./DOMINION_AEROSPACE/ROKETSAN/ÇAKIR/README.md)** | ROKETSAN | Yeni Nesil Seyir Füzesi (150+ km) | TRL 9 |
 
 | **[İHA-300](./DOMINION_AEROSPACE/ROKETSAN/İHA-300/README.md)** | ROKETSAN | Detaylı analiz bekleniyor | TRL 1-3 |
-| **[PD170](./DOMINION_AEROSPACE/TEI/PD170/README.md)** | TEI | Turbodizel Havacılık Motoru (İHA'lar için) | TRL 9 |
-| **[PD222](./DOMINION_AEROSPACE/TEI/PD222/README.md)** | TEI | Turbodizel Havacılık Motoru (Daha Yüksek Güç) | TRL 8 |
-| **[TF6000](./DOMINION_AEROSPACE/TEI/TF6000/README.md)** | TEI | Milli Turbofan Motor (KIZILELMA için) | TRL 7 |
-| **[TJ300](./DOMINION_AEROSPACE/TEI/TJ300/README.md)** | TEI | Turbojet Motor (Seyir Füzeleri için) | TRL 9 |
-| **[TJ90](./DOMINION_AEROSPACE/TEI/TJ90/README.md)** | TEI | Turbojet Motor (Mini Seyir Füzeleri için) | TRL 9 |
-| **[TS1400](./DOMINION_AEROSPACE/TEI/TS1400/README.md)** | TEI | Detaylı analiz bekleniyor | TRL 1-3 |
+| **[PD170](./DOMINION_AEROSPACE/TEI/PD170/README.md)** | TEI | Turbodizel İHA Motoru (170 HP) | TRL 9 |
+| **[PD222](./DOMINION_AEROSPACE/TEI/PD222/README.md)** | TEI | Turbodizel İHA Motoru (220 HP) | TRL 8 |
+| **[TF6000](./DOMINION_AEROSPACE/TEI/TF6000/README.md)** | TEI | Askeri Turbofan Motor (6000 lbf) | TRL 7 |
+| **[TJ300](./DOMINION_AEROSPACE/TEI/TJ300/README.md)** | TEI | Orta Menzil Füze Motoru | TRL 9 |
+| **[TJ90](./DOMINION_AEROSPACE/TEI/TJ90/README.md)** | TEI | Mini Füze Motoru | TRL 9 |
+| **[TS1400](./DOMINION_AEROSPACE/TEI/TS1400/README.md)** | TEI | Milli Helikopter Motoru (Turboşaft) | TRL 8 |
 | **[ANKA-3](./DOMINION_AEROSPACE/TUSAŞ/ANKA-3/README.md)** | TUSAŞ | Derin Darbe (Stealth) İnsansız Savaş Uçağı | TRL 7 |
 | **[ATAK-2](./DOMINION_AEROSPACE/TUSAŞ/ATAK-2/README.md)** | TUSAŞ | Ağır Sınıf Taarruz Helikopteri | TRL 7 |
-
-| **[GÖKBEY](./DOMINION_AEROSPACE/TUSAŞ/GÖKBEY/README.md)** | TUSAŞ | Genel Maksat Helikopteri (Milli Motor TS1400) | TRL 8 |
-| **[GÖKTÜRK](./DOMINION_AEROSPACE/TUSAŞ/GÖKTÜRK/README.md)** | TUSAŞ | Detaylı analiz bekleniyor | TRL 1-3 |
-| **[HÜRJET](./DOMINION_AEROSPACE/TUSAŞ/HÜRJET/README.md)** | TUSAŞ | Jet Eğitim & Taarruz | TRL 8 |
+| **[GÖKBEY](./DOMINION_AEROSPACE/TUSAŞ/GÖKBEY/README.md)** | TUSAŞ | Genel Maksat Helikopteri | TRL 8 |
+| **[GÖKTÜRK](./DOMINION_AEROSPACE/TUSAŞ/GÖKTÜRK/README.md)** | TUSAŞ | Keşif Gözetleme Uydusu | TRL 9 |
+| **[HÜRJET](./DOMINION_AEROSPACE/TUSAŞ/HÜRJET/README.md)** | TUSAŞ | Jet Eğitim & Taarruz Uçağı | TRL 8 |
 | **[HÜRKUŞ](./DOMINION_AEROSPACE/TUSAŞ/HÜRKUŞ/README.md)** | TUSAŞ | Temel Eğitim ve Hafif Taarruz Uçağı | TRL 9 |
-| **[KAAN](./DOMINION_AEROSPACE/TUSAŞ/KAAN/README.md)** | TUSAŞ | 5. Nesil Görünmezlik | TRL 7 |
-| **[TÜRKSAT 6A](./DOMINION_AEROSPACE/TUSAŞ/TÜRKSAT_6A/README.md)** | TUSAŞ | Detaylı analiz bekleniyor | TRL 1-3 |
-| **[ALPİN](./DOMINION_AEROSPACE/Titra/ALPİN/README.md)** | Titra | Detaylı analiz bekleniyor | TRL 1-3 |
-| **[DELİ](./DOMINION_AEROSPACE/Titra/DELİ/README.md)** | Titra | Detaylı analiz bekleniyor | TRL 1-3 |
-| **[GOKDOGAN](./DOMINION_AEROSPACE/TÜBİTAK_SAGE/GOKDOGAN/README.md)** | TÜBİTAK SAGE | Detaylı analiz bekleniyor | TRL 1-3 |
-| **[GÜNEŞ](./DOMINION_AEROSPACE/TÜBİTAK_SAGE/GÜNEŞ/README.md)** | TÜBİTAK SAGE | Detaylı analiz bekleniyor | TRL 1-3 |
-| **[KUZGUN](./DOMINION_AEROSPACE/TÜBİTAK_SAGE/KUZGUN/README.md)** | TÜBİTAK SAGE | Detaylı analiz bekleniyor | TRL 1-3 |
-| **[MORS](./DOMINION_AEROSPACE/TÜBİTAK_SAGE/MORS/README.md)** | TÜBİTAK SAGE | Detaylı analiz bekleniyor | TRL 1-3 |
-| **[SOM](./DOMINION_AEROSPACE/TÜBİTAK_SAGE/SOM/README.md)** | TÜBİTAK SAGE | Detaylı analiz bekleniyor | TRL 1-3 |
-| **[İMECE](./DOMINION_AEROSPACE/TÜBİTAK_SAGE/İMECE/README.md)** | TÜBİTAK SAGE | Detaylı analiz bekleniyor | TRL 1-3 |
+| **[KAAN](./DOMINION_AEROSPACE/TUSAŞ/KAAN/README.md)** | TUSAŞ | 5. Nesil Milli Muharip Uçak | TRL 7 |
+| **[TÜRKSAT 6A](./DOMINION_AEROSPACE/TUSAŞ/TÜRKSAT_6A/README.md)** | TUSAŞ | İlk Milli Haberleşme Uydusu | TRL 8 |
+| **[ALPİN](./DOMINION_AEROSPACE/Titra/ALPİN/README.md)** | Titra | İnsansız Helikopter | TRL 7 |
+| **[DELİ](./DOMINION_AEROSPACE/Titra/DELİ/README.md)** | Titra | Kamikaze İHA | TRL 9 |
+| **[GOKDOGAN](./DOMINION_AEROSPACE/TÜBİTAK_SAGE/GOKDOGAN/README.md)** | TÜBİTAK SAGE | Görüş Ötesi Hava-Hava Füzesi (BVRAAM) | TRL 9 |
+| **[GÜNEŞ](./DOMINION_AEROSPACE/TÜBİTAK_SAGE/GÜNEŞ/README.md)** | TÜBİTAK SAGE | Güdüm Kiti | TRL 9 |
+| **[KUZGUN](./DOMINION_AEROSPACE/TÜBİTAK_SAGE/KUZGUN/README.md)** | TÜBİTAK SAGE | Modüler Mühimmat Ailesi | TRL 7 |
+| **[MORS](./DOMINION_AEROSPACE/TÜBİTAK_SAGE/MORS/README.md)** | TÜBİTAK SAGE | Havan Mühimmatı | TRL 9 |
+| **[SOM](./DOMINION_AEROSPACE/TÜBİTAK_SAGE/SOM/README.md)** | TÜBİTAK SAGE | Seyir Füzesi (Cruise Missile) | TRL 9 |
+| **[İMECE](./DOMINION_AEROSPACE/TÜBİTAK_SAGE/İMECE/README.md)** | TÜBİTAK SAGE | Metre Altı Çözünürlüklü Gözlem Uydusu | TRL 9 |
+
 
 ### 📡 [DOMINION ELECTRONICS & AI (Dijital Egemenlik)](./DOMINION_ELECTRONICS/README.md)
 | Proje / Platform | Üretici | Stratejik Önem | TRL |
@@ -117,17 +117,18 @@ Türkiye'nin teknoloji ekosistemi üç ana katmanda derinleşmektedir:
 | **[GIMBAL SISTEMLERI](./DOMINION_ELECTRONICS/Altınay_Savunma/GIMBAL_SISTEMLERI/README.md)** | Altınay Savunma | Detaylı analiz bekleniyor | TRL 1-3 |
 | **[KOBOT](./DOMINION_ELECTRONICS/Altınay_Savunma/KOBOT/README.md)** | Altınay Savunma | Detaylı analiz bekleniyor | TRL 1-3 |
 | **[PEREGRINE](./DOMINION_ELECTRONICS/Altınay_Savunma/PEREGRINE/README.md)** | Altınay Savunma | Detaylı analiz bekleniyor | TRL 1-3 |
-| **[ADVENT](./DOMINION_ELECTRONICS/HAVELSAN/ADVENT/README.md)** | HAVELSAN | Detaylı analiz bekleniyor | TRL 1-3 |
-| **[BAHA](./DOMINION_ELECTRONICS/HAVELSAN/BAHA/README.md)** | HAVELSAN | Detaylı analiz bekleniyor | TRL 1-3 |
-| **[BARKAN](./DOMINION_ELECTRONICS/HAVELSAN/BARKAN/README.md)** | HAVELSAN | otonom İKA Sınıfı | TRL 9 |
-| **[CYBER SECURITY](./DOMINION_ELECTRONICS/HAVELSAN/CYBER_SECURITY/README.md)** | HAVELSAN | Detaylı analiz bekleniyor | TRL 1-3 |
-| **[KAPGAN](./DOMINION_ELECTRONICS/HAVELSAN/KAPGAN/README.md)** | HAVELSAN | Detaylı analiz bekleniyor | TRL 1-3 |
-| **[MAIN AI](./DOMINION_ELECTRONICS/HAVELSAN/MAIN_AI/README.md)** | HAVELSAN | Askeri Yapay Zeka | TRL 7 |
-| **[SANCAR](./DOMINION_ELECTRONICS/HAVELSAN/SANCAR/README.md)** | HAVELSAN | Detaylı analiz bekleniyor | TRL 1-3 |
-| **[SIMULATORS](./DOMINION_ELECTRONICS/HAVELSAN/SIMULATORS/README.md)** | HAVELSAN | Detaylı analiz bekleniyor | TRL 1-3 |
-| **[MİLDAR](./DOMINION_ELECTRONICS/METEKSAN/MİLDAR/README.md)** | METEKSAN | Detaylı analiz bekleniyor | TRL 1-3 |
-| **[RETINAR](./DOMINION_ELECTRONICS/METEKSAN/RETINAR/README.md)** | METEKSAN | Detaylı analiz bekleniyor | TRL 1-3 |
-| **[YAKAMOZ](./DOMINION_ELECTRONICS/METEKSAN/YAKAMOZ/README.md)** | METEKSAN | Detaylı analiz bekleniyor | TRL 1-3 |
+| **[ADVENT](./DOMINION_ELECTRONICS/HAVELSAN/ADVENT/README.md)** | HAVELSAN | Ağ Destekli Savaş Yönetim Sistemi | TRL 9 |
+| **[BAHA](./DOMINION_ELECTRONICS/HAVELSAN/BAHA/README.md)** | HAVELSAN | Bulut Altı İHA | TRL 9 |
+| **[BARKAN](./DOMINION_ELECTRONICS/HAVELSAN/BARKAN/README.md)** | HAVELSAN | Orta Sınıf İnsansız Kara Aracı | TRL 9 |
+| **[CYBER SECURITY](./DOMINION_ELECTRONICS/HAVELSAN/CYBER_SECURITY/README.md)** | HAVELSAN | Siber Güvenlik Operasyon Merkezi | TRL 9 |
+| **[KAPGAN](./DOMINION_ELECTRONICS/HAVELSAN/KAPGAN/README.md)** | HAVELSAN | Ağır Sınıf İnsansız Kara Aracı | TRL 7 |
+| **[MAIN AI](./DOMINION_ELECTRONICS/HAVELSAN/MAIN_AI/README.md)** | HAVELSAN | Kurumsal/Askeri Üretken Yapay Zeka | TRL 7 |
+| **[SANCAR](./DOMINION_ELECTRONICS/HAVELSAN/SANCAR/README.md)** | HAVELSAN | SİDA (Sancar Sınıfı) | TRL 8 |
+| **[SIMULATORS](./DOMINION_ELECTRONICS/HAVELSAN/SIMULATORS/README.md)** | HAVELSAN | Askeri ve Sivil Simülatörler | TRL 9 |
+| **[MİLDAR](./DOMINION_ELECTRONICS/METEKSAN/MİLDAR/README.md)** | METEKSAN | Milimetre Dalga Radarı (Helikopter/İHA) | TRL 8 |
+| **[RETINAR](./DOMINION_ELECTRONICS/METEKSAN/RETINAR/README.md)** | METEKSAN | Çevre Gözetleme Radarı | TRL 9 |
+| **[YAKAMOZ](./DOMINION_ELECTRONICS/METEKSAN/YAKAMOZ/README.md)** | METEKSAN | Karinaya Monteli Sonar Sistemi | TRL 9 |
+
 | **[DATA LINKS](./DOMINION_ELECTRONICS/MilSOFT/DATA_LINKS/README.md)** | MilSOFT | Detaylı analiz bekleniyor | TRL 1-3 |
 | **[ACMI POD](./DOMINION_ELECTRONICS/SDT/ACMI_POD/README.md)** | SDT | Detaylı analiz bekleniyor | TRL 1-3 |
 

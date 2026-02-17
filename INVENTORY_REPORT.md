@@ -1,6 +1,6 @@
 # 🇹🇷 Milli Teknoloji Envanteri Raporu
 
-**Tarih:** 2026-02-17 11:40
+**Tarih:** 2026-02-17 11:46
 
 ## Özet
 - **Toplam Proje Sayısı:** 126
@@ -14,8 +14,8 @@
 #### Lentatek
 - KARAYEL (TRL 2.0)
 #### Titra
-- ALPİN (TRL 2.0)
-- DELİ (TRL 2.0)
+- ALPİN (TRL 7.0)
+- DELİ (TRL 9.0)
 #### BAYKAR
 - KIZILELMA (TRL 8.0)
 - TB2 (TRL 9.0)
@@ -27,15 +27,15 @@
 - FERGANİ (TRL 9.0)
 - KEMANKEŞ 2 (TRL 2.0)
 #### TÜBİTAK_SAGE
-- GOKDOGAN (TRL 2.0)
-- KUZGUN (TRL 2.0)
-- SOM (TRL 2.0)
-- İMECE (TRL 2.0)
-- GÜNEŞ (TRL 2.0)
-- MORS (TRL 2.0)
+- GOKDOGAN (TRL 9.0)
+- KUZGUN (TRL 7.0)
+- SOM (TRL 9.0)
+- İMECE (TRL 9.0)
+- GÜNEŞ (TRL 9.0)
+- MORS (TRL 9.0)
 #### TEI
 - TF6000 (TRL 7.0)
-- TS1400 (TRL 2.0)
+- TS1400 (TRL 8.0)
 - PD222 (TRL 8.0)
 - TJ90 (TRL 9.0)
 - PD170 (TRL 9.0)
@@ -44,10 +44,10 @@
 - KAAN (TRL 7.0)
 - GÖKBEY (TRL 8.0)
 - ATAK-2 (TRL 7.0)
-- GÖKTÜRK (TRL 2.0)
+- GÖKTÜRK (TRL 9.0)
 - ANKA-3 (TRL 7.0)
 - HÜRJET (TRL 8.0)
-- TÜRKSAT 6A (TRL 2.0)
+- TÜRKSAT 6A (TRL 8.0)
 - HÜRKUŞ (TRL 9.0)
 - ANKA
 #### ROKETSAN
@@ -62,9 +62,9 @@
 
 ### DOMINION_ELECTRONICS
 #### METEKSAN
-- RETINAR (TRL 2.0)
-- YAKAMOZ (TRL 2.0)
-- MİLDAR (TRL 2.0)
+- RETINAR (TRL 9.0)
+- YAKAMOZ (TRL 9.0)
+- MİLDAR (TRL 8.0)
 #### MilSOFT
 - DATA LINKS (TRL 2.0)
 #### SDT
@@ -76,12 +76,12 @@
 #### HAVELSAN
 - MAIN AI (TRL 7.0)
 - BARKAN (TRL 9.0)
-- ADVENT (TRL 2.0)
-- KAPGAN (TRL 2.0)
-- SIMULATORS (TRL 2.0)
-- CYBER SECURITY (TRL 2.0)
-- BAHA (TRL 2.0)
-- SANCAR (TRL 2.0)
+- ADVENT (TRL 9.0)
+- KAPGAN (TRL 7.0)
+- SIMULATORS (TRL 9.0)
+- CYBER SECURITY (TRL 9.0)
+- BAHA (TRL 9.0)
+- SANCAR (TRL 8.0)
 #### ASELSAN
 - GÜRZ (TRL 8.0)
 - IHTAR (TRL 9.0)

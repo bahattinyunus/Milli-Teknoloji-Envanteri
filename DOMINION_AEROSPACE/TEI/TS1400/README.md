@@ -1,17 +1,31 @@
-# ⚙️ Proje: TEI-TS1400 Turboşaft Motoru
+# 🚁 Proje: TS1400
 
-TS1400, TEI tarafından tamamen yerli imkanlarla tasarlanan ve geliştirilen Türkiye'nin ilk milli turboşaft motorudur. Başta GÖKBEY genel maksat helikopteri olmak üzere yerli hava platformları için hayati bir güç ünitesidir.
+> **Üretici:** TEI  
+> **Sınıf:** Turboşaft Motor (Helikopter Motoru)  
+> **Stratejik Önem:** GÖKBEY helikopterinin yerli kalbi. Türkiye'nin ilk sertifikalı milli turboşaft motoru.
 
-## 🛠 Teknik Veriler
-| Özellik | Detay |
+![TS1400](https://www.tei.com.tr/uploads/docs/1628153306_ts1400.jpg)
+
+## 📝 Proje Tanımı
+TS1400, GÖKBEY genel maksat helikopteri başta olmak üzere, T129 ATAK ve HÜRKUŞ gibi platformlarda kullanılabilecek 1400 şaft beygir gücünde (kalkışta 1660 shp) milli bir motordur.
+
+## ⚙️ Teknik Özellikler
+
+| Özellik | Değer |
 | :--- | :--- |
-| **Güç** | 1.400 shp (Maksimum 1.660 shp kalkış gücü) |
-| **Kullanım** | GÖKBEY, ATAK ve sivil helikopter platformları |
-| **Özellik** | Zorlu irtifa ve sıcaklık koşullarında operasyon kabiliyeti |
+| **Kalkış Gücü** | 1470 SHP |
+| **Maksimum Güç** | 1660 SHP (Tek Motor Çalışma Durumu - OEI) |
+| **Ağırlık** | ~160 kg |
+| **Servis Tavanı** | 20.000 ft |
 
+## 🌟 Öne Çıkan Yetenekler
+- **Yüksek Sıcaklık Dayanımı:** Tek kristal kanatçık teknolojisi sayesinde çok yüksek sıcaklıklarda çalışabilir.
+- **FADEC:** Tam Sayısal Motor Kontrol sistemi ile pilotun yükünü azaltır ve motoru korur.
 
+## 🚀 Geliştirme Durumu (TRL 8)
+- [x] Prototip Üretimi ve İlk Ateşleme
+- [x] GÖKBEY Helikopterine Entegrasyon ve İlk Uçuş (2023)
+- [ ] Seri Üretim ve Sertifikasyon Tamamlanması
 
-## 📁 Proje Varlıkları (Project Assets)
-- (Bu proje dizininde henüz ek dosya bulunmamaktadır.)
 ---
-[⬅️ TEI Ana Sayfası](../README.md) | [🏠 Ana Sayfa](../../README.md)
+[⬅️ TEI Ana Sayfası](../README.md) | [🏠 Ana Sayfa](../../../README.md)

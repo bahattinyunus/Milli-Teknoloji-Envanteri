@@ -1,18 +1,33 @@
-# ⚙️ Proje: TEI-TF6000 Turbofan Motoru
+# ✈️ Proje: TF6000
 
-TEI-TF6000, Türkiye'nin yerli imkanlarla tasarladığı ilk gerçek turbofan motorudur. 6.000 libre itki gücü üreten bu motor, insansız savaş uçakları ve hızlı İHA sistemleri için kritik bir aşamadır.
+> **Üretici:** TEI  
+> **Sınıf:** Askeri Turbofan Motor  
+> **Stratejik Önem:** Türkiye'nin tasarladığı ve ürettiği ilk askeri turbofan motor. KIZILELMA, ANKA-3 ve HÜRJET'in güç kaynağı olacak.
 
-## 🛠 Teknik Veriler
-| Özellik | Detay |
+![TF6000](https://www.tei.com.tr/uploads/docs/1683885368_tf6000.jpg)
+
+## 📝 Proje Tanımı
+TF6000, 6000 lbf kuru itki üretebilen, art yakıcı (afterburner) ile 10.000 lbf sınıfına (TF10000) çıkabilen, düşük by-pass oranlı bir turbofan motordur. Bu motor, Türkiye'nin kendi savaş uçağı motorunu yapma yolundaki en büyük mihenk taşlarından biridir.
+
+## ⚙️ Teknik Özellikler
+
+| Özellik | Değer |
 | :--- | :--- |
-| **Tür** | Turbofan |
-| **İtki Gücü** | 6.000 lb (Afterburner ile daha yüksek varyantlar planlanıyor) |
-| **Kullanım** | KIZILELMA, ANKA-3 ve Hızlı İHA platformları |
-| **Özellik** | %100 yerli tasarım ve üretim |
+| **İtki (Kuru)** | 6.000 lbf |
+| **İtki (Art Yakıcılı)** | 10.000 lbf (TF10000 versiyonu) |
+| **Tip** | Düşük By-Pass Oranlı Turbofan |
+| **Kullanım Alanı** | KIZILELMA, ANKA-3, Milli Hücumbotlar |
 
+## 🌟 Öne Çıkan Yetenekler
+- **Yerli Tasarım:** Kompresör, türbin ve yanma odası tamamen TEI mühendisleri tarafından tasarlanmıştır.
+- **Süperkruiz:** Uygun aerodinamik yapı ile bazı platformlarda ses üstü hızlara (süperkruiz) imkan verebilir.
+- **Elektrik Üretimi:** Üzerindeki güçlü jeneratör ile modern savaş uçaklarının ve SİHA'ların yüksek elektrik ihtiyacını karşılar.
 
+## 🚀 Geliştirme Durumu (TRL 7)
+- [x] Kavramsal Tasarım
+- [x] Prototip İmalatı
+- [x] İlk Ateşleme (Şubat 2024)
+- [ ] Tam Güç Testleri ve Kalifikasyon
 
-## 📁 Proje Varlıkları (Project Assets)
-- (Bu proje dizininde henüz ek dosya bulunmamaktadır.)
 ---
-[⬅️ TEI Ana Sayfası](../README.md) | [🏠 Ana Sayfa](../../README.md)
+[⬅️ TEI Ana Sayfası](../README.md) | [🏠 Ana Sayfa](../../../README.md)

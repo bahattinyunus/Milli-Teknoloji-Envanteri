@@ -1,18 +1,31 @@
-# 🦅 Proje: KUZGUN Modüler Mühimmat Ailesi
+# 🐦 Proje: KUZGUN
 
-KUZGUN, TÜBİTAK SAGE tarafından geliştirilen, turbojet (KY), katı yakıtlı (TJ) ve süzülen (SS) olmak üzere üç ana varyanta sahip modüler bir mühimmat ailesidir. Kara, deniz ve hava platformlarından ateşlenebilir.
+> **Üretici:** TÜBİTAK SAGE  
+> **Sınıf:** Modüler Müşterek Mühimmat Ailesi  
+> **Stratejik Önem:** SİHA'lar, jetler ve deniz platformları için geliştirilen, maliyet etkin ve çok yönlü "İsviçre Çakısı" gibi mühimmat ailesi.
 
-## 🛠 Teknik Veriler
-| Özellik | Detay |
+![KUZGUN](https://www.sage.tubitak.gov.tr/sites/images/kuzgun.jpg)
+
+## 📝 Proje Tanımı
+KUZGUN, farklı güdüm (Lazer, IIR, Radar, GPS) ve harp başlığı seçeneklerine sahip, hem itkili (turbojet/katı yakıt) hem de süzülen (serbest düşüş) varyantları olan yeni nesil bir mühimmat ailesidir.
+
+## ⚙️ Aile Üyeleri
+
+| Varyant | Açıklama |
 | :--- | :--- |
-| **Tür** | Modüler Akıllı Mühimmat |
-| **Varyantlar** | KUZGUN-SS (Süzülen), KUZGUN-KY (Katı Yakıt), KUZGUN-TJ (Turbojet) |
-| **Menzil** | 40 km (SS) ile 180+ km (TJ) arası |
-| **Ağırlık** | ~100 kg |
+| **KUZGUN-SS** | Serbest Süzülen (Free Fall). Sessiz ve ucuz. |
+| **KUZGUN-TJ** | Turbojet motorlu. Uzun menzilli ve hızlı. |
+| **KUZGUN-KY** | Katı Yakıtlı. Deniz ve kara araçlarından atış için. |
 
+## 🌟 Öne Çıkan Yetenekler
+- **Modülerlik:** Göreve göre arayıcı başlık ve harp başlığı değiştirilebilir.
+- **Sürü Saldırısı:** AKSUNGUR veya AKINCI gibi SİHA'lar çok sayıda KUZGUN taşıyıp sürü saldırısı yapabilir.
+- **Ağ Destekli:** Havada hedef değiştirebilir.
 
+## 🚀 Geliştirme Durumu (TRL 7)
+- [x] Tasarım ve Prototip
+- [x] Atışlı Testler (AKSUNGUR'dan atıldı)
+- [ ] Seri Üretim
 
-## 📁 Proje Varlıkları (Project Assets)
-- (Bu proje dizininde henüz ek dosya bulunmamaktadır.)
 ---
-[⬅️ SAGE Ana Sayfası](../README.md) | [🏠 Ana Sayfa](../../README.md)
+[⬅️ TÜBİTAK SAGE Ana Sayfası](../README.md) | [🏠 Ana Sayfa](../../../README.md)

@@ -1,39 +1,32 @@
-# 🤖 Proje: MAIN (Milli Askeri Yapay Zeka)
+# 🧠 Proje: MAIN AI (Milli Yapay Zeka)
 
-![MAIN AI](../../../_ASSETS/hero_banner.png)
+> **Üretici:** HAVELSAN  
+> **Sınıf:** Kurumsal Büyük Dil Modeli (LLM) / Generative AI  
+> **Stratejik Önem:** Türkiye'nin kamu ve askeri kurumları için geliştirilen, verisi ülke içinde kalan, güvenli Yapay Zeka platformu. "Türkiye'nin GPT'si".
 
-> **"Dijital Stratejist: Savunma Sanayiinin Kolektif Zekası"**
+![MAIN](https://cdn.stm.com.tr/media/images/main-ai-launch.jpg)
 
-HAVELSAN MAIN (Milli Askeri Yapay Zeka), Türkiye'nin savunma güvenliği standartlarına uygun, kapalı devre (On-Premise) çalışan ve askeri terminolojiye hakim ilk büyük dil modelidir (LLM). Sadece bir chatbot değil, harekat merkezlerinde karar destek mekanizması olarak görev yapan bir "Dijital Kurmay"dır.
+## 📝 Proje Tanımı
+MAIN (Multifunctional Artificial Intelligence Network), kurumların hassas verilerini dışarıya çıkarmadan (OpenAI veya Google sunucularına göndermeden) özetleme, kod üretme, doküman analizi ve içerik üretimi yapabilmelerini sağlayan, tamamen kapalı devre çalışabilen bir yapay zeka asistanıdır.
 
-## 🛠 Teknik Veriler ve Yetenek Seti
+## ⚙️ Teknik Özellikler
 
-| Özellik | Detay | Fonksiyon |
-| :--- | :--- | :--- |
-| **Model Mimarisi** | Milli Optimize LLM | Askeri Doktrin Odaklı Eğitim |
-| **Güvenlik** | Air-Gapped / İzole Çalışma | Kamu Verisi ve Gizli Bilgi Güvenliği |
-| **Analiz Hızı** | Gerçek Zamanlı | Binlerce Sayfalık Raporu Saniyeler İçinde Özetleme |
-| **Entegrasyon** | ADVENT & RADNET Uyumlu | Karar Destek Sistemi Arayüzü |
+| Özellik | Değer |
+| :--- | :--- |
+| **Model Tipi** | Transformer Tabanlı Büyük Dil Modeli (LLM) |
+| **Dil Desteği** | Türkçe (Ana Odak) ve İngilizce |
+| **Dağıtım** | On-Premise (Kurum Sunucularında) |
+| **Veri Gizliliği** | %100 Kapalı Devre (Air-Gapped Opsiyonu) |
 
-## 🕹️ Operasyonel Rol ve Kullanım Alanları
-MAIN, savunma ekosisteminde birçok kritik süreci otomatize eder:
-- **Harekat Planlama:** Geçmiş harekat verilerini analiz ederek en düşük riskli operasyon rotalarını önerme.
-- **İstihbarat Füzyonu:** Farklı kaynaklardan gelen (İHA verisi, telsiz dökümleri, radar izleri) bilgileri birleştirerek anlamlı raporlar oluşturma.
-- **Teknik Lojistik:** Sahadaki araçların arıza raporlarını analiz ederek kestirimci bakım önerileri sunma.
+## 🌟 Öne Çıkan Yetenekler
+- **RAG (Retrieval Augmented Generation):** Kurumun kendi dokümanlarını (kanunlar, teknik dokümanlar) okuyarak bunlardan cevap üretir.
+- **Türkçe Hakimiyeti:** Türkçe'nin morfolojik yapısına uygun eğitildiği için yerel dilde performansı rakiplerinden yüksektir.
+- **Siber Güvenlik:** Açık kaynak kodlu modellerin güvenlik açıklarından arındırılmıştır.
 
-## 🌐 Ekosistem Entegrasyonu (Intel Synergy)
-- **BAHA & BARKAN:** Robotik araçlardan gelen görsel ve sensör verilerini yorumlayarak metin bazlı durum raporu oluşturma.
-- **ADVENT SYS:** Savaş yönetim sistemindeki verileri kullanarak taktiksel tavsiyeler üretme.
-- **Kurumsal Güvenlik:** Savunma sanayii kuruluşlarının kendi iç ağlarında, verileri dışarı sızdırmadan güvenli yapay zeka kullanımı.
+## 🚀 Geliştirme Durumu (TRL 7/8)
+- [x] Lansman (Şubat 2024)
+- [x] Pilot Kullanımlar (Kamu Kurumları)
+- [ ] Geniş Yaygınlaştırma ve API Erişimi
 
-## 🔮 Gelecek Vizyonu: Otonom Strateji
-- **Multimodal MAIN:** Sadece metin değil, görüntü ve ses (telsiz konuşmaları) verilerini de aynı anda işleyen hibrit yapı.
-- **MAIN-Mobile:** Sahadaki personelin tabletlerinde çalışabilen, düşük işlem gücü gerektiren optimize modeller.
-- **Otonom Kod Üretimi:** Savunma projelerinde kullanılan yazılımlar için güvenlik açığı taraması ve otomatik kod iyileştirme.
-
-
-
-## 📁 Proje Varlıkları (Project Assets)
-- (Bu proje dizininde henüz ek dosya bulunmamaktadır.)
 ---
 [⬅️ HAVELSAN Ana Sayfası](../README.md) | [🏠 Ana Sayfa](../../../README.md)
