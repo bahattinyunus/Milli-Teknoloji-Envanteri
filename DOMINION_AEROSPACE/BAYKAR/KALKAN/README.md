@@ -1,18 +1,20 @@
-# 🦅 Proje: Bayraktar KALKAN (DİHA)
+# KALKAN
 
-Bayraktar KALKAN, BAYKAR tarafından geliştirilen, pist ihtiyacı duymadan dikey iniş ve kalkış yapabilen (VTOL), ardından yatay uçuş moduna geçen taktik bir insansız hava aracıdır.
+> **Üretici:** BAYKAR  
+> **Alan:** AEROSPACE
 
-## 🛠 Teknik Veriler
-| Özellik | Detay |
-| :--- | :--- |
-| **Tür** | Dikey İniş Kalkışlı İHA (DİHA) |
-| **Operasyonel İrtifa** | 9.000 - 15.000 Feet |
-| **Baz İstasyonu** | Mobil araçlar veya gemiler üzerinden kullanım |
-| **Görev** | Keşif, Gözetleme, Sınır Güvenliği |
+## 📝 Proje Tanımı
+Bayraktar KALKAN DİHA (Dikey İniş Kalkışlı İnsansız Hava Aracı), pist gereksinimi duymadan dikey iniş ve kalkış yapabilen, keşif, gözetleme ve istihbarat görevleri için optimize edilmiş bir platformdur.
 
+## ⚙️ Teknik Özellikler
+- **Tip:** DİHA (VTOL)
+- **Menzil:** 150+ km
+- **Hız:** 80 knots (seyir), 100 knots (maksimum)
+- **Hizmet Tavanı:** 15,000 feet
+- **Havada Kalış:** 12 saat
 
-
-## 📁 Proje Varlıkları (Project Assets)
-- (Bu proje dizininde henüz ek dosya bulunmamaktadır.)
----
-[⬅️ BAYKAR Ana Sayfası](../README.md) | [🏠 Ana Sayfa](../../README.md)
+## 🚀 Geliştirme Durumu (TRL)
+- [x] Kavramsal Tasarım
+- [x] Prototip (Test Uçuşları Başarıyla Tamamlandı)
+- [ ] Seri Üretim
+- **Güncel Seviye:** TRL 7

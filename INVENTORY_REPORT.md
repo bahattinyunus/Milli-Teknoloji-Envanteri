@@ -1,11 +1,11 @@
 # 🇹🇷 Milli Teknoloji Envanteri Raporu
 
-**Tarih:** 2026-02-17 13:04
+**Tarih:** 2026-03-17 16:25
 
 ## Özet
-- **Toplam Proje Sayısı:** 134
-- **AEROSPACE:** 46 Proje
-- **ELECTRONICS:** 34 Proje
+- **Toplam Proje Sayısı:** 139
+- **AEROSPACE:** 47 Proje
+- **ELECTRONICS:** 38 Proje
 - **LAND:** 37 Proje
 - **SEA:** 17 Proje
 
@@ -19,13 +19,13 @@
 #### BAYKAR
 - KIZILELMA (TRL 8.0)
 - TB2 (TRL 9.0)
-- KALKAN (TRL 2.0)
+- KALKAN (TRL 7.0)
 - KEMANKEŞ (TRL 7.0)
 - AKINCI (TRL 9.0)
 - TB3 (TRL 7.0)
 - TOMRİS (TRL 2.0)
 - FERGANİ (TRL 9.0)
-- KEMANKEŞ 2 (TRL 2.0)
+- KEMANKEŞ 2 (TRL 6.0)
 #### TÜBİTAK_SAGE
 - GOKDOGAN (TRL 9.0)
 - KUZGUN (TRL 7.0)
@@ -65,12 +65,15 @@
 - CİRİT (TRL 9.0)
 #### TUA
 - AY GÖREVİ (TRL 5.0)
+#### ASELSAN
+- TOLUN (TRL 9.0)
 
 ### DOMINION_ELECTRONICS
 #### METEKSAN
 - RETINAR (TRL 9.0)
 - YAKAMOZ (TRL 9.0)
 - MİLDAR (TRL 8.0)
+- NAZAR (TRL 9.0)
 #### MilSOFT
 - DATA LINKS (TRL 9.0)
 #### SDT
@@ -92,7 +95,7 @@
 - GÜRZ (TRL 8.0)
 - IHTAR (TRL 9.0)
 - SİPER (TRL 8.0)
-- MURAD (TRL 8.0)
+- MURAD (TRL 7.0)
 - GÖKTAN (TRL 7.0)
 - CENK 350N (TRL 7.0)
 - TOYGUN (TRL 6.0)
@@ -107,6 +110,9 @@
 - ULAQ (TRL 2.0)
 - KORKUT (TRL 9.0)
 - GÖKDENİZ (TRL 9.0)
+- ÖZGÜR (TRL 9.0)
+- HAVA SOJ (TRL 7.0)
+- GÖKSUR (TRL 7.0)
 
 ### DOMINION_LAND
 #### CANİK
@@ -144,7 +150,7 @@
 - COBRA II (TRL 9.0)
 - ALPAR (TRL 6.0)
 - AKREP II (TRL 8.0)
-- ARMA 8x8
+- ARMA 8x8 (TRL 9.0)
 #### FNSS
 - ZAHA (TRL 9.0)
 - KAPLAN (TRL 9.0)
@@ -176,7 +182,7 @@
 - KARGU (TRL 9.0)
 - MİLGEM (TRL 9.0)
 #### ROKETSAN
-- ATMACA
+- ATMACA (TRL 9.0)
 - AKYA (TRL 9.0)
 - LEVENT (TRL 2.0)
 - ORKA (TRL 7.0)
