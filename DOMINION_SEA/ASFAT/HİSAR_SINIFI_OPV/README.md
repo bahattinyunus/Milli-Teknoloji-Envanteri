@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="../../../_ASSETS/maritime_icon.png" width="90" alt="Maritime Dominion Icon" />
+
 
 [![TRL](https://img.shields.io/badge/TRL-8-00b0ff?style=for-the-badge&logo=shield&logoColor=white)](../../../docs/TRL_GUIDE.md)
 [![Dominion](https://img.shields.io/badge/DOMINION-SEA-blue?style=for-the-badge&logo=anchor&logoColor=white)](../../README.md)
@@ -12,7 +12,7 @@
 </div>
 
 <p align="center">
-  <img src="https://www.asfat.com.tr/uploads/docs/opv-web.jpg" alt="ASFAT HİSAR Sınıfı Açık Deniz Karakol Gemisi" width="85%" style="border-radius: 8px;" />
+  <img src="https://www.asfat.com.tr/uploads/hisar-opv.jpg" alt="HİSAR SINIFI OPV" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
 </p>
 
 ---

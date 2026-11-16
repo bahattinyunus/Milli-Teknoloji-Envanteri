@@ -2,12 +2,17 @@
 
 <div align="center">
 
-[![Dominion](https://img.shields.io/badge/DOMINION-AEROSPACE-00f2fe?style=for-the-badge&logo=spacex&logoColor=white)](../../README.md)
+[![Dominion](https://img.shields.io/badge/DOMINION-AEROSPACE-00f2fe?style=for-the-badge&logo=spacex&logoColor=white)
+
+<p align="center">
+  <img src="https://www.roketsan.com.tr/uploads/tayfun.jpg" alt="TAYFUN" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
+</p>
+](../../README.md)
 [![Üretici](https://img.shields.io/badge/%C3%9CRET%C4%B0C%C4%B0-ROKETSAN-orange?style=for-the-badge&logo=target&logoColor=white)](../README.md)
 [![TRL](https://img.shields.io/badge/TRL-9%20(Seri%20%C3%9Cretim%20%2F%20Envanterde)-00E676?style=for-the-badge&logo=speedtest&logoColor=black)](../../../docs/TRL_GUIDE.md)
 [![Durum](https://img.shields.io/badge/DURUM-Operasyonel%20%2F%20Muharebe%20Haz%C4%B1r-ff007f?style=for-the-badge&logo=shield&logoColor=white)](#)
 
-<img src="../../../_ASSETS/aerospace_icon.png" width="120" alt="Aerospace Dominion">
+
 
 </div>
 

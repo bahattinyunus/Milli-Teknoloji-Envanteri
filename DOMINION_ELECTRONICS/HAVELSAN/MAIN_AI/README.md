@@ -1,12 +1,17 @@
 # 🧠 Proje: HAVELSAN MAIN AI (Milli Kurumsal Büyük Dil Modeli)
 
-[![TRL](https://img.shields.io/badge/TRL-7%2F8_Pilot_Hizmette-yellowgreen?style=for-the-badge&logo=shield)](https://www.havelsan.com.tr)
+[![TRL](https://img.shields.io/badge/TRL-7%2F8_Pilot_Hizmette-yellowgreen?style=for-the-badge&logo=shield)
+
+<p align="center">
+  <img src="https://www.havelsan.com.tr/uploads/main-ai.jpg" alt="MAIN AI" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
+</p>
+](https://www.havelsan.com.tr)
 [![Dominion](https://img.shields.io/badge/Dominion-ELECTRONICS-blue?style=for-the-badge&logo=cpu)](../../README.md)
 [![Üretici](https://img.shields.io/badge/Üretici-HAVELSAN-red?style=for-the-badge)](../README.md)
 [![Durum](https://img.shields.io/badge/Durum-Kamu_ve_Savunma_Kullanımında-brightgreen?style=for-the-badge)](#)
 
 <div align="center">
-  <img src="../../../_ASSETS/defense_icon.png" alt="Dominion Electronics Varlık İkonu" width="120" />
+  
 </div>
 
 > **Geliştirici:** HAVELSAN  

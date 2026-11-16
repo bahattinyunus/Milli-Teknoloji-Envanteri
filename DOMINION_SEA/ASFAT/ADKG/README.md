@@ -2,9 +2,14 @@
 
 <div align="center">
 
-<img src="../../../_ASSETS/maritime_icon.png" width="90" alt="Maritime Dominion Icon" />
 
-[![TRL](https://img.shields.io/badge/TRL-8-00b0ff?style=for-the-badge&logo=shield&logoColor=white)](../../../docs/TRL_GUIDE.md)
+
+[![TRL](https://img.shields.io/badge/TRL-8-00b0ff?style=for-the-badge&logo=shield&logoColor=white)
+
+<p align="center">
+  <img src="https://www.asfat.com.tr/uploads/adkg.jpg" alt="ADKG" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
+</p>
+](../../../docs/TRL_GUIDE.md)
 [![Dominion](https://img.shields.io/badge/DOMINION-SEA-blue?style=for-the-badge&logo=anchor&logoColor=white)](../../README.md)
 [![Üretici](https://img.shields.io/badge/MANUFACTURER-ASFAT-red?style=for-the-badge)](../README.md)
 [![Durum](https://img.shields.io/badge/STATUS-DEN%C4%B0Z%20KABUL%20TESTLER%C4%B0%20%2F%20DONATIM-ff9100?style=for-the-badge)]()

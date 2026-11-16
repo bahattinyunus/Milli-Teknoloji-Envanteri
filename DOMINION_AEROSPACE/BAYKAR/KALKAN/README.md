@@ -6,11 +6,9 @@
 [![Durum](https://img.shields.io/badge/DURUM-Envanter_Dağıtım_Fazında-brightgreen?style=for-the-badge&logo=shield&logoColor=white)](#)
 
 <p align="center">
-  <img src="https://cdn.baykartech.com/media/images/contents/Bayraktar_D%C4%B0HA.png" alt="Bayraktar KALKAN DİHA" width="700" />
+  <img src="https://cdn.baykartech.com/media/images/contents/Bayraktar_D%C4%B0HA.png" alt="KALKAN" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
 </p>
-<p align="center">
-  <img src="../../../_ASSETS/aerospace_icon.png" alt="AEROSPACE DOMINION" width="100" />
-</p>
+
 
 ## 🛡️ Stratejik Tanım & Doktriner Öncelik
 **Bayraktar KALKAN DİHA**, sarp ve engebeli arazi şartlarında, dağ karakollarında, fırkateyn, korvet ve amfibi çıkarma gemilerinde pist gereksinimi olmaksızın dikey kalkış ve iniş (VTOL) yapabilen taktik sınıf keşif, gözetleme ve hedef tespit insansız hava aracıdır.

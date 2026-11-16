@@ -2,9 +2,11 @@
 
 [![TRL](https://img.shields.io/badge/TRL-9_Muharebede_Kanıtlanmış-success?style=for-the-badge&logo=shield)](README.md) [![Dominion](https://img.shields.io/badge/DOMINION-AEROSPACE-0052cc?style=for-the-badge&logo=spacex&logoColor=white)](../../README.md) [![Üretici](https://img.shields.io/badge/ÜRETİCİ-TUSAŞ_%26_ASELSAN-red?style=for-the-badge)](../README.md) [![Durum](https://img.shields.io/badge/DURUM-Aktif_Hizmette_ve_İhraç_Edildi-green?style=for-the-badge)](README.md)
 
-<div align="center">
-  <img src="../../../_ASSETS/aerospace_icon.png" alt="DOMINION AEROSPACE" width="100"/>
-</div>
+<p align="center">
+  <img src="https://www.tusas.com/uploads/2021/05/t129-atak.jpg" alt="T129 ATAK" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
+</p>
+
+
 
 ![TUSAŞ T129 ATAK Taarruz Helikopteri](https://www.tusas.com/uploads/t129-atak.jpg)
 

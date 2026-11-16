@@ -8,8 +8,11 @@
 </p>
 
 <p align="center">
-  <img src="../../../_ASSETS/defense_icon.png" alt="Dominion Electronics" width="120">
+  <img src="https://www.aselsan.com.tr/uploads/gurz.jpg" alt="GÜRZ" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
 </p>
+
+
+
 
 ## 🛡️ Stratejik Tanım & Doktriner Öncelik
 **ASELSAN GÜRZ**, tek bir 8x8 taktik tekerlekli zırhlı araç üzerinde; 35mm akıllı parçacıklı mühimmat atan namlulu topu, 4 adet çok alçak irtifa hava savunma füzesini (VSHORAD - SUNGUR türevi), 4 adet alçak irtifa hava savunma füzesini (SHORAD - BOZDOĞAN-DH türevi), 4 panelli 360° GaN AESA arama radarını ve atış kontrol radarını birleştiren Türkiye'nin en gelişmiş mobil hibrit hava savunma sistemidir. Rus Pantsir ve Tunguska konseptlerini aşan teknolojik üstünlüğe sahiptir. Hareket halindeki mekanize zırhlı birliklerin, konvoyların ve stratejik üslerin; seyir füzelerine, kamikaze İHA'lara, savaş uçaklarına ve helikopterlere karşı çok katmanlı, otonom hava kalkanıdır.

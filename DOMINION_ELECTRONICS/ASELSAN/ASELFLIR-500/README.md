@@ -8,8 +8,11 @@
 </p>
 
 <p align="center">
-  <img src="../../../_ASSETS/defense_icon.png" alt="Dominion Electronics" width="120">
+  <img src="https://www.aselsan.com.tr/uploads/aselflir-500.jpg" alt="ASELFLIR-500" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
 </p>
+
+
+
 
 ## 🛡️ Stratejik Tanım & Doktriner Öncelik
 **ASELFLIR-500**, insansız hava araçları (İHA/SİHA), helikopterler, sabit kanatlı taarruz uçakları ve deniz platformları için ASELSAN tarafından geliştirilen yeni nesil yüksek çözünürlüklü elektro-optik keşif, gözetleme ve hedefleme sistemidir. Yabancı menşeili (özellikle Kanada Wescam MX-15D) optik ambargolarını kalıcı olarak tarihe gömen sistem; 52 kg altındaki kompakt hafif gövdesine entegre edilen HD MWIR termal kamera, HD gündüz kamerası, SWIR kısa dalga kızılötesi kamera ve hassas lazer hedefleme modülleriyle dünya lideri performans sunar. Bayraktar TB2, TB3, AKINCI, ANKA, AKSUNGUR ve T929 gibi hava araçlarımızın ana muharebe sensörüdür.

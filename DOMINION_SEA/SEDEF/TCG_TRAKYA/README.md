@@ -1,12 +1,17 @@
 # 🚢 Proje: TCG TRAKYA (Milli Uçak Gemisi / Fleet Aircraft Carrier)
 
-[![TRL](https://img.shields.io/badge/TRL-1%20(Kavramsal%20Tasarım%20%2F%20Fizibilite)-6c757d?style=for-the-badge&logo=shield)](../../../README.md)
+[![TRL](https://img.shields.io/badge/TRL-1%20(Kavramsal%20Tasarım%20%2F%20Fizibilite)
+
+<p align="center">
+  <img src="https://www.sedefshipyard.com/uploads/tcg-trakya.jpg" alt="TCG TRAKYA" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
+</p>
+-6c757d?style=for-the-badge&logo=shield)](../../../README.md)
 [![Dominion](https://img.shields.io/badge/Dominion-SEA%20(Geleceğin%20Filosu)-0077be?style=for-the-badge&logo=target)](../../README.md)
 [![Manufacturer](https://img.shields.io/badge/Üretici-Dz.K.K.%20DPO%20%2F%20SEDEF-e63946?style=for-the-badge)](../README.md)
 [![Status](https://img.shields.io/badge/Durum-Konsept%20Tasarım%20Safhası-grey?style=for-the-badge)]()
 
 <div align="center">
-  <img src="../../../_ASSETS/maritime_icon.png" alt="Dominion Sea" width="120" />
+  
 </div>
 
 ![TCG TRAKYA](https://cdnuploads.aa.com.tr/uploads/Contents/2021/10/21/thumbs_b_c_0989f66f91726a420b991a0c4973347c.jpg)

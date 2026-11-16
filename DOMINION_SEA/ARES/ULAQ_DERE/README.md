@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="../../../_ASSETS/maritime_icon.png" width="90" alt="Maritime Dominion Icon" />
+
 
 [![TRL](https://img.shields.io/badge/TRL-9-00E676?style=for-the-badge&logo=shield&logoColor=white)](../../../docs/TRL_GUIDE.md)
 [![Dominion](https://img.shields.io/badge/DOMINION-SEA-blue?style=for-the-badge&logo=anchor&logoColor=white)](../../README.md)
@@ -12,7 +12,7 @@
 </div>
 
 <p align="center">
-  <img src="https://ares.com.tr/images/ulaq-sida.jpg" alt="ARES & METEKSAN ULAQ SİDA" width="85%" style="border-radius: 8px;" />
+  <img src="https://www.ares.com.tr/uploads/ulaq-kmp.jpg" alt="ULAQ DERE" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
 </p>
 
 ---

@@ -1,6 +1,11 @@
 # 🦈 Proje: MKE PİRANA (Kamikaze İnsansız Deniz Aracı - K-İDA)
 
-[![TRL](https://img.shields.io/badge/TRL-8_Kalifikasyon-orange.svg?style=for-the-badge&logo=shield)](https://en.wikipedia.org/wiki/Technology_readiness_level)
+[![TRL](https://img.shields.io/badge/TRL-8_Kalifikasyon-orange.svg?style=for-the-badge&logo=shield)
+
+<p align="center">
+  <img src="https://www.mke.gov.tr/uploads/pirana.jpg" alt="PIRANA" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
+</p>
+](https://en.wikipedia.org/wiki/Technology_readiness_level)
 [![Dominion](https://img.shields.io/badge/DOMINION-LAND-darkgreen.svg?style=for-the-badge&logo=target)](../../README.md)
 [![Manufacturer](https://img.shields.io/badge/MANUFACTURER-MKE-orange.svg?style=for-the-badge)](../README.md)
 [![Status](https://img.shields.io/badge/STATUS-SERİ__ÜRETİME__HAZIR-brightgreen.svg?style=for-the-badge)](../README.md)

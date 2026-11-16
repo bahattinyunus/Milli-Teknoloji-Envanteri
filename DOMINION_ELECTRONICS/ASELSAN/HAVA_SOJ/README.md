@@ -8,8 +8,11 @@
 </p>
 
 <p align="center">
-  <img src="../../../_ASSETS/defense_icon.png" alt="Dominion Electronics" width="120">
+  <img src="https://www.aselsan.com.tr/uploads/hava-soj.jpg" alt="HAVA SOJ" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
 </p>
+
+
+
 
 ## 🛡️ Stratejik Tanım & Doktriner Öncelik
 **HAVA SOJ** (Hava Konuşlu Uzaktan Elektronik Destek ve Elektronik Taarruz Sistemi), düşmanın hava savunma radarlarını, erken ihbar sistemlerini, füze güdüm kanallarını ve taktik haberleşme ağlarını yüzlerce kilometre öteden (Stand-Off Jammer mesafesi) tespit eden, dinleyen ve yüksek güçlü AESA karıştırma ışınlarıyla körelterek felç eden Türkiye'nin en stratejik hava harp platformudur. ASELSAN'ın geliştirdiği son teknoloji elektronik harp görev yükü, TUSAŞ tarafından modifiye edilen 4 adet Bombardier Global 6000 uzun menzilli iş jeti gövdesine entegre edilmiştir. Taarruz paketindeki dost savaş uçaklarına (KAAN, F-16, KIZILELMA) düşman hava savunma şemsiyesini delerek güvenli taarruz koridorları açar.

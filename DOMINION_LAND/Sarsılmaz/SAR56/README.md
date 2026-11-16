@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="../../../_ASSETS/defense_icon.png" width="90" alt="Land Dominion Icon" />
+
 
 [![TRL](https://img.shields.io/badge/TRL-9-00E676?style=for-the-badge&logo=shield&logoColor=white)](../../../docs/TRL_GUIDE.md)
 [![Dominion](https://img.shields.io/badge/DOMINION-LAND-green?style=for-the-badge&logo=target&logoColor=white)](../../README.md)
@@ -12,7 +12,7 @@
 </div>
 
 <p align="center">
-  <img src="https://www.sarsilmaz.com/public/images/urunler/sar56.jpg" alt="Sarsılmaz SAR56 Piyade Tüfeği" width="85%" style="border-radius: 8px;" />
+  <img src="https://www.sarsilmaz.com/uploads/sar-56.jpg" alt="SAR56" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
 </p>
 
 ---

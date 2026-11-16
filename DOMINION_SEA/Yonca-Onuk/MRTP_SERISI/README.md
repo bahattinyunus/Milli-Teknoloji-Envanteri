@@ -1,12 +1,17 @@
 # 🚤 Proje: MRTP KAAN Sınıfı Hızlı Müdahale ve Hücumbot Ailesi
 
-[![TRL](https://img.shields.io/badge/TRL-9%20(Muharebede%20Kanıtlanmış)-00e676?style=for-the-badge&logo=shield)](../../../README.md)
+[![TRL](https://img.shields.io/badge/TRL-9%20(Muharebede%20Kanıtlanmış)
+
+<p align="center">
+  <img src="https://www.yonca-onuk.com/uploads/mrtp-serisi.jpg" alt="MRTP SERISI" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
+</p>
+-00e676?style=for-the-badge&logo=shield)](../../../README.md)
 [![Dominion](https://img.shields.io/badge/Dominion-SEA%20(Hızlı%20Hücumbot)-0077be?style=for-the-badge&logo=target)](../../README.md)
 [![Manufacturer](https://img.shields.io/badge/Üretici-Yonca--Onuk%20Tersanesi-e63946?style=for-the-badge)](../README.md)
 [![Status](https://img.shields.io/badge/Durum-Envanterde%20%2F%20Küresel%20İhracat-success?style=for-the-badge)]()
 
 <div align="center">
-  <img src="../../../_ASSETS/maritime_icon.png" alt="Dominion Sea" width="120" />
+  
 </div>
 
 ![MRTP](https://www.yonca-onuk.com/images/projects/mrtp49.jpg)

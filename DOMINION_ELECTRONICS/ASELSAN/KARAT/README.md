@@ -8,8 +8,11 @@
 </p>
 
 <p align="center">
-  <img src="../../../_ASSETS/defense_icon.png" alt="Dominion Electronics" width="120">
+  <img src="https://www.aselsan.com.tr/uploads/karat.jpg" alt="KARAT" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
 </p>
+
+
+
 
 ## 🛡️ Stratejik Tanım & Doktriner Öncelik
 **ASELSAN KARAT**, 5. Nesil Milli Muharip Uçak KAAN ve F-16 Blok-30 ÖZGÜR platformları için milli olarak geliştirilen yüksek performanslı Kızılötesi Arama ve Takip Sistemidir (IRST - Infra-Red Search and Track). Modern hava muharebesinde hayalet (stealth) savaş uçaklarının düşük radar kesit alanı (RCS) avantajını ortadan kaldıran KARAT; hiçbir elektromanyetik ışıma yapmaksızın (tamamen pasif modda) düşman jetlerinin motor sıcaklığı ve sürtünmeden kaynaklanan gövde ısısını onlarca kilometre öteden tespit ve takip eder. Uçağın radar suskunluğu (EMCON) durumunda bile hedefe görünmeden yaklaşmasını ve pasif kilitlenmeyle hava-hava füzelerini (GÖKDOĞAN, BOZDOĞAN) yönlendirmesini sağlar.

@@ -2,9 +2,14 @@
 
 <div align="center">
 
-<img src="../../../_ASSETS/maritime_icon.png" width="90" alt="Maritime Dominion Icon" />
 
-[![TRL](https://img.shields.io/badge/TRL-9-00E676?style=for-the-badge&logo=shield&logoColor=white)](../../../docs/TRL_GUIDE.md)
+
+[![TRL](https://img.shields.io/badge/TRL-9-00E676?style=for-the-badge&logo=shield&logoColor=white)
+
+<p align="center">
+  <img src="https://www.ares.com.tr/uploads/ares-150.jpg" alt="ARES 150" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
+</p>
+](../../../docs/TRL_GUIDE.md)
 [![Dominion](https://img.shields.io/badge/DOMINION-SEA-blue?style=for-the-badge&logo=anchor&logoColor=white)](../../README.md)
 [![Üretici](https://img.shields.io/badge/MANUFACTURER-ARES%20TERS%C4%B0NES%C4%B0-red?style=for-the-badge)](../README.md)
 [![Durum](https://img.shields.io/badge/STATUS-SER%C4%B0%20%C3%9CRET%C4%B0M%20%2F%20OPERASYONEL%20G%C3%96REVDE-success?style=for-the-badge)]()

@@ -1,13 +1,16 @@
 # 🛳️ Proje: ROKETSAN BARBAROS Kıyı Savunma Sistemi
 
-[![TRL](https://img.shields.io/badge/TRL-8_Sistem_Kalifiye-yellowgreen?style=for-the-badge&logo=target&logoColor=white)](../../../docs/TRL_GUIDE.md)
+[![TRL](https://img.shields.io/badge/TRL-8_Sistem_Kalifiye-yellowgreen?style=for-the-badge&logo=target&logoColor=white)
+
+<p align="center">
+  <img src="https://www.roketsan.com.tr/uploads/barbaros.jpg" alt="BARBAROS" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
+</p>
+](../../../docs/TRL_GUIDE.md)
 [![Dominion](https://img.shields.io/badge/DOMINION-AEROSPACE-00b4d8?style=for-the-badge&logo=spacex&logoColor=white)](../../README.md)
 [![Üretici](https://img.shields.io/badge/ÜRETİCİ-ROKETSAN-red?style=for-the-badge)](../README.md)
 [![Durum](https://img.shields.io/badge/DURUM-Batarya_Kabul_ve_Entegrasyon-brightgreen?style=for-the-badge&logo=shield&logoColor=white)](#)
 
-<p align="center">
-  <img src="../../../_ASSETS/aerospace_icon.png" alt="AEROSPACE DOMINION" width="120" />
-</p>
+
 
 ## 🛡️ Stratejik Tanım & Doktriner Öncelik
 **ROKETSAN BARBAROS Kıyı Savunma Sistemi**, Türkiye'nin Mavi Vatan kıyı şeritlerini, stratejik adalarını, boğazlarını ve deniz yetki alanlarını düşman su üstü muharip gemilerine, korvetlerine, fırkateynlerine ve amfibi çıkarma filolarına karşı korumak üzere geliştirilmiş yüksek hareket kabiliyetine sahip taktik mobil batarya sistemidir.

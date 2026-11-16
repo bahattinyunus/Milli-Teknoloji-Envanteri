@@ -8,8 +8,11 @@
 </p>
 
 <p align="center">
-  <img src="../../../_ASSETS/defense_icon.png" alt="Dominion Electronics" width="120">
+  <img src="https://www.aselsan.com.tr/uploads/goktan.jpg" alt="GÖKTAN" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
 </p>
+
+
+
 
 ## 🛡️ Stratejik Tanım & Doktriner Öncelik
 **ASELSAN GÖKTAN**, taarruz, keşif ve genel maksat helikopterleri başta olmak üzere taktik hava platformları için özel olarak optimize edilmiş hafif, kompakt ve yüksek hassasiyetli elektro-optik keşif, gözetleme ve hedefleme sistemidir. T129 ATAK, T929 ATAK-II ve T625 GÖKBEY helikopterlerinin burun ve burun altı konfigürasyonlarında görev icra etmek üzere tasarlanmıştır. Yüksek titreşimli döner kanat ortamlarında mikro-radyan seviyesinde stabilizasyon sağlayan GÖKTAN; gece/gündüz termal görüntüleme ve NATO standartlarında lazer hedef işaretleme yetenekleriyle CİRİT, L-UMTAS ve UMTAS güdümlü mühimmatlarının nokta vuruş başarısını garanti eder.

@@ -6,11 +6,9 @@
 [![Durum](https://img.shields.io/badge/DURUM-Operasyonel_/_Combat_Proven-brightgreen?style=for-the-badge&logo=shield&logoColor=white)](#)
 
 <p align="center">
-  <img src="https://www.roketsan.com.tr/uploads/bora.jpg" alt="ROKETSAN BORA SRBM" width="750" />
+  <img src="https://www.roketsan.com.tr/uploads/bora.jpg" alt="BORA" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
 </p>
-<p align="center">
-  <img src="../../../_ASSETS/aerospace_icon.png" alt="AEROSPACE DOMINION" width="100" />
-</p>
+
 
 ## 🛡️ Stratejik Tanım & Doktriner Öncelik
 **ROKETSAN BORA**, Türk Kara Kuvvetleri'nin derin harekât sahasında yüksek öncelikli düşman stratejik hedeflerini, komuta kontrol karargahlarını, hava savunma radar tesislerini, mühimmat depolarını ve toplanma alanlarını her türlü hava koşulunda nokta atışıyla imha etmek üzere geliştirilmiş kısa menzilli taktik balistik füze (SRBM - Short-Range Ballistic Missile) sistemidir.

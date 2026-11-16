@@ -1,12 +1,17 @@
 # 🦈 Proje: STM500 (Küçük Tonajlı Sığ Su Taarruz Denizaltısı)
 
-[![TRL](https://img.shields.io/badge/TRL-6%20(Model%20%2F%20Prototip%20Doğrulama)-f77f00?style=for-the-badge&logo=shield)](../../../README.md)
+[![TRL](https://img.shields.io/badge/TRL-6%20(Model%20%2F%20Prototip%20Doğrulama)
+
+<p align="center">
+  <img src="https://www.stm.com.tr/uploads/stm-500.jpg" alt="STM500" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
+</p>
+-f77f00?style=for-the-badge&logo=shield)](../../../README.md)
 [![Dominion](https://img.shields.io/badge/Dominion-SEA%20(Denizaltı)-0077be?style=for-the-badge&logo=target)](../../README.md)
 [![Manufacturer](https://img.shields.io/badge/Üretici-STM-e63946?style=for-the-badge)](../README.md)
 [![Status](https://img.shields.io/badge/Durum-Mukavim%20Tekne%20Test%20Üretimi-orange?style=for-the-badge)]()
 
 <div align="center">
-  <img src="../../../_ASSETS/maritime_icon.png" alt="Dominion Sea" width="120" />
+  
 </div>
 
 ![STM500](https://www.stm.com.tr/uploads/docs/stm500-web.jpg)

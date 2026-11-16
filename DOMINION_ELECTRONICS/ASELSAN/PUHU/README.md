@@ -8,8 +8,11 @@
 </p>
 
 <p align="center">
-  <img src="../../../_ASSETS/defense_icon.png" alt="Dominion Electronics" width="120">
+  <img src="https://www.aselsan.com.tr/uploads/puhu.jpg" alt="PUHU" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
 </p>
+
+
+
 
 ## 🛡️ Stratejik Tanım & Doktriner Öncelik
 **ASELSAN PUHU**, taktik sahada en ön hatta görev yapan özel kuvvetler, komando timleri, hudut birlikleri ve istihbarat unsurları için geliştirilmiş, tek bir askerin sırt çantasında taşıyabildiği (Manpack) ya da hafif taktik araç üzerine dakikalar içinde monte edilebilen Taşınabilir V/UHF Taktik Dinleme ve Yön Kestirim Sistemidir (COMINT / Direction Finding - DF). Düşmanın telsiz konuşmalarını, frekans atlamalı yayınlarını ve el telsizlerini geniş bantta anında yakalayan PUHU; interferometrik yön bulma algoritmalarıyla konuşmanın yapıldığı coğrafi koordinatı harita üzerinde milimetrik hassasiyetle çıkararak ateş destek vasıtalarına (topçu bataryaları, SİHA'lar) anlık hedef koordinatı aktarır.

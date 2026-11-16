@@ -2,9 +2,11 @@
 
 [![TRL](https://img.shields.io/badge/TRL-8_Uçuş_Testi_ve_Kalifikasyon-blue?style=for-the-badge&logo=shield)](README.md) [![Dominion](https://img.shields.io/badge/DOMINION-AEROSPACE-0052cc?style=for-the-badge&logo=spacex&logoColor=white)](../../README.md) [![Üretici](https://img.shields.io/badge/ÜRETİCİ-TUSAŞ-red?style=for-the-badge)](../README.md) [![Durum](https://img.shields.io/badge/DURUM-İlk_Teslimatlar_Yapıldı-green?style=for-the-badge)](README.md)
 
-<div align="center">
-  <img src="../../../_ASSETS/aerospace_icon.png" alt="DOMINION AEROSPACE" width="100"/>
-</div>
+<p align="center">
+  <img src="https://www.tusas.com/uploads/2021/05/gokbey-ucus.jpg" alt="GÖKBEY" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
+</p>
+
+
 
 ![T625 GÖKBEY Çok Maksatlı Genel Helikopter](https://www.tusas.com/uploads/2021/04/gokbey-1.jpg)
 

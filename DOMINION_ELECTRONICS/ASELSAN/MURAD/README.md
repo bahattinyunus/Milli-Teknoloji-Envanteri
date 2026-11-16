@@ -8,8 +8,11 @@
 </p>
 
 <p align="center">
-  <img src="../../../_ASSETS/defense_icon.png" alt="Dominion Electronics" width="120">
+  <img src="https://www.aselsan.com.tr/uploads/murad-aesa.jpg" alt="MURAD" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
 </p>
+
+
+
 
 ## 🛡️ Stratejik Tanım & Doktriner Öncelik
 **ASELSAN MURAD**, Türkiye'nin muharip uçakları ve ağır taarruz insansız hava araçları için geliştirdiği, dünyanın en ileri radar teknolojisi olan Galyum Nitrür (GaN) tabanlı Çok Fonksiyonlu Aktif Faz Dizinli (AESA) Burun Yangın Kontrol Radarıdır. F-16 Blok-30/40/50 ÖZGÜR modernizasyon projesi, Bayraktar AKINCI TİHA, KIZILELMA MİUS, HÜRJET ve Milli Muharip Uçak KAAN'ın ana aviyonik beyni ve gözüdür. Mekanik antenli klasik radarların kısıtlarını ortadan kaldıran MURAD; aynı anda hem hava-hava arama/takip, hem sentetik açıklıklı radar (SAR) yer haritalama, hem de odaklanmış elektronik taarruz yapabilen küresel çapta kritik bir güç çarpanıdır.

@@ -8,8 +8,11 @@
 </p>
 
 <p align="center">
-  <img src="../../../_ASSETS/defense_icon.png" alt="Dominion Electronics" width="120">
+  <img src="https://www.aselsan.com.tr/uploads/albatros-s.jpg" alt="ALBATROS-S" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
 </p>
+
+
+
 
 ## 🛡️ Stratejik Tanım & Doktriner Öncelik
 **ALBATROS-S**, Türk Deniz Kuvvetleri'nin "Mavi Vatan" doktrininde asimetrik deniz harbinin kurallarını değiştiren sürü zekalı otonom insansız deniz aracıdır (S-İDA / K-İDA). Merkezi bir operatöre bağımlı kalmaksızın, kendi aralarında kurdukları kablosuz mesh ağ üzerinden dinamik görev dağılımı yapan ALBATROS-S botları; düşman su üstü filolarını çevreleme, sahil ve üs savunması ile intihar (kamikaze) dalışıyla ana muharip gemileri batırma kabiliyetine sahiptir. Dağıtık liderlik mimarisi sayesinde lider bot saf dışı kalsa dahi sürü otonom olarak yeni liderini seçerek taarruzu kesintisiz icra eder.

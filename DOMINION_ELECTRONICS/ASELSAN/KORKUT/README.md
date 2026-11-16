@@ -8,8 +8,11 @@
 </p>
 
 <p align="center">
-  <img src="../../../_ASSETS/defense_icon.png" alt="Dominion Electronics" width="120">
+  <img src="https://www.aselsan.com.tr/uploads/korkut.jpg" alt="KORKUT" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
 </p>
+
+
+
 
 ## 🛡️ Stratejik Tanım & Doktriner Öncelik
 **ASELSAN & FNSS KORKUT**, hareket halindeki mekanize ve zırhlı kara birliklerinin hava savunmasını icra etmek üzere geliştirilmiş, amfibi paletli zırhlı şasiye entegre Kundağı Motorlu Namlulu Hava Savunma Silah Sistemidir. Rus Tunguska ve Alman Gepard sistemlerinin çok ötesinde yeni nesil sayısal mimariye sahip olan KORKUT; 1 adet Komuta Kontrol Aracı (KKA) ve 3 adet Silah Sistem Aracından (SSA) oluşan takım yapısıyla çalışır. ASELSAN üretimi 35mm ATOM Akıllı Parçacıklı Mühimmatı sayesinde; havadan karaya füzeleri, alçaktan uçan seyir füzelerini, insansız hava araçlarını ve savaş uçaklarını havada oluşturduğu çelik şarapnel bulutuyla kesin olarak imha eder.

@@ -8,8 +8,11 @@
 </p>
 
 <p align="center">
-  <img src="../../../_ASSETS/defense_icon.png" alt="Dominion Electronics" width="120">
+  <img src="https://www.aselsan.com.tr/uploads/eralp.jpg" alt="ERALP" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
 </p>
+
+
+
 
 ## 🛡️ Stratejik Tanım & Doktriner Öncelik
 **ASELSAN ERALP** (Taşınabilir Erken İhbar Radar Sistemi - TEİRS), Türkiye'nin hava sahasını yüzlerce kilometre derinlikten başlayarak koruyan, balistik füzeler, hayalet (stealth) uçaklar, seyir füzeleri ve anti-radyasyon mühimmatlarına karşı geliştirilmiş stratejik AESA erken ihbar radarıdır. Galyum Nitrür (GaN) teknolojisi ve sayısal hüzme oluşturma mimarisiyle donatılan ERALP; 450+ kilometre menzilden itibaren hava hedeflerini 3 boyutlu tespit eder. SİPER Uzun Menzilli Bölge Hava ve Füze Savunma Sistemi'nin ana arama radarı olarak "Çelik Kubbe" doktrininin gözü ve erken uyarı kalkanıdır.

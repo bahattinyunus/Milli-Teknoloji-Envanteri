@@ -6,11 +6,9 @@
 [![Durum](https://img.shields.io/badge/DURUM-Operasyonel_/_Combat_Proven-brightgreen?style=for-the-badge&logo=shield&logoColor=white)](#)
 
 <p align="center">
-  <img src="https://www.roketsan.com.tr/uploads/docs/cirit-web.jpg" alt="ROKETSAN CİRİT" width="750" />
+  <img src="https://www.roketsan.com.tr/uploads/cirit.jpg" alt="CİRİT" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
 </p>
-<p align="center">
-  <img src="../../../_ASSETS/aerospace_icon.png" alt="AEROSPACE DOMINION" width="100" />
-</p>
+
 
 ## 🛡️ Stratejik Tanım & Doktriner Öncelik
 **ROKETSAN CİRİT**, dünya havacılık ve mühimmat pazarında 2.75 inç (70 mm) kalibrede geliştirilmiş ilk lazer güdümlü helikopter füzesi olma unvanına sahip, küresel savunma çevrelerinde bir dönüm noktası kabul edilen hafif taarruz mühimmatıdır.

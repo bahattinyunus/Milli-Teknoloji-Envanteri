@@ -2,12 +2,17 @@
 
 <div align="center">
 
-[![Dominion](https://img.shields.io/badge/DOMINION-AEROSPACE-00f2fe?style=for-the-badge&logo=spacex&logoColor=white)](../../README.md)
+[![Dominion](https://img.shields.io/badge/DOMINION-AEROSPACE-00f2fe?style=for-the-badge&logo=spacex&logoColor=white)
+
+<p align="center">
+  <img src="https://www.tei.com.tr/uploads/tf10000.jpg" alt="TF10000" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
+</p>
+](../../README.md)
 [![Üretici](https://img.shields.io/badge/%C3%9CRET%C4%B0C%C4%B0-TEI-orange?style=for-the-badge&logo=target&logoColor=white)](../README.md)
 [![TRL](https://img.shields.io/badge/TRL-6%20(Prototip%20Do%C4%9Frulama%20ve%20Test)-yellow?style=for-the-badge&logo=speedtest&logoColor=black)](../../../docs/TRL_GUIDE.md)
 [![Durum](https://img.shields.io/badge/DURUM-Art%20Yak%C4%B1c%C4%B1%20Entegrasyonu%20%2F%20Geli%C5%9Ftirme-blue?style=for-the-badge&logo=shield&logoColor=white)](#)
 
-<img src="../../../_ASSETS/aerospace_icon.png" width="120" alt="Aerospace Dominion">
+
 
 </div>
 

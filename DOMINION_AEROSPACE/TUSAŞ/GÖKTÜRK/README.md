@@ -2,9 +2,11 @@
 
 [![TRL](https://img.shields.io/badge/TRL-9_Sistem_Kanıtlandı_ve_Hizmette-success?style=for-the-badge&logo=shield)](README.md) [![Dominion](https://img.shields.io/badge/DOMINION-AEROSPACE-0052cc?style=for-the-badge&logo=spacex&logoColor=white)](../../README.md) [![Üretici](https://img.shields.io/badge/ÜRETİCİ-TUSAŞ_%26_TÜBİTAK_UZAY-red?style=for-the-badge)](../README.md) [![Durum](https://img.shields.io/badge/DURUM-Yörüngede_Aktif_Operasyonel-green?style=for-the-badge)](README.md)
 
-<div align="center">
-  <img src="../../../_ASSETS/aerospace_icon.png" alt="DOMINION AEROSPACE" width="100"/>
-</div>
+<p align="center">
+  <img src="https://www.tusas.com/uploads/2021/05/gokturk-uydu.jpg" alt="GÖKTÜRK" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
+</p>
+
+
 
 ![GÖKTÜRK-2 Yörüngede Keşif ve Gözlem Uydusu](https://www.tusas.com/uploads/2021/04/gokturk2.jpg)
 

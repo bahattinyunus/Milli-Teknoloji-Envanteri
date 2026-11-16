@@ -1,12 +1,17 @@
 # 🤖 Proje: Altınay Savunma KOBOT (Taktik Hafif Sınıf İnsansız Kara Aracı)
 
-[![TRL](https://img.shields.io/badge/TRL-9_Saha_Kanıtlanmış-success?style=for-the-badge&logo=shield)](https://www.altinay.com)
+[![TRL](https://img.shields.io/badge/TRL-9_Saha_Kanıtlanmış-success?style=for-the-badge&logo=shield)
+
+<p align="center">
+  <img src="https://altinaysavunma.com/uploads/kobot.jpg" alt="KOBOT" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
+</p>
+](https://www.altinay.com)
 [![Dominion](https://img.shields.io/badge/Dominion-ELECTRONICS-blue?style=for-the-badge&logo=cpu)](../../README.md)
 [![Üretici](https://img.shields.io/badge/Üretici-Altınay_Savunma-red?style=for-the-badge)](../README.md)
 [![Durum](https://img.shields.io/badge/Durum-Aktif_Kullanımda-brightgreen?style=for-the-badge)](#)
 
 <div align="center">
-  <img src="../../../_ASSETS/defense_icon.png" alt="Dominion Electronics Varlık İkonu" width="120" />
+  
 </div>
 
 > **Üretici:** Altınay Savunma Teknolojileri  

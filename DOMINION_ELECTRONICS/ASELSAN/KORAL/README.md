@@ -8,8 +8,11 @@
 </p>
 
 <p align="center">
-  <img src="../../../_ASSETS/defense_icon.png" alt="Dominion Electronics" width="120">
+  <img src="https://www.aselsan.com.tr/uploads/koral.jpg" alt="KORAL" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
 </p>
+
+
+
 
 ## 🛡️ Stratejik Tanım & Doktriner Öncelik
 **ASELSAN KORAL**, modern muharebe alanında düşman hava savunma radarlarını, erken ihbar istasyonlarını ve füze atış kontrol radarlarını geniş frekans bandında arayan, tespit eden, parametrelerini analiz eden ve Sayısal Radyo Frekans Hafıza (DRFM) yeteneğiyle körelten ya da aldatan Türkiye'nin milli mobil kara konuşlu Elektronik Harp Sistemidir. Fırat Kalkanı, Zeytin Dalı, Barış Pınarı, Bahar Kalkanı ve Dağlık Karabağ harekatlarında düşman radar şemsiyesini felç ederek Bayraktar TB2 SİHA'lar ve savaş uçaklarımızın tek bir kayıp dahi vermeden görev yapmasını sağlamış, dünya askeri literatürüne girmiş "Combat Proven" bir elektronik taarruz silahıdır.

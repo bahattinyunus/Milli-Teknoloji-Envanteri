@@ -6,11 +6,9 @@
 [![Durum](https://img.shields.io/badge/DURUM-Uçuş_ve_Vuruş_Testlerinde-blue?style=for-the-badge&logo=shield&logoColor=white)](#)
 
 <p align="center">
-  <img src="https://cdn.baykartech.com/media/images/contents/kemankes-2.jpg" alt="Bayraktar KEMANKEŞ 2" width="750" />
+  <img src="https://cdn.baykartech.com/media/images/contents/kemankes-2.jpg" alt="KEMANKEŞ 2" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
 </p>
-<p align="center">
-  <img src="../../../_ASSETS/aerospace_icon.png" alt="AEROSPACE DOMINION" width="100" />
-</p>
+
 
 ## 🛡️ Stratejik Tanım & Doktriner Öncelik
 **Bayraktar KEMANKEŞ 2**, Bayraktar TB2, TB3, AKINCI ve KIZILELMA gibi insansız muharip hava platformlarından salınabilen, jet motoru tahrikli, yapay zeka destekli optik güdüm mimarisine sahip yeni nesil bir mini akıllı seyir füzesidir.

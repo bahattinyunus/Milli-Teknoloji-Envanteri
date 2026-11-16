@@ -6,11 +6,9 @@
 [![Durum](https://img.shields.io/badge/DURUM-Denizaltı_Entegrasyon_Fazında-blue?style=for-the-badge&logo=shield&logoColor=white)](#)
 
 <p align="center">
-  <img src="https://www.roketsan.com.tr/uploads/akata.jpg" alt="ROKETSAN AKATA" width="750" />
+  <img src="https://www.roketsan.com.tr/uploads/akata.jpg" alt="AKATA" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
 </p>
-<p align="center">
-  <img src="../../../_ASSETS/aerospace_icon.png" alt="AEROSPACE DOMINION" width="100" />
-</p>
+
 
 ## 🛡️ Stratejik Tanım & Doktriner Öncelik
 **ROKETSAN AKATA**, Türk Deniz Kuvvetleri'nin modern denizaltı filosu için geliştirilen, denizaltıların dalış derinliğini ve gizliliğini koruyarak su yüzeyine çıkmaksızın 533 mm standart torpido kovanlarından fırlatılabilen kapsüllü bir gemisavar seyir füzesi sistemidir (Sub-surface to Surface).

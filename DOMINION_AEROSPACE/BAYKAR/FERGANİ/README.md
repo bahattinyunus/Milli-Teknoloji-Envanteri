@@ -1,13 +1,16 @@
 # 🛰️ Proje: FERGANİ Küresel Konumlama Sistemi (ULUĞ BEY Ağı)
 
-[![TRL](https://img.shields.io/badge/TRL-8_Sistem_Kalifiye-yellowgreen?style=for-the-badge&logo=target&logoColor=white)](../../../docs/TRL_GUIDE.md)
+[![TRL](https://img.shields.io/badge/TRL-8_Sistem_Kalifiye-yellowgreen?style=for-the-badge&logo=target&logoColor=white)
+
+<p align="center">
+  <img src="https://cdn.baykartech.com/media/images/contents/fergani-uzay.jpg" alt="FERGANİ" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
+</p>
+](../../../docs/TRL_GUIDE.md)
 [![Dominion](https://img.shields.io/badge/DOMINION-AEROSPACE-00b4d8?style=for-the-badge&logo=spacex&logoColor=white)](../../README.md)
 [![Üretici](https://img.shields.io/badge/ÜRETİCİ-BAYKAR-0052CC?style=for-the-badge)](../README.md)
 [![Durum](https://img.shields.io/badge/DURUM-Yörünge_Entegrasyon_Fazında-blue?style=for-the-badge&logo=shield&logoColor=white)](#)
 
-<p align="center">
-  <img src="../../../_ASSETS/aerospace_icon.png" alt="AEROSPACE DOMINION" width="120" />
-</p>
+
 
 ## 🛡️ Stratejik Tanım & Doktriner Öncelik
 **FERGANİ Küresel Konumlama Sistemi**, Baykar'ın uzay ve uydu teknolojileri ekosistemi bünyesinde hayata geçirilen, Türkiye'nin bağımsız Alçak Yörünge (LEO - Low Earth Orbit) takım uydu takımyıldızı ve milli PNT (Konum, Navigasyon ve Zamanlama) altyapısıdır. Modern harekât sahasında GPS, GLONASS veya Galileo gibi yabancı uydu takımlarına olan stratejik bağımlılığı sonlandırmayı amaçlamaktadır.

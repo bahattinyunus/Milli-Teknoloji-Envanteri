@@ -8,8 +8,11 @@
 </p>
 
 <p align="center">
-  <img src="../../../_ASSETS/defense_icon.png" alt="Dominion Electronics" width="120">
+  <img src="https://www.aselsan.com.tr/uploads/ejderha.jpg" alt="EJDERHA" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
 </p>
+
+
+
 
 ## 🛡️ Stratejik Tanım & Doktriner Öncelik
 **ASELSAN EJDERHA**, modern asimetrik harp sahasında yaygınlaşan sürü dron saldırılarına, mini/mikro insansız hava araçlarına ve el yapımı patlayıcı (EYP) elektronik düzeneklerine karşı geliştirilen Yüksek Güçlü Mikrodalga (High Power Microwave - HPM) Yönlendirilmiş Enerji Silahıdır (DEW). Klasik hava savunma mühimmatlarının maliyet ve şarjör kısıtlarını ortadan kaldıran EJDERHA; ışık hızında yönlendirilen yoğun elektromanyetik darbelerle hedefin elektronik devrelerini saniyeler içinde kalıcı olarak yakar (hard-kill) veya kilitler (soft-kill). Türkiye'nin "Çelik Kubbe" entegre hava savunma mimarisinde son katman yönlendirilmiş enerji kalkanı olarak kritik üs, tesis ve konvoyları korur.

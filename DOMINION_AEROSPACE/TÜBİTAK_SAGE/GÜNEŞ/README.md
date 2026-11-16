@@ -2,9 +2,11 @@
 
 [![TRL](https://img.shields.io/badge/TRL-9_Sertifiye_ve_Seri_Üretimde-success?style=for-the-badge&logo=shield)](README.md) [![Dominion](https://img.shields.io/badge/DOMINION-AEROSPACE-0052cc?style=for-the-badge&logo=spacex&logoColor=white)](../../README.md) [![Üretici](https://img.shields.io/badge/ÜRETİCİ-TÜBİTAK_SAGE-red?style=for-the-badge)](../README.md) [![Durum](https://img.shields.io/badge/DURUM-Envanterde_ve_Operasyonel-green?style=for-the-badge)](README.md)
 
-<div align="center">
-  <img src="../../../_ASSETS/aerospace_icon.png" alt="DOMINION AEROSPACE" width="100"/>
-</div>
+<p align="center">
+  <img src="https://www.sage.tubitak.gov.tr/uploads/gunes.jpg" alt="GÜNEŞ" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
+</p>
+
+
 
 ![TÜBİTAK SAGE GÜNEŞ Akıllı Güdüm Kiti ve Arayıcı Başlık Donanımı](https://www.sage.tubitak.gov.tr/sites/default/files/gunes.jpg)
 

@@ -1,13 +1,16 @@
 # 🎯 Proje: ASELSAN TOLUN Minyatür Bomba Sistemi
 
-[![TRL](https://img.shields.io/badge/TRL-9_Saha_Kanıtlanmış-00E676?style=for-the-badge&logo=target&logoColor=white)](../../../docs/TRL_GUIDE.md)
+[![TRL](https://img.shields.io/badge/TRL-9_Saha_Kanıtlanmış-00E676?style=for-the-badge&logo=target&logoColor=white)
+
+<p align="center">
+  <img src="https://www.aselsan.com.tr/uploads/tolun.jpg" alt="TOLUN" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
+</p>
+](../../../docs/TRL_GUIDE.md)
 [![Dominion](https://img.shields.io/badge/DOMINION-AEROSPACE-00b4d8?style=for-the-badge&logo=spacex&logoColor=white)](../../README.md)
 [![Üretici](https://img.shields.io/badge/ÜRETİCİ-ASELSAN-0052CC?style=for-the-badge)](../README.md)
 [![Durum](https://img.shields.io/badge/DURUM-Operasyonel_/_Seri_Üretim-brightgreen?style=for-the-badge&logo=shield&logoColor=white)](#)
 
-<p align="center">
-  <img src="../../../_ASSETS/aerospace_icon.png" alt="AEROSPACE DOMINION" width="120" />
-</p>
+
 
 ## 🛡️ Stratejik Tanım & Doktriner Öncelik
 **TOLUN**, Türk Hava Kuvvetleri ve müttefik hava platformları için hava-yer taarruz mimarisinde devrim yaratan, yüksek hassasiyetli GPS/INS ve IIR güdümlü yeni nesil bir minyatür mühimmat sistemidir. Düşman hava savunma şemsiyesinin menzili dışından (Stand-Off) 100+ km mesafeden fırlatılabilen TOLUN, katlanır kanat yapısı ve optimize edilmiş aerodinamik süzülme oranı ile hedefine yüksek süratle yönelir. 

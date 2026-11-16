@@ -1,13 +1,16 @@
 # ⚡ Proje: ROKETSAN ALKA Yönlendirilmiş Enerji Silah Sistemi (YESS)
 
-[![TRL](https://img.shields.io/badge/TRL-8_Sistem_Kalifiye-yellowgreen?style=for-the-badge&logo=target&logoColor=white)](../../../docs/TRL_GUIDE.md)
+[![TRL](https://img.shields.io/badge/TRL-8_Sistem_Kalifiye-yellowgreen?style=for-the-badge&logo=target&logoColor=white)
+
+<p align="center">
+  <img src="https://www.roketsan.com.tr/uploads/alka.jpg" alt="ALKA" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
+</p>
+](../../../docs/TRL_GUIDE.md)
 [![Dominion](https://img.shields.io/badge/DOMINION-AEROSPACE-00b4d8?style=for-the-badge&logo=spacex&logoColor=white)](../../README.md)
 [![Üretici](https://img.shields.io/badge/ÜRETİCİ-ROKETSAN-red?style=for-the-badge)](../README.md)
 [![Durum](https://img.shields.io/badge/DURUM-Ön_Seri_Üretim_ve_Saha_Doğrulama-brightgreen?style=for-the-badge&logo=shield&logoColor=white)](#)
 
-<p align="center">
-  <img src="../../../_ASSETS/aerospace_icon.png" alt="AEROSPACE DOMINION" width="120" />
-</p>
+
 
 ## 🛡️ Stratejik Tanım & Doktriner Öncelik
 **ROKETSAN ALKA Yönlendirilmiş Enerji Silah Sistemi (YESS)**, modern harekât sahasında asimetrik bir tehdide dönüşen mikro ve mini insansız hava araçları (İHA/Drone sürüleri), el yapımı patlayıcılar (EYP) ve yol kenarı bombalarına karşı geliştirilmiş, elektromanyetik karıştırma ve yüksek güçlü lazer teknolojisini tek bir platformda birleştiren hibrit bir yakın hava ve üs savunma sistemidir.

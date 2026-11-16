@@ -8,8 +8,11 @@
 </p>
 
 <p align="center">
-  <img src="../../../_ASSETS/defense_icon.png" alt="Dominion Electronics" width="120">
+  <img src="https://www.aselsan.com.tr/uploads/cenk-350n.jpg" alt="CENK 350N" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
 </p>
+
+
+
 
 ## 🛡️ Stratejik Tanım & Doktriner Öncelik
 **CENK-350N** (MAR-D türevi gelişmiş deniz radarı), Türk Deniz Kuvvetleri'nin modern fırkateyn ve hava savunma muhripleri için geliştirilen çok fonksiyonlu, katı hal (Solid-State) GaN aktif faz dizinli (AESA) 3 boyutlu arama ve hedef takip radarıdır. Başta MİLGEM İ-Sınıfı fırkateynler (TCG İSTANBUL vb.) ve TF-2000 Hava Savunma Harbi Muhribi olmak üzere su üstü muharip unsurlarının durumsal farkındalığını en üst seviyeye taşır. Deniz yüzeyine çok yakın uçan (sea-skimming) süpersonik gemisavar füzelerini, hayalet hava unsurlarını ve asimetrik hedefleri 350+ km menzilde tespit ederek MİDLAS dikey atım sistemi ve HİSAR-D / SİPER-D füzelerine hassas ara safha güdüm desteği sağlar.

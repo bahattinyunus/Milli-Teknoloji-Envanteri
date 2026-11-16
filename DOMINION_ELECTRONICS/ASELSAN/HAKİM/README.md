@@ -8,8 +8,11 @@
 </p>
 
 <p align="center">
-  <img src="../../../_ASSETS/defense_icon.png" alt="Dominion Electronics" width="120">
+  <img src="https://www.aselsan.com.tr/uploads/hakim.jpg" alt="HAKİM" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
 </p>
+
+
+
 
 ## 🛡️ Stratejik Tanım & Doktriner Öncelik
 **ASELSAN HAKİM**, Türkiye'nin tüm hava sahasındaki radar sensörlerini, havadan erken ihbar uçaklarını (HİK/AWACS), karadaki ve denizdeki hava savunma füze sistemlerini, savaş uçaklarını ve insansız hava araçlarını tek bir milli durumsal farkındalık resminde birleştiren "Hava Sahasının Beyni" niteliğindeki stratejik C4I (Komuta, Kontrol, Muhabere, Bilgisayar ve İstihbarat) sistemidir. ASELSAN ve Türk Hava Kuvvetleri Komutanlığı ortaklığıyla geliştirilen HAKİM; NATO sistemlerine bağımlı kalmaksızın bağımsız milli tanımlanmış hava resmi (Recognized Air Picture - RAP) üretir, gelişmiş yapay zeka algoritmalarıyla tehdit değerlendirmesi yaparak füzelerin veya önleme uçaklarının angajmanını otomatik koordine eder.

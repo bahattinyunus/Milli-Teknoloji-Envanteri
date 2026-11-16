@@ -2,9 +2,11 @@
 
 [![TRL](https://img.shields.io/badge/TRL-9_Muharebede_Kanıtlanmış_ve_Hizmette-success?style=for-the-badge&logo=shield)](README.md) [![Dominion](https://img.shields.io/badge/DOMINION-AEROSPACE-0052cc?style=for-the-badge&logo=spacex&logoColor=white)](../../README.md) [![Üretici](https://img.shields.io/badge/ÜRETİCİ-TÜBİTAK_SAGE_%26_ROKETSAN-red?style=for-the-badge)](../README.md) [![Durum](https://img.shields.io/badge/DURUM-Aktif_Filolarda_ve_Seri_Üretimde-green?style=for-the-badge)](README.md)
 
-<div align="center">
-  <img src="../../../_ASSETS/aerospace_icon.png" alt="DOMINION AEROSPACE" width="100"/>
-</div>
+<p align="center">
+  <img src="https://www.sage.tubitak.gov.tr/uploads/som-j.jpg" alt="SOM" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
+</p>
+
+
 
 ![TÜBİTAK SAGE SOM Havadan Atılan Seyir Füzesi](https://www.sage.tubitak.gov.tr/sites/images/som_main.jpg)
 

@@ -6,11 +6,9 @@
 [![Durum](https://img.shields.io/badge/DURUM-Uçuş_ve_Güdüm_Testlerinde-blue?style=for-the-badge&logo=shield&logoColor=white)](#)
 
 <p align="center">
-  <img src="https://www.roketsan.com.tr/uploads/cenk-missile.jpg" alt="ROKETSAN CENK MRBM" width="750" />
+  <img src="https://www.roketsan.com.tr/uploads/cenk-fuze.jpg" alt="CENK" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
 </p>
-<p align="center">
-  <img src="../../../_ASSETS/aerospace_icon.png" alt="AEROSPACE DOMINION" width="100" />
-</p>
+
 
 ## 🛡️ Stratejik Tanım & Doktriner Öncelik
 **ROKETSAN CENK**, Türkiye'nin BORA ve TAYFUN balistik füze programları ile elde ettiği kompozit roket gövdesi, katı yakıt kimyası, aerodinamik kontrol ve yüksek irtifa atmosfer dışı seyrüsefer yetkinliklerini kıtalararası eşiğe taşıyan **Orta Menzilli Balistik Füze (MRBM - Medium-Range Ballistic Missile)** sistemidir.

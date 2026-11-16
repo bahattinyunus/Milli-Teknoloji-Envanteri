@@ -8,8 +8,11 @@
 </p>
 
 <p align="center">
-  <img src="../../../_ASSETS/defense_icon.png" alt="Dominion Electronics" width="120">
+  <img src="https://www.aselsan.com.tr/uploads/goksur.jpg" alt="GÖKSUR" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
 </p>
+
+
+
 
 ## 🛡️ Stratejik Tanım & Doktriner Öncelik
 **ASELSAN GÖKSUR**, deniz platformlarının gemisavar füzeleri, seyir füzeleri, İHA'lar, savaş uçakları ve helikopterler gibi havadan gelen tehditlere karşı son katmanda füze tabanlı savunmasını sağlayan Nokta Hava Savunma Füze Sistemidir (PDMS - Point Defense Missile System). Amerikan Raytheon üretimi RIM-116 RAM (Rolling Airframe Missile) sistemine milli alternatif olarak ASELSAN ve TÜBİTAK SAGE iş birliğiyle geliştirilmiştir. TÜBİTAK SAGE'nin hava-hava füzesi tecrübesiyle optimize edilen BOZDOĞAN-DH (Denizaltı/Gemi Hava Savunma) IIR güdümlü füzesini kullanan GÖKSUR; 360 derece hızlı reaksiyon taret mimarisi ve çift yönlü veri bağıyla gemiyi eşzamanlı doyum saldırılarına karşı korur.

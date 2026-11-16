@@ -8,8 +8,11 @@
 </p>
 
 <p align="center">
-  <img src="../../../_ASSETS/defense_icon.png" alt="Land Domain Asset" width="120" />
+  <img src="https://www.bmc.com.tr/uploads/kirpi.jpg" alt="KIRPI" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
 </p>
+
+
+
 
 ---
 

@@ -8,8 +8,11 @@
 </p>
 
 <p align="center">
-  <img src="../../../_ASSETS/aerospace_icon.png" alt="Dominion Aerospace" width="120">
+  <img src="https://www.sage.tubitak.gov.tr/uploads/imece.jpg" alt="İMECE" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
 </p>
+
+
+
 
 ## 🛡️ Stratejik Tanım & Doktriner Öncelik
 **İMECE**, Türkiye'nin metre altı çözünürlüklü elektro-optik kameraya sahip ilk yerli ve milli yer gözlem uydusudur. Türkiye'nin "Uzay Vatan" doktrininde bağımsız uzay gözetleme yeteneğinin en somut kilometre taşlarından birini temsil eder. TÜBİTAK UZAY yürütücülüğünde, TÜBİTAK SAGE'nin termal, yapısal ve alt sistem destekleriyle geliştirilen platform; askeri istihbarat, hassas coğrafi konumlandırma, sınır güvenliği, doğal afet hasar tespiti ve tarımsal rekolte tahminlerinde küresel bağımsızlık kazandırmıştır. Yörüngesel manevralarını yerli elektrikli Hall itki motoruyla gerçekleştiren uydu, uzay tarihçesine sahip kritik milli aviyonikleriyle Türk uzay ekosisteminin amiral gemisidir.

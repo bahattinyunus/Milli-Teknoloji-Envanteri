@@ -8,8 +8,11 @@
 </p>
 
 <p align="center">
-  <img src="../../../_ASSETS/defense_icon.png" alt="Dominion Electronics" width="120">
+  <img src="https://www.aselsan.com.tr/uploads/ihtar.jpg" alt="IHTAR" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
 </p>
+
+
+
 
 ## 🛡️ Stratejik Tanım & Doktriner Öncelik
 **ASELSAN İHTAR**, şehir merkezlerinde, askeri üslerde, havalimanlarında, sınır karakollarında ve stratejik sanayi tesislerinde mini ve mikro insansız hava araçlarının (İHA), FPV kamikaze dronların ve uzaktan komutalı hava tehditlerinin oluşturduğu tehlikeleri bertaraf etmek için geliştirilmiş entegre Anti-Dron Savunma Sistemidir. Radar, elektro-optik kamera, RF sinyal dinleme ve yönlü/omni-directional RF karıştırma (jammer) bileşenlerini tek bir komuta kontrol yazılımında birleştiren İHTAR; düşman dronlarını kilometrelerce uzaktan tespit edip GNSS ve kontrol linklerini keserek güvenli inişe veya kalkış noktasına dönmeye zorlar.

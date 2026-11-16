@@ -1,12 +1,17 @@
 # 🛡️ Proje: ROKETSAN LEVENT (Yakın Hava Savunma Füze Sistemi)
 
-[![TRL](https://img.shields.io/badge/TRL-7%20(Sistem%20Prototip%20Doğrulama)-7209b7?style=for-the-badge&logo=shield)](../../../README.md)
+[![TRL](https://img.shields.io/badge/TRL-7%20(Sistem%20Prototip%20Doğrulama)
+
+<p align="center">
+  <img src="https://www.roketsan.com.tr/uploads/levent.jpg" alt="LEVENT" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
+</p>
+-7209b7?style=for-the-badge&logo=shield)](../../../README.md)
 [![Dominion](https://img.shields.io/badge/Dominion-SEA%20(Savunma)-0077be?style=for-the-badge&logo=target)](../../README.md)
 [![Manufacturer](https://img.shields.io/badge/Üretici-ROKETSAN-e63946?style=for-the-badge)](../README.md)
 [![Status](https://img.shields.io/badge/Durum-Deniz%20Atış%20Testleri%20Safhası-blueviolet?style=for-the-badge)]()
 
 <div align="center">
-  <img src="../../../_ASSETS/maritime_icon.png" alt="Dominion Sea" width="120" />
+  
 </div>
 
 ![LEVENT](https://www.roketsan.com.tr/uploads/levent.jpg)

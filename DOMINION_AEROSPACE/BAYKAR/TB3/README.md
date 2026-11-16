@@ -6,11 +6,9 @@
 [![Durum](https://img.shields.io/badge/DURUM-Uçuş_ve_Gemi_Testlerinde-blue?style=for-the-badge&logo=shield&logoColor=white)](#)
 
 <p align="center">
-  <img src="https://cdn.baykartech.com/media/repository/taktik-iha-tb3/tb3-kalkis.jpg" alt="Bayraktar TB3 SİHA" width="750" />
+  <img src="https://cdn.baykartech.com/media/repository/taktik-iha-tb3/tb3-kalkis.jpg" alt="TB3" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
 </p>
-<p align="center">
-  <img src="../../../_ASSETS/aerospace_icon.png" alt="AEROSPACE DOMINION" width="100" />
-</p>
+
 
 ## 🛡️ Stratejik Tanım & Doktriner Öncelik
 **Bayraktar TB3 SİHA**, TCG ANADOLU gibi kısa pistli amfibi hücum ve helikopter gemilerinden harici mancınık veya yakalama ağına ihtiyaç duymaksızın kendi motor gücüyle kalkış ve iniş (STOL) yapabilen dünyanın ilk silahlı insansız deniz havacılığı platformudur.

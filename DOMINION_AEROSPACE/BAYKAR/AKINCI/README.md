@@ -6,11 +6,9 @@
 [![Durum](https://img.shields.io/badge/DURUM-Operasyonel_/_Combat_Proven-brightgreen?style=for-the-badge&logo=shield&logoColor=white)](#)
 
 <p align="center">
-  <img src="https://cdn.baykartech.com/media/images/contents/Bayraktar_Ak%C4%B1nc%C4%B1_T%C4%B0HA.png" alt="Bayraktar AKINCI TİHA" width="750" />
+  <img src="https://cdn.baykartech.com/media/images/contents/Bayraktar_Ak%C4%B1nc%C4%B1_T%C4%B0HA.png" alt="AKINCI" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
 </p>
-<p align="center">
-  <img src="../../../_ASSETS/aerospace_icon.png" alt="AEROSPACE DOMINION" width="100" />
-</p>
+
 
 ## 🛡️ Stratejik Tanım & Doktriner Öncelik
 **Bayraktar AKINCI TİHA**, Türk havacılık ve savunma doktrininde stratejik bombardıman ve havadan havaya muharebe görevlerini insansız platformlara aktaran en üst sınıf Yüksek İrtifa Uzun Dayanım (HALE) taarruzi sistemdir. 6.000 kg azami kalkış ağırlığı ve 1.500 kg faydalı yük taşıma kapasitesi ile "Uçan Balina" olarak nitelendirilen AKINCI, savaş uçaklarının icra ettiği kritik derin darbe sortilerini devralarak hava kuvvetlerinin operasyonel esnekliğini ve filo bekasını katlamaktadır.

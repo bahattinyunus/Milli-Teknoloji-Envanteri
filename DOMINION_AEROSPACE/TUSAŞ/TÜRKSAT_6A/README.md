@@ -2,9 +2,11 @@
 
 [![TRL](https://img.shields.io/badge/TRL-8_Yörüngede_Test_ve_Devreye_Alma-blue?style=for-the-badge&logo=shield)](README.md) [![Dominion](https://img.shields.io/badge/DOMINION-AEROSPACE-0052cc?style=for-the-badge&logo=spacex&logoColor=white)](../../README.md) [![Üretici](https://img.shields.io/badge/ÜRETİCİ-TUSAŞ_TÜBİTAK_ASELSAN_CTECH-red?style=for-the-badge)](../README.md) [![Durum](https://img.shields.io/badge/DURUM-Yörüngeye_Fırlatıldı_Testler_Sürüyor-green?style=for-the-badge)](README.md)
 
-<div align="center">
-  <img src="../../../_ASSETS/aerospace_icon.png" alt="DOMINION AEROSPACE" width="100"/>
-</div>
+<p align="center">
+  <img src="https://www.tusas.com/uploads/turksat-6a.jpg" alt="TÜRKSAT 6A" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
+</p>
+
+
 
 ![TÜRKSAT 6A Yerli Haberleşme Uydusu](https://www.tusas.com/uploads/2021/03/turksat6a-1.jpg)
 

@@ -1,12 +1,17 @@
 # 🦈 Proje: MİLDEN (Milli Denizaltı)
 
-[![TRL](https://img.shields.io/badge/TRL-5%20(Detay%20Tasarım%20%2F%20Test%20Blokları)-e85d04?style=for-the-badge&logo=shield)](../../../README.md)
+[![TRL](https://img.shields.io/badge/TRL-5%20(Detay%20Tasarım%20%2F%20Test%20Blokları)
+
+<p align="center">
+  <img src="https://www.dzkk.tsk.tr/uploads/milden.jpg" alt="MİLDEN" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
+</p>
+-e85d04?style=for-the-badge&logo=shield)](../../../README.md)
 [![Dominion](https://img.shields.io/badge/Dominion-SEA%20(Denizaltı)-0077be?style=for-the-badge&logo=target)](../../README.md)
 [![Manufacturer](https://img.shields.io/badge/Üretici-Dz.K.K.%20%2F%20Gölcük%20Tersanesi-e63946?style=for-the-badge)](../README.md)
 [![Status](https://img.shields.io/badge/Durum-Geliştirme%20%2F%20Blok%20İnşa-orange?style=for-the-badge)]()
 
 <div align="center">
-  <img src="../../../_ASSETS/maritime_icon.png" alt="Dominion Sea" width="120" />
+  
 </div>
 
 ![MİLDEN](https://www.asfat.com.tr/uploads/Contents/2021/04/21/milden-web.jpg)

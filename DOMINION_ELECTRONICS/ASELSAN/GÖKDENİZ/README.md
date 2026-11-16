@@ -8,8 +8,11 @@
 </p>
 
 <p align="center">
-  <img src="../../../_ASSETS/defense_icon.png" alt="Dominion Electronics" width="120">
+  <img src="https://www.aselsan.com.tr/uploads/gokdeniz.jpg" alt="GÖKDENİZ" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
 </p>
+
+
+
 
 ## 🛡️ Stratejik Tanım & Doktriner Öncelik
 **ASELSAN GÖKDENİZ**, deniz platformlarını gemisavar füzelerine (anti-ship missiles), seyir füzelerine, insansız hava araçlarına, helikopterlere, uçaklara ve asimetrik hızlı su üstü botlarına karşı koruyan son katman Nokta Hava Savunma Sistemidir (CIWS - Close-In Weapon System). Amerikan Phalanx ve Hollanda Goalkeeper sistemlerinin modern bir muadili ve teknolojik üstünlüğe sahip versiyonudur. İkiz 35mm namlulu topu, 3 boyutlu arama radarı, atış kontrol radarı ve termal/gündüz elektro-optik sensörlerini tek bir stabilize tarette birleştiren GÖKDENİZ; ASELSAN üretimi ATOM 35mm Akıllı Parçacıklı Mühimmat ile hedefin önüne geçilmez bir çelik şarapnel bulutu örerek tehditleri havada parçalar.

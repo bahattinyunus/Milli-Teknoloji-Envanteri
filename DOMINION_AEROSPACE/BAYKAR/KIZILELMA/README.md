@@ -6,11 +6,9 @@
 [![Durum](https://img.shields.io/badge/DURUM-Seri_Üretim_Hazırlığı-brightgreen?style=for-the-badge&logo=shield&logoColor=white)](#)
 
 <p align="center">
-  <img src="../../../_ASSETS/hero_banner.png" alt="Bayraktar KIZILELMA MİUS" width="800" />
+  <img src="https://cdn.baykartech.com/media/images/contents/Bayraktar_K%C4%B1z%C4%B1lelma_M%C4%B0US.png" alt="KIZILELMA" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
 </p>
-<p align="center">
-  <img src="../../../_ASSETS/aerospace_icon.png" alt="AEROSPACE DOMINION" width="100" />
-</p>
+
 
 ## 🛡️ Stratejik Tanım & Doktriner Öncelik
 **Bayraktar KIZILELMA (MİUS)**, Türk askeri havacılık tarihinde yeni bir çağ açan, agresif manevra kabiliyeti, düşük radar kesit alanı (Stealth mimarisi), dahili silah istasyonları ve süpersonik/transonik hız potansiyeline sahip Türkiye'nin ilk muharip insansız savaş uçağıdır.

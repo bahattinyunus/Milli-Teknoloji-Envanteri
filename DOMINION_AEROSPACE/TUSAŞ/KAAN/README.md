@@ -2,11 +2,9 @@
 
 [![TRL](https://img.shields.io/badge/TRL-7_Prototip_Uçuş_Testi-blue?style=for-the-badge&logo=shield)](README.md) [![Dominion](https://img.shields.io/badge/DOMINION-AEROSPACE-0052cc?style=for-the-badge&logo=spacex&logoColor=white)](../../README.md) [![Üretici](https://img.shields.io/badge/ÜRETİCİ-TUSAŞ-red?style=for-the-badge)](../README.md) [![Durum](https://img.shields.io/badge/DURUM-Uçuş_Testleri_ve_Zarf_Açma-yellow?style=for-the-badge)](README.md)
 
-<div align="center">
-  <img src="../../../_ASSETS/aerospace_icon.png" alt="DOMINION AEROSPACE" width="100"/>
-</div>
-
-![TUSAŞ KAAN 5. Nesil Milli Muharip Uçak İlk Uçuşu](https://www.tusas.com/uploads/2023/05/kaan-gokyuzu.jpg)
+<p align="center">
+  <img src="../../../_ASSETS/platforms/KAAN.jpg" alt="KAAN" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
+</p>
 
 ---
 

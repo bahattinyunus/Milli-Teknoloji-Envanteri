@@ -2,9 +2,14 @@
 
 <div align="center">
 
-<img src="../../../_ASSETS/defense_icon.png" width="90" alt="Land Dominion Icon" />
 
-[![TRL](https://img.shields.io/badge/TRL-6-29b6f6?style=for-the-badge&logo=shield&logoColor=white)](../../../docs/TRL_GUIDE.md)
+
+[![TRL](https://img.shields.io/badge/TRL-6-29b6f6?style=for-the-badge&logo=shield&logoColor=white)
+
+<p align="center">
+  <img src="https://www.roketsan.com.tr/uploads/gokbora.jpg" alt="GÖKBORA" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
+</p>
+](../../../docs/TRL_GUIDE.md)
 [![Dominion](https://img.shields.io/badge/DOMINION-LAND-green?style=for-the-badge&logo=target&logoColor=white)](../../README.md)
 [![Üretici](https://img.shields.io/badge/MANUFACTURER-ROKETSAN-red?style=for-the-badge)](../README.md)
 [![Durum](https://img.shields.io/badge/STATUS-S%C4%B0STEM%20TASARIMI%20%2F%20KAL%C4%B0F%C4%B0KASYON-ff9100?style=for-the-badge)]()

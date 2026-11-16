@@ -8,8 +8,11 @@
 </p>
 
 <p align="center">
-  <img src="../../../_ASSETS/defense_icon.png" alt="Dominion Electronics" width="120">
+  <img src="https://www.aselsan.com.tr/uploads/milkar.jpg" alt="MİLKAR" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
 </p>
+
+
+
 
 ## 🛡️ Stratejik Tanım & Doktriner Öncelik
 **ASELSAN MİLKAR** ailesi (MİLKAR-3A3 V/UHF Elektronik Taarruz, MİLKAR-4A2 HF Elektronik Taarruz, MİLKAR-5S vb.), modern harp sahasında düşman unsurlarının taktik ve stratejik muhabere şebekelerini, komuta kontrol kanallarını, hava-yer haberleşmesini ve hücresel telsiz ağlarını felç etmek üzere geliştirilmiş yüksek güçlü mobil elektronik harp sistemleri bütünüdür. Taktik tekerlekli askeri şasiler üzerine kurulu sistemler; düşman telsiz yayınlarını saniyeler içinde tespit edip dinler, frekans atlamalı karmaşık muhabereyi anında çözümler ve yüksek RF çıkış gücüyle düşman iletişimini susturarak sahada koordinasyonu tamamen koparır.
