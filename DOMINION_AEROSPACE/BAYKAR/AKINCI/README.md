@@ -6,7 +6,7 @@
 [![Durum](https://img.shields.io/badge/DURUM-Operasyonel_/_Combat_Proven-brightgreen?style=for-the-badge&logo=shield&logoColor=white)](#)
 
 <p align="center">
-  <img src="../../../_ASSETS/platforms/AKINCI.jpg" alt="Bayraktar AKINCI" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
+  <img src="../../../_ASSETS/platforms/AKINCI.jpg" alt="AKINCI" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
 </p>
 
 
@@ -80,5 +80,14 @@ flowchart TD
 - [ ] MURAD AESA Radarı ile Canlı Hava-Hava Angajman Testleri
 - [ ] TEI-TF6000 / Yerli Turboprop Motor Entegrasyon Opsiyonları
 
+
+---
+
+### 📸 Taktik ve Operasyonel Görseller / Saha Galerisi
+
+<p align="center">
+  <img src="https://cdn.baykartech.com/media/images/contents/Bayraktar_Ak%C4%B1nc%C4%B1_T%C4%B0HA.png" alt="Bayraktar AKINCI TİHA Çift Turboprop" width="420" style="border-radius: 6px; margin: 6px; box-shadow: 0 2px 10px rgba(0,0,0,0.3);" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Bayraktar_Ak%C4%B1nc%C4%B1_of_the_Azerbaijani_Air_Force.jpg" alt="AKINCI TİHA Sahada Operasyonel Görevde" width="420" style="border-radius: 6px; margin: 6px; box-shadow: 0 2px 10px rgba(0,0,0,0.3);" />
+</p>
 ---
 [⬅️ Üst Dizine](../README.md) | [🏛️ Dominion Hub](../../README.md) | [🏠 Ana Sayfa](../../../README.md)

@@ -98,3 +98,13 @@ graph TD
 
 ### 🔗 Sağlam İç Dizin Navigasyonu
 [⬅️ Üst Dizine](../README.md) | [🏛️ Dominion Hub](../../README.md) | [🏠 Ana Sayfa](../../../README.md)
+
+
+---
+
+### 📸 Taktik ve Operasyonel Görseller / Saha Galerisi
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/IMG-TAI-TFX.jpg" alt="KAAN İlk Uçuş Testi ve Aerodinamik Gövde" width="420" style="border-radius: 6px; margin: 6px; box-shadow: 0 2px 10px rgba(0,0,0,0.3);" />
+  <img src="https://www.tusas.com/uploads/2023/05/kaan-gokyuzu.jpg" alt="KAAN Gökyüzünde - Zarf Açma ve Taktik Seyir" width="420" style="border-radius: 6px; margin: 6px; box-shadow: 0 2px 10px rgba(0,0,0,0.3);" />
+</p>

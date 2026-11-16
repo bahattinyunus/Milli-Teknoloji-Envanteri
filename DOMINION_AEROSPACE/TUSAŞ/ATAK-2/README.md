@@ -3,7 +3,7 @@
 [![TRL](https://img.shields.io/badge/TRL-7_Prototip_Uçuş_Testi-blue?style=for-the-badge&logo=shield)](README.md) [![Dominion](https://img.shields.io/badge/DOMINION-AEROSPACE-0052cc?style=for-the-badge&logo=spacex&logoColor=white)](../../README.md) [![Üretici](https://img.shields.io/badge/ÜRETİCİ-TUSAŞ-red?style=for-the-badge)](../README.md) [![Durum](https://img.shields.io/badge/DURUM-Kalifikasyon_Aşamasında-yellow?style=for-the-badge)](README.md)
 
 <p align="center">
-  <img src="https://www.tusas.com/uploads/2023/04/atak-2.jpg" alt="ATAK-2" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
+  <img src="../../../_ASSETS/platforms/ATAK-2.jpg" alt="ATAK-2" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
 </p>
 
 

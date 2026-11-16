@@ -103,6 +103,14 @@ flowchart TD
 - [ ] Ülke Genelinde Tüm Radar ve Füze Bataryalarının Çelik Kubbe Ağına Bağlanması
 - [ ] Uzay ve Üst Balistik Katman Önleyicilerinin (Anti-Ballistic Exo-Atmospheric) Entegrasyonu
 
+
+---
+
+### 📸 Taktik ve Operasyonel Görseller / Saha Galerisi
+
+<p align="center">
+  <img src="https://www.aselsan.com.tr/uploads/celik-kubbe.jpg" alt="Çelik Kubbe Çok Katmanlı Hava Savunma Entegrasyonu" width="420" style="border-radius: 6px; margin: 6px; box-shadow: 0 2px 10px rgba(0,0,0,0.3);" />
+</p>
 ---
 
 [⬅️ Üst Dizine](../README.md) | [🏛️ Dominion Hub](../../README.md) | [🏠 Ana Sayfa](../../../README.md)

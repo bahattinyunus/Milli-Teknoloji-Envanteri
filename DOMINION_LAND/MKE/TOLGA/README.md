@@ -6,7 +6,7 @@
 [![Status](https://img.shields.io/badge/STATUS-SERİ__ÜRETİME__HAZIR-brightgreen.svg?style=for-the-badge)](../README.md)
 
 <p align="center">
-  <img src="../../../_ASSETS/platforms/TOLGA.jpg" alt="MKE TOLGA Drone Savunma Sistemi" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
+  <img src="../../../_ASSETS/platforms/TOLGA.jpg" alt="TOLGA" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
 </p>
 
 > **"Kamikaze FPV ve sürü drone tehditlerine karşı hava kalkanı: Mikro-radar tespiti, yapay zeka ve 40mm akıllı parçacıklı mühimmatla gök kubbede çelik şarapnel bulutu."**

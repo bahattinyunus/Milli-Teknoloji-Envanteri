@@ -6,7 +6,7 @@
 [![Status](https://img.shields.io/badge/STATUS-SERİ__ÜRETİM-brightgreen.svg?style=for-the-badge)](../README.md)
 
 <p align="center">
-  <img src="../../../_ASSETS/platforms/ILGAZ.jpg" alt="Nurol Makina ILGAZ II 4x4" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
+  <img src="../../../_ASSETS/platforms/ILGAZ.jpg" alt="ILGAZ" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
 </p>
 
 > **"Kentsel asayiş ve meskun mahal terör operasyonlarının çevik koruyucusu: Kompakt boyutlar, yüksek balistik zırh ve entegre atış mazgallarıyla kolluğun çelik zırhı."**

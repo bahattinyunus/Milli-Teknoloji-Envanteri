@@ -6,7 +6,7 @@
 [![Status](https://img.shields.io/badge/Durum-Envanterde%20%2F%20Pakistan%20Hizmetinde-success?style=for-the-badge)]()
 
 <p align="center">
-  <img src="../../../_ASSETS/platforms/PN_MILGEM.jpg" alt="PN MİLGEM" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
+  <img src="../../../_ASSETS/platforms/PN_MILGEM.jpg" alt="PN MILGEM" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
 </p>
 
 ---

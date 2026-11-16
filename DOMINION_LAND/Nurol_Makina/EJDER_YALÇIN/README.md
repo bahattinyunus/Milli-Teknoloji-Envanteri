@@ -6,7 +6,7 @@
 [![Status](https://img.shields.io/badge/STATUS-SERİ__ÜRETİM-brightgreen.svg?style=for-the-badge)](../README.md)
 
 <p align="center">
-  <img src="../../../_ASSETS/platforms/EJDER_YALÇIN.jpg" alt="Nurol Makina EJDER YALÇIN 4x4" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
+  <img src="../../../_ASSETS/platforms/EJDER_YALCIN.jpg" alt="EJDER YALÇIN" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
 </p>
 
 > **"Muharebe sahasında efsaneleşen çöl çitası: V-gövde mimarisi, eşsiz mayın bekası ve 10'dan fazla dünya ordusunda kendini kanıtlamış küresel zırhlı muharebe standardı."**

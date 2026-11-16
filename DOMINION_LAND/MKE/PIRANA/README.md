@@ -6,7 +6,7 @@
 [![Status](https://img.shields.io/badge/STATUS-SERİ__ÜRETİME__HAZIR-brightgreen.svg?style=for-the-badge)](../README.md)
 
 <p align="center">
-  <img src="../../../_ASSETS/platforms/PIRANA.jpg" alt="MKE PİRANA Kamikaze İDA" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
+  <img src="../../../_ASSETS/platforms/PIRANA.jpg" alt="PIRANA" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
 </p>
 
 > **"Mavi Vatan'ın görünmez asimetrik torpidosu: 50+ knot sürat, düşük radar izi ve 200+ kg patlayıcı yüküyle düşman donanmalarının omurgasını kıran kamikaze deniz akıncısı."**

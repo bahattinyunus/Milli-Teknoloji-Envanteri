@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="../../../_ASSETS/platforms/MILSOFT_DATA_LINKS.jpg" alt="MilSOFT Taktik Veri Linkleri (Mil-DLP)" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
+  <img src="../../../_ASSETS/platforms/MILSOFT_DATA_LINKS.jpg" alt="DATA LINKS" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
 </p>
 
 

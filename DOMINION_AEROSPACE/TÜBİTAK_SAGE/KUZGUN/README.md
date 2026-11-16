@@ -3,7 +3,7 @@
 [![TRL](https://img.shields.io/badge/TRL-7_Atış_Testleri_Doğrulandı-blue?style=for-the-badge&logo=shield)](README.md) [![Dominion](https://img.shields.io/badge/DOMINION-AEROSPACE-0052cc?style=for-the-badge&logo=spacex&logoColor=white)](../../README.md) [![Üretici](https://img.shields.io/badge/ÜRETİCİ-TÜBİTAK_SAGE-red?style=for-the-badge)](../README.md) [![Durum](https://img.shields.io/badge/DURUM-Kalifikasyon_ve_Uçuş_Testi-yellow?style=for-the-badge)](README.md)
 
 <p align="center">
-  <img src="https://www.sage.tubitak.gov.tr/uploads/kuzgun.jpg" alt="KUZGUN" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
+  <img src="../../../_ASSETS/platforms/KUZGUN.jpg" alt="KUZGUN" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
 </p>
 
 

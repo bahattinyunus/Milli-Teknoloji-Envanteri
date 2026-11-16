@@ -6,7 +6,7 @@
 [![Status](https://img.shields.io/badge/STATUS-SERİ__ÜRETİM-brightgreen.svg?style=for-the-badge)](../README.md)
 
 <p align="center">
-  <img src="../../../_ASSETS/platforms/YÖRÜK.jpg" alt="Nurol Makina YÖRÜK / NMS 4x4" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
+  <img src="../../../_ASSETS/platforms/YORUK.jpg" alt="YÖRÜK" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
 </p>
 
 > **"Zırhlı muharebe araçlarının spor arabası: 140 km/sa azami sürat, 6 metre dönüş yarıçapı, sahada sökülüp takılan modüler zırhı ve YALMAN kulesiyle hızlı taarruzun zirvesi."**

@@ -6,7 +6,7 @@
 [![Status](https://img.shields.io/badge/Durum-Detay%20Tasarım%20%2F%20İnşa%20Aşaması-blueviolet?style=for-the-badge)]()
 
 <p align="center">
-  <img src="../../../_ASSETS/platforms/STM_MPAC.jpg" alt="STM-MPAC" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
+  <img src="../../../_ASSETS/platforms/STM_MPAC.jpg" alt="STM MPAC" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
 </p>
 
 ---

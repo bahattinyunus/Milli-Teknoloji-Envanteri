@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="../../../_ASSETS/platforms/CANIK_M2_QCB.jpg" alt="CANiK M2 QCB (12.7x99 mm Ağır Makineli Tüfek)" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
+  <img src="../../../_ASSETS/platforms/CANIK_M2_QCB.jpg" alt="M2 QCB" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
 </p>
 
 

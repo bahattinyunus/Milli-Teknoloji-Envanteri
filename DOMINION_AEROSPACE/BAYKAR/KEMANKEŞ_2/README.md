@@ -6,7 +6,7 @@
 [![Durum](https://img.shields.io/badge/DURUM-Uçuş_ve_Vuruş_Testlerinde-blue?style=for-the-badge&logo=shield&logoColor=white)](#)
 
 <p align="center">
-  <img src="../../../_ASSETS/platforms/KEMANKEŞ_2.jpg" alt="Bayraktar KEMANKEŞ 2" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
+  <img src="../../../_ASSETS/platforms/KEMANKES_2.jpg" alt="KEMANKEŞ 2" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
 </p>
 
 

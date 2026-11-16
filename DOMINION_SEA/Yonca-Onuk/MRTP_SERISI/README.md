@@ -6,7 +6,7 @@
 [![Status](https://img.shields.io/badge/Durum-Envanterde%20%2F%20Küresel%20İhracat-success?style=for-the-badge)]()
 
 <p align="center">
-  <img src="../../../_ASSETS/platforms/MRTP_SERISI.jpg" alt="MRTP KAAN Sınıfı" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
+  <img src="../../../_ASSETS/platforms/MRTP_SERISI.jpg" alt="MRTP SERISI" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
 </p>
 
 ---

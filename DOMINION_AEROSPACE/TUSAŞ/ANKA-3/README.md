@@ -108,3 +108,12 @@ Dahili bölmesinden bıraktığı çok sayıda Süper Şimşek İHA'sı ile dü�
 
 ## 🔗 İç Dizin Navigasyonu
 [⬅️ Üst Dizine](../README.md) | [🏛️ Dominion Hub](../../README.md) | [🏠 Ana Sayfa](../../../README.md)
+
+
+---
+
+### 📸 Taktik ve Operasyonel Görseller / Saha Galerisi
+
+<p align="center">
+  <img src="https://www.tusas.com/uploads/2023/12/anka-3-ilk-ucus.jpg" alt="ANKA-3 Uçan Kanat Hayalet SİHA İlk Uçuşu" width="420" style="border-radius: 6px; margin: 6px; box-shadow: 0 2px 10px rgba(0,0,0,0.3);" />
+</p>

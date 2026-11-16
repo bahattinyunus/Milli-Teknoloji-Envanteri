@@ -6,7 +6,7 @@
 [![Status](https://img.shields.io/badge/STATUS-SERİ__ÜRETİM-brightgreen.svg?style=for-the-badge)](../README.md)
 
 <p align="center">
-  <img src="../../../_ASSETS/platforms/BORAN.jpg" alt="MKE BORAN 105mm Obüs" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
+  <img src="../../../_ASSETS/platforms/BORAN.jpg" alt="BORAN" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
 </p>
 
 > **"Kartalların yuvasına helikopterle inen komando ateşi: 1 dakikada mevzilenen, GPS ve atış bilgisayarıyla ilk atımda hedefi vuran hafif topçu mucizesi."**

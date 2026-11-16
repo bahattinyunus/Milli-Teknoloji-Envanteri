@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="../../../_ASSETS/platforms/BMC_KIRPI.jpg" alt="BMC KİRPİ (Mayına Karşı Korumalı Taktik Araç - MRAP)" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
+  <img src="../../../_ASSETS/platforms/BMC_KIRPI.jpg" alt="KIRPI" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
 </p>
 
 

@@ -8,7 +8,7 @@
 [![Durum](https://img.shields.io/badge/DURUM-Ar--Ge%20%2F%20Kalifikasyon-blue?style=for-the-badge&logo=shield&logoColor=white)](#)
 
 <p align="center">
-  <img src="../../../_ASSETS/platforms/TAYFUN_BLOK4.jpg" alt="TAYFUN Blok-4" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
+  <img src="../../../_ASSETS/platforms/TAYFUN_BLOK4.jpg" alt="TAYFUN BLOK4" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
 </p>
 
 </div>

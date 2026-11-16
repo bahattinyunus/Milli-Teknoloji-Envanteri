@@ -3,7 +3,7 @@
 [![TRL](https://img.shields.io/badge/TRL-8_Uçuş_Testi_ve_Kalifikasyon-blue?style=for-the-badge&logo=shield)](README.md) [![Dominion](https://img.shields.io/badge/DOMINION-AEROSPACE-0052cc?style=for-the-badge&logo=spacex&logoColor=white)](../../README.md) [![Üretici](https://img.shields.io/badge/ÜRETİCİ-TUSAŞ-red?style=for-the-badge)](../README.md) [![Durum](https://img.shields.io/badge/DURUM-İlk_Teslimatlar_Yapıldı-green?style=for-the-badge)](README.md)
 
 <p align="center">
-  <img src="https://www.tusas.com/uploads/2021/05/gokbey-ucus.jpg" alt="GÖKBEY" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
+  <img src="../../../_ASSETS/platforms/GOKBEY.jpg" alt="GÖKBEY" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
 </p>
 
 
@@ -92,3 +92,12 @@ graph TD
 
 ### 🔗 Sağlam İç Dizin Navigasyonu
 [⬅️ Üst Dizine](../README.md) | [🏛️ Dominion Hub](../../README.md) | [🏠 Ana Sayfa](../../../README.md)
+
+
+---
+
+### 📸 Taktik ve Operasyonel Görseller / Saha Galerisi
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/TAI_T625_G%C3%B6kbey_TC-HLV.png" alt="GÖKBEY T625 Genel Maksat Helikopteri" width="420" style="border-radius: 6px; margin: 6px; box-shadow: 0 2px 10px rgba(0,0,0,0.3);" />
+</p>

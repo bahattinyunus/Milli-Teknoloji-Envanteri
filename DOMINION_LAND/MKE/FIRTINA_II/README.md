@@ -6,7 +6,7 @@
 [![Status](https://img.shields.io/badge/STATUS-SERİ__ÜRETİM-brightgreen.svg?style=for-the-badge)](../README.md)
 
 <p align="center">
-  <img src="../../../_ASSETS/platforms/FIRTINA_II.jpg" alt="T-155 FIRTINA II Obüsü" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
+  <img src="../../../_ASSETS/platforms/FIRTINA_II.jpg" alt="FIRTINA II" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
 </p>
 
 > **"Kara Kuvvetleri'nin çelik yumruğu: 40+ km menzilde tek bir obüsten aynı anda hedefe düşen ölümcül mermiler ve yerli UTKU güç grubuyla durdurulamaz kudret."**

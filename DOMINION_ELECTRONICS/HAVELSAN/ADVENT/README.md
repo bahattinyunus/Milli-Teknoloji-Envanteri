@@ -6,7 +6,7 @@
 [![Durum](https://img.shields.io/badge/Durum-Aktif_Hizmette_%26_İhraç_Edildi-brightgreen?style=for-the-badge)](#)
 
 <p align="center">
-  <img src="../../../_ASSETS/platforms/ADVENT.jpg" alt="HAVELSAN ADVENT" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
+  <img src="../../../_ASSETS/platforms/ADVENT.jpg" alt="ADVENT" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
 </p>
 
 <div align="center">
@@ -93,6 +93,14 @@ flowchart TD
 - [x] Denizaltı Versiyonu (MÜREN / ADVENT-MİLDEN) Deniz Kabul Testleri
 - [ ] TF-2000 Hava Savunma Harbi Muhribi ve Milli Uçak Gemisi Sürüm Geliştirmeleri
 
+
+---
+
+### 📸 Taktik ve Operasyonel Görseller / Saha Galerisi
+
+<p align="center">
+  <img src="https://www.havelsan.com.tr/uploads/advent-sys.jpg" alt="ADVENT Ağ Destekli Savaş Yönetim Sistemi Konsolu" width="420" style="border-radius: 6px; margin: 6px; box-shadow: 0 2px 10px rgba(0,0,0,0.3);" />
+</p>
 ---
 
 [⬅️ Üst Dizine](../README.md) | [🏛️ Dominion Hub](../../README.md) | [🏠 Ana Sayfa](../../../README.md)

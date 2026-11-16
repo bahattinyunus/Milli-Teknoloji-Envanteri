@@ -6,7 +6,7 @@
 [![Status](https://img.shields.io/badge/STATUS-SERİ__ÜRETİM-brightgreen.svg?style=for-the-badge)](../README.md)
 
 <p align="center">
-  <img src="../../../_ASSETS/platforms/HIZIR.jpg" alt="Katmerciler HIZIR 4x4" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
+  <img src="../../../_ASSETS/platforms/HIZIR.jpg" alt="HIZIR" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
 </p>
 
 > **"Sınıfının en güçlü 400 beygirlik motoruyla dik yamaçları ve sınır hatlarını fetheden çevik zırhlı: ATEŞ mobil gözetleme projesinin çelik omurgası."**

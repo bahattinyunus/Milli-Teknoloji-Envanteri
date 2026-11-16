@@ -6,7 +6,7 @@
 [![Status](https://img.shields.io/badge/STATUS-SERİ__ÜRETİME__HAZIR-brightgreen.svg?style=for-the-badge)](../README.md)
 
 <p align="center">
-  <img src="../../../_ASSETS/platforms/AKREP_II.jpg" alt="OTOKAR AKREP II" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
+  <img src="../../../_ASSETS/platforms/AKREP_II.jpg" alt="AKREP II" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
 </p>
 
 > **"Türkiye'nin ilk elektrikli zırhlısı: Sıfır termal ve akustik iz ile hayalet gibi sızan, yengeç yürüyüşüyle manevra yapan ve 90mm topla vuran yeni nesil muharebe avcısı."**

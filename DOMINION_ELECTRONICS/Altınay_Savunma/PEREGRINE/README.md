@@ -6,7 +6,7 @@
 [![Durum](https://img.shields.io/badge/Durum-Saha_Testleri_Fazında-orange?style=for-the-badge)](#)
 
 <p align="center">
-  <img src="../../../_ASSETS/platforms/PEREGRINE.jpg" alt="Altınay Savunma PEREGRINE" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
+  <img src="../../../_ASSETS/platforms/PEREGRINE.jpg" alt="PEREGRINE" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
 </p>
 
 <div align="center">

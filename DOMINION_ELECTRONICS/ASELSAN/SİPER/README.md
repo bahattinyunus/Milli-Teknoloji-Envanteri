@@ -6,7 +6,7 @@
 [![Durum](https://img.shields.io/badge/Durum-Seri_Üretim_Aşaması-blue?style=for-the-badge)](#)
 
 <p align="center">
-  <img src="../../../_ASSETS/platforms/SIPER.jpg" alt="ASELSAN & ROKETSAN SİPER" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
+  <img src="../../../_ASSETS/platforms/SIPER.jpg" alt="SİPER" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
 </p>
 
 <div align="center">

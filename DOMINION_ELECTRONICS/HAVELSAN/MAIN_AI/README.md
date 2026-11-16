@@ -6,7 +6,7 @@
 [![Durum](https://img.shields.io/badge/Durum-Kamu_ve_Savunma_Kullanımında-brightgreen?style=for-the-badge)](#)
 
 <p align="center">
-  <img src="../../../_ASSETS/platforms/HAVELSAN_MAIN_AI.jpg" alt="HAVELSAN MAIN AI" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
+  <img src="../../../_ASSETS/platforms/HAVELSAN_MAIN_AI.jpg" alt="MAIN AI" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
 </p>
 
 <div align="center">

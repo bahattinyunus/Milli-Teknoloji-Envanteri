@@ -6,7 +6,7 @@
 [![Durum](https://img.shields.io/badge/Durum-Platform_Entegrasyonunda-brightgreen?style=for-the-badge)](#)
 
 <p align="center">
-  <img src="../../../_ASSETS/platforms/YILDIRIM-100.jpg" alt="ASELSAN YILDIRIM-100" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
+  <img src="../../../_ASSETS/platforms/YILDIRIM-100.jpg" alt="YILDIRIM-100" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
 </p>
 
 <div align="center">

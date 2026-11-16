@@ -6,7 +6,7 @@
 [![Status](https://img.shields.io/badge/STATUS-SERİ__ÜRETİME__HAZIR-brightgreen.svg?style=for-the-badge)](../README.md)
 
 <p align="center">
-  <img src="../../../_ASSETS/platforms/YAVUZ.jpg" alt="MKE YAVUZ 155mm TMO" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
+  <img src="../../../_ASSETS/platforms/YAVUZ.jpg" alt="YAVUZ" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
 </p>
 
 > **"Tekerlekler üzerinde 40 km'lik stratejik balistik vuruş: 'Vur ve Kaç' doktriniyle 1 dakikada mevzilenen, paletli obüs gücünü otoban süratiyle birleştiren taktik topçu sistemi."**

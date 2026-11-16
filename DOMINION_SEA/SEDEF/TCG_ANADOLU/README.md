@@ -97,5 +97,13 @@ flowchart TD
 - [x] Bayraktar TB3'ün TCG ANADOLU güvertesinden ilk otonom kalkış ve iniş başarısı (Kasım 2024)
 - [ ] KIZILELMA SİHA gemi üzeri iniş-kalkış testleri ve tam filo konuşlanması
 
+
+---
+
+### 📸 Taktik ve Operasyonel Görseller / Saha Galerisi
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Turkish_Navy_amphibious_assault_ship_TCG_Anadolu_%28L400%29_steams_in_the_Mediterranean_Sea.jpg" alt="TCG ANADOLU (L-400) Mavi Vatan'da Seyir Halinde" width="420" style="border-radius: 6px; margin: 6px; box-shadow: 0 2px 10px rgba(0,0,0,0.3);" />
+</p>
 ---
 [⬅️ Üst Dizine](../README.md) | [🏛️ Dominion Hub](../../README.md) | [🏠 Ana Sayfa](../../../README.md)\n

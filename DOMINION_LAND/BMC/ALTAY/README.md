@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="../../../_ASSETS/platforms/ALTAY.jpg" alt="ALTAY (Yeni Nesil Ana Muharebe Tankı)" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
+  <img src="../../../_ASSETS/platforms/ALTAY.jpg" alt="ALTAY" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
 </p>
 
 
@@ -97,3 +97,13 @@ flowchart TD
 
 ## 🔗 İç Dizin Navigasyonu
 [⬅️ Üst Dizine](../README.md) | [🏛️ Dominion Hub](../../README.md) | [🏠 Ana Sayfa](../../../README.md)
+
+
+---
+
+### 📸 Taktik ve Operasyonel Görseller / Saha Galerisi
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/eb/Altay_Tank.jpg" alt="Yeni ALTAY Tankı Atış Testlerinde" width="420" style="border-radius: 6px; margin: 6px; box-shadow: 0 2px 10px rgba(0,0,0,0.3);" />
+  <img src="https://www.bmc.com.tr/uploads/altay-yeni-nesil.jpg" alt="ALTAY Tankı AKKOR ve Volkan-II Donanımı" width="420" style="border-radius: 6px; margin: 6px; box-shadow: 0 2px 10px rgba(0,0,0,0.3);" />
+</p>

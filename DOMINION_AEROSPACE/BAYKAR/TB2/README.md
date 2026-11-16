@@ -6,7 +6,7 @@
 [![Durum](https://img.shields.io/badge/DURUM-Operasyonel_/_Combat_Proven-brightgreen?style=for-the-badge&logo=shield&logoColor=white)](#)
 
 <p align="center">
-  <img src="../../../_ASSETS/platforms/TB2.jpg" alt="Bayraktar TB2" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
+  <img src="../../../_ASSETS/platforms/TB2.jpg" alt="TB2" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
 </p>
 
 
@@ -78,5 +78,14 @@ flowchart TD
 - [x] ASELFLIR-500 Yeni Nesil Milli Kamera Entegrasyonu
 - [ ] Yapay Zeka Destekli Otonom Kol Uçuşu Yazılım Güncellemeleri
 
+
+---
+
+### 📸 Taktik ve Operasyonel Görseller / Saha Galerisi
+
+<p align="center">
+  <img src="https://cdn.baykartech.com/media/images/contents/Bayraktar_TB2_S%C4%B0HA.png" alt="Bayraktar TB2 SİHA Mühimmat Yüklü" width="420" style="border-radius: 6px; margin: 6px; box-shadow: 0 2px 10px rgba(0,0,0,0.3);" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Bayraktar_TB2_Runway.jpg" alt="Bayraktar TB2 Pistte Kalkış Öncesi" width="420" style="border-radius: 6px; margin: 6px; box-shadow: 0 2px 10px rgba(0,0,0,0.3);" />
+</p>
 ---
 [⬅️ Üst Dizine](../README.md) | [🏛️ Dominion Hub](../../README.md) | [🏠 Ana Sayfa](../../../README.md)

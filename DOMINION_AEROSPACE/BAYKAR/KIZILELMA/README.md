@@ -6,7 +6,7 @@
 [![Durum](https://img.shields.io/badge/DURUM-Seri_Üretim_Hazırlığı-brightgreen?style=for-the-badge&logo=shield&logoColor=white)](#)
 
 <p align="center">
-  <img src="../../../_ASSETS/platforms/KIZILELMA.jpg" alt="Bayraktar KIZILELMA" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
+  <img src="../../../_ASSETS/platforms/KIZILELMA.jpg" alt="KIZILELMA" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
 </p>
 
 
@@ -77,5 +77,14 @@ flowchart TD
 - [ ] TCG ANADOLU Güverte İniş ve Kalkış Testleri
 - [ ] Seri Üretim Teslimatları ve Hava Kuvvetleri Envanterine Giriş (2025-2026)
 
+
+---
+
+### 📸 Taktik ve Operasyonel Görseller / Saha Galerisi
+
+<p align="center">
+  <img src="https://cdn.baykartech.com/media/images/contents/Bayraktar_K%C4%B1z%C4%B1lelma_M%C4%B0US.png" alt="KIZILELMA MİUS - Düşük RCS Stealth Tasarım" width="420" style="border-radius: 6px; margin: 6px; box-shadow: 0 2px 10px rgba(0,0,0,0.3);" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Teknofest_%C4%B0stanbul_2023_%28cropped%29.jpg/1280px-Teknofest_%C4%B0stanbul_2023_%28cropped%29.jpg" alt="KIZILELMA Kanat İstasyonları ve Süpersonik İtki" width="420" style="border-radius: 6px; margin: 6px; box-shadow: 0 2px 10px rgba(0,0,0,0.3);" />
+</p>
 ---
 [⬅️ Üst Dizine](../README.md) | [🏛️ Dominion Hub](../../README.md) | [🏠 Ana Sayfa](../../../README.md)

@@ -3,7 +3,7 @@
 [![TRL](https://img.shields.io/badge/TRL-6_Sistem_Doğrulama_Aşamasında-blue?style=for-the-badge&logo=shield)](README.md) [![Dominion](https://img.shields.io/badge/DOMINION-AEROSPACE-0052cc?style=for-the-badge&logo=spacex&logoColor=white)](../../README.md) [![Üretici](https://img.shields.io/badge/ÜRETİCİ-TUSAŞ_%26_ASELSAN-red?style=for-the-badge)](../README.md) [![Durum](https://img.shields.io/badge/DURUM-Geliştirme_ve_Test-orange?style=for-the-badge)](README.md)
 
 <p align="center">
-  <img src="https://www.tusas.com/uploads/2021/05/gokturk-3.jpg" alt="GÖKTÜRK-3" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
+  <img src="../../../_ASSETS/platforms/GOKTURK-3.jpg" alt="GÖKTÜRK-3" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
 </p>
 
 

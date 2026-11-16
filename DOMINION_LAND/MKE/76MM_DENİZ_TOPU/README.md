@@ -6,7 +6,7 @@
 [![Status](https://img.shields.io/badge/STATUS-SERİ__ÜRETİM-brightgreen.svg?style=for-the-badge)](../README.md)
 
 <p align="center">
-  <img src="../../../_ASSETS/platforms/76MM_DENİZ_TOPU.jpg" alt="MKE 76/62mm Milli Deniz Topu" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
+  <img src="../../../_ASSETS/platforms/76MM_DENIZ_TOPU.jpg" alt="76MM DENİZ TOPU" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
 </p>
 
 > **"Açık denizlerde ambargoları parçalayan milli mühendislik şaheseri: Dakikada 80 mermiyle su üstü, kıyı ve hava hedeflerine karşı milli ateş kalkanı."**

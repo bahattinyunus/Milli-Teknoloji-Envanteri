@@ -6,7 +6,7 @@
 [![Durum](https://img.shields.io/badge/Durum-Deniz_Testleri_ve_Seri_Üretim-brightgreen?style=for-the-badge)](#)
 
 <p align="center">
-  <img src="../../../_ASSETS/platforms/SANCAR.jpg" alt="HAVELSAN & Yonca-Onuk SANCAR" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
+  <img src="../../../_ASSETS/platforms/SANCAR.jpg" alt="SANCAR" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
 </p>
 
 <div align="center">

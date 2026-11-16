@@ -6,7 +6,7 @@
 [![Status](https://img.shields.io/badge/STATUS-SERİ__ÜRETİM-brightgreen.svg?style=for-the-badge)](../README.md)
 
 <p align="center">
-  <img src="../../../_ASSETS/platforms/PARS.jpg" alt="FNSS PARS III 8x8" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
+  <img src="../../../_ASSETS/platforms/PARS.jpg" alt="PARS" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
 </p>
 
 > **"Tekerlekli zırhlı muharebe araçlarında küresel çeviklik standardı: Bütün akslardan yönlendirme, hidropnömatik süspansiyon ve yengeç yürüyüşü ile sınır tanımayan taktik mobilite."**
@@ -106,3 +106,11 @@ flowchart LR
 ## 🔗 Bağlantılar ve Dizin Navigasyonu
 
 [⬅️ Üst Dizine](../README.md) | [🏛️ Dominion Hub](../../README.md) | [🏠 Ana Sayfa](../../../README.md)
+
+---
+
+### 📸 Taktik ve Operasyonel Görseller / Saha Galerisi
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/ParsScout6x6_%281%29.jpg" alt="FNSS PARS İleri Zırhlı Muharebe Aracı" width="420" style="border-radius: 6px; margin: 6px; box-shadow: 0 2px 10px rgba(0,0,0,0.3);" />
+</p>

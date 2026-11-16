@@ -6,7 +6,7 @@
 [![Status](https://img.shields.io/badge/STATUS-SERİ__ÜRETİM-brightgreen.svg?style=for-the-badge)](../README.md)
 
 <p align="center">
-  <img src="../../../_ASSETS/platforms/SAMUR.jpg" alt="FNSS SAMUR SYHK" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
+  <img src="../../../_ASSETS/platforms/SAMUR.jpg" alt="SAMUR" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
 </p>
 
 > **"Nehirleri dakikalar içinde otoyola çeviren milli istihkam dehasi: Ağır tank birliklerine sulu engellerde kesintisiz taarruz sürekliliği."**

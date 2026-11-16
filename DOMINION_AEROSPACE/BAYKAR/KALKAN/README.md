@@ -6,7 +6,7 @@
 [![Durum](https://img.shields.io/badge/DURUM-Envanter_Dağıtım_Fazında-brightgreen?style=for-the-badge&logo=shield&logoColor=white)](#)
 
 <p align="center">
-  <img src="../../../_ASSETS/platforms/KALKAN.jpg" alt="Bayraktar KALKAN" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
+  <img src="../../../_ASSETS/platforms/KALKAN.jpg" alt="KALKAN" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
 </p>
 
 

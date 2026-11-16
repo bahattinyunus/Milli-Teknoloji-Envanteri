@@ -3,7 +3,7 @@
 [![TRL](https://img.shields.io/badge/TRL-8_Uçuş_Testi_ve_Gelişmiş_Zarf-blue?style=for-the-badge&logo=shield)](README.md) [![Dominion](https://img.shields.io/badge/DOMINION-AEROSPACE-0052cc?style=for-the-badge&logo=spacex&logoColor=white)](../../README.md) [![Üretici](https://img.shields.io/badge/ÜRETİCİ-TUSAŞ-red?style=for-the-badge)](../README.md) [![Durum](https://img.shields.io/badge/DURUM-Uçuş_Testleri_Devam_Ediyor-yellow?style=for-the-badge)](README.md)
 
 <p align="center">
-  <img src="https://www.tusas.com/uploads/2023/04/hurjet-gokyuzu.jpg" alt="HÜRJET" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
+  <img src="../../../_ASSETS/platforms/HURJET.jpg" alt="HÜRJET" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
 </p>
 
 
@@ -92,3 +92,12 @@ graph TD
 
 ### 🔗 Sağlam İç Dizin Navigasyonu
 [⬅️ Üst Dizine](../README.md) | [🏛️ Dominion Hub](../../README.md) | [🏠 Ana Sayfa](../../../README.md)
+
+
+---
+
+### 📸 Taktik ve Operasyonel Görseller / Saha Galerisi
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/TAI_H%C3%BCrjet_Teknofest_2023.jpg" alt="HÜRJET Jet Eğitim ve Hafif Taarruz Uçağı" width="420" style="border-radius: 6px; margin: 6px; box-shadow: 0 2px 10px rgba(0,0,0,0.3);" />
+</p>
