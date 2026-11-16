@@ -1,17 +1,13 @@
 # 🚜 Proje: Nurol Makina EJDER YALÇIN (4x4 Taktik Tekerlekli Zırhlı Araç)
 
-[![TRL](https://img.shields.io/badge/TRL-9_Operasyonel-blue.svg?style=for-the-badge&logo=shield)
-
-<p align="center">
-  <img src="https://www.nurolmakina.com.tr/uploads/ejder-yalcin.jpg" alt="EJDER YALÇIN" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
-</p>
-](https://en.wikipedia.org/wiki/Technology_readiness_level)
+[![TRL](https://img.shields.io/badge/TRL-9_Operasyonel-blue.svg?style=for-the-badge&logo=shield)](https://en.wikipedia.org/wiki/Technology_readiness_level)
 [![Dominion](https://img.shields.io/badge/DOMINION-LAND-darkgreen.svg?style=for-the-badge&logo=target)](../../README.md)
 [![Manufacturer](https://img.shields.io/badge/MANUFACTURER-Nurol%20Makina-orange.svg?style=for-the-badge)](../README.md)
 [![Status](https://img.shields.io/badge/STATUS-SERİ__ÜRETİM-brightgreen.svg?style=for-the-badge)](../README.md)
 
-![Dominion Asset](../../../_ASSETS/defense_icon.png)
-![EJDER YALÇIN](https://www.nurolmakina.com.tr/uploads/docs/ejder-yalcin-web.jpg)
+<p align="center">
+  <img src="../../../_ASSETS/platforms/EJDER_YALÇIN.jpg" alt="Nurol Makina EJDER YALÇIN 4x4" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
+</p>
 
 > **"Muharebe sahasında efsaneleşen çöl çitası: V-gövde mimarisi, eşsiz mayın bekası ve 10'dan fazla dünya ordusunda kendini kanıtlamış küresel zırhlı muharebe standardı."**
 

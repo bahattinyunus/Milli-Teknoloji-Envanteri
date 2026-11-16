@@ -12,7 +12,7 @@
 </div>
 
 <p align="center">
-  <img src="https://www.asfat.com.tr/uploads/hisar-opv.jpg" alt="HİSAR SINIFI OPV" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
+  <img src="../../../_ASSETS/platforms/HİSAR_SINIFI_OPV.jpg" alt="HİSAR SINIFI OPV" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
 </p>
 
 ---

@@ -12,7 +12,7 @@
 </div>
 
 <p align="center">
-  <img src="https://www.otokar.com.tr/uploads/arma-6x6.jpg" alt="ARMA" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
+  <img src="../../../_ASSETS/platforms/ARMA.jpg" alt="ARMA" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
 </p>
 
 ---

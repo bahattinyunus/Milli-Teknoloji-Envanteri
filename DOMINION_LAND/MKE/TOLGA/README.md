@@ -1,17 +1,13 @@
 # 🎯 Proje: MKE TOLGA (Drone Savunma ve C-UAS Sistemi)
 
-[![TRL](https://img.shields.io/badge/TRL-8_Kalifikasyon-orange.svg?style=for-the-badge&logo=shield)
-
-<p align="center">
-  <img src="https://www.mke.gov.tr/uploads/tolga.jpg" alt="TOLGA" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
-</p>
-](https://en.wikipedia.org/wiki/Technology_readiness_level)
+[![TRL](https://img.shields.io/badge/TRL-8_Kalifikasyon-orange.svg?style=for-the-badge&logo=shield)](https://en.wikipedia.org/wiki/Technology_readiness_level)
 [![Dominion](https://img.shields.io/badge/DOMINION-LAND-darkgreen.svg?style=for-the-badge&logo=target)](../../README.md)
 [![Manufacturer](https://img.shields.io/badge/MANUFACTURER-MKE-orange.svg?style=for-the-badge)](../README.md)
 [![Status](https://img.shields.io/badge/STATUS-SERİ__ÜRETİME__HAZIR-brightgreen.svg?style=for-the-badge)](../README.md)
 
-![Dominion Asset](../../../_ASSETS/defense_icon.png)
-![TOLGA](https://www.mke.gov.tr/uploads/tolga.jpg)
+<p align="center">
+  <img src="../../../_ASSETS/platforms/TOLGA.jpg" alt="MKE TOLGA Drone Savunma Sistemi" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
+</p>
 
 > **"Kamikaze FPV ve sürü drone tehditlerine karşı hava kalkanı: Mikro-radar tespiti, yapay zeka ve 40mm akıllı parçacıklı mühimmatla gök kubbede çelik şarapnel bulutu."**
 

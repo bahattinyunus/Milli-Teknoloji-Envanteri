@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://www.sdt.com.tr/uploads/acmi-pod.jpg" alt="ACMI POD" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
+  <img src="../../../_ASSETS/platforms/ACMI_POD.jpg" alt="SDT ACMI POD (Hava Muharebesi Manevra Enstrümantasyon Podu)" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
 </p>
 
 

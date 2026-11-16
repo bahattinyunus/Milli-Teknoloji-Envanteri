@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://www.bmcpower.com.tr/uploads/azra-600.jpg" alt="AZRA" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
+  <img src="../../../_ASSETS/platforms/BMC_POWER_AZRA.jpg" alt="BMC POWER AZRA (600 BG Askeri Dizel Motor)" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
 </p>
 
 

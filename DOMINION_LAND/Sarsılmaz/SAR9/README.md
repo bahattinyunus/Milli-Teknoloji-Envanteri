@@ -12,7 +12,7 @@
 </div>
 
 <p align="center">
-  <img src="https://www.sarsilmaz.com/uploads/sar-9.jpg" alt="SAR9" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
+  <img src="../../../_ASSETS/platforms/SAR9.jpg" alt="SAR9" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
 </p>
 
 ---

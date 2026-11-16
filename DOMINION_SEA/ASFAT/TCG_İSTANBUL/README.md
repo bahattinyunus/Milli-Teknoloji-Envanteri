@@ -1,20 +1,13 @@
 # 🚢 Proje: TCG İSTANBUL (F-515) - İ-Sınıfı Fırkateyn
 
-[![TRL](https://img.shields.io/badge/TRL-9%20(Muharebede%20Kanıtlanmış)
-
-<p align="center">
-  <img src="https://www.asfat.com.tr/uploads/tcg-istanbul.jpg" alt="TCG İSTANBUL" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
-</p>
--00e676?style=for-the-badge&logo=shield)](../../../README.md)
+[![TRL](https://img.shields.io/badge/TRL-9%20(Muharebede%20Kanıtlanmış)-00e676?style=for-the-badge&logo=shield)](../../../README.md)
 [![Dominion](https://img.shields.io/badge/Dominion-SEA%20(Deniz)-0077be?style=for-the-badge&logo=target)](../../README.md)
 [![Manufacturer](https://img.shields.io/badge/Üretici-ASFAT%20%2F%20STM%20%2F%20İTK-e63946?style=for-the-badge)](../README.md)
 [![Status](https://img.shields.io/badge/Durum-Envanterde%20%2F%20Donanma%20Hizmetinde-success?style=for-the-badge)]()
 
-<div align="center">
-  
-</div>
-
-![TCG ISTANBUL](https://www.asfat.com.tr/uploads/Contents/2024/01/19/tcg-istanbul.jpg)
+<p align="center">
+  <img src="../../../_ASSETS/platforms/TCG_ISTANBUL.jpg" alt="TCG İSTANBUL" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
+</p>
 
 ---
 

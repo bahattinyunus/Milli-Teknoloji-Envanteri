@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://www.meteksan.com/uploads/nazar.jpg" alt="NAZAR" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
+  <img src="../../../_ASSETS/platforms/NAZAR.jpg" alt="NAZAR (Lazer Elektronik Harp Sistemi)" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
 </p>
 
 

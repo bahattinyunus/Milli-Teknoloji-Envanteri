@@ -6,7 +6,7 @@
 [![Durum](https://img.shields.io/badge/DURUM-Seri_Üretim_Hazırlığı-brightgreen?style=for-the-badge&logo=shield&logoColor=white)](#)
 
 <p align="center">
-  <img src="https://cdn.baykartech.com/media/images/contents/Bayraktar_K%C4%B1z%C4%B1lelma_M%C4%B0US.png" alt="KIZILELMA" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
+  <img src="../../../_ASSETS/platforms/KIZILELMA.jpg" alt="Bayraktar KIZILELMA" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
 </p>
 
 

@@ -1,20 +1,13 @@
 # 🐬 Proje: MARLİN SİDA (Elektronik Harp Destekli Silahlı İnsansız Deniz Aracı)
 
-[![TRL](https://img.shields.io/badge/TRL-9%20(Muharebede%20Kanıtlanmış)
-
-<p align="center">
-  <img src="https://www.sefine.com.tr/uploads/marlin-sida.jpg" alt="MARLİN" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
-</p>
--00e676?style=for-the-badge&logo=shield)](../../../README.md)
+[![TRL](https://img.shields.io/badge/TRL-9%20(Muharebede%20Kanıtlanmış)-00e676?style=for-the-badge&logo=shield)](../../../README.md)
 [![Dominion](https://img.shields.io/badge/Dominion-SEA%20(İnsansız)-0077be?style=for-the-badge&logo=target)](../../README.md)
 [![Manufacturer](https://img.shields.io/badge/Üretici-Sefine%20Tersanesi%20%26%20ASELSAN-e63946?style=for-the-badge)](../README.md)
 [![Status](https://img.shields.io/badge/Durum-Envanterde%20%2F%20NATO%20Görevlerinde-success?style=for-the-badge)]()
 
-<div align="center">
-  
-</div>
-
-![MARLIN](https://sefine.com.tr/uploads/marlin-sida.jpg)
+<p align="center">
+  <img src="../../../_ASSETS/platforms/MARLIN.jpg" alt="MARLİN" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
+</p>
 
 ---
 

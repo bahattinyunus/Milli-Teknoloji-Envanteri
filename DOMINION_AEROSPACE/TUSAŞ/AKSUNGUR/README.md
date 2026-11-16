@@ -2,17 +2,14 @@
 
 <div align="center">
 
-[![Dominion](https://img.shields.io/badge/DOMINION-AEROSPACE-00f2fe?style=for-the-badge&logo=spacex&logoColor=white)
-
-<p align="center">
-  <img src="https://www.tusas.com/uploads/2021/05/aksungur-deniz.jpg" alt="AKSUNGUR" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
-</p>
-](../../README.md)
+[![Dominion](https://img.shields.io/badge/DOMINION-AEROSPACE-00f2fe?style=for-the-badge&logo=spacex&logoColor=white)](../../README.md)
 [![Üretici](https://img.shields.io/badge/%C3%9CRET%C4%B0C%C4%B0-TUSA%C5%9E-orange?style=for-the-badge&logo=target&logoColor=white)](../README.md)
 [![TRL](https://img.shields.io/badge/TRL-9%20(Combat%20Proven%20%2F%20Envanterde)-00E676?style=for-the-badge&logo=speedtest&logoColor=black)](../../../docs/TRL_GUIDE.md)
 [![Durum](https://img.shields.io/badge/DURUM-Envanterde%20%2F%20%C4%B0hra%C3%A7%20Edildi-ff007f?style=for-the-badge&logo=shield&logoColor=white)](#)
 
-
+<p align="center">
+  <img src="../../../_ASSETS/platforms/AKSUNGUR.jpg" alt="AKSUNGUR" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
+</p>
 
 </div>
 

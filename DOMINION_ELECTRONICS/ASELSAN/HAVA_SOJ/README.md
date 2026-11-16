@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://www.aselsan.com.tr/uploads/hava-soj.jpg" alt="HAVA SOJ" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
+  <img src="../../../_ASSETS/platforms/HAVA_SOJ.jpg" alt="HAVA SOJ" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
 </p>
 
 

@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://www.bmc.com.tr/uploads/vuran.jpg" alt="VURAN" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
+  <img src="../../../_ASSETS/platforms/BMC_VURAN.jpg" alt="BMC VURAN (4x4 Çok Amaçlı Zırhlı Taktik Araç)" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
 </p>
 
 

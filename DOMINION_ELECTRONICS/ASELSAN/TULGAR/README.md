@@ -1,14 +1,13 @@
 # 🪖 Proje: ASELSAN TULGAR (Kaska Monteli Gösterge Sistemi - HMDS)
 
-[![TRL](https://img.shields.io/badge/TRL-8_Uçuş_Doğrulaması-yellowgreen?style=for-the-badge&logo=shield)
-
-<p align="center">
-  <img src="https://www.aselsan.com.tr/uploads/tulgar.jpg" alt="TULGAR" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
-</p>
-](https://www.aselsan.com)
+[![TRL](https://img.shields.io/badge/TRL-8_Uçuş_Doğrulaması-yellowgreen?style=for-the-badge&logo=shield)](https://www.aselsan.com)
 [![Dominion](https://img.shields.io/badge/Dominion-ELECTRONICS-blue?style=for-the-badge&logo=cpu)](../../README.md)
 [![Üretici](https://img.shields.io/badge/Üretici-ASELSAN-red?style=for-the-badge)](../README.md)
 [![Durum](https://img.shields.io/badge/Durum-Entegrasyon_ve_Uçuş_Testi-brightgreen?style=for-the-badge)](#)
+
+<p align="center">
+  <img src="../../../_ASSETS/platforms/TULGAR.jpg" alt="ASELSAN TULGAR" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
+</p>
 
 <div align="center">
   

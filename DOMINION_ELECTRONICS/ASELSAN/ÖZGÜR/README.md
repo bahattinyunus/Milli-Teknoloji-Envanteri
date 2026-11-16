@@ -1,14 +1,13 @@
 # 🦅 Proje: ASELSAN & TUSAŞ F-16 ÖZGÜR (Milli Aviyonik Modernizasyon Projesi)
 
-[![TRL](https://img.shields.io/badge/TRL-9_Saha_Kanıtlanmış-success?style=for-the-badge&logo=shield)
-
-<p align="center">
-  <img src="https://www.aselsan.com.tr/uploads/ozgur-f16.jpg" alt="ÖZGÜR" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
-</p>
-](https://www.aselsan.com)
+[![TRL](https://img.shields.io/badge/TRL-9_Saha_Kanıtlanmış-success?style=for-the-badge&logo=shield)](https://www.aselsan.com)
 [![Dominion](https://img.shields.io/badge/Dominion-ELECTRONICS-blue?style=for-the-badge&logo=cpu)](../../README.md)
 [![Üretici](https://img.shields.io/badge/Üretici-ASELSAN_%26_TUSAŞ-red?style=for-the-badge)](../README.md)
 [![Durum](https://img.shields.io/badge/Durum-Seri_Teslimat_Aşamasında-brightgreen?style=for-the-badge)](#)
+
+<p align="center">
+  <img src="../../../_ASSETS/platforms/OZGUR.jpg" alt="ASELSAN ÖZGÜR" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
+</p>
 
 <div align="center">
   

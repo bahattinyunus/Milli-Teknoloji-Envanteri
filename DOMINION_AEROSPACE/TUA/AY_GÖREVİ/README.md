@@ -2,17 +2,14 @@
 
 <div align="center">
 
-[![Dominion](https://img.shields.io/badge/DOMINION-AEROSPACE-00f2fe?style=for-the-badge&logo=spacex&logoColor=white)
-
-<p align="center">
-  <img src="https://tua.gov.tr/uploads/ay-gorevi.jpg" alt="AY GÖREVİ" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
-</p>
-](../../README.md)
+[![Dominion](https://img.shields.io/badge/DOMINION-AEROSPACE-00f2fe?style=for-the-badge&logo=spacex&logoColor=white)](../../README.md)
 [![Yürütücü](https://img.shields.io/badge/Y%C3%9CR%C3%9CT%C3%9CC%C3%9C-TUA%20%26%20DeltaV-orange?style=for-the-badge&logo=target&logoColor=white)](../README.md)
 [![TRL](https://img.shields.io/badge/TRL-6%20(Sistem%20ve%20%C4%B0tki%20Testleri%20Tamamland%C4%B1)-yellow?style=for-the-badge&logo=speedtest&logoColor=black)](../../../docs/TRL_GUIDE.md)
 [![Durum](https://img.shields.io/badge/DURUM-U%C3%A7u%C5%9F%20Haz%C4%B1rl%C4%B1%C4%9F%C4%B1%20%2F%20Derin%20Uzay-blue?style=for-the-badge&logo=shield&logoColor=white)](#)
 
-
+<p align="center">
+  <img src="../../../_ASSETS/platforms/AY_GOREVI.jpg" alt="AY GÖREVİ" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
+</p>
 
 </div>
 

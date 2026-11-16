@@ -1,17 +1,13 @@
 # ⚡ Proje: OTOKAR AKREP II (Yeni Nesil Zırhlı Keşif ve Silah Platformu)
 
-[![TRL](https://img.shields.io/badge/TRL-8_Kalifikasyon-orange.svg?style=for-the-badge&logo=shield)
-
-<p align="center">
-  <img src="https://www.otokar.com.tr/uploads/akrep-2.jpg" alt="AKREP II" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
-</p>
-](https://en.wikipedia.org/wiki/Technology_readiness_level)
+[![TRL](https://img.shields.io/badge/TRL-8_Kalifikasyon-orange.svg?style=for-the-badge&logo=shield)](https://en.wikipedia.org/wiki/Technology_readiness_level)
 [![Dominion](https://img.shields.io/badge/DOMINION-LAND-darkgreen.svg?style=for-the-badge&logo=target)](../../README.md)
 [![Manufacturer](https://img.shields.io/badge/MANUFACTURER-OTOKAR-orange.svg?style=for-the-badge)](../README.md)
 [![Status](https://img.shields.io/badge/STATUS-SERİ__ÜRETİME__HAZIR-brightgreen.svg?style=for-the-badge)](../README.md)
 
-![Dominion Asset](../../../_ASSETS/defense_icon.png)
-![AKREP II](https://image.assets.pressassociation.io/v2/image/production/729046c0542387799426211843b01859Y29udGVudHNZZWFyY2g6MjAyMy0wNC0yNVQxMDo1MDo1NC43NTBa/2.66537604.jpg?w=1280)
+<p align="center">
+  <img src="../../../_ASSETS/platforms/AKREP_II.jpg" alt="OTOKAR AKREP II" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
+</p>
 
 > **"Türkiye'nin ilk elektrikli zırhlısı: Sıfır termal ve akustik iz ile hayalet gibi sızan, yengeç yürüyüşüyle manevra yapan ve 90mm topla vuran yeni nesil muharebe avcısı."**
 

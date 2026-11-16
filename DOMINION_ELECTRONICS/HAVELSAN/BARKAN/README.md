@@ -1,14 +1,13 @@
 # 🤖 Proje: HAVELSAN BARKAN (Orta Sınıf Muharip İnsansız Kara Aracı)
 
-[![TRL](https://img.shields.io/badge/TRL-9_Saha_Kanıtlanmış-success?style=for-the-badge&logo=shield)
-
-<p align="center">
-  <img src="https://www.havelsan.com.tr/uploads/barkan.jpg" alt="BARKAN" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
-</p>
-](https://www.havelsan.com.tr)
+[![TRL](https://img.shields.io/badge/TRL-9_Saha_Kanıtlanmış-success?style=for-the-badge&logo=shield)](https://www.havelsan.com.tr)
 [![Dominion](https://img.shields.io/badge/Dominion-ELECTRONICS-blue?style=for-the-badge&logo=cpu)](../../README.md)
 [![Üretici](https://img.shields.io/badge/Üretici-HAVELSAN-red?style=for-the-badge)](../README.md)
 [![Durum](https://img.shields.io/badge/Durum-Aktif_Envanterde-brightgreen?style=for-the-badge)](#)
+
+<p align="center">
+  <img src="../../../_ASSETS/platforms/BARKAN.jpg" alt="HAVELSAN BARKAN" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
+</p>
 
 <div align="center">
   

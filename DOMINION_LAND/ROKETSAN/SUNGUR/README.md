@@ -12,7 +12,7 @@
 </div>
 
 <p align="center">
-  <img src="https://www.roketsan.com.tr/uploads/sungur.jpg" alt="SUNGUR" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
+  <img src="../../../_ASSETS/platforms/SUNGUR.jpg" alt="SUNGUR" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
 </p>
 
 ---

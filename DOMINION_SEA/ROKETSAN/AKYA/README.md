@@ -1,20 +1,13 @@
 # 🦈 Proje: AKYA (Yeni Nesil Ağır Sınıf Akıllı Torpido)
 
-[![TRL](https://img.shields.io/badge/TRL-9%20(Muharebede%20Kanıtlanmış)
-
-<p align="center">
-  <img src="https://www.roketsan.com.tr/uploads/akya.jpg" alt="AKYA" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
-</p>
--00e676?style=for-the-badge&logo=shield)](../../../README.md)
+[![TRL](https://img.shields.io/badge/TRL-9%20(Muharebede%20Kanıtlanmış)-00e676?style=for-the-badge&logo=shield)](../../../README.md)
 [![Dominion](https://img.shields.io/badge/Dominion-SEA%20(Mühimmat)-0077be?style=for-the-badge&logo=target)](../../README.md)
 [![Manufacturer](https://img.shields.io/badge/Üretici-ROKETSAN-e63946?style=for-the-badge)](../README.md)
 [![Status](https://img.shields.io/badge/Durum-Envanterde%20%2F%20Seri%20Üretim-success?style=for-the-badge)]()
 
-<div align="center">
-  
-</div>
-
-![AKYA](https://www.roketsan.com.tr/uploads/docs/1655105574_akya-tr-web.jpg)
+<p align="center">
+  <img src="../../../_ASSETS/platforms/AKYA.jpg" alt="AKYA" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
+</p>
 
 ---
 

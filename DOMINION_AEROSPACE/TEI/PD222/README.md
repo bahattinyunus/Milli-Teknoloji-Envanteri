@@ -2,17 +2,14 @@
 
 <div align="center">
 
-[![Dominion](https://img.shields.io/badge/DOMINION-AEROSPACE-00f2fe?style=for-the-badge&logo=spacex&logoColor=white)
-
-<p align="center">
-  <img src="https://www.tei.com.tr/uploads/pd222.jpg" alt="PD222" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
-</p>
-](../../README.md)
+[![Dominion](https://img.shields.io/badge/DOMINION-AEROSPACE-00f2fe?style=for-the-badge&logo=spacex&logoColor=white)](../../README.md)
 [![Üretici](https://img.shields.io/badge/%C3%9CRET%C4%B0C%C4%B0-TEI-orange?style=for-the-badge&logo=target&logoColor=white)](../README.md)
 [![TRL](https://img.shields.io/badge/TRL-8%20(Kalifikasyon%20ve%20U%C3%A7u%C5%9F%20Testleri)-00E676?style=for-the-badge&logo=speedtest&logoColor=black)](../../../docs/TRL_GUIDE.md)
 [![Durum](https://img.shields.io/badge/DURUM-Seri%20%C3%9Cretime%20Ge%C3%A7i%C5%9F%20A%C5%9Famas%C4%B1-ff007f?style=for-the-badge&logo=shield&logoColor=white)](#)
 
-
+<p align="center">
+  <img src="../../../_ASSETS/platforms/PD222.jpg" alt="PD222" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
+</p>
 
 </div>
 

@@ -1,20 +1,13 @@
 # 🚢 Proje: TCG ANADOLU (L-400) - Çok Maksatlı Amfibi Hücum Gemisi
 
-[![TRL](https://img.shields.io/badge/TRL-9%20(Muharebede%20Kanıtlanmış)
-
-<p align="center">
-  <img src="https://www.sedefshipyard.com/uploads/tcg-anadolu-l400.jpg" alt="TCG ANADOLU" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
-</p>
--00e676?style=for-the-badge&logo=shield)](../../../README.md)
+[![TRL](https://img.shields.io/badge/TRL-9%20(Muharebede%20Kanıtlanmış)-00e676?style=for-the-badge&logo=shield)](../../../README.md)
 [![Dominion](https://img.shields.io/badge/Dominion-SEA%20(Amiral%20Gemisi)-0077be?style=for-the-badge&logo=target)](../../README.md)
 [![Manufacturer](https://img.shields.io/badge/Üretici-SEDEF%20Tersanesi-e63946?style=for-the-badge)](../README.md)
 [![Status](https://img.shields.io/badge/Durum-Donanma%20Amiral%20Gemisi%20%2F%20Aktif-success?style=for-the-badge)]()
 
-<div align="center">
-  
-</div>
-
-![TCG ANADOLU](https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/TCG_Anadolu_%28L-400%29_anchored_at_Istanbul.jpg/1200px-TCG_Anadolu_%28L-400%29_anchored_at_Istanbul.jpg)
+<p align="center">
+  <img src="../../../_ASSETS/platforms/TCG_ANADOLU.jpg" alt="TCG ANADOLU" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
+</p>
 
 ---
 

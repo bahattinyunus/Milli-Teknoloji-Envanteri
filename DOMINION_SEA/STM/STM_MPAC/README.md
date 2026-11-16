@@ -1,20 +1,13 @@
 # ⚡ Proje: STM-MPAC (Milli Hücumbot / Multi-Purpose Attack Craft)
 
-[![TRL](https://img.shields.io/badge/TRL-7%20(Sistem%20Prototip%20Doğrulama)
-
-<p align="center">
-  <img src="https://www.stm.com.tr/uploads/stm-mpac.jpg" alt="STM MPAC" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
-</p>
--7209b7?style=for-the-badge&logo=shield)](../../../README.md)
+[![TRL](https://img.shields.io/badge/TRL-7%20(Sistem%20Prototip%20Doğrulama)-7209b7?style=for-the-badge&logo=shield)](../../../README.md)
 [![Dominion](https://img.shields.io/badge/Dominion-SEA%20(Hücumbot)-0077be?style=for-the-badge&logo=target)](../../README.md)
 [![Manufacturer](https://img.shields.io/badge/Üretici-STM-e63946?style=for-the-badge)](../README.md)
 [![Status](https://img.shields.io/badge/Durum-Detay%20Tasarım%20%2F%20İnşa%20Aşaması-blueviolet?style=for-the-badge)]()
 
-<div align="center">
-  
-</div>
-
-![STM MPAC](https://www.stm.com.tr/uploads/mpac.jpg)
+<p align="center">
+  <img src="../../../_ASSETS/platforms/STM_MPAC.jpg" alt="STM-MPAC" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
+</p>
 
 ---
 

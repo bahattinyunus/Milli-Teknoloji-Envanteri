@@ -1,20 +1,13 @@
 # 🚀 Proje: MİDLAS (Milli Dikey Atım Lançer Sistemi)
 
-[![TRL](https://img.shields.io/badge/TRL-8%20(Sistem%20Kalifikasyonu)
-
-<p align="center">
-  <img src="https://www.roketsan.com.tr/uploads/midlas.jpg" alt="MİDLAS" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
-</p>
--0077be?style=for-the-badge&logo=shield)](../../../README.md)
+[![TRL](https://img.shields.io/badge/TRL-8%20(Sistem%20Kalifikasyonu)-0077be?style=for-the-badge&logo=shield)](../../../README.md)
 [![Dominion](https://img.shields.io/badge/Dominion-SEA%20(Fırlatma%20Sistemi)-0077be?style=for-the-badge&logo=target)](../../README.md)
 [![Manufacturer](https://img.shields.io/badge/Üretici-ROKETSAN-e63946?style=for-the-badge)](../README.md)
 [![Status](https://img.shields.io/badge/Durum-TCG%20İSTANBUL'da%20Entegre%20%2F%20Kalifiye-success?style=for-the-badge)]()
 
-<div align="center">
-  
-</div>
-
-![MİDLAS](https://www.roketsan.com.tr/uploads/contents/midlas.jpg)
+<p align="center">
+  <img src="../../../_ASSETS/platforms/MIDLAS.jpg" alt="MİDLAS" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
+</p>
 
 ---
 

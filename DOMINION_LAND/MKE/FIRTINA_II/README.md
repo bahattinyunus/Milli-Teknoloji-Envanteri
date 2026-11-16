@@ -1,17 +1,13 @@
 # ⛈️ Proje: T-155 FIRTINA II (Yeni Nesil Kundağı Motorlu Obüs)
 
-[![TRL](https://img.shields.io/badge/TRL-9_Operasyonel-blue.svg?style=for-the-badge&logo=shield)
-
-<p align="center">
-  <img src="https://www.mke.gov.tr/uploads/firtina-2.jpg" alt="FIRTINA II" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
-</p>
-](https://en.wikipedia.org/wiki/Technology_readiness_level)
+[![TRL](https://img.shields.io/badge/TRL-9_Operasyonel-blue.svg?style=for-the-badge&logo=shield)](https://en.wikipedia.org/wiki/Technology_readiness_level)
 [![Dominion](https://img.shields.io/badge/DOMINION-LAND-darkgreen.svg?style=for-the-badge&logo=target)](../../README.md)
 [![Manufacturer](https://img.shields.io/badge/MANUFACTURER-MKE%20%2F%20ASFAT-orange.svg?style=for-the-badge)](../README.md)
 [![Status](https://img.shields.io/badge/STATUS-SERİ__ÜRETİM-brightgreen.svg?style=for-the-badge)](../README.md)
 
-![Dominion Asset](../../../_ASSETS/defense_icon.png)
-![FIRTINA](https://www.msb.gov.tr/Content/Upload/Haber/firtina-obus-teslim-toreni-09012023-7.jpg)
+<p align="center">
+  <img src="../../../_ASSETS/platforms/FIRTINA_II.jpg" alt="T-155 FIRTINA II Obüsü" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
+</p>
 
 > **"Kara Kuvvetleri'nin çelik yumruğu: 40+ km menzilde tek bir obüsten aynı anda hedefe düşen ölümcül mermiler ve yerli UTKU güç grubuyla durdurulamaz kudret."**
 

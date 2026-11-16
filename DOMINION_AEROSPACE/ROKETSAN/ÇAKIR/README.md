@@ -2,17 +2,14 @@
 
 <div align="center">
 
-[![Dominion](https://img.shields.io/badge/DOMINION-AEROSPACE-00f2fe?style=for-the-badge&logo=spacex&logoColor=white)
-
-<p align="center">
-  <img src="https://www.roketsan.com.tr/uploads/cakir.jpg" alt="ÇAKIR" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
-</p>
-](../../README.md)
+[![Dominion](https://img.shields.io/badge/DOMINION-AEROSPACE-00f2fe?style=for-the-badge&logo=spacex&logoColor=white)](../../README.md)
 [![Üretici](https://img.shields.io/badge/%C3%9CRET%C4%B0C%C4%B0-ROKETSAN-orange?style=for-the-badge&logo=target&logoColor=white)](../README.md)
 [![TRL](https://img.shields.io/badge/TRL-9%20(Seri%20%C3%9Cretim%20ve%20Operasyonel)-00E676?style=for-the-badge&logo=speedtest&logoColor=black)](../../../docs/TRL_GUIDE.md)
 [![Durum](https://img.shields.io/badge/DURUM-Seri%20%C3%9Cretim%20%2F%20Envanter-ff007f?style=for-the-badge&logo=shield&logoColor=white)](#)
 
-
+<p align="center">
+  <img src="../../../_ASSETS/platforms/CAKIR.jpg" alt="ÇAKIR" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
+</p>
 
 </div>
 

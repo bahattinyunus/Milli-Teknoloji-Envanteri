@@ -7,7 +7,7 @@
 [![TRL](https://img.shields.io/badge/TRL-7-3f51b5?style=for-the-badge&logo=shield&logoColor=white)
 
 <p align="center">
-  <img src="https://www.sarsilmaz.com/uploads/sarbot.jpg" alt="SARBOT" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
+  <img src="../../../_ASSETS/platforms/SARBOT.jpg" alt="SARBOT" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
 </p>
 ](../../../docs/TRL_GUIDE.md)
 [![Dominion](https://img.shields.io/badge/DOMINION-LAND-green?style=for-the-badge&logo=target&logoColor=white)](../../README.md)

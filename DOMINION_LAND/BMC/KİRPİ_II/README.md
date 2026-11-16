@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://www.bmc.com.tr/uploads/kirpi-2.jpg" alt="KİRPİ II" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
+  <img src="../../../_ASSETS/platforms/BMC_KIRPI_II.jpg" alt="BMC KİRPİ II (Yeni Nesil Bağımsız Süspansiyonlu MRAP)" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
 </p>
 
 

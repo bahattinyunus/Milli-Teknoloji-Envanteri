@@ -1,14 +1,13 @@
 # 💻 Proje: HAVELSAN ADVENT (Ağ Destekli Veri Entegre Savaş Yönetim Sistemi)
 
-[![TRL](https://img.shields.io/badge/TRL-9_Saha_Kanıtlanmış-success?style=for-the-badge&logo=shield)
-
-<p align="center">
-  <img src="https://www.havelsan.com.tr/uploads/advent-sys.jpg" alt="ADVENT" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
-</p>
-](https://www.havelsan.com.tr)
+[![TRL](https://img.shields.io/badge/TRL-9_Saha_Kanıtlanmış-success?style=for-the-badge&logo=shield)](https://www.havelsan.com.tr)
 [![Dominion](https://img.shields.io/badge/Dominion-ELECTRONICS-blue?style=for-the-badge&logo=cpu)](../../README.md)
 [![Üretici](https://img.shields.io/badge/Üretici-HAVELSAN_%26_Deniz_Kuvvetleri-red?style=for-the-badge)](../README.md)
 [![Durum](https://img.shields.io/badge/Durum-Aktif_Hizmette_%26_İhraç_Edildi-brightgreen?style=for-the-badge)](#)
+
+<p align="center">
+  <img src="../../../_ASSETS/platforms/ADVENT.jpg" alt="HAVELSAN ADVENT" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
+</p>
 
 <div align="center">
   

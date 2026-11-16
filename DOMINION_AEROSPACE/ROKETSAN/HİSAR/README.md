@@ -6,7 +6,7 @@
 [![Durum](https://img.shields.io/badge/DURUM-Operasyonel_/_Seri_Üretim-brightgreen?style=for-the-badge&logo=shield&logoColor=white)](#)
 
 <p align="center">
-  <img src="https://www.roketsan.com.tr/uploads/hisar.jpg" alt="HİSAR" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
+  <img src="../../../_ASSETS/platforms/HİSAR.jpg" alt="ROKETSAN HİSAR" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
 </p>
 
 

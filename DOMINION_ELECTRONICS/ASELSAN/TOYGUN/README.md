@@ -1,14 +1,13 @@
 # 🦅 Proje: ASELSAN TOYGUN (5. Nesil Elektro-Optik Hedefleme Sistemi - EOTS)
 
-[![TRL](https://img.shields.io/badge/TRL-7%2F8_Prototip_Doğrulandı-yellowgreen?style=for-the-badge&logo=shield)
-
-<p align="center">
-  <img src="https://www.aselsan.com.tr/uploads/toygun.jpg" alt="TOYGUN" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
-</p>
-](https://www.aselsan.com)
+[![TRL](https://img.shields.io/badge/TRL-7%2F8_Prototip_Doğrulandı-yellowgreen?style=for-the-badge&logo=shield)](https://www.aselsan.com)
 [![Dominion](https://img.shields.io/badge/Dominion-ELECTRONICS-blue?style=for-the-badge&logo=cpu)](../../README.md)
 [![Üretici](https://img.shields.io/badge/Üretici-ASELSAN-red?style=for-the-badge)](../README.md)
 [![Durum](https://img.shields.io/badge/Durum-Entegrasyon_Aşamasında-orange?style=for-the-badge)](#)
+
+<p align="center">
+  <img src="../../../_ASSETS/platforms/TOYGUN.jpg" alt="ASELSAN TOYGUN" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
+</p>
 
 <div align="center">
   

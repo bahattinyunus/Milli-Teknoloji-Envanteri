@@ -1,17 +1,13 @@
 # 🚙 Proje: Nurol Makina ILGAZ II (4x4 Zırhlı İç Güvenlik Aracı)
 
-[![TRL](https://img.shields.io/badge/TRL-9_Operasyonel-blue.svg?style=for-the-badge&logo=shield)
-
-<p align="center">
-  <img src="https://www.nurolmakina.com.tr/uploads/ilgaz-2.jpg" alt="ILGAZ" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
-</p>
-](https://en.wikipedia.org/wiki/Technology_readiness_level)
+[![TRL](https://img.shields.io/badge/TRL-9_Operasyonel-blue.svg?style=for-the-badge&logo=shield)](https://en.wikipedia.org/wiki/Technology_readiness_level)
 [![Dominion](https://img.shields.io/badge/DOMINION-LAND-darkgreen.svg?style=for-the-badge&logo=target)](../../README.md)
 [![Manufacturer](https://img.shields.io/badge/MANUFACTURER-Nurol%20Makina-orange.svg?style=for-the-badge)](../README.md)
 [![Status](https://img.shields.io/badge/STATUS-SERİ__ÜRETİM-brightgreen.svg?style=for-the-badge)](../README.md)
 
-![Dominion Asset](../../../_ASSETS/defense_icon.png)
-![ILGAZ II](https://www.nurolmakina.com.tr/uploads/ilgaz-ii.jpg)
+<p align="center">
+  <img src="../../../_ASSETS/platforms/ILGAZ.jpg" alt="Nurol Makina ILGAZ II 4x4" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
+</p>
 
 > **"Kentsel asayiş ve meskun mahal terör operasyonlarının çevik koruyucusu: Kompakt boyutlar, yüksek balistik zırh ve entegre atış mazgallarıyla kolluğun çelik zırhı."**
 

@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://www.canik.com/uploads/mete-mc9.jpg" alt="METE MC9" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
+  <img src="../../../_ASSETS/platforms/CANIK_METE_MC9.jpg" alt="CANiK METE MC9 (Mikro Kompakt Tabanca)" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
 </p>
 
 

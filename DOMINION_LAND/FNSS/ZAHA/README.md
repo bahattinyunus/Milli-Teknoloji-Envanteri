@@ -1,17 +1,13 @@
 # 🌊 Proje: ZAHA (Zırhlı Amfibi Hücum Aracı - MAV)
 
-[![TRL](https://img.shields.io/badge/TRL-9_Operasyonel-blue.svg?style=for-the-badge&logo=shield)
-
-<p align="center">
-  <img src="https://www.fnss.com.tr/uploads/zaha.jpg" alt="ZAHA" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
-</p>
-](https://en.wikipedia.org/wiki/Technology_readiness_level)
+[![TRL](https://img.shields.io/badge/TRL-9_Operasyonel-blue.svg?style=for-the-badge&logo=shield)](https://en.wikipedia.org/wiki/Technology_readiness_level)
 [![Dominion](https://img.shields.io/badge/DOMINION-LAND-darkgreen.svg?style=for-the-badge&logo=target)](../../README.md)
 [![Manufacturer](https://img.shields.io/badge/MANUFACTURER-FNSS-orange.svg?style=for-the-badge)](../README.md)
 [![Status](https://img.shields.io/badge/STATUS-SERİ__ÜRETİM-brightgreen.svg?style=for-the-badge)](../README.md)
 
-![Dominion Asset](../../../_ASSETS/defense_icon.png)
-![ZAHA](https://www.fnss.com.tr/uploads/products/zaha/zaha_01.jpg)
+<p align="center">
+  <img src="../../../_ASSETS/platforms/ZAHA.jpg" alt="FNSS ZAHA MAV" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
+</p>
 
 > **"Açık deniz dalgalarından sahil tahkimatına uzanan zırhlı çıkarma gücü: Kendini düzelten gövde yapısı ve ÇAKA kulesi ile TCG ANADOLU'nun mızrak ucu."**
 

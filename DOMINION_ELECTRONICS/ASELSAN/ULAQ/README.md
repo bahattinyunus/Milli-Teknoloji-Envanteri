@@ -1,14 +1,13 @@
 # 🌊 Proje: ASELSAN ULAQ Görev Faydalı Yük & Muharebe Paketi
 
-[![TRL](https://img.shields.io/badge/TRL-9_Saha_Kanıtlanmış-success?style=for-the-badge&logo=shield)
-
-<p align="center">
-  <img src="https://www.aselsan.com.tr/uploads/ulaq.jpg" alt="ULAQ" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
-</p>
-](https://www.aselsan.com)
+[![TRL](https://img.shields.io/badge/TRL-9_Saha_Kanıtlanmış-success?style=for-the-badge&logo=shield)](https://www.aselsan.com)
 [![Dominion](https://img.shields.io/badge/Dominion-ELECTRONICS-blue?style=for-the-badge&logo=cpu)](../../README.md)
 [![Üretici](https://img.shields.io/badge/Üretici-ASELSAN_%26_ARES_Tersanesi-red?style=for-the-badge)](../README.md)
 [![Durum](https://img.shields.io/badge/Durum-Aktif_Envanterde-brightgreen?style=for-the-badge)](#)
+
+<p align="center">
+  <img src="../../../_ASSETS/platforms/ULAQ.jpg" alt="ASELSAN ULAQ" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
+</p>
 
 <div align="center">
   

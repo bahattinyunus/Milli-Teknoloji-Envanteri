@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://www.bmc.com.tr/uploads/altay-yeni-nesil.jpg" alt="ALTAY" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
+  <img src="../../../_ASSETS/platforms/ALTAY.jpg" alt="ALTAY (Yeni Nesil Ana Muharebe Tankı)" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
 </p>
 
 

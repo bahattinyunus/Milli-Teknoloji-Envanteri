@@ -1,15 +1,14 @@
 # 🛡️ Proje: ÇELİK KUBBE (Steel Dome - Çok Katmanlı Entegre Hava Savunma Şemsiyesi)
 
-[![TRL](https://img.shields.io/badge/TRL-8_Entegrasyon_Doğrulandı-yellowgreen?style=for-the-badge&logo=shield)
-
-<p align="center">
-  <img src="https://www.aselsan.com.tr/uploads/celik-kubbe.jpg" alt="ÇELİK KUBBE" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
-</p>
-](https://www.aselsan.com)
+[![TRL](https://img.shields.io/badge/TRL-8_Entegrasyon_Doğrulandı-yellowgreen?style=for-the-badge&logo=shield)](https://www.aselsan.com)
 [![Dominion](https://img.shields.io/badge/Dominion-ELECTRONICS-blue?style=for-the-badge&logo=cpu)](../../README.md)
 [![Koordinatör](https://img.shields.io/badge/Koordinatör-SSB_%2F_ASELSAN-red?style=for-the-badge)](../README.md)
 [![Konsorsiyum](https://img.shields.io/badge/Konsorsiyum-ROKETSAN_%7C_TÜBİTAK_SAGE_%7C_MKE-blue?style=for-the-badge)](#)
 [![Durum](https://img.shields.io/badge/Durum-Milli_Entegrasyon_Fazı-brightgreen?style=for-the-badge)](#)
+
+<p align="center">
+  <img src="../../../_ASSETS/platforms/CELIK_KUBBE.jpg" alt="ÇELİK KUBBE" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
+</p>
 
 <div align="center">
   

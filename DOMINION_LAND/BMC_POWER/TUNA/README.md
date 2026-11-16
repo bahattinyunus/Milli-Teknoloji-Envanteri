@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://www.bmcpower.com.tr/uploads/tuna-400.jpg" alt="TUNA" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
+  <img src="../../../_ASSETS/platforms/BMC_POWER_TUNA.jpg" alt="BMC POWER TUNA (400 BG Askeri Dizel Motor)" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
 </p>
 
 

@@ -1,14 +1,13 @@
 # 🦅 Proje: Altınay Savunma PEREGRINE (Döner Kanatlı Taktik Kamikaze İHA)
 
-[![TRL](https://img.shields.io/badge/TRL-7_Prototip_Doğrulandı-yellowgreen?style=for-the-badge&logo=shield)
-
-<p align="center">
-  <img src="https://altinaysavunma.com/uploads/peregrine.jpg" alt="PEREGRINE" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
-</p>
-](https://www.altinay.com)
+[![TRL](https://img.shields.io/badge/TRL-7_Prototip_Doğrulandı-yellowgreen?style=for-the-badge&logo=shield)](https://www.altinay.com)
 [![Dominion](https://img.shields.io/badge/Dominion-ELECTRONICS-blue?style=for-the-badge&logo=cpu)](../../README.md)
 [![Üretici](https://img.shields.io/badge/Üretici-Altınay_Savunma-red?style=for-the-badge)](../README.md)
 [![Durum](https://img.shields.io/badge/Durum-Saha_Testleri_Fazında-orange?style=for-the-badge)](#)
+
+<p align="center">
+  <img src="../../../_ASSETS/platforms/PEREGRINE.jpg" alt="Altınay Savunma PEREGRINE" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
+</p>
 
 <div align="center">
   

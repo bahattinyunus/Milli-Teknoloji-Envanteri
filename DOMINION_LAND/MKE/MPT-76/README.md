@@ -1,16 +1,13 @@
 # 🔫 Proje: MPT-76 & MPT-76 MH (Milli Piyade Tüfeği)
 
-[![TRL](https://img.shields.io/badge/TRL-9_Operasyonel-blue.svg?style=for-the-badge&logo=shield)
-
-<p align="center">
-  <img src="https://www.mke.gov.tr/uploads/mpt-76.jpg" alt="MPT-76" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
-</p>
-](https://en.wikipedia.org/wiki/Technology_readiness_level)
+[![TRL](https://img.shields.io/badge/TRL-9_Operasyonel-blue.svg?style=for-the-badge&logo=shield)](https://en.wikipedia.org/wiki/Technology_readiness_level)
 [![Dominion](https://img.shields.io/badge/DOMINION-LAND-darkgreen.svg?style=for-the-badge&logo=target)](../../README.md)
 [![Manufacturer](https://img.shields.io/badge/MANUFACTURER-MKE-orange.svg?style=for-the-badge)](../README.md)
 [![Status](https://img.shields.io/badge/STATUS-SERİ__ÜRETİM-brightgreen.svg?style=for-the-badge)](../README.md)
 
-![Dominion Asset](../../../_ASSETS/defense_icon.png)
+<p align="center">
+  <img src="../../../_ASSETS/platforms/MPT-76.jpg" alt="MKE MPT-76 Milli Piyade Tüfeği" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
+</p>
 
 > **"NATO standartlarının en ağır 42 dayanıklılık testini sıfır hatayla geçen dünyadaki tek tüfek: Mehmetçiğin çamurda, karda ve fırtınada asla tutukluk yapmayan çelik iradesi."**
 

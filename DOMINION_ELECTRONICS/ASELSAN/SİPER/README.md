@@ -1,14 +1,13 @@
 # 🛡️ Proje: ASELSAN & ROKETSAN SİPER (Uzun Menzilli Bölge Hava Savunma Sistemi)
 
-[![TRL](https://img.shields.io/badge/TRL-8_Kalifiye_Edilmiş-yellowgreen?style=for-the-badge&logo=shield)
-
-<p align="center">
-  <img src="https://www.aselsan.com.tr/uploads/siper.jpg" alt="SİPER" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
-</p>
-](https://www.aselsan.com)
+[![TRL](https://img.shields.io/badge/TRL-8_Kalifiye_Edilmiş-yellowgreen?style=for-the-badge&logo=shield)](https://www.aselsan.com)
 [![Dominion](https://img.shields.io/badge/Dominion-ELECTRONICS-blue?style=for-the-badge&logo=cpu)](../../README.md)
 [![Üretici](https://img.shields.io/badge/Üretici-ASELSAN_%2F_ROKETSAN_%2F_TÜBİTAK_SAGE-red?style=for-the-badge)](../README.md)
 [![Durum](https://img.shields.io/badge/Durum-Seri_Üretim_Aşaması-blue?style=for-the-badge)](#)
+
+<p align="center">
+  <img src="../../../_ASSETS/platforms/SIPER.jpg" alt="ASELSAN & ROKETSAN SİPER" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
+</p>
 
 <div align="center">
   

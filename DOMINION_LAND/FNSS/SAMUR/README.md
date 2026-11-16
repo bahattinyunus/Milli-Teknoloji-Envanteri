@@ -1,17 +1,13 @@
 # 🌉 Proje: FNSS SAMUR (Seyyar Yüzücü Hücum Köprüsü - SYHK)
 
-[![TRL](https://img.shields.io/badge/TRL-9_Operasyonel-blue.svg?style=for-the-badge&logo=shield)
-
-<p align="center">
-  <img src="https://www.fnss.com.tr/uploads/samur.jpg" alt="SAMUR" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
-</p>
-](https://en.wikipedia.org/wiki/Technology_readiness_level)
+[![TRL](https://img.shields.io/badge/TRL-9_Operasyonel-blue.svg?style=for-the-badge&logo=shield)](https://en.wikipedia.org/wiki/Technology_readiness_level)
 [![Dominion](https://img.shields.io/badge/DOMINION-LAND-darkgreen.svg?style=for-the-badge&logo=target)](../../README.md)
 [![Manufacturer](https://img.shields.io/badge/MANUFACTURER-FNSS-orange.svg?style=for-the-badge)](../README.md)
 [![Status](https://img.shields.io/badge/STATUS-SERİ__ÜRETİM-brightgreen.svg?style=for-the-badge)](../README.md)
 
-![Dominion Asset](../../../_ASSETS/defense_icon.png)
-![SAMUR](https://www.fnss.com.tr/uploads/samur-syhk.jpg)
+<p align="center">
+  <img src="../../../_ASSETS/platforms/SAMUR.jpg" alt="FNSS SAMUR SYHK" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
+</p>
 
 > **"Nehirleri dakikalar içinde otoyola çeviren milli istihkam dehasi: Ağır tank birliklerine sulu engellerde kesintisiz taarruz sürekliliği."**
 

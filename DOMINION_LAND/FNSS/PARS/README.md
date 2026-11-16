@@ -1,17 +1,13 @@
 # 🐆 Proje: PARS (PARS III, IV & ALPHA 6x6 / 8x8)
 
-[![TRL](https://img.shields.io/badge/TRL-9_Operasyonel-blue.svg?style=for-the-badge&logo=shield)
-
-<p align="center">
-  <img src="https://www.fnss.com.tr/uploads/pars-iii-8x8.jpg" alt="PARS" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
-</p>
-](https://en.wikipedia.org/wiki/Technology_readiness_level)
+[![TRL](https://img.shields.io/badge/TRL-9_Operasyonel-blue.svg?style=for-the-badge&logo=shield)](https://en.wikipedia.org/wiki/Technology_readiness_level)
 [![Dominion](https://img.shields.io/badge/DOMINION-LAND-darkgreen.svg?style=for-the-badge&logo=target)](../../README.md)
 [![Manufacturer](https://img.shields.io/badge/MANUFACTURER-FNSS-orange.svg?style=for-the-badge)](../README.md)
 [![Status](https://img.shields.io/badge/STATUS-SERİ__ÜRETİM-brightgreen.svg?style=for-the-badge)](../README.md)
 
-![Dominion Asset](../../../_ASSETS/defense_icon.png)
-![PARS](https://www.fnss.com.tr/uploads/products/pars-iii-8x8/pars_iii_8x8_01.jpg)
+<p align="center">
+  <img src="../../../_ASSETS/platforms/PARS.jpg" alt="FNSS PARS III 8x8" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
+</p>
 
 > **"Tekerlekli zırhlı muharebe araçlarında küresel çeviklik standardı: Bütün akslardan yönlendirme, hidropnömatik süspansiyon ve yengeç yürüyüşü ile sınır tanımayan taktik mobilite."**
 

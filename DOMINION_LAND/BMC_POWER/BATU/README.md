@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://www.bmcpower.com.tr/uploads/batu-1500.jpg" alt="BATU" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
+  <img src="../../../_ASSETS/platforms/BMC_POWER_BATU.jpg" alt="BMC POWER BATU (1500 BG Tank Güç Grubu)" width="750" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
 </p>
 
 
