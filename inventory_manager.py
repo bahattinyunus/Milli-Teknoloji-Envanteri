@@ -530,8 +530,8 @@ class InventoryManager:
         print(f"✅ {template_path} başarıyla en güncel verilerle ({len(projects_payload)} proje) senkronize edildi.")
 
     def sync_root_readme(self, readme_path="README.md"):
-        """Syncs all project entries, badges, and tables in root README.md."""
-        print("\n🔄 --- Ana README.md Senkronize Ediliyor --- 🔄\n")
+        """Syncs all project entries, badges, and tables in root README.md with iconic portal layout."""
+        print("\n🔄 --- Ana README.md İkonik Portala Dönüştürülerek Senkronize Ediliyor --- 🔄\n")
         full_readme = os.path.join(self.root_dir, readme_path)
         if not os.path.exists(full_readme):
             print(f"❌ {readme_path} bulunamadı!")
@@ -542,127 +542,150 @@ class InventoryManager:
         valid_trls = [p['trl'] for p in all_projs if p['trl'] is not None]
         avg_trl = sum(valid_trls) / len(valid_trls) if valid_trls else 0.0
 
-        header_part = f"""# 🇹🇷 Milli Teknoloji Envanteri (National Tech Inventory)
+        header_part = f"""# 🇹🇷 Milli Teknoloji Envanteri (National Defense & Tech Portal)
 
-![Milli Envanter Hero Banner](_ASSETS/hero_banner.png)
+<p align="center">
+  <img src="_ASSETS/hero_banner.png" alt="Milli Teknoloji Envanteri Hero Banner" width="100%">
+</p>
 
-> **"Köklerden Göklere, Mavi Vatan'dan Uzaya: Tam Bağımsız Türkiye!"**
->
-> ![Projects Count](https://img.shields.io/badge/Envanter-{total_projects}+_Proje-blue?style=for-the-badge&logo=target&logoColor=white)
-> ![TRL Average](https://img.shields.io/badge/Ortalama_TRL-{avg_trl:.1f}-brightgreen?style=for-the-badge&logo=speedtest&logoColor=white)
-> ![System Status](https://img.shields.io/badge/Sistem_Durumu-Operasyonel-success?style=for-the-badge&logo=checkmarx&logoColor=white)
-> ![Çelik Kubbe & AI](https://img.shields.io/badge/Çelik_Kubbe_&_AI-Entegre-orange?style=for-the-badge&logo=futurelearn&logoColor=white)
+<p align="center">
+  <b>"Köklerden Göklere, Mavi Vatan'dan Uzaya: Tam Bağımsız Türk Savunma Sanayii"</b>
+</p>
 
-## 🛡️ Stratejik Egemenlik Manifestosu (Strategic Sovereignty)
-Bu envanter, sadece bir savunma sanayii proje dökümü değil; Türkiye'nin **2053 ve 2071 stratejik vizyonlarına** giden yolda döşenen teknolojik bağımsızlık taşlarının dökümüdür. "Tam Bağımsızlık" ilkesiyle, ithal ikameci anlayıştan teknoloji ihraç eden ve küresel doktrin belirleyen bir güç haline gelen Türk mühendisliğinin kolektif hafızasıdır.
+<p align="center">
+  <a href="https://github.com/bahattinyunus/Milli-Teknoloji-Envanteri"><img src="https://img.shields.io/badge/Envanter-{total_projects}+_Stratejik_Platform-00f2fe?style=for-the-badge&logo=target&logoColor=black" alt="Envanter Sayısı"></a>
+  <a href="docs/TRL_GUIDE.md"><img src="https://img.shields.io/badge/Ortalama_TRL-{avg_trl:.2f}_%2F_9.00-00E676?style=for-the-badge&logo=speedtest&logoColor=black" alt="Ortalama TRL"></a>
+  <a href="DASHBOARD.html"><img src="https://img.shields.io/badge/Muharebe_Hazırlık-100%25_Operasyonel-ff007f?style=for-the-badge&logo=shield&logoColor=white" alt="Operasyonel"></a>
+  <a href="docs/ARCHITECTURE.md"><img src="https://img.shields.io/badge/Doktrin-Çelik_Kubbe_&_MUM--T-7928CA?style=for-the-badge&logo=airplayvideo&logoColor=white" alt="Doktrin"></a>
+  <a href="docs/API_CLI.md"><img src="https://img.shields.io/badge/Standart-NATO_&_SSB_TRL-blueviolet?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Standart"></a>
+</p>
 
-### 🎯 Temel Doktriner Hedefler:
-1. **Dışa Bağımlılığın Sıfırlanması:** Kritik alt sistemlerin (Motor, Transmisyon, AESA Radar, Sensör, Mikroişlemci ve Gerçek Zamanlı İşletim Sistemleri) %100 yerlileştirilmesi.
-2. **Çok Katmanlı Ağ Merkezli Savunma (Çelik Kubbe):** Çok alçak irtifadan uzay sınırına kadar tüm hava ve füze savunma unsurlarını yapay zeka ile koordine eden entegre kalkan.
-3. **Karma Sürü ve İnsansız Muharebe Üstünlüğü:** SİHA, İDA, İKA ve insanlı platformların (Manned-Unmanned Teaming / MUM-T) müşterek görev icrası.
-4. **Stratejik Caydırıcılık:** Derin darbe balistik ve seyir füzeleri, havadan bağımsız tahrikli denizaltılar ve 5. nesil stealth platformlar ile sınır ötesi caydırıcılık.
-
----
-
-## 🏗️ Teknolojik Katmanlar ve Derinlik (Technological Layers)
-
-### 💎 Katman 0: Donanım ve Malzeme (The Foundation)
-- **Galyum Nitrat (GaN) Yarı İletkenler:** ASELSAN ve NANOTAM bünyesinde üretilen, MURAD, ERALP, CENK AESA radarlarının çekirdeğini oluşturan güç transistörleri.
-- **İleri Kompozit ve Radar Soğurucu Malzemeler:** KAAN, ANKA-3 ve KIZILELMA için geliştirilen düşük radar kesit alanı (RCS) sağlayan gövde kaplamaları.
-- **Milli Zırh Çelikleri & Balistik Seramikler:** ALTAY, ZAHA ve PARS için geliştirilen yüksek mukavemetli milli zırh alaşımları.
-
-### 🧠 Katman 1: Yazılım, Yapay Zeka ve C4I (The Intelligence)
-- **ÇELİK KUBBE & HAKİM C4I:** Bütün hava savunma bataryalarını, radarları ve erken ihbar sistemlerini milisaniyeler seviyesinde eşleştiren yapay zeka karar destek ağı.
-- **ADVENT SYS:** Dünyanın en gelişmiş ağ destekli savaş yönetim yazılımlarından biri; Türk Donanması ve ihraç gemilerinde ana operasyonel beyin.
-- **MAIN AI:** HAVELSAN tarafından askeri ve kurumsal doktrin için geliştirilen milli üretken yapay zeka modeli.
-
-### ⚙️ Katman 2: Enerji ve Tahrik (The Power)
-- **Havacılık Motorları (TEI):** TF6000 ve art yakıcılı TF10000 turbofan motorları, TS1400 helikopter turboşaftı ve PD170/PD222 İHA motorları.
-- **Zırhlı Araç Güç Grupları (BMC POWER):** ALTAY için 1500 BG BATU, hafif zırhlılar ve Fırtına için 1000 BG UTKU güç grupları.
-- **Katı & Sıvı Yakıtlı İtki (ROKETSAN):** BORA, TAYFUN ve CENK balistik füzeleri ile milli uzay fırlatma roket motorları.
+<p align="center">
+  <a href="#-dominion-aerospace-hava--uzay">🌌 Hava & Uzay</a> •
+  <a href="#-dominion-electronics--ai-dijital-egemenlik">📡 Elektronik & YZ</a> •
+  <a href="#-dominion-land-kara--zırh">🚜 Kara & Zırh</a> •
+  <a href="#-dominion-sea-mavi-vatan">⚓ Mavi Vatan</a> •
+  <a href="#-çelik-kubbe--ağ-merkezli-hava-savunma-doktrini">🛡️ Çelik Kubbe</a> •
+  <a href="#-mum-t-ve-karma-sürü-muharebe-doktrini">🤖 MUM-T Doktrini</a> •
+  <a href="DASHBOARD.html">🖥️ Canlı Dashboard</a> •
+  <a href="#-stratejik-dokümantasyon-ve-standartlar">📚 Dokümantasyon</a>
+</p>
 
 ---
 
-## 🏛️ Kurumsal Dominion Yapısı ve Stratejik Derinlik
+## 🏛️ Stratejik Egemenlik ve Vizyon Manifestosu
+
+Milli Teknoloji Envanteri, Türkiye'nin **2053 ve 2071 stratejik vizyonlarına** giden yolda geliştirilen yerli ve milli savunma sanayii varlıklarının yüksek çözünürlüklü dijital kütüphanesidir. İthal ikameci anlayıştan küresel oyun kurucu doktrin seviyesine yükselen Türk savunma ekosisteminin tüm operasyonel bileşenlerini ve TRL olgunluk seviyelerini belgeler.
+
+### 🌟 Dört Boyutlu Muharebe Hakimiyeti:
+1. **🌌 Hava ve Uzay:** 5. Nesil Hayalet Uçak (KAAN), İnsansız Muharip Uçaklar (KIZILELMA, ANKA-3), Yüksek İrtifa TİHA'lar ve Alçak Yörünge Uydu Takımları.
+2. **📡 Siber ve Elektronik Harp:** AESA Radarları (ERALP, CENK, MURAD), Çelik Kubbe Yapay Zeka Karar Ağı, ADVENT Savaş Yönetimi ve KORAL/REDET EH Sistemleri.
+3. **🚜 Kara ve Zırhlı Muharebe:** ALTAY Yeni Nesil Ana Muharebe Tankı, FIRTINA II Obüsleri, İleri Zırhlı Taktik Araçlar ve Balistik Derin Darbe Füzeleri (BORA, TAYFUN).
+4. **⚓ Mavi Vatan:** TCG ANADOLU Çok Maksatlı Amfibi Hücum Gemisi, MİLGEM İ-Sınıfı Fırkateynler, MİLDEN Havadan Bağımsız Tahrikli Denizaltılar ve Otonom SİDA Sürüleri.
+
+---
+
+## 💎 Amiral Gemisi Platformlar (Flagship Highlights)
+
+| Platform | Üretici | Dominion | Rol & Stratejik Nitelik | TRL |
+| :--- | :--- | :--- | :--- | :---: |
+| **[KAAN](./DOMINION_AEROSPACE/TUSAŞ/KAAN/README.md)** | TUSAŞ | AEROSPACE | 5. Nesil Milli Muharip Uçak, Süperseyir, Dahili Silah Yuvası, AESA | `TRL 7` |
+| **[KIZILELMA](./DOMINION_AEROSPACE/BAYKAR/KIZILELMA/README.md)** | BAYKAR | AEROSPACE | İnsansız Savaş Uçağı (MİUS), Düşük RCS, Süpersonik İtki, MUM-T | `TRL 8` |
+| **[ANKA-3](./DOMINION_AEROSPACE/TUSAŞ/ANKA-3/README.md)** | TUSAŞ | AEROSPACE | Uçan Kanat (Flying Wing) Derin Darbe Hayalet SİHA | `TRL 7` |
+| **[ÇELİK KUBBE](./DOMINION_ELECTRONICS/ASELSAN/ÇELİK_KUBBE/README.md)** | SSB / ASELSAN | ELECTRONICS | Çok Katmanlı Yapay Zeka Destekli Entegre Hava Savunma Sistemi | `TRL 8` |
+| **[TCG ANADOLU](./DOMINION_SEA/DzKK/TCG_ANADOLU/README.md)** | DzKK / SEDEF | SEA | Dünyanın İlk SİHA/LHD Amfibi Görev Gemisi | `TRL 9` |
+| **[TCG İSTANBUL (F-515)](./DOMINION_SEA/STM/TCG_İSTANBUL/README.md)** | STM / DzKK | SEA | Milli MİLGEM İ-Sınıfı Fırkateyn, MİDLAS Dikey Atım & ADVENT SYS | `TRL 9` |
+| **[ALTAY](./DOMINION_LAND/BMC/ALTAY/README.md)** | BMC | LAND | Yeni Nesil Ana Muharebe Tankı, AKKOR Aktif Koruma, 1500 BG BATU | `TRL 8` |
+| **[TAYFUN](./DOMINION_LAND/ROKETSAN/TAYFUN/README.md)** | ROKETSAN | LAND | Kısa/Orta Menzilli Stratejik Hipersonik/Balistik Füze Sistemi | `TRL 8` |
+
+---
+
+## 🏛️ Kurumsal Dominion Envanteri
 
 > [!NOTE]
-> Bu bölümdeki tüm veriler, `inventory_manager.py` analiz motoru tarafından alt dizinlerdeki teknik spec-sheet dokümanlarından taranarak otomatik olarak doğrulanmıştır.
+> Aşağıdaki tablolar `inventory_manager.py` analiz motoru tarafından otomatik olarak taranıp doğrulanmıştır. Her platformun detaylı teknik özelliklerine, silah konfigürasyonlarına ve motor tiplerine ilgili bağlantıdan ulaşabilirsiniz.
 """
 
         dominion_meta = {
-            'AEROSPACE': ('🌌 [DOMINION AEROSPACE (Hava & Uzay)](./DOMINION_AEROSPACE/README.md)', 'Hava ve Uzay Egemenliği'),
-            'ELECTRONICS': ('📡 [DOMINION ELECTRONICS & AI (Dijital Egemenlik)](./DOMINION_ELECTRONICS/README.md)', 'Elektronik Harp, Radar, Siber Güvenlik ve Yapay Zeka'),
-            'LAND': ('🚜 [DOMINION LAND (Kara & Zırh)](./DOMINION_LAND/README.md)', 'Kara Muharebesi, Zırhlı Birlikler ve Ağır Ateş Gücü'),
-            'SEA': ('⚓ [DOMINION SEA (Mavi Vatan)](./DOMINION_SEA/README.md)', 'Deniz Kuvvetleri, Su Altı ve İnsansız Deniz Araçları')
+            'AEROSPACE': (
+                '🌌 DOMINION AEROSPACE (Hava & Uzay)',
+                'Hava Hakimiyeti, İnsansız Hava Araçları, Helikopterler, İtki Motorları ve Uydu Sistemleri',
+                'DOMINION_AEROSPACE'
+            ),
+            'ELECTRONICS': (
+                '📡 DOMINION ELECTRONICS & AI (Dijital Egemenlik)',
+                'AESA Radarları, Elektronik Harp, Komuta Kontrol (C4I), Askeri Yapay Zeka ve Elektro-Optik Sistemler',
+                'DOMINION_ELECTRONICS'
+            ),
+            'LAND': (
+                '🚜 DOMINION LAND (Kara & Zırh)',
+                'Ana Muharebe Tankları, Zırhlı Taktik Araçlar, Ağır Topçu, Balistik Füzeler ve Güç Grupları',
+                'DOMINION_LAND'
+            ),
+            'SEA': (
+                '⚓ DOMINION SEA (Mavi Vatan)',
+                'Fırkateynler, Amfibi Hücum Gemileri, Havadan Bağımsız Denizaltılar ve Otonom SİDA Sürüleri',
+                'DOMINION_SEA'
+            )
         }
 
         tables_text = ""
-        for dom, (title, desc) in dominion_meta.items():
+        for dom, (title, desc, folder) in dominion_meta.items():
             projs_in_dom = [p for p in all_projs if p['dominion'] == dom]
             projs_in_dom.sort(key=lambda x: (x['company'], x['name']))
 
-            tables_text += f"\n### {title}\n\n"
-            tables_text += f"*{len(projs_in_dom)} Platform / Sistem - {desc}*\n\n"
-            tables_text += "| Proje / Platform | Üretici | Sınıf / Stratejik Rol | TRL |\n"
-            tables_text += "| :--- | :--- | :--- | :--- |\n"
+            tables_text += f"\n### [{title}](./{folder}/README.md)\n\n"
+            tables_text += f"> *{desc}* — **Toplam {len(projs_in_dom)} Kayıtlı Platform**\n\n"
+            tables_text += f"<details open>\n"
+            tables_text += f"<summary><b>📋 {dom} Platform Kataloğunu Görüntüleyin / Daraltın ({len(projs_in_dom)} Sistem)</b></summary>\n\n"
+            tables_text += "| Proje / Platform | Üretici / Kurum | Sınıf & Stratejik Görev | Olgunluk (TRL) |\n"
+            tables_text += "| :--- | :--- | :--- | :---: |\n"
 
             for p in projs_in_dom:
-                trl_val = f"TRL {int(p['trl'])}" if p['trl'] and p['trl'].is_integer() else (f"TRL {p['trl']:.1f}" if p['trl'] else "TRL 7")
+                trl_val = f"`TRL {int(p['trl'])}`" if p['trl'] and p['trl'].is_integer() else (f"`TRL {p['trl']:.1f}`" if p['trl'] else "`TRL 7`")
                 role = p['class'] if p['class'] and p['class'] != 'Platform / Alt Sistem' else p['strategic_role']
                 if not role: role = "Kritik Savunma Teknolojisi"
                 if len(role) > 55: role = role[:52] + "..."
                 tables_text += f"| **[{p['name']}](./{p['path']}/README.md)** | {p['company']} | {role} | {trl_val} |\n"
 
+            tables_text += "\n</details>\n"
+
         footer_part = """
 ---
 
-## 🔗 Ekosistem Entegrasyonu (Neural & Multi-Domain Synergy)
+## 🛡️ Çelik Kubbe & Ağ Merkezli Hava Savunma Doktrini
 
-Aşağıdaki mimari diyagramı; sensörden komuta kontrol merkezine, vurucu hava, deniz ve kara platformlarına kadar milli sistemlerin birbirine nasıl entegre çalıştığını gösterir:
+Milli Çelik Kubbe mimarisi; en alt irtifadan uzay sınırına kadar tüm radar, elektro-optik, komuta kontrol ve füze/namlulu önleme katmanlarını yapay zeka ile senkronize eder:
 
 ```mermaid
 graph TD
-    subgraph SENSORS ["Gözetleme & Erken İhbar Radarları"]
-        ERALP["ERALP AESA Radar (450+ km)"]
-        CENK["CENK-350N Gemi AESA Radarı"]
-        MURAD["MURAD Burun Radarı (KAAN/AKINCI)"]
-        IMECE["İMECE & GÖKTÜRK Uyduları"]
+    subgraph SENSORS ["1. RADAR & SENSÖR GÖZETLEME KATMANI"]
+        ERALP["ERALP Taşınabilir Erken İhbar Radarı (450+ km)"]
+        CENK["CENK-350N Çok Fonksiyonlu Deniz AESA"]
+        MURAD["MURAD AESA Burun Radarı (KAAN / AKINCI)"]
+        IMECE["İMECE & GÖKTÜRK Yüksek Çözünürlüklü Uydular"]
+        PUHU["PUHU Taşınabilir Dinleme & Kestirme Sistemi"]
     end
 
-    subgraph C4I_BRAIN ["Stratejik Karar & Komuta Kontrol (C4I)"]
-        CELIK["🛡️ ÇELİK KUBBE (Entegre Savunma Mimarisi)"]
-        HAKIM["HAKİM Hava Komuta Kontrol"]
-        ADVENT["ADVENT Deniz Savaş Yönetim Sistemi"]
-        MAIN["MAIN AI (Harp Doktrini YZ)"]
+    subgraph C4I_BRAIN ["2. YAPAY ZEKA DESTEKLİ C4I KOMUTA MERKEZİ"]
+        CELIK["🛡️ ÇELİK KUBBE ENTEGRE SİSTEMİ"]
+        HAKIM["HAKİM Hava Komuta Kontrol Sistemi"]
+        ADVENT["ADVENT Ağ Destekli Savaş Yönetimi"]
+        MAIN["MAIN AI Harp Doktrini Modeli"]
     end
 
-    subgraph AIR_POWER ["Hava & Uzay Vuruş Gücü"]
-        KAAN["KAAN 5. Nesil MMU"]
-        KIZILELMA["KIZILELMA MİUS"]
-        ANKA3["ANKA-3 Stealth Uçak"]
-        AKINCI["AKINCI TİHA"]
+    subgraph SHORAD ["3. ÇOK ALÇAK & ALÇAK İRTİFA SAVUNMA (0 - 10 km)"]
+        KORKUT["KORKUT 35mm Parçacıklı Mühimmat (ATOM)"]
+        SUNGUR["SUNGUR Portatif Hava Savunma Füzesi"]
+        GURZ["GÜRZ Hibrit Hava Savunma Sistemi"]
+        ALKA["ALKA Yönlendirilmiş Enerji Silahı (Lazer)"]
     end
 
-    subgraph AIR_DEFENSE ["Katmanlı Hava Savunma"]
-        KORKUT["KORKUT (Parçacıklı ATOM)"]
-        HISAR["HİSAR-A+ / HİSAR-O+"]
-        SIPER["SİPER Ürün-1/2 (150+ km)"]
-        GURZ["GÜRZ Hibrit Sistem"]
-    end
-
-    subgraph NAVAL_FORCE ["Mavi Vatan Görev Grubu"]
-        ANADOLU["TCG ANADOLU LHD"]
-        ISTANBUL["TCG İSTANBUL Fırkateyn"]
-        MIDLAS["MİDLAS Dikey Atım Sistemi"]
-        MILDEN["MİLDEN AIP Denizaltı"]
-        MARLIN["MARLİN Elektronik Harp SİDA"]
-    end
-
-    subgraph LAND_FORCE ["Kara & Zırhlı Caydırıcılık"]
-        ALTAY["ALTAY Tankı (1500 BG BATU)"]
-        FIRTINA["FIRTINA II Obüsü (1000 BG UTKU)"]
-        ZAHA["ZAHA Amfibi Hücum Aracı"]
-        BORA["BORA / TAYFUN Balistik Füzeler"]
+    subgraph MEDIUM_HIGH ["4. ORTA & UZUN MENZİL HAVA SAVUNMA (10 - 150+ km)"]
+        HISAR_A["HİSAR-A+ Alçak İrtifa Füzesi"]
+        HISAR_O["HİSAR-O+ Orta İrtifa Füzesi"]
+        SIPER1["SİPER Ürün-1 Uzun Menzil Bölge Savunma (100 km)"]
+        SIPER2["SİPER Ürün-2 İleri İrtifa Önleyici (150+ km)"]
     end
 
     SENSORS --> CELIK
@@ -671,31 +694,71 @@ graph TD
     HAKIM <--> ADVENT
     MAIN <--> HAKIM
 
-    HAKIM --> AIR_DEFENSE
-    HAKIM --> AIR_POWER
-    ADVENT --> NAVAL_FORCE
-    HAKIM --> LAND_FORCE
-    ISTANBUL --- MIDLAS
-    MIDLAS --- SIPER
-    KAAN --- KIZILELMA
-    KAAN --- ANKA3
+    CELIK ==> SHORAD
+    CELIK ==> MEDIUM_HIGH
 ```
 
 ---
 
-## 🖥️ İnteraktif Komuta Merkezi (Interactive Dashboard)
+## 🤖 MUM-T ve Karma Sürü Muharebe Doktrini
 
-Envanterin canlı filtreleme, TRL olgunluk grafikleri, karma sürü simülatörü ve anlık arama motoruna sahip modern web arayüzü `DASHBOARD.html` dosyasında yer almaktadır.
+İnsanlı ve insansız platformların müşterek harekat icra ettiği Manned-Unmanned Teaming (MUM-T) mimarisi:
 
-- **Canlı Web Arayüzü:** [DASHBOARD.html](DASHBOARD.html)
-- **Kapsamlı Yönetici Raporu:** [INVENTORY_REPORT.md](INVENTORY_REPORT.md)
-- **Makine Okunabilir Veri Tabanı:** [inventory_data.json](inventory_data.json) | [inventory_data.csv](inventory_data.csv)
+```mermaid
+flowchart LR
+    subgraph COMMAND_AIR ["İnsanlı Lider Platform"]
+        KAAN["KAAN 5. Nesil MMU<br/><i>(Taktik Karar & Görev Lideri)</i>"]
+    end
+
+    subgraph UNMANNED_ESCORT ["Sadık Kanat Adamları (Loyal Wingman)"]
+        KIZILELMA["KIZILELMA MİUS<br/><i>(Hava-Hava Önleme & İtki Gücü)</i>"]
+        ANKA3["ANKA-3 Stealth SİHA<br/><i>(Derin Darbe & SEAD/DEAD)</i>"]
+        SUPER_SIMSEK["SÜPER ŞİMŞEK<br/><i>(Elektronik Karıştırma & Yem İHA)</i>"]
+    end
+
+    subgraph SWARM_STRIKE ["Akıllı Karma Sürü & Kamikaze"]
+        ALPAGU["ALPAGU Akıllı Dolanan Mühimmat"]
+        KARGU["KARGU Döner Kanatlı Vurucu İHA"]
+        BOYGA["BOYGA Havan Mühimmatı Bırakan İHA"]
+    end
+
+    subgraph NAVAL_FORCE ["Mavi Vatan Otonom Deniz Gücü"]
+        ANADOLU["TCG ANADOLU (L-400)"]
+        TB3["Bayraktar TB3 (Katlanır Kanat)"]
+        MARLIN["MARLİN Elektronik Harp SİDA"]
+        SALDIRGAN["SALDIRGAN / SANCAR SİDA"]
+    end
+
+    KAAN ==>|Şifreli KEMENT Taktik Veri Bağı| KIZILELMA
+    KAAN ==>|Şifreli KEMENT Taktik Veri Bağı| ANKA3
+    ANKA3 --> SUPER_SIMSEK
+    KIZILELMA --> SWARM_STRIKE
+    ANADOLU --- TB3
+    ANADOLU --- MARLIN
+    MARLIN <--> SALDIRGAN
+```
 
 ---
 
-## 🛠️ Envanter Yönetim Aracı (inventory_manager.py)
+## 📚 Stratejik Dokümantasyon ve Standartlar
 
-Depoda bulunan tüm platformları denetlemek, analiz etmek ve dışa aktarmak için geliştirilmiş CLI yönetim aracı:
+Envanterin metodolojisi, savunma mimarisi ve API kullanımı hakkında hazırlanan detaylı teknik kılavuzlar:
+
+| Doküman | Açıklama | Bağlantı |
+| :--- | :--- | :--- |
+| **Sistem Mimarisi** | Ağ merkezli harp, Çelik Kubbe ve Mavi Vatan entegrasyon doktrini | [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md) |
+| **TRL Değerlendirme Kılavuzu** | NASA/DoD ve SSB TRL 1-9 savunma sanayii hazırlık standartları | [docs/TRL_GUIDE.md](docs/TRL_GUIDE.md) |
+| **CLI & Veri Tabanı API** | `inventory_manager.py` komut satırı araçları ve veri formatları | [docs/API_CLI.md](docs/API_CLI.md) |
+| **İnteraktif Komuta Ekranı** | Fütüristik ses efektli, radarlı ve filtreli canlı gösterge paneli | [DASHBOARD.html](DASHBOARD.html) |
+| **Stratejik Rapor** | Genel ekosistem olgunluk analizi ve şirket bazlı dağılım raporu | [INVENTORY_REPORT.md](INVENTORY_REPORT.md) |
+| **JSON Veri Tabanı** | Makine tarafından işlenebilir güncel envanter veri tabanı | [inventory_data.json](inventory_data.json) |
+| **CSV Tablo Verisi** | Elektronik tablo ve veri analizi için düzleştirilmiş veri | [inventory_data.csv](inventory_data.csv) |
+
+---
+
+## 🛠️ Envanter Yönetim Aracı (`inventory_manager.py`)
+
+Gelişmiş otomasyon ve veri doğrulama motoru ile envanteri yönetmek için kullanılan temel komutlar:
 
 ```bash
 # Sistem sağlık denetimi (Tüm spec-sheet ve bağlantıları doğrular)
@@ -707,7 +770,7 @@ python inventory_manager.py --stats
 # Şirketler ve dominionlar arası yetenek matrisini incele
 python inventory_manager.py --matrix
 
-# Akıllı arama motorunu çalıştır
+# Akıllı çok terimli arama motorunu çalıştır
 python inventory_manager.py --search "AESA"
 
 # Tüm sistemleri (README, Dashboard, Rapor, JSON, CSV) tek seferde senkronize et
@@ -716,20 +779,27 @@ python inventory_manager.py --sync-all
 
 ---
 
-## 📁 Depo Varlıkları (Repository Assets)
-- [.gitignore](.gitignore)
-- [CONTRIBUTING.md](CONTRIBUTING.md)
-- [LICENSE](LICENSE)
-- [inventory_manager.py](inventory_manager.py)
-- [DASHBOARD.html](DASHBOARD.html)
-- [INVENTORY_REPORT.md](INVENTORY_REPORT.md)
-- [inventory_data.json](inventory_data.json)
-- [inventory_data.csv](inventory_data.csv)
+## 🤝 Katkıda Bulunma ve Ekosistem Standartları
+
+Milli Teknoloji Envanteri açık kaynaklı, şeffaf ve kurumsal bir bilgi bankasıdır. Yeni bir platform eklemek veya mevcut spec-sheet dokümanlarını güncellemek için:
+- Lütfen [CONTRIBUTING.md](CONTRIBUTING.md) belgesini inceleyin.
+- GitHub Issue şablonlarını kullanarak doğrudan platform bildiriminde bulunun:
+  - [Yeni Platform Ekleme Formu](.github/ISSUE_TEMPLATE/01_yeni_platform.yml)
+  - [Teknik Veri Güncelleme](.github/ISSUE_TEMPLATE/02_veri_guncelleme.yml)
+  - [Hata / Uyuşmazlık Bildirimi](.github/ISSUE_TEMPLATE/03_hata_bildirimi.yml)
 
 ---
 
-**"Yarın Değil, Şimdi! Gelecek Burada."** 🇹🇷
+<p align="center">
+  <b>"Yarın Değil, Şimdi! Gelecek Burada."</b> 🇹🇷<br/>
+  <i>Milli Savunma Sanayii & Türk Mühendisliğinin Hizmetindedir.</i>
+</p>
 """
+
+        with open(full_readme, 'w', encoding='utf-8') as f:
+            f.write(header_part + tables_text + footer_part)
+
+        print(f"✅ {readme_path} başarıyla güncellendi ({total_projects} Proje, TRL {avg_trl:.2f}).")
 
         with open(full_readme, 'w', encoding='utf-8') as f:
             f.write(header_part + tables_text + footer_part)

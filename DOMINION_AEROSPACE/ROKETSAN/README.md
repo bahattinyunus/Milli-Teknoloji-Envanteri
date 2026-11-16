@@ -12,6 +12,7 @@
 - [MAM AİLESİ](MAM_AILESI/README.md) - Mini Akıllı Mühimmat Ailesi (MAM-C, MAM-L, MAM-T)
 - [TAYFUN](TAYFUN/README.md) - Kısa Menzilli Balistik Füze (560+ km)
 - [TAYFUN BLOK4](TAYFUN_BLOK4/README.md) - Gelişmiş Balistik / Hipersonik Blok
+- [UMTAS](UMTAS/README.md) - Uzun Menzilli Tanksavar Füze Ailesi (IIR / L-UMTAS)
 - [ÇAKIR](ÇAKIR/README.md) - Modüler Seyir Füzesi Ailesi (150+ km)
 - [İHA-300](İHA-300/README.md) - İHA'dan Atılan Süpersonik Füze Ailesi
 

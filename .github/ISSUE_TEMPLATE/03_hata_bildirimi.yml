@@ -1,0 +1,12 @@
+name: "🐛 Hata / Kırık Bağlantı Bildirimi"
+description: "Kırık bağlantı, format hatası veya CLI aracı sorunu bildirin"
+title: "[Hata]: "
+labels: ["hata", "düzeltme"]
+body:
+  - type: textarea
+    id: hata_tanimi
+    attributes:
+      label: "Hata Açıklaması"
+      placeholder: "Hangi dosya veya komutta sorun yaşandı?"
+    validations:
+      required: true

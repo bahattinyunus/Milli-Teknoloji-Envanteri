@@ -1,0 +1,53 @@
+name: "🚀 Yeni Platform / Sistem Önerisi"
+description: "Milli Teknoloji Envanteri'ne yeni bir savunma veya havacılık projesi ekleyin"
+title: "[Platform]: "
+labels: ["yeni-platform", "envanter-genişletme"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Milli Teknoloji Envanteri'ne katkıda bulunduğunuz için teşekkür ederiz! Lütfen yeni platform ile ilgili açık kaynaklı, teyit edilebilir teknik verileri paylaşın.
+  - type: input
+    id: platform_adi
+    attributes:
+      label: "Platform / Sistem Adı"
+      placeholder: "Örn: KIZILELMA, SİPER, BATU"
+    validations:
+      required: true
+  - type: dropdown
+    id: dominion
+    attributes:
+      label: "Dominion (Faaliyet Alanı)"
+      options:
+        - "DOMINION_AEROSPACE (Hava & Uzay)"
+        - "DOMINION_ELECTRONICS (Elektronik, Radar, AI & Siber)"
+        - "DOMINION_LAND (Kara, Zırh & Ağır Silahlar)"
+        - "DOMINION_SEA (Mavi Vatan, Denizaltı & İDA)"
+    validations:
+      required: true
+  - type: input
+    id: uretici
+    attributes:
+      label: "Üretici / Geliştirici Kurum"
+      placeholder: "Örn: ASELSAN, BAYKAR, TUSAŞ, ROKETSAN, MKE..."
+    validations:
+      required: true
+  - type: dropdown
+    id: trl
+    attributes:
+      label: "Teknoloji Hazırlık Seviyesi (TRL)"
+      options:
+        - "TRL 9 (Seri Üretim / Envanterde / Sahada Kanıtlanmış)"
+        - "TRL 8 (Kabul Testleri / Ön Seri Üretim)"
+        - "TRL 7 (Operasyonel Prototip Uçuş / Atış Testleri)"
+        - "TRL 6 (Mühendislik Modeli Doğrulandı)"
+        - "TRL 1-5 (Ar-Ge / Kavramsal Tasarım)"
+    validations:
+      required: true
+  - type: textarea
+    id: teknik_ozellikler
+    attributes:
+      label: "Önemli Teknik Özellikler ve Rol"
+      placeholder: "Menzil, motor, silah donanımı, stratejik önem..."
+    validations:
+      required: true

@@ -1,10 +1,10 @@
-# STM Project Hub
+# STM Deniz Projeleri Hub
 
 ## 🚀 Projects
 
-- [KARGU](KARGU/README.md)
-- [MİLGEM](MİLGEM/README.md)
-- [STM500](STM500/README.md)
+- [MİLGEM](MİLGEM/README.md) - ADA Sınıfı Milli Korvet
+- [STM500](STM500/README.md) - Küçük Sınıf Dizel-Elektrik Denizaltı
+- [STM-MPAC](STM_MPAC/README.md) - Türk Tipi Milli Hücumbot
 
 ---
 [Kök Dizine Dön](../../README.md) | [Dominion Hub'ına Dön](../README.md)

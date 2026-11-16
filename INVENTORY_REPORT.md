@@ -1,8 +1,8 @@
 # 🇹🇷 Milli Teknoloji Envanteri: Stratejik Durum Raporu
 
-> **Rapor Tarihi:** 16.11.2026 15:26  
-> **Maturity Index:** TRL 8.22 / 9.00  
-> **Toplam Milli Platform & Sistem Sayısı:** 153
+> **Rapor Tarihi:** 16.11.2026 17:03  
+> **Maturity Index:** TRL 8.25 / 9.00  
+> **Toplam Milli Platform & Sistem Sayısı:** 167
 
 ---
 
@@ -10,17 +10,17 @@
 
 | Dominion | Platform Sayısı | Ekosistem Payı | Ortalama TRL | Durum |
 | :--- | :--- | :--- | :--- | :--- |
-| **DOMINION_AEROSPACE** | 52 Proje | %34.0 | TRL 7.93 | 🟢 Operasyonel |
-| **DOMINION_ELECTRONICS** | 41 Proje | %26.8 | TRL 8.34 | 🟢 Operasyonel |
-| **DOMINION_LAND** | 39 Proje | %25.5 | TRL 8.64 | 🟢 Operasyonel |
-| **DOMINION_SEA** | 21 Proje | %13.7 | TRL 7.90 | 🟢 Operasyonel |
-| **GENEL TOPLAM** | **153 Proje** | **%100** | **TRL 8.22** | **🟢 TAM BAĞIMSIZLIK DOKTRİNİ** |
+| **DOMINION_AEROSPACE** | 58 Proje | %34.7 | TRL 8.04 | 🟢 Operasyonel |
+| **DOMINION_ELECTRONICS** | 44 Proje | %26.3 | TRL 8.34 | 🟢 Operasyonel |
+| **DOMINION_LAND** | 43 Proje | %25.7 | TRL 8.65 | 🟢 Operasyonel |
+| **DOMINION_SEA** | 22 Proje | %13.2 | TRL 7.86 | 🟢 Operasyonel |
+| **GENEL TOPLAM** | **167 Proje** | **%100** | **TRL 8.25** | **🟢 TAM BAĞIMSIZLIK DOKTRİNİ** |
 
 ---
 
 ## 🏛️ Detaylı Platform Matrisi
 
-### 📍 DOMINION_AEROSPACE (52 Platform)
+### 📍 DOMINION_AEROSPACE (58 Platform)
 
 | Proje / Platform | Üretici / Kurum | Sınıf / Rol | TRL |
 | :--- | :--- | :--- | :--- |
@@ -45,8 +45,12 @@
 | **[MAM AILESI](./DOMINION_AEROSPACE/ROKETSAN/MAM_AILESI/README.md)** | ROKETSAN | Lazer Güdümlü Mini Mühimmat | TRL 9.0 |
 | **[TAYFUN](./DOMINION_AEROSPACE/ROKETSAN/TAYFUN/README.md)** | ROKETSAN | Kısa Menzilli Balistik Füze (SRBM) | TRL 9.0 |
 | **[TAYFUN BLOK4](./DOMINION_AEROSPACE/ROKETSAN/TAYFUN_BLOK4/README.md)** | ROKETSAN | Kritik Savunma Sistemi | TRL 5.0 |
+| **[UMTAS](./DOMINION_AEROSPACE/ROKETSAN/UMTAS/README.md)** | ROKETSAN | Havadan-Karaya ve Karadan-Karaya Uzun Menzilli Hassas Tanksavar Füzesi (ATGM) | TRL 9.0 |
 | **[ÇAKIR](./DOMINION_AEROSPACE/ROKETSAN/ÇAKIR/README.md)** | ROKETSAN | Yeni Nesil Seyir Füzesi | TRL 9.0 |
 | **[İHA-300](./DOMINION_AEROSPACE/ROKETSAN/İHA-300/README.md)** | ROKETSAN | Havadan Atılan Taktik Balistik / Süpersonik Füze (Air-Launched Ballistic Missile - ALBM) | TRL 8.0 |
+| **[BOYGA](./DOMINION_AEROSPACE/STM/BOYGA/README.md)** | STM | Döner Kanatlı Mühimmat Bırakan Otonom İHA Sistemi | TRL 9.0 |
+| **[KARGU](./DOMINION_AEROSPACE/STM/KARGU/README.md)** | STM | Döner Kanatlı Vurucu İHA (Kamikaze Drone) | TRL 9.0 |
+| **[TOGAN](./DOMINION_AEROSPACE/STM/TOGAN/README.md)** | STM | Taktik Seviye Otonom Döner Kanatlı Keşif ve Gözetleme İHA Sistemi | TRL 9.0 |
 | **[PD170](./DOMINION_AEROSPACE/TEI/PD170/README.md)** | TEI | Havacılık Turbodizel Motoru | TRL 9.0 |
 | **[PD222](./DOMINION_AEROSPACE/TEI/PD222/README.md)** | TEI | Kritik Savunma Sistemi | TRL 8.0 |
 | **[TF10000](./DOMINION_AEROSPACE/TEI/TF10000/README.md)** | TEI | Askeri Turbofan Motor (Afterburning Turbofan) | TRL 6.0 |
@@ -55,6 +59,7 @@
 | **[TJ90](./DOMINION_AEROSPACE/TEI/TJ90/README.md)** | TEI | Kritik Savunma Sistemi | TRL 9.0 |
 | **[TS1400](./DOMINION_AEROSPACE/TEI/TS1400/README.md)** | TEI | Turboşaft Motor (Helikopter Motoru) | TRL 8.0 |
 | **[AY GÖREVİ](./DOMINION_AEROSPACE/TUA/AY_GÖREVİ/README.md)** | TUA | Türkiye'nin "Derin Uzay" ligine girişi. ... | TRL 5.5 |
+| **[AKSUNGUR](./DOMINION_AEROSPACE/TUSAŞ/AKSUNGUR/README.md)** | TUSAŞ | MALE+ Sınıfı Çift Motorlu Yüksek İrtifa / Uzun Havada Kalışlı İnsansız Hava Aracı | TRL 9.0 |
 | **[ANKA](./DOMINION_AEROSPACE/TUSAŞ/ANKA/README.md)** | TUSAŞ | Kritik Savunma Sistemi | TRL 9.0 |
 | **[ANKA-3](./DOMINION_AEROSPACE/TUSAŞ/ANKA-3/README.md)** | TUSAŞ | Derin Darbe (Deep Strike) / Hayalet İnsansız Savaş Uçağı (MIUS) | TRL 7.0 |
 | **[ATAK-2](./DOMINION_AEROSPACE/TUSAŞ/ATAK-2/README.md)** | TUSAŞ | Ağır Sınıf Taarruz Helikopteri | TRL 7.0 |
@@ -65,6 +70,7 @@
 | **[HÜRKUŞ](./DOMINION_AEROSPACE/TUSAŞ/HÜRKUŞ/README.md)** | TUSAŞ | Yeni Nesil Temel Eğitim, İleri Eğitim ve Hafif Taarruz Uçağı | TRL 9.0 |
 | **[KAAN](./DOMINION_AEROSPACE/TUSAŞ/KAAN/README.md)** | TUSAŞ | 5. Nesil Çok Rollü Savaş Uçağı | TRL 7.0 |
 | **[SÜPER ŞİMŞEK](./DOMINION_AEROSPACE/TUSAŞ/SÜPER_ŞİMŞEK/README.md)** | TUSAŞ | Yüksek Hızlı Hedef Uçak / Dolanan Mühimmat / Elektronik Harp Platformu | TRL 7.0 |
+| **[T129 ATAK](./DOMINION_AEROSPACE/TUSAŞ/T129_ATAK/README.md)** | TUSAŞ | İki Kişilik Ağır İklim ve Yüksek İrtifa Taarruz ve Keşif Helikopteri | TRL 9.0 |
 | **[TÜRKSAT 6A](./DOMINION_AEROSPACE/TUSAŞ/TÜRKSAT_6A/README.md)** | TUSAŞ | Yerli Haberleşme Uydusu (GEO) | TRL 8.0 |
 | **[ŞİMŞEK](./DOMINION_AEROSPACE/TUSAŞ/ŞİMŞEK/README.md)** | TUSAŞ | Yüksek Hızlı Hedef Uçak / Sahte Hedef | TRL 9.0 |
 | **[ALPİN](./DOMINION_AEROSPACE/Titra/ALPİN/README.md)** | Titra | İnsansız Helikopter (Rotary Wing UAV) | TRL 7.0 |
@@ -77,7 +83,7 @@
 | **[SOM](./DOMINION_AEROSPACE/TÜBİTAK_SAGE/SOM/README.md)** | TÜBİTAK SAGE | Hava-Yer Seyir Füzesi (Cruise Missile) | TRL 9.0 |
 | **[İMECE](./DOMINION_AEROSPACE/TÜBİTAK_SAGE/İMECE/README.md)** | TÜBİTAK SAGE | Yüksek Çözünürlüklü Yer Gözlem Uydusu | TRL 9.0 |
 
-### 📍 DOMINION_ELECTRONICS (41 Platform)
+### 📍 DOMINION_ELECTRONICS (44 Platform)
 
 | Proje / Platform | Üretici / Kurum | Sınıf / Rol | TRL |
 | :--- | :--- | :--- | :--- |
@@ -93,16 +99,19 @@
 | **[HAKİM](./DOMINION_ELECTRONICS/ASELSAN/HAKİM/README.md)** | ASELSAN | Milli Hava Savunma Komuta ve Kontrol Sistemi (Air C2 / C4I) | TRL 9.0 |
 | **[HAVA SOJ](./DOMINION_ELECTRONICS/ASELSAN/HAVA_SOJ/README.md)** | ASELSAN | Kritik Savunma Sistemi | TRL 7.0 |
 | **[IHTAR](./DOMINION_ELECTRONICS/ASELSAN/IHTAR/README.md)** | ASELSAN | Anti-Drone Sistemi (İHA Önleme) | TRL 9.0 |
+| **[KARAT](./DOMINION_ELECTRONICS/ASELSAN/KARAT/README.md)** | ASELSAN | 5. Nesil Savaş Uçakları İçin Kızılötesi Arama ve Takip Sistemi (IRST) | TRL 8.0 |
 | **[KORAL](./DOMINION_ELECTRONICS/ASELSAN/KORAL/README.md)** | ASELSAN | Mobil Elektronik Harp Sistemi (KORAL & YENİ NESİL KORAL) | TRL 9.0 |
 | **[KORKUT](./DOMINION_ELECTRONICS/ASELSAN/KORKUT/README.md)** | ASELSAN | Kundağı Motorlu Hava Savunma Top Sistemi (SPAAG) | TRL 9.0 |
 | **[MURAD](./DOMINION_ELECTRONICS/ASELSAN/MURAD/README.md)** | ASELSAN | AESA (Aktif Dizinli Taranan) Uçak Radarı | TRL 7.0 |
 | **[MİLKAR](./DOMINION_ELECTRONICS/ASELSAN/MİLKAR/README.md)** | ASELSAN | Taktik ve Stratejik Muhabere Elektronik Harp / Karıştırma Sistemi | TRL 9.0 |
+| **[PUHU](./DOMINION_ELECTRONICS/ASELSAN/PUHU/README.md)** | ASELSAN | Taşınabilir V/UHF Taktik Muhabere Dinleme ve Yön Kestirim Sistemi (COMINT / DF) | TRL 9.0 |
 | **[SANCAK](./DOMINION_ELECTRONICS/ASELSAN/SANCAK/README.md)** | ASELSAN | Yeni Nesil V/UHF Taktik Muhabere Elektronik Taarruz Sistemi (REDET II Fazı) | TRL 9.0 |
 | **[SİPER](./DOMINION_ELECTRONICS/ASELSAN/SİPER/README.md)** | ASELSAN | Uzun Menzilli Bölge Hava Savunma Sistemi | TRL 8.0 |
 | **[TOYGUN](./DOMINION_ELECTRONICS/ASELSAN/TOYGUN/README.md)** | ASELSAN | Elektro-Optik Sensör Sistemi (EOTS - Electro-Optical Targeting System) | TRL 6.0 |
 | **[TULGAR](./DOMINION_ELECTRONICS/ASELSAN/TULGAR/README.md)** | ASELSAN | 5. Nesil Kaska Monteli Entegre Kumanda ve Gösterge Sistemi (HMDS) | TRL 8.0 |
 | **[TURAN](./DOMINION_ELECTRONICS/ASELSAN/TURAN/README.md)** | ASELSAN | Zırhlı Araç Konuşlu Taktik Elektronik Harp ve Koruma Sistemi | TRL 9.0 |
 | **[ULAQ](./DOMINION_ELECTRONICS/ASELSAN/ULAQ/README.md)** | ASELSAN | İnsansız Deniz Aracı Faydalı Yük, Sensör ve Silah İstasyon Paketi | TRL 9.0 |
+| **[YILDIRIM-100](./DOMINION_ELECTRONICS/ASELSAN/YILDIRIM-100/README.md)** | ASELSAN | Lazer Tabanlı Yönlendirilmiş Kızılötesi Karşı Tedbir Sistemi (DIRCM) | TRL 8.0 |
 | **[ÇELİK KUBBE](./DOMINION_ELECTRONICS/ASELSAN/ÇELİK_KUBBE/README.md)** | ASELSAN | Çok Katmanlı Entegre Hava ve Füze Savunma Şemsiyesi (System of Systems) | TRL 8.0 |
 | **[ÖZGÜR](./DOMINION_ELECTRONICS/ASELSAN/ÖZGÜR/README.md)** | ASELSAN | Kritik Savunma Sistemi | TRL 9.0 |
 | **[GIMBAL SISTEMLERI](./DOMINION_ELECTRONICS/Altınay_Savunma/GIMBAL_SISTEMLERI/README.md)** | Altınay Savunma | Elektro-Optik Keşif, Gözetleme ve Hedefleme Sistemi | TRL 9.0 |
@@ -123,7 +132,7 @@
 | **[DATA LINKS](./DOMINION_ELECTRONICS/MilSOFT/DATA_LINKS/README.md)** | MilSOFT | Askeri Haberleşme ve Veri Bağı Yazılımları | TRL 9.0 |
 | **[ACMI POD](./DOMINION_ELECTRONICS/SDT/ACMI_POD/README.md)** | SDT | Hava Muharebe Eğitim Sistemi (Air Combat Maneuvering Instrumentation) | TRL 9.0 |
 
-### 📍 DOMINION_LAND (39 Platform)
+### 📍 DOMINION_LAND (43 Platform)
 
 | Proje / Platform | Üretici / Kurum | Sınıf / Rol | TRL |
 | :--- | :--- | :--- | :--- |
@@ -131,7 +140,9 @@
 | **[KIRPI](./DOMINION_LAND/BMC/KIRPI/README.md)** | BMC | MRAP (Mine Resistant Ambush Protected) - Mayına Karşı Korumalı Araç | TRL 9.0 |
 | **[KİRPİ II](./DOMINION_LAND/BMC/KİRPİ_II/README.md)** | BMC | Kritik Savunma Sistemi | TRL 9.0 |
 | **[VURAN](./DOMINION_LAND/BMC/VURAN/README.md)** | BMC | Çok Amaçlı Zırhlı Araç (4x4 MPAV) | TRL 9.0 |
+| **[AZRA](./DOMINION_LAND/BMC_POWER/AZRA/README.md)** | BMC POWER | 600 Beygir Sıralı 6 Silindirli Askeri Dizel Motor | TRL 8.0 |
 | **[BATU](./DOMINION_LAND/BMC_POWER/BATU/README.md)** | BMC POWER | Ağır Zırhlı Muharebe Aracı ve Tank Güç Grubu (Powerpack) | TRL 8.0 |
+| **[TUNA](./DOMINION_LAND/BMC_POWER/TUNA/README.md)** | BMC POWER | 400 Beygir Sıralı 4 Silindirli Askeri Dizel Motor | TRL 9.0 |
 | **[UTKU](./DOMINION_LAND/BMC_POWER/UTKU/README.md)** | BMC POWER | Orta ve Ağır Zırhlı Muharebe Aracı Güç Grubu (1000 HP Powerpack) | TRL 8.0 |
 | **[M2 QCB](./DOMINION_LAND/CANİK/M2_QCB/README.md)** | CANİK | 12.7mm (.50 Cal) Ağır Makineli Tüfek | TRL 9.0 |
 | **[METE MC9](./DOMINION_LAND/CANİK/METE_MC9/README.md)** | CANİK | 9x19mm Mikro Kompakt Polimer Gövdeli Yarı Otomatik Tabanca | TRL 9.0 |
@@ -161,13 +172,15 @@
 | **[TULPAR](./DOMINION_LAND/OTOKAR/TULPAR/README.md)** | OTOKAR | Yeni Nesil Paletli Zırhlı Muharebe Aracı (ZMA) | TRL 8.0 |
 | **[GÖKBORA](./DOMINION_LAND/ROKETSAN/GÖKBORA/README.md)** | ROKETSAN | Kritik Savunma Sistemi | TRL 6.0 |
 | **[KARAOK](./DOMINION_LAND/ROKETSAN/KARAOK/README.md)** | ROKETSAN | Kısa Menzilli Tanksavar Silahı (ATGM) | TRL 9.0 |
+| **[OMTAS](./DOMINION_LAND/ROKETSAN/OMTAS/README.md)** | ROKETSAN | Orta Menzilli Kızılötesi Güdümlü Tanksavar Füzesi (Medium Range Anti-Tank Missile) | TRL 9.0 |
 | **[SUNGUR](./DOMINION_LAND/ROKETSAN/SUNGUR/README.md)** | ROKETSAN | Portatif Hava Savunma Füze Sistemi (MANPADS / PORSAV) | TRL 9.0 |
+| **[TRG-230](./DOMINION_LAND/ROKETSAN/TRG-230/README.md)** | ROKETSAN | Yüksek İsabetli Çok Namlulu Roketatar Füzesi (Lazer/KKS Güdümlü) | TRL 9.0 |
 | **[SAR127](./DOMINION_LAND/Sarsılmaz/SAR127/README.md)** | Sarsılmaz | Kritik Savunma Sistemi | TRL 9.0 |
 | **[SAR56](./DOMINION_LAND/Sarsılmaz/SAR56/README.md)** | Sarsılmaz | Piyade Tüfeği (5.56x45mm) | TRL 9.0 |
 | **[SAR9](./DOMINION_LAND/Sarsılmaz/SAR9/README.md)** | Sarsılmaz | Yarı Otomatik Tabanca (9x19mm) | TRL 9.0 |
 | **[SARBOT](./DOMINION_LAND/Sarsılmaz/SARBOT/README.md)** | Sarsılmaz | Kritik Savunma Sistemi | TRL 7.0 |
 
-### 📍 DOMINION_SEA (21 Platform)
+### 📍 DOMINION_SEA (22 Platform)
 
 | Proje / Platform | Üretici / Kurum | Sınıf / Rol | TRL |
 | :--- | :--- | :--- | :--- |
@@ -178,6 +191,7 @@
 | **[MEMATT](./DOMINION_SEA/ASFAT/MEMATT/README.md)** | ASFAT | Mekanik Mayın Temizleme Teçhizatı | TRL 9.0 |
 | **[PN MILGEM](./DOMINION_SEA/ASFAT/PN_MILGEM/README.md)** | ASFAT | Ağır Korvet / Hafif Firkateyn | TRL 9.0 |
 | **[TCG İSTANBUL](./DOMINION_SEA/ASFAT/TCG_İSTANBUL/README.md)** | ASFAT | MİLGEM İ-Sınıfı (İstif Sınıfı) Fırkateyn | TRL 9.0 |
+| **[SALDIRGAN](./DOMINION_SEA/DEARSAN/SALDIRGAN/README.md)** | DEARSAN | C92 Sınıfı Yüksek Hızlı Denizaltı Savunma ve Su Üstü Harbi Korveti | TRL 9.0 |
 | **[MİLDEN](./DOMINION_SEA/DzKK/MİLDEN/README.md)** | DzKK | Havadan Bağımsız Tahrik Sistemli (AIP) Ağır Taarruz Denizaltısı | TRL 5.0 |
 | **[AKYA](./DOMINION_SEA/ROKETSAN/AKYA/README.md)** | ROKETSAN | Yeni Nesil Ağır Sınıf Torpido (533mm) | TRL 9.0 |
 | **[ATMACA](./DOMINION_SEA/ROKETSAN/ATMACA/README.md)** | ROKETSAN | Satıhtan Satıha Güdümlü Mermi (Anti-Ship Missile) | TRL 9.0 |
@@ -187,8 +201,8 @@
 | **[TCG ANADOLU](./DOMINION_SEA/SEDEF/TCG_ANADOLU/README.md)** | SEDEF | Çok Maksatlı Amfibi Hücum Gemisi (LHD) / SİHA Gemisi | TRL 9.0 |
 | **[TCG TRAKYA](./DOMINION_SEA/SEDEF/TCG_TRAKYA/README.md)** | SEDEF | Uçak Gemisi (Aircraft Carrier) | TRL 1.0 |
 | **[MARLİN](./DOMINION_SEA/SEFİNE/MARLİN/README.md)** | SEFİNE | Silahlı ve Elektronik Harp İnsansız Deniz Aracı (SİDA) | TRL 9.0 |
-| **[KARGU](./DOMINION_SEA/STM/KARGU/README.md)** | STM | Döner Kanatlı Vurucu İHA (Kamikaze Drone) | TRL 9.0 |
 | **[MİLGEM](./DOMINION_SEA/STM/MİLGEM/README.md)** | STM | Korvet (Corvette) | TRL 9.0 |
+| **[STM MPAC](./DOMINION_SEA/STM/STM_MPAC/README.md)** | STM | Yeni Nesil Ağır Silahlı Çok Maksatlı Hücumbot (Fast Attack Craft) | TRL 7.0 |
 | **[STM500](./DOMINION_SEA/STM/STM500/README.md)** | STM | Küçük Tonajlı Denizaltı (Shallow Water Attack Submarine) | TRL 6.0 |
 | **[MRTP SERISI](./DOMINION_SEA/Yonca-Onuk/MRTP_SERISI/README.md)** | Yonca-Onuk | Hızlı Müdahale ve Hücumbot (Fast Intervention Craft) | TRL 9.0 |
 | **[MRTP24](./DOMINION_SEA/Yonca-Onuk/MRTP24/README.md)** | Yonca-Onuk | Kritik Savunma Sistemi | TRL 9.0 |
@@ -196,8 +210,8 @@
 ---
 
 ## 🚀 TRL Olgunluk Sınıflandırması
-- **TRL 8-9 (Seri Üretim / Envanterde / Sahada Kanıtlanmış):** **117 Proje** (%76.5)
-- **TRL 6-7 (Prototip / Uçuş / Atışlı Doğrulama Aşamasında):** **31 Proje** (%20.3)
-- **TRL 1-5 (Ar-Ge / Kavramsal Tasarım / Kritik İtki-Reaktör):** **5 Proje** (%3.3)
+- **TRL 8-9 (Seri Üretim / Envanterde / Sahada Kanıtlanmış):** **130 Proje** (%77.8)
+- **TRL 6-7 (Prototip / Uçuş / Atışlı Doğrulama Aşamasında):** **32 Proje** (%19.2)
+- **TRL 1-5 (Ar-Ge / Kavramsal Tasarım / Kritik İtki-Reaktör):** **5 Proje** (%3.0)
 
 *(Bu rapor `inventory_manager.py` tarafından otomatik olarak üretilmiştir.)*

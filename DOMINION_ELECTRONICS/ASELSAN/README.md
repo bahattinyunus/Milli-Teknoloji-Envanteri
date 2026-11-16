@@ -15,16 +15,19 @@
 - [HAKİM](HAKİM/README.md) - Milli Hava Komuta Kontrol Sistemi (C4I)
 - [HAVA SOJ](HAVA_SOJ/README.md) - Hava Platformunda Uzaktan Elektronik Destek/Taarruz
 - [IHTAR](IHTAR/README.md) - Anti-Drone / C-UAS Sistemi
+- [KARAT](KARAT/README.md) - KAAN Kızılötesi Arama ve Takip Sistemi (IRST)
 - [KORAL](KORAL/README.md) - Mobil Radar Elektronik Harp Sistemi
 - [KORKUT](KORKUT/README.md) - 35mm Kundağı Motorlu Hava Savunma Topu
 - [MURAD](MURAD/README.md) - Burun AESA Radarı (KAAN, AKINCI, F-16)
 - [MİLKAR](MİLKAR/README.md) - Muhabere Elektronik Taarruz Ailesi
+- [PUHU](PUHU/README.md) - Taşınabilir Taktik Dinleme ve Kestirim Sistemi (COMINT)
 - [SANCAK](SANCAK/README.md) - Yeni Nesil Taktik Muhabere Elektronik Taarruz
 - [SİPER](SİPER/README.md) - Uzun Menzilli Bölge Hava ve Füze Savunma Sistemi
 - [TOYGUN](TOYGUN/README.md) - Elektro-Optik Hedefleme Sistemi (EOTS)
 - [TULGAR](TULGAR/README.md) - 5. Nesil Kaska Monteli Gösterge Sistemi
 - [TURAN](TURAN/README.md) - Taktik Elektronik Harp ve Muhabere Koruma
 - [ULAQ](ULAQ/README.md) - Otonom Deniz Görev Faydalı Yükleri
+- [YILDIRIM-100](YILDIRIM-100/README.md) - Yönlendirilmiş Kızılötesi Karşı Tedbir Sistemi (DIRCM)
 - [ÖZGÜR](ÖZGÜR/README.md) - F-16 Milli Görev Bilgisayarı ve Aviyonik Modernizasyon
 
 ---

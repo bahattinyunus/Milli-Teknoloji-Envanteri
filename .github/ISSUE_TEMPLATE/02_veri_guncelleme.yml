@@ -1,0 +1,19 @@
+name: "📝 Teknik Veri / TRL Güncellemesi"
+description: "Mevcut bir platformun TRL seviyesini veya teknik verilerini güncelleyin"
+title: "[Güncelleme]: "
+labels: ["veri-güncelleme", "spec-sheet"]
+body:
+  - type: input
+    id: hedef_platform
+    attributes:
+      label: "Güncellenecek Platform Adı"
+      placeholder: "Örn: KAAN, TF6000, MİDLAS..."
+    validations:
+      required: true
+  - type: textarea
+    id: degisiklik_detayi
+    attributes:
+      label: "Güncellenen Bilgiler ve Referanslar"
+      placeholder: "SSB basın bülteni, resmi üretici duyurusu veya test görüntüleri referansı ile güncellenen teknik veriler..."
+    validations:
+      required: true
