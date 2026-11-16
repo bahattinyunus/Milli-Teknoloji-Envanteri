@@ -13,6 +13,11 @@ SANCAR SİDA, HAVELSAN ve Yonca-Onuk Tersanesi iş birliğiyle geliştirilen, ke
 
 
 
+
+## 🚀 Geliştirme Durumu (TRL 8)
+- [x] Sistem Entegrasyonu ve Kalifikasyon
+- [x] Silahlı İnsansız Deniz Aracı (SİDA)
+
 ## 📁 Proje Varlıkları (Project Assets)
 - (Bu proje dizininde henüz ek dosya bulunmamaktadır.)
 ---

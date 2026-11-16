@@ -12,6 +12,11 @@ MPT-76, Türk Silahlı Kuvvetleri'nin piyade tüfeği ihtiyacını karşılamak 
 
 
 
+
+## 🚀 Geliştirme Durumu (TRL 9)
+- [x] Sistem Entegrasyonu ve Kalifikasyon
+- [x] Milli Piyade Tüfeği (100.000+ Adet TSK Envanterinde)
+
 ## 📁 Proje Varlıkları (Project Assets)
 - (Bu proje dizininde henüz ek dosya bulunmamaktadır.)
 ---

@@ -13,6 +13,11 @@ TEI-TJ90, TUSAŞ'ın Şimşek gibi yüksek hızlı hedef uçakları ve seyir fü
 
 
 
+
+## 🚀 Geliştirme Durumu (TRL 9)
+- [x] Sistem Entegrasyonu ve Kalifikasyon
+- [x] Turbojet Motor (ŞİMŞEK Hedef Uçağı Motoru)
+
 ## 📁 Proje Varlıkları (Project Assets)
 - (Bu proje dizininde henüz ek dosya bulunmamaktadır.)
 ---

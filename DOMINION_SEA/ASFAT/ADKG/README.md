@@ -12,6 +12,11 @@ ASFAT tarafından Türk Deniz Kuvvetleri için geliştirilen Açık Deniz Karako
 
 
 
+
+## 🚀 Geliştirme Durumu (TRL 8)
+- [x] Sistem Entegrasyonu ve Kalifikasyon
+- [x] Açık Deniz Karakol Gemisi (Deniz Testleri Sürüyor)
+
 ## 📁 Proje Varlıkları (Project Assets)
 - (Bu proje dizininde henüz ek dosya bulunmamaktadır.)
 ---

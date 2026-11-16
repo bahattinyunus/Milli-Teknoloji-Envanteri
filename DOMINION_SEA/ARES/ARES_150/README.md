@@ -12,6 +12,11 @@ ARES 150 BOLD, ARES Tersanesi tarafından geliştirilen, 37 deniz mili (knot) ü
 
 
 
+
+## 🚀 Geliştirme Durumu (TRL 9)
+- [x] Sistem Entegrasyonu ve Kalifikasyon
+- [x] Açık Deniz Karakol Botu (Sahil Güvenlik Hizmetinde)
+
 ## 📁 Proje Varlıkları (Project Assets)
 - (Bu proje dizininde henüz ek dosya bulunmamaktadır.)
 ---

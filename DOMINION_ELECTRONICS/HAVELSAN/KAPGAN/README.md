@@ -13,6 +13,11 @@ KAPGAN, HAVELSAN tarafından "Dijital Birlik" konsepti kapsamında geliştirilen
 
 
 
+
+## 🚀 Geliştirme Durumu (TRL 7)
+- [x] Sistem Entegrasyonu ve Kalifikasyon
+- [x] Ağır Sınıf İnsansız Kara Aracı
+
 ## 📁 Proje Varlıkları (Project Assets)
 - (Bu proje dizininde henüz ek dosya bulunmamaktadır.)
 ---

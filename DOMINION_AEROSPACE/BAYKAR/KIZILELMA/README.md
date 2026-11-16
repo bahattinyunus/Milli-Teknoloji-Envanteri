@@ -44,7 +44,9 @@ KIZILELMA, Türkiye'nin "İnsansız Hava Muharebesi" doktrininin öncü kuvvetid
 - **İnsansız İt dalaşı (Dogfight):** Yapay zekanın limitlerini zorlayan, insanlı uçakların yapamayacağı manevraları otonom icra eden varyant.
 - **Uzay Entegrasyonu:** Alçak dünya yörüngesi uydularıyla (FERGANİ) doğrudan veri bağı üzerinden küresel operasyon kapasitesi.
 
-## 📈 Milat Çizgisi
+## 🚀 Geliştirme Durumu (TRL 8)
+
+### 📈 Milat Çizgisi
 - [x] Kavramsal Tasarım ve İmalat
 - [x] Teker Kesme ve İlk Uçuş (14 Aralık 2022)
 - [x] Orta İrtifa Sistem Tanımlama Testleri

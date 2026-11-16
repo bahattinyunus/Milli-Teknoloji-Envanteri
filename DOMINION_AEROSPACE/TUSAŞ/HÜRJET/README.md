@@ -58,6 +58,11 @@ HÜRJET, KAAN'a giden yolda sadece bir eğitim aracı değil, operasyonel bir k�
 
 
 
+
+## 🚀 Geliştirme Durumu (TRL 8)
+- [x] Sistem Entegrasyonu ve Kalifikasyon
+- [x] Jet Eğitim ve Hafif Taarruz Uçağı (Uçuş Test Fazı)
+
 ## 📁 Proje Varlıkları (Project Assets)
 - (Bu proje dizininde henüz ek dosya bulunmamaktadır.)
 ---

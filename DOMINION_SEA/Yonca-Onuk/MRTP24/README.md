@@ -12,6 +12,11 @@ MRTP24/U, Yonca-Onuk Tersanesi tarafından Türk Deniz Kuvvetleri SAT (Su Altı 
 
 
 
+
+## 🚀 Geliştirme Durumu (TRL 9)
+- [x] Sistem Entegrasyonu ve Kalifikasyon
+- [x] Hızlı Müdahale Botu (Kaan 24 Sınıfı)
+
 ## 📁 Proje Varlıkları (Project Assets)
 - (Bu proje dizininde henüz ek dosya bulunmamaktadır.)
 ---

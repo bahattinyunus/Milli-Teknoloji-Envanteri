@@ -14,3 +14,6 @@ PARS 4x4, çevikliği ve düşük silueti ile tanksavar ve ileri gözetleme gör
 
 ---
 [Kök Dizine Dön](../../../README.md) | [Şirket Sayfasına Dön](../../README.md)
+
+## 🚀 Geliştirme Durumu (TRL 9)
+- [x] Silah Taşıyıcı Araç (STA - TSK Envanterinde)

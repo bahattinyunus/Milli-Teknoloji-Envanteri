@@ -12,6 +12,11 @@ SARBOT, Sarsılmaz'ın savunma sanayiinde otonomlaşma vizyonu kapsamında geli�
 
 
 
+
+## 🚀 Geliştirme Durumu (TRL 7)
+- [x] Sistem Entegrasyonu ve Kalifikasyon
+- [x] Robotik Silah Sistemi
+
 ## 📁 Proje Varlıkları (Project Assets)
 - (Bu proje dizininde henüz ek dosya bulunmamaktadır.)
 ---

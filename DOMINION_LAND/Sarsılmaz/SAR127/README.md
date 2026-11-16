@@ -12,6 +12,11 @@ SAR 127, Sarsılmaz tarafından yerli imkanlarla geliştirilen, 12.7x99 mm NATO 
 
 
 
+
+## 🚀 Geliştirme Durumu (TRL 9)
+- [x] Sistem Entegrasyonu ve Kalifikasyon
+- [x] 12.7mm Ağır Makineli Tüfek (Hava & Kara Platformlarında)
+
 ## 📁 Proje Varlıkları (Project Assets)
 - (Bu proje dizininde henüz ek dosya bulunmamaktadır.)
 ---

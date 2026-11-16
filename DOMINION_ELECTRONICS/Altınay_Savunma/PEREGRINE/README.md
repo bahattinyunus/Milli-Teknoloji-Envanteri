@@ -11,6 +11,11 @@ PEREGRINE, Altınay Savunma tarafından geliştirilen, yüksek vuruş hassasiyet
 
 
 
+
+## 🚀 Geliştirme Durumu (TRL 7)
+- [x] Sistem Entegrasyonu ve Kalifikasyon
+- [x] Güdümlü Döner Kanatlı Mini Mühimmat
+
 ## 📁 Proje Varlıkları (Project Assets)
 - (Bu proje dizininde henüz ek dosya bulunmamaktadır.)
 ---

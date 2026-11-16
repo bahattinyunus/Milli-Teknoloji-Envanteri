@@ -15,3 +15,6 @@ KIRPİ II, efsanevi Kirpi serisinin modern savaş alanı ihtiyaçlarına göre g
 
 ---
 [Kök Dizine Dön](../../../README.md) | [Şirket Sayfasına Dön](../../README.md)
+
+## 🚀 Geliştirme Durumu (TRL 9)
+- [x] Mayına Karşı Korumalı Araç (Bağımsız Süspansiyon)

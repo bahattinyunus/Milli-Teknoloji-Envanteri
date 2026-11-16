@@ -13,6 +13,11 @@ TAYFUN Blok-4, ROKETSAN tarafından geliştirilen ve Türkiye'nin ilk gerçek hi
 
 
 
+
+## 🚀 Geliştirme Durumu (TRL 5)
+- [x] Sistem Entegrasyonu ve Kalifikasyon
+- [x] Gelişmiş Hipersonik / Uzun Menzilli Varyant
+
 ## 📁 Proje Varlıkları (Project Assets)
 - (Bu proje dizininde henüz ek dosya bulunmamaktadır.)
 ---

@@ -17,3 +17,6 @@ ANKA, TUSAŞ tarafından geliştirilen, orta irtifa uzun havada kalış (MALE) s
 
 ---
 [Kök Dizine Dön](../../../README.md) | [Şirket Sayfasına Dön](../../README.md)
+
+## 🚀 Geliştirme Durumu (TRL 9)
+- [x] MALE Sınıfı Operasyonel Taktik İHA (Combat Proven)

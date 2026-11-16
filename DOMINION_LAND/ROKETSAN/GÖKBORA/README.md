@@ -12,6 +12,11 @@ GÖKBORA (BVRAAM), ROKETSAN tarafından geliştirilen, savaş uçakları ve mode
 
 
 
+
+## 🚀 Geliştirme Durumu (TRL 6)
+- [x] Sistem Entegrasyonu ve Kalifikasyon
+- [x] Gelişmiş Hava Savunma Füze Konsepti
+
 ## 📁 Proje Varlıkları (Project Assets)
 - (Bu proje dizininde henüz ek dosya bulunmamaktadır.)
 ---

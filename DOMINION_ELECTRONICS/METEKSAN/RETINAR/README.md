@@ -12,6 +12,11 @@ RETINAR, METEKSAN Savunma tarafından geliştirilen, sınır güvenliği, kritik
 
 
 
+
+## 🚀 Geliştirme Durumu (TRL 9)
+- [x] Sistem Entegrasyonu ve Kalifikasyon
+- [x] Çevre Gözetleme ve Radar Sistemi (Envanterde)
+
 ## 📁 Proje Varlıkları (Project Assets)
 - (Bu proje dizininde henüz ek dosya bulunmamaktadır.)
 ---

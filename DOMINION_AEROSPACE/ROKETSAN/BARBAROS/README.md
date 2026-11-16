@@ -12,6 +12,11 @@ BARBAROS, ROKETSAN tarafından geliştirilen, ATMACA ve ÇAKIR füzelerini kulla
 
 
 
+
+## 🚀 Geliştirme Durumu (TRL 8)
+- [x] Sistem Entegrasyonu ve Kalifikasyon
+- [x] Kıyı Savunma Sistemi (ATMACA/ÇAKIR Lançeri)
+
 ## 📁 Proje Varlıkları (Project Assets)
 - (Bu proje dizininde henüz ek dosya bulunmamaktadır.)
 ---

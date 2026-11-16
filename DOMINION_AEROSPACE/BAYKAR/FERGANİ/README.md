@@ -12,6 +12,11 @@ FERGANİ, Baykar'ın uzay girişimleri kapsamında başlattığı, Türkiye'nin 
 
 
 
+
+## 🚀 Geliştirme Durumu (TRL 8)
+- [x] Sistem Entegrasyonu ve Kalifikasyon
+- [x] Alçak Yörünge Takım Uyduları ve Küresel Konumlama
+
 ## 📁 Proje Varlıkları (Project Assets)
 - (Bu proje dizininde henüz ek dosya bulunmamaktadır.)
 ---

@@ -13,6 +13,11 @@ TEI-PD222, Türkiye'nin ilk yerli üretim turbodizel havacılık motoru olan PD1
 
 
 
+
+## 🚀 Geliştirme Durumu (TRL 8)
+- [x] Sistem Entegrasyonu ve Kalifikasyon
+- [x] 222 HP İleri Turbodizel İHA Motoru
+
 ## 📁 Proje Varlıkları (Project Assets)
 - (Bu proje dizininde henüz ek dosya bulunmamaktadır.)
 ---

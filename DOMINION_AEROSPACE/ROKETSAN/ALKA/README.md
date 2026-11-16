@@ -12,6 +12,11 @@ ALKA, ROKETSAN tarafından geliştirilen, lazer silahı ve elektromanyetik karı
 
 
 
+
+## 🚀 Geliştirme Durumu (TRL 8)
+- [x] Sistem Entegrasyonu ve Kalifikasyon
+- [x] Yönlendirilmiş Enerji Silah Sistemi (Lazer/Elektromanyetik)
+
 ## 📁 Proje Varlıkları (Project Assets)
 - (Bu proje dizininde henüz ek dosya bulunmamaktadır.)
 ---

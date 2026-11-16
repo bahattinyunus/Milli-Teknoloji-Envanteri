@@ -1,12 +1,16 @@
-# DOMINION LAND Index
+# DOMINION LAND (Kara & Zırh) Index
 
-## 🏢 Corporate Index
+## 🏢 Kurumsal Dizin (Corporate Index)
 
 ### [BMC](BMC/README.md)
 - [ALTAY](BMC/ALTAY/README.md)
 - [KIRPI](BMC/KIRPI/README.md)
 - [KİRPİ II](BMC/KİRPİ_II/README.md)
 - [VURAN](BMC/VURAN/README.md)
+
+### [BMC POWER](BMC_POWER/README.md)
+- [BATU](BMC_POWER/BATU/README.md)
+- [UTKU](BMC_POWER/UTKU/README.md)
 
 ### [CANİK](CANİK/README.md)
 - [M2 QCB](CANİK/M2_QCB/README.md)
@@ -26,6 +30,7 @@
 
 ### [MKE](MKE/README.md)
 - [76MM DENİZ TOPU](MKE/76MM_DENİZ_TOPU/README.md)
+- [BORAN](MKE/BORAN/README.md)
 - [FIRTINA II](MKE/FIRTINA_II/README.md)
 - [MPT-76](MKE/MPT-76/README.md)
 - [PIRANA](MKE/PIRANA/README.md)
@@ -57,4 +62,4 @@
 - [SARBOT](Sarsılmaz/SARBOT/README.md)
 
 ---
-[Kök Dizine Dön](../README.md)
+[⬅️ Ana Sayfaya Dön](../README.md)
