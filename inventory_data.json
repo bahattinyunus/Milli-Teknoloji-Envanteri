@@ -1,9 +1,9 @@
 {
   "metadata": {
     "title": "Milli Teknoloji Envanteri",
-    "generated_at": "2026-11-16 17:03:28",
+    "generated_at": "2026-11-16 17:14:03",
     "total_projects": 167,
-    "average_trl": 8.25,
+    "average_trl": 7.84,
     "version": "3.5"
   },
   "projects": [
@@ -16,7 +16,7 @@
       "trl": 9.0,
       "class": "Platform / Alt Sistem",
       "strategic_role": "",
-      "summary": "TOLUN Minyatür Bomba, uçaklardan atılabilen, GPS/INS güdümlü, yüksek hassasiyetli bir mühimmattır. SADAK-4T Akıllı Çoklu Taşıma Salanı ile tek bir istasyonda 4 adet taşınabilmekte, böylece F-16 ve SİHA'ların vuruş gücü artırılmaktadır."
+      "summary": "S1[\"SADAK-4T Akıllı Çoklu Salan\"]"
     },
     {
       "name": "AKINCI",
@@ -25,9 +25,9 @@
       "path": "DOMINION_AEROSPACE/BAYKAR/AKINCI",
       "readme_exists": true,
       "trl": 9.0,
-      "class": "Yüksek İrtifa Uzun Dayanım (HALE) Taarruzi İHA",
-      "strategic_role": "Savaş uçaklarının yükünü azaltan, tonlarca mühimmat taşıyabilen \"Uçan Balina\".",
-      "summary": "Bayraktar AKINCI, 5.5+ ton azami kalkış ağırlığı ve 1.500 kg'dan fazla faydalı yük taşıma kapasitesi ile sınıfının en güçlü platformlarından biridir. Çift türbin motorlu yapısı, gelişmiş yapay zeka bilgisayarları ve AESA radar entegrasyonu ile havadan havaya ve havadan yere taarruz görevlerini icra edebilir."
+      "class": "Platform / Alt Sistem",
+      "strategic_role": "",
+      "summary": "L1[\"Türksat Askeri SATCOM BLOS\"]"
     },
     {
       "name": "FERGANİ",
@@ -38,7 +38,7 @@
       "trl": 8.0,
       "class": "Platform / Alt Sistem",
       "strategic_role": "",
-      "summary": ""
+      "summary": "|Lazer ISL| S2[\"LEO Mikro Uydu 2\"]"
     },
     {
       "name": "KALKAN",
@@ -47,9 +47,9 @@
       "path": "DOMINION_AEROSPACE/BAYKAR/KALKAN",
       "readme_exists": true,
       "trl": 8.0,
-      "class": "Taktik Dikey İniş Kalkışlı İnsansız Hava Aracı (VTOL UAV)",
-      "strategic_role": "Piste ihtiyaç duymadan dağ karakollarından, fırkateynlerden ve çıkarma gemilerinden havalanarak kesintisiz taktik istihbarat ve gözetleme sağlayan hava gözü.",
-      "summary": "Bayraktar KALKAN DİHA, elektrik motorlu dikey kaldırma pervaneleri ve arkada itki sağlayan benzinli motor kombinasyonuyla (hibrit tahrik) dikey kalkış-iniş yapabilen ve ardından sabit kanatlı bir uçak gibi yüksek verimlilikle süzülebilen insansız bir hava aracıdır. Baykar üretimi BG-160 elektro-optik kamerası ile donatılmıştır."
+      "class": "Platform / Alt Sistem",
+      "strategic_role": "",
+      "summary": "E1[\"4x Elektrikli Kaldırma Motoru Aktif\"]"
     },
     {
       "name": "KEMANKEŞ",
@@ -58,9 +58,9 @@
       "path": "DOMINION_AEROSPACE/BAYKAR/KEMANKEŞ",
       "readme_exists": true,
       "trl": 7.0,
-      "class": "Mini Akıllı Seyir Füzesi (Loitering Munition)",
-      "strategic_role": "SİHA'lara stratejik hedeflere karşı \"stand-off\" (uzak menzilli) vuruş yeteneği kazandırır.",
-      "summary": "Adını tarihteki usta okçulardan alan KEMANKEŞ, Bayraktar TB2, TB3 ve AKINCI gibi platformlardan atılabilen, kendi jet motoruna sahip, yapay zeka destekli bir seyir füzesidir. Bulundurduğu kamera sistemi ile hedefi tespit edip dalış yapabilir."
+      "class": "Platform / Alt Sistem",
+      "strategic_role": "",
+      "summary": "D1[\"Kanat Pylonundan Güvenli Bırakış\"]"
     },
     {
       "name": "KEMANKEŞ 2",
@@ -69,9 +69,9 @@
       "path": "DOMINION_AEROSPACE/BAYKAR/KEMANKEŞ_2",
       "readme_exists": true,
       "trl": 7.0,
-      "class": "Yapay Zeka Destekli Yeni Nesil Mini Akıllı Seyir Füzesi (Mini Cruise Missile)",
-      "strategic_role": "Bayraktar TB2, TB3, AKINCI ve KIZILELMA'dan salınarak hava savunma ağlarını yarıp derinlikteki stratejik hedefleri otonom optik arayıcı başlığıyla imha eden vuruş gücü.",
-      "summary": "KEMANKEŞ 2, Bayraktar TB2, TB3 ve AKINCI gibi SİHA platformlarından atılabilen, jet motoru tahrikli, yapay zeka destekli optik güdüm sistemine sahip yeni nesil bir mini seyir füzesidir. KEMANKEŞ 1'e kıyasla artırılmış menzil, daha yüksek hız, genişletilmiş harp başlığı ve zorlu elektronik karıştırma şartlarında otonom hedef tespiti yapabilen görsel yapay zeka algoritması ile donatılmıştır."
+      "class": "Platform / Alt Sistem",
+      "strategic_role": "",
+      "summary": "REL[\"Pylon veya Dahili Yuvadan Bırakış\"]"
     },
     {
       "name": "KIZILELMA",
@@ -82,7 +82,7 @@
       "trl": 8.0,
       "class": "Platform / Alt Sistem",
       "strategic_role": "",
-      "summary": "**\"İnsansız Savaşın Yeni Şafağı: Agresif Manevra ve Görünmez Güç\"**"
+      "summary": "|KEMENT / Taktik Veri Bağı| KZ[\"Bayraktar KIZILELMA MİUS\"]"
     },
     {
       "name": "TB2",
@@ -91,9 +91,9 @@
       "path": "DOMINION_AEROSPACE/BAYKAR/TB2",
       "readme_exists": true,
       "trl": 9.0,
-      "class": "Taktik Silahlı İnsansız Hava Aracı",
-      "strategic_role": "Muharebe sahasında \"Oyun Değiştirici\" (Game Changer) olarak literatüre giren, dünyanın en çok ülkesine ihraç edilen SİHA'sı.",
-      "summary": "Bayraktar TB2, keşif, gözetleme ve istihbarat (ISR) görevlerinin yanı sıra mühimmat taşıma kabiliyetiyle anlık hedeflere taarruz gerçekleştirebilen, tam otonom uçuş özelliklerine sahip bir sistemdir. Karabağ, Libya ve Ukrayna gibi çatışma bölgelerindeki başarısıyla küresel bir marka haline gelmiştir."
+      "class": "Platform / Alt Sistem",
+      "strategic_role": "",
+      "summary": "|LOS Frekans Atlamalı Link| TB[\"Bayraktar TB2 SİHA\"]"
     },
     {
       "name": "TB3",
@@ -102,9 +102,9 @@
       "path": "DOMINION_AEROSPACE/BAYKAR/TB3",
       "readme_exists": true,
       "trl": 7.0,
-      "class": "Gemi Konuşlu / Katlanır Kanatlı Taktik SİHA",
-      "strategic_role": "TCG ANADOLU gibi kısa pistli gemilerden kalkıp inebilen dünyanın ilk silahlı İHA'sı.",
-      "summary": "Bayraktar TB3, Bayraktar TB2 üzerinden geliştirilen ancak daha yüksek faydalı yük kapasitesine, katlanır kanat yapısına ve deniz şartlarına (korozyon, rüzgar) dayanıklı bir gövdeye sahip özel bir SİHA'dır. Mavi Vatan savunmasında kuvvet çarpanı olarak görev yapacaktır."
+      "class": "Platform / Alt Sistem",
+      "strategic_role": "",
+      "summary": "ELE[\"Uçuş Güvertesine Transfer\"]"
     },
     {
       "name": "TOMRİS",
@@ -113,9 +113,9 @@
       "path": "DOMINION_AEROSPACE/BAYKAR/TOMRİS",
       "readme_exists": true,
       "trl": 3.0,
-      "class": "Yeni Nesil Küçük Modüler Nükleer Reaktör (Small Modular Reactor - SMR)",
-      "strategic_role": "Askeri üslerin, kritik veri merkezlerinin, İHA yer istasyonlarının ve yapay zeka süper bilgisayarlarının kesintisiz, temiz ve bağımsız enerji ihtiyacını karşılayan milli mikro nükleer teknoloji.",
-      "summary": "TOMRİS, Baykar bünyesinde kurulan enerji mühendisliği birimi tarafından yürütülen, fabrikada üretilip konteyner veya tır boyutlarında taşınabilen modüler nükleer güç ünitesi projesidir. Fosil yakıtlara ve merkezi şebekelere bağımlı olmaksızın en zorlu coğrafyalarda on yıllarca yakıt ikmali gerektirmeden gigavat-saatlerce elektrik ve ısı üretme potansiyeline sahiptir."
+      "class": "Platform / Alt Sistem",
+      "strategic_role": "",
+      "summary": "CR[\"Doğal Konveksiyonlu Reaktör Havuzu\"]"
     },
     {
       "name": "KARAYEL",
@@ -124,9 +124,9 @@
       "path": "DOMINION_AEROSPACE/Lentatek/KARAYEL",
       "readme_exists": true,
       "trl": 9.0,
-      "class": "NATO STANAG-4671 Uyumlu Taktik Silahlı İnsansız Hava Aracı (SİHA)",
-      "strategic_role": "Türkiye'nin NATO sivil havacılık ve askeri uçuşa elverişlilik standartlarına (STANAG-4671) göre tasarlanıp üretilen ilk taktik İHA'sı; başarılı uluslararası ihracat ve ortak üretim geçmişi.",
-      "summary": "KARAYEL-SU, keşif, gözetleme, hedef tespit ve hassas lazer güdümlü mühimmatlarla taarruz icra etmek üzere geliştirilmiş taktik sınıf bir İHA'dır. Kanatlarında yer alan buz önleme ve giderme sistemleri ile en zorlu iklim ve meteorolojik şartlarda dahi görev yapabilme kabiliyeti ile öne çıkar."
+      "class": "Platform / Alt Sistem",
+      "strategic_role": "",
+      "summary": "A1[\"Otonom Kalkış ve Seyir\"]"
     },
     {
       "name": "AKATA",
@@ -135,9 +135,9 @@
       "path": "DOMINION_AEROSPACE/ROKETSAN/AKATA",
       "readme_exists": true,
       "trl": 7.0,
-      "class": "Denizaltı Torpido Kovanından Atılan Kapsüllü Gemisavar Füzesi (Sub-surface to Surface)",
-      "strategic_role": "Denizaltılarımızın yüzeye çıkmadan, su altından yüzlerce kilometre ötedeki düşman su üstü harp gemilerini vurabilmesini sağlayan stratejik kuvvet çarpanı.",
-      "summary": "AKATA, ROKETSAN'ın ATMACA gemisavar füzesinin denizaltı 533mm standart torpido kovanlarından fırlatılmak üzere özel bir su altı fırlatma kapsülü içine yerleştirilmiş varyantıdır. Füze, denizaltı dalış derinliğindeyken kovanından basınçlı hava veya gaz jeneratörü ile fırlatılır, su yüzeyine ulaştığında kapsül kırılarak füzenin katı yakıtlı roket motoru ateşlenir ve deniz yalama (sea-skimming) irtifasında hedefine uçar."
+      "class": "Platform / Alt Sistem",
+      "strategic_role": "",
+      "summary": "DIS[\"533mm Kovandan Kapsül İçi Basınçlı Fırlatma\"]"
     },
     {
       "name": "ALKA",
@@ -148,7 +148,7 @@
       "trl": 8.0,
       "class": "Platform / Alt Sistem",
       "strategic_role": "",
-      "summary": ""
+      "summary": "TRK[\"EO/IR Termal Kamera ile Takip\"]"
     },
     {
       "name": "BARBAROS",
@@ -159,7 +159,7 @@
       "trl": 8.0,
       "class": "Platform / Alt Sistem",
       "strategic_role": "",
-      "summary": ""
+      "summary": "C2[\"Mobil Batarya Komuta Kontrol Aracı\"]"
     },
     {
       "name": "BORA",
@@ -168,9 +168,9 @@
       "path": "DOMINION_AEROSPACE/ROKETSAN/BORA",
       "readme_exists": true,
       "trl": 9.0,
-      "class": "Kısa Menzilli Taktik Balistik Füze (SRBM - Short-Range Ballistic Missile)",
-      "strategic_role": "Yüksek öncelikli düşman stratejik tesislerini, komuta merkezlerini ve radar istasyonlarını derinlikte nokta atışıyla imha eden caydırıcı vuruş gücü.",
-      "summary": "BORA, ROKETSAN tarafından ordu harekat sahasında derinlikteki kritik hedeflere karşı yoğun ve etkili ateş gücü sağlamak üzere geliştirilmiş güdümlü bir taktik balistik füze sistemidir. 8x8 taktik tekerlekli fırlatma aracı üzerinden her türlü arazi ve hava koşulunda hızla mevzilenip ateşlenebilir."
+      "class": "Platform / Alt Sistem",
+      "strategic_role": "",
+      "summary": "|Kriptolu Koordinat Girişi| TEL[\"VOLAT 8x8 Taktik Lançer\"]"
     },
     {
       "name": "CENK",
@@ -179,9 +179,9 @@
       "path": "DOMINION_AEROSPACE/ROKETSAN/CENK",
       "readme_exists": true,
       "trl": 6.0,
-      "class": "Orta Menzilli Balistik Füze (MRBM - Medium-Range Ballistic Missile)",
-      "strategic_role": "TAYFUN'un ötesinde 1.000+ km stratejik menzil hedefleyen, bölgesel jeopolitik güç dengesini kökten değiştiren caydırıcı füze sistemi.",
-      "summary": "CENK, Türkiye'nin BORA ve TAYFUN ile elde ettiği roket motoru, yakıt kimyası, aerodinamik kontrol ve yüksek irtifa atmosfer dışı seyrüsefer yeteneklerini daha üst bir sınıfa taşıyan stratejik balistik füze projesidir. Ağır çok akslı taktik fırlatma aracı üzerinden fırlatılır."
+      "class": "Platform / Alt Sistem",
+      "strategic_role": "",
+      "summary": "STG1[\"1. Kademe Katı Yakıt Motoru Ateşlemesi\"]"
     },
     {
       "name": "CİRİT",
@@ -190,9 +190,9 @@
       "path": "DOMINION_AEROSPACE/ROKETSAN/CİRİT",
       "readme_exists": true,
       "trl": 9.0,
-      "class": "2.75\" Lazer Güdümlü Füze",
-      "strategic_role": "Dünyanın ilk \"Lazer Güdümlü Helikopter Füzesi\". Ucuz ve güdümsüz roketleri akıllı füzelere dönüştüren devrimsel bir çözüm.",
-      "summary": "CİRİT; klasik 2.75 inçlik (70mm) güdümsüz roketlerin aerodinamik yapısı ve lazer güdüm kiti ile birleştirilerek oluşturulmuş, hafif zırhlı araçlara ve personele karşı etkili, maliyet etkin bir füzedir."
+      "class": "Platform / Alt Sistem",
+      "strategic_role": "",
+      "summary": "POD[\"Akıllı CİRİT Fırlatma Podu\"]"
     },
     {
       "name": "HİSAR",
@@ -201,9 +201,9 @@
       "path": "DOMINION_AEROSPACE/ROKETSAN/HİSAR",
       "readme_exists": true,
       "trl": 9.0,
-      "class": "Alçak ve Orta İrtifa Hava Savunma Füze Sistemi",
-      "strategic_role": "Türkiye'nin katmanlı hava savunma ağının bel kemiği.",
-      "summary": "HİSAR projeleri, askeri üs, liman, tesis ve birliklerin hava tehditlerinden korunması amacıyla geliştirilmiştir. Sabit ve döner kanatlı uçaklara, seyir füzelerine, insansız hava araçlarına ve havadan karaya atılan füzelere karşı etkilidir."
+      "class": "Platform / Alt Sistem",
+      "strategic_role": "",
+      "summary": "C2[\"HAKİM / Batarya Atış Kontrol Merkezi\"]"
     },
     {
       "name": "MAM AILESI",
@@ -212,9 +212,9 @@
       "path": "DOMINION_AEROSPACE/ROKETSAN/MAM_AILESI",
       "readme_exists": true,
       "trl": 9.0,
-      "class": "Lazer Güdümlü Mini Mühimmat",
-      "strategic_role": "SİHA'ların (TB2, ANKA) ana vuruş gücü. Dünyada savaş konseptini değiştiren, tankları avlayan \"Sessiz Ölüm\".",
-      "summary": "MAM (Mini Akıllı Mühimmat) ailesi; insansız hava araçları ve hafif saldırı uçakları için özel olarak geliştirilmiş, düşük ağırlıklı ancak yüksek vuruş hassasiyetine sahip mühimmatlardır. Yerçekiminden faydalanarak süzülürler (MAM-T hariç)."
+      "class": "Platform / Alt Sistem",
+      "strategic_role": "",
+      "summary": "SAL[\"Kanat Pylonundan Güvenli Bırakış\"]"
     },
     {
       "name": "TAYFUN",
@@ -223,9 +223,9 @@
       "path": "DOMINION_AEROSPACE/ROKETSAN/TAYFUN",
       "readme_exists": true,
       "trl": 9.0,
-      "class": "Kısa Menzilli Balistik Füze (SRBM)",
-      "strategic_role": "Türkiye'nin bilinen ilk \"Balistik Füzesi\". Derin darbe ve stratejik caydırıcılık yeteneği.",
-      "summary": "TAYFUN, BORA füzesinin teknolojik altyapısı üzerine geliştirilen, çok daha uzun menzile ve yıkıcı etkiye sahip bir balistik füze sistemidir. Gizlilik içinde yürütülen proje, 2022 yılında yapılan test atışıyla dünyaya duyurulmuştur."
+      "class": "Platform / Alt Sistem",
+      "strategic_role": "",
+      "summary": "CELIK"
     },
     {
       "name": "TAYFUN BLOK4",
@@ -236,7 +236,7 @@
       "trl": 5.0,
       "class": "Platform / Alt Sistem",
       "strategic_role": "",
-      "summary": ""
+      "summary": "TVC_B"
     },
     {
       "name": "UMTAS",
@@ -245,9 +245,9 @@
       "path": "DOMINION_AEROSPACE/ROKETSAN/UMTAS",
       "readme_exists": true,
       "trl": 9.0,
-      "class": "Havadan-Karaya ve Karadan-Karaya Uzun Menzilli Hassas Tanksavar Füzesi (ATGM)",
-      "strategic_role": "T129 ATAK, SİHA'lar ve zırhlı kara araçlarının ana zırh delici vurucu gücü; modern reaktif zırhlı tankları 8 km öteden imha eden stratejik tanksavar mühimmatı.",
-      "summary": "UMTAS, öncelikli olarak taarruz helikopterlerinden kullanım için geliştirilmiş, modern muharebe sahasındaki tüm zırhlı tehditlere karşı etkin bir tanksavar füze sistemidir. Kızılötesi Görüntüleyici Arayıcı Başlık (IIR) kullanan UMTAS ve Yarı Aktif Lazer Arayıcı Başlık kullanan L-UMTAS varyantları mevcuttur."
+      "class": "Platform / Alt Sistem",
+      "strategic_role": "",
+      "summary": "ATAK"
     },
     {
       "name": "ÇAKIR",
@@ -256,9 +256,9 @@
       "path": "DOMINION_AEROSPACE/ROKETSAN/ÇAKIR",
       "readme_exists": true,
       "trl": 9.0,
-      "class": "Yeni Nesil Seyir Füzesi",
-      "strategic_role": "Modüler yapısı ve yapay zeka desteği ile sürü saldırısı yapabilen, kara, deniz ve hava platformlarından atılabilen çok yönlü bir füze.",
-      "summary": "ÇAKIR, ROKETSAN tarafından geliştirilen; kara, deniz ve hava platformlarından atılabilen, son teknoloji özelliklere sahip yeni nesil bir seyir füzesidir. Modüler harp başlığı ve menzil seçenekleri ile kullanıcıya operasyonel esneklik sağlar."
+      "class": "Platform / Alt Sistem",
+      "strategic_role": "",
+      "summary": "KTJ"
     },
     {
       "name": "İHA-300",
@@ -267,9 +267,9 @@
       "path": "DOMINION_AEROSPACE/ROKETSAN/İHA-300",
       "readme_exists": true,
       "trl": 8.0,
-      "class": "Havadan Atılan Taktik Balistik / Süpersonik Füze (Air-Launched Ballistic Missile - ALBM)",
-      "strategic_role": "Bayraktar AKINCI ve diğer ağır SİHA'lardan atılarak yüzlerce kilometre ötedeki stratejik hedefleri hipersonik dalışla imha eden caydırıcı mühimmat.",
-      "summary": "İHA-300, ROKETSAN'ın muharebe sahasında kendini kanıtlamış TRG-300 KAPLAN füzesinin İHA platformlarından (başta AKINCI TİHA olmak üzere) havadan bırakılacak şekilde uyarlanmış havadan-karaya balistik füze türevidir. Yüksek irtifadan atılmanın sağladığı kinetik ve potansiyel enerji avantajıyla menzili ve terminal darbe hızı katlanarak artar."
+      "class": "Platform / Alt Sistem",
+      "strategic_role": "",
+      "summary": "RADAR"
     },
     {
       "name": "BOYGA",
@@ -278,9 +278,9 @@
       "path": "DOMINION_AEROSPACE/STM/BOYGA",
       "readme_exists": true,
       "trl": 9.0,
-      "class": "Döner Kanatlı Mühimmat Bırakan Otonom İHA Sistemi",
-      "strategic_role": "MKE tarafından özelleştirilmiş 81mm havan mühimmatını balistik bilgisayarı ile hedefe nokta atışıyla bırakan, sığınak ve mevzileri dikey vuruşla imha eden taktik hava gücü.",
-      "summary": "BOYGA, MKE tarafından geliştirilen 81mm geliştirilmiş havan mühimmatını taşıyıp hedef üzerine hassas balistik algoritmasıyla bırakan döner kanatlı bir taktik İHA'dır. Yer Kontrol İstasyonu üzerinden planlanan hedefe otonom intikal eder ve rüzgar hızı/irtifa hesaplaması yaparak mühimmatı santimetre hassasiyetinde bırakır."
+      "class": "Platform / Alt Sistem",
+      "strategic_role": "",
+      "summary": "ANT"
     },
     {
       "name": "KARGU",
@@ -289,9 +289,9 @@
       "path": "DOMINION_AEROSPACE/STM/KARGU",
       "readme_exists": true,
       "trl": 9.0,
-      "class": "Döner Kanatlı Vurucu İHA (Kamikaze Drone)",
-      "strategic_role": "Terörle mücadelede ve asimetrik harpte oyun değiştirici. Mağara girişleri, pencere içleri gibi hassas hedefleri cerrah titizliğiyle vurabilir.",
-      "summary": "KARGU; tek er tarafından taşınabilen, döner kanatlı (quadcopter benzeri), yapay zeka destekli görüntü işleme ile hedefini otonom tespit edip dalış yaparak imha eden bir vurucu İHA sistemidir."
+      "class": "Platform / Alt Sistem",
+      "strategic_role": "",
+      "summary": "GCS_TABLET"
     },
     {
       "name": "TOGAN",
@@ -300,9 +300,9 @@
       "path": "DOMINION_AEROSPACE/STM/TOGAN",
       "readme_exists": true,
       "trl": 9.0,
-      "class": "Taktik Seviye Otonom Döner Kanatlı Keşif ve Gözetleme İHA Sistemi",
-      "strategic_role": "Özel kuvvetler ve taktik piyade timlerine sırt çantasında taşınabilir, 30x optik zoomlu ve yapay zeka hedef takipli anlık durumsal farkındalık sağlayan gözcü.",
-      "summary": "TOGAN, taktik sahada keşif, gözetleme ve istihbarat görevlerinde kullanılmak üzere geliştirilmiş, tek er tarafından kolayca taşınabilen ve kurulabilen otonom bir mini İHA sistemidir. Gelişmiş uçuş kontrol algoritmaları, otomatik görev planlama ve hedef takip kabiliyetine sahiptir."
+      "class": "Platform / Alt Sistem",
+      "strategic_role": "",
+      "summary": "WAYPOINTS"
     },
     {
       "name": "PD170",
@@ -311,9 +311,9 @@
       "path": "DOMINION_AEROSPACE/TEI/PD170",
       "readme_exists": true,
       "trl": 9.0,
-      "class": "Havacılık Turbodizel Motoru",
-      "strategic_role": "İHA'larımızı (ANKA, AKSUNGUR, TB3) yabancı motor bağımlılığından kurtaran ve onlara sınıf atlayan motor.",
-      "summary": "PD170, irtifa yeteneği dünyadaki rakiplerinden çok daha yüksek olan, çift turbolu, 172 beygir gücünde bir havacılık dizel motorudur. 30.000 feet irtifada dahi güç kaybı yaşamadan çalışabilmesiyle öne çıkar."
+      "class": "Platform / Alt Sistem",
+      "strategic_role": "",
+      "summary": "TURBO_LP"
     },
     {
       "name": "PD222",
@@ -324,7 +324,7 @@
       "trl": 8.0,
       "class": "Platform / Alt Sistem",
       "strategic_role": "",
-      "summary": ""
+      "summary": "BLOCK[\"Hafifletilmiş Silindir Bloğu (225 HP)\"]"
     },
     {
       "name": "TF10000",
@@ -333,9 +333,9 @@
       "path": "DOMINION_AEROSPACE/TEI/TF10000",
       "readme_exists": true,
       "trl": 6.0,
-      "class": "Askeri Turbofan Motor (Afterburning Turbofan)",
-      "strategic_role": "KIZILELMA ve ANKA-3'e süpersonik uçuş kabiliyeti kazandıracak, KAAN'ın milli motoru için kritik basamak oluşturan en güçlü milli jet motoru projesi.",
-      "summary": "TEI-TF10000, Türkiye'nin ilk askeri turbofan motoru olan TF6000'in çekirdek mimarisi üzerine art yakıcı (afterburner) modülü eklenerek geliştirilen yüksek itkili bir turbofan motordur. İnsansız savaş uçakları, hızlı hücum botları ve bölgesel jet platformları için yüksek güç yoğunluğu sunar."
+      "class": "Platform / Alt Sistem",
+      "strategic_role": "",
+      "summary": "HPC"
     },
     {
       "name": "TF6000",
@@ -344,9 +344,9 @@
       "path": "DOMINION_AEROSPACE/TEI/TF6000",
       "readme_exists": true,
       "trl": 7.0,
-      "class": "Askeri Turbofan Motor",
-      "strategic_role": "Türkiye'nin tasarladığı ve ürettiği ilk askeri turbofan motor. KIZILELMA, ANKA-3 ve HÜRJET'in güç kaynağı olacak.",
-      "summary": "TF6000, 6000 lbf kuru itki üretebilen, art yakıcı (afterburner) ile 10.000 lbf sınıfına (TF10000) çıkabilen, düşük by-pass oranlı bir turbofan motordur. Bu motor, Türkiye'nin kendi savaş uçağı motorunu yapma yolundaki en büyük mihenk taşlarından biridir."
+      "class": "Platform / Alt Sistem",
+      "strategic_role": "",
+      "summary": "BLISK_COMP"
     },
     {
       "name": "TJ300",
@@ -355,9 +355,9 @@
       "path": "DOMINION_AEROSPACE/TEI/TJ300",
       "readme_exists": true,
       "trl": 9.0,
-      "class": "Orta Menzilli Gemi Savar Füze Motoru (Turbojet)",
-      "strategic_role": "Dünyada kendi sınıfında çapına göre en yüksek itkiyi üreten motor.",
-      "summary": "TJ300, orta menzilli gemisavar füzeleri için geliştirilmiş, 240mm gibi çok dar bir çapa sığdırılmış olmasına rağmen 1300 Newton itki üretebilen bir mühendislik harikasıdır."
+      "class": "Platform / Alt Sistem",
+      "strategic_role": "",
+      "summary": "WINDMILL"
     },
     {
       "name": "TJ90",
@@ -368,7 +368,7 @@
       "trl": 9.0,
       "class": "Platform / Alt Sistem",
       "strategic_role": "",
-      "summary": ""
+      "summary": "AIR_SUCTION"
     },
     {
       "name": "TS1400",
@@ -377,9 +377,9 @@
       "path": "DOMINION_AEROSPACE/TEI/TS1400",
       "readme_exists": true,
       "trl": 8.0,
-      "class": "Turboşaft Motor (Helikopter Motoru)",
-      "strategic_role": "GÖKBEY helikopterinin yerli kalbi. Türkiye'nin ilk sertifikalı milli turboşaft motoru.",
-      "summary": "TS1400, GÖKBEY genel maksat helikopteri başta olmak üzere, T129 ATAK ve HÜRKUŞ gibi platformlarda kullanılabilecek 1400 şaft beygir gücünde (kalkışta 1660 shp) milli bir motordur."
+      "class": "Platform / Alt Sistem",
+      "strategic_role": "",
+      "summary": "COMP1"
     },
     {
       "name": "AY GÖREVİ",
@@ -387,10 +387,10 @@
       "dominion": "AEROSPACE",
       "path": "DOMINION_AEROSPACE/TUA/AY_GÖREVİ",
       "readme_exists": true,
-      "trl": 5.5,
+      "trl": 6.0,
       "class": "Platform / Alt Sistem",
-      "strategic_role": "Türkiye'nin \"Derin Uzay\" ligine girişi. Hibrit roket teknolojisi ile Ay'a erişen sayılı ülkelerden biri olma vizyonu.",
-      "summary": "Milli Uzay Programı'nın ilk ve en kritik ayağı olan Ay Görevi; ilk aşamada Ay'a sert iniş yaparak teknolojik gösterim gerçekleştirmeyi, ikinci aşamada ise yumuşak iniş yaparak bilimsel çalışmalar yürütmeyi hedefler."
+      "strategic_role": "",
+      "summary": "LEO"
     },
     {
       "name": "AKSUNGUR",
@@ -399,9 +399,9 @@
       "path": "DOMINION_AEROSPACE/TUSAŞ/AKSUNGUR",
       "readme_exists": true,
       "trl": 9.0,
-      "class": "MALE+ Sınıfı Çift Motorlu Yüksek İrtifa / Uzun Havada Kalışlı İnsansız Hava Aracı",
-      "strategic_role": "50+ saat kesintisiz havada kalış rekoru, 750 kg faydalı yük kapasitesi ve deniz karakol (ASW/DSH) sonoboy atma yeteneği ile Mavi Vatan ve sınır güvenliğinin stratejik bekçisi.",
-      "summary": "AKSUNGUR, TUSAŞ'ın ANKA platformu ile edindiği uçuş tecrübesi üzerine inşa edilen, iki adet yerli TEI PD170 turbodizel motorla güçlendirilmiş, yüksek faydalı yük taşıma kapasitesine sahip bir İHA sistemidir. İstihbarat, gözetleme, keşif (ISR) ve taarruz görevlerinin yanı sıra orman yangını tespiti, deprem kriz iletişimi ve denizaltı savunma harbi görevlerini başarıyla icra eder."
+      "class": "Platform / Alt Sistem",
+      "strategic_role": "",
+      "summary": "ADVENT_NET"
     },
     {
       "name": "ANKA",
@@ -412,7 +412,7 @@
       "trl": 9.0,
       "class": "Platform / Alt Sistem",
       "strategic_role": "",
-      "summary": ""
+      "summary": "FLIGHT_COMP"
     },
     {
       "name": "ANKA-3",
@@ -421,9 +421,9 @@
       "path": "DOMINION_AEROSPACE/TUSAŞ/ANKA-3",
       "readme_exists": true,
       "trl": 7.0,
-      "class": "Derin Darbe (Deep Strike) / Hayalet İnsansız Savaş Uçağı (MIUS)",
-      "strategic_role": "Radar görünmezliği (Stealth) ve jet motoru ile düşman hava savunmasını baskılama (SEAD/DEAD) yeteneği.",
-      "summary": "ANKA-3, \"Uçan Kanat\" (Flying Wing) yapısı sayesinde çok düşük radar kesit alanına sahip, turbofan motorlu insansız bir savaş uçağıdır. Hava-yer ve hava-hava görevlerinde, düşman radarlarının tespit edemeyeceği mesafelerden sızarak kritik hedefleri imha etmek için tasarlanmıştır."
+      "class": "Platform / Alt Sistem",
+      "strategic_role": "",
+      "summary": "MUMT_LINK"
     },
     {
       "name": "ATAK-2",
@@ -432,9 +432,9 @@
       "path": "DOMINION_AEROSPACE/TUSAŞ/ATAK-2",
       "readme_exists": true,
       "trl": 7.0,
-      "class": "Ağır Sınıf Taarruz Helikopteri",
-      "strategic_role": "Dünyanın en ağır mühimmat taşıma kapasitesine sahip taarruz helikopterlerinden biri (Apache Guardian ve Ka-52 sınıfı).",
-      "summary": "T129 ATAK helikopterinden elde edilen tecrübelerle geliştirilen ATAK-2, yüksek irtifa ve sıcaklıkta, gece ve gündüz koşullarında taarruz, yakın hava desteği, silahlı keşif ve koruma görevlerini icra etmek üzere tasarlanmıştır. 1.200 kg'dan fazla mühimmat taşıma kapasitesi ile gerçek bir güç çarpanıdır."
+      "class": "Platform / Alt Sistem",
+      "strategic_role": "",
+      "summary": "B1"
     },
     {
       "name": "GÖKBEY",
@@ -443,9 +443,9 @@
       "path": "DOMINION_AEROSPACE/TUSAŞ/GÖKBEY",
       "readme_exists": true,
       "trl": 8.0,
-      "class": "Genel Maksat Helikopteri (6 Ton Sınıfı)",
-      "strategic_role": "Tamamen yerli imkanlarla tasarlanan ve üretilen ilk özgün helikopter. Motoru dahi (TS1400) yerlidir.",
-      "summary": "T625 GÖKBEY, en zorlu iklim ve coğrafyalarda, yüksek irtifa ve yüksek sıcaklıkta, gece ve gündüz koşullarında etkin bir şekilde faaliyet gösterebilecek şekilde tasarlanmıştır. VIP taşıma, personel nakli, ambulans, arama kurtarma ve kıyı ötesi taşıma görevlerinde kullanılabilmektedir."
+      "class": "Platform / Alt Sistem",
+      "strategic_role": "",
+      "summary": "M2 --> M3"
     },
     {
       "name": "GÖKTÜRK",
@@ -454,9 +454,9 @@
       "path": "DOMINION_AEROSPACE/TUSAŞ/GÖKTÜRK",
       "readme_exists": true,
       "trl": 9.0,
-      "class": "Keşif Gözetleme Uydusu (EO)",
-      "strategic_role": "TSK'nın uzaydaki \"Gözü\". Dünyanın her yerinden istihbarat görüntüsü alabilen stratejik kabiliyet.",
-      "summary": "GÖKTÜRK projesi (GÖKTÜRK-1, GÖKTÜRK-2 ve yakında GÖKTÜRK-3 SAR), Türkiye'nin yüksek çözünürlüklü görüntü ihtiyacını karşılayan askeri keşif uydularıdır. GÖKTÜRK-2, Türkiye'nin milli imkanlarla üretilen ilk yüksek çözünürlüklü gözlem uydusudur."
+      "class": "Platform / Alt Sistem",
+      "strategic_role": "",
+      "summary": "U2 --> U3"
     },
     {
       "name": "GÖKTÜRK-3",
@@ -465,9 +465,9 @@
       "path": "DOMINION_AEROSPACE/TUSAŞ/GÖKTÜRK-3",
       "readme_exists": true,
       "trl": 6.0,
-      "class": "Sentetik Açıklıklı Radar (SAR) Keşif-Gözetleme Uydusu",
-      "strategic_role": "Gece-gündüz ve bulutlu havalarda bile yüksek çözünürlüklü görüntü alabilme yeteneği. Türkiye'nin uzaydaki keskin gözü.",
-      "summary": "GÖKTÜRK-3 uydusu, optik uyduların (GÖKTÜRK-1/2) bulutlu ve karanlık koşullarda görüntü alamama dezavantajını SAR radarı ile gideren bir projedir. TSK'nın küresel istihbarat ihtiyacını karşılayacaktır."
+      "class": "Platform / Alt Sistem",
+      "strategic_role": "",
+      "summary": "S2 --> S3"
     },
     {
       "name": "HÜRJET",
@@ -478,7 +478,7 @@
       "trl": 8.0,
       "class": "Platform / Alt Sistem",
       "strategic_role": "",
-      "summary": "**\"Geleceğin Pilotları İçin Çelik Kanatlar: Eğitimden Muharebeye\"**"
+      "summary": "P2 --> P3"
     },
     {
       "name": "HÜRKUŞ",
@@ -487,9 +487,9 @@
       "path": "DOMINION_AEROSPACE/TUSAŞ/HÜRKUŞ",
       "readme_exists": true,
       "trl": 9.0,
-      "class": "Yeni Nesil Temel Eğitim, İleri Eğitim ve Hafif Taarruz Uçağı",
-      "strategic_role": "EASA (Avrupa Havacılık Emniyeti Ajansı) sivil tip sertifikası alan ilk yerli uçak; pilot eğitiminde dışa bağımlılığı bitiren ve hafif yakın hava desteği sağlayan muharip platform.",
-      "summary": "HÜRKUŞ, Türk Hava Kuvvetleri ve müttefik ülkelerin temel eğitim ve savaş uçağı intibak eğitim ihtiyaçlarını karşılamak ve zorlu harekat koşullarında yakın hava desteği (CAS) sunmak üzere tasarlanmış turboprop motorlu bir uçaktır. HÜRKUŞ-A (Sivil Sertifikalı), HÜRKUŞ-B (Gelişmiş Askeri Eğitim), HÜRKUŞ-C (Hafif Taarruz / Silahlı) ve HÜRKUŞ Hava Yer Entegrasyon Uçağı (HYEU) varyantlarına sahiptir."
+      "class": "Platform / Alt Sistem",
+      "strategic_role": "",
+      "summary": "M2"
     },
     {
       "name": "KAAN",
@@ -498,9 +498,9 @@
       "path": "DOMINION_AEROSPACE/TUSAŞ/KAAN",
       "readme_exists": true,
       "trl": 7.0,
-      "class": "5. Nesil Çok Rollü Savaş Uçağı",
-      "strategic_role": "Türkiye'yi dünyada 5. nesil uçak üretebilen 4 ülke arasına sokan, hava hakimiyetinin zirvesi.",
-      "summary": "Eski adıyla Milli Muharip Uçak (MMU), yeni adıyla KAAN; düşük görünürlük (Stealth), dahili silah yuvaları, yüksek manevra kabiliyeti, artırılmış durumsal farkındalık ve sensör füzyonu özelliklerine sahip 5. nesil bir savaş uçağıdır. F-16'ların yerini alarak Türk Hava Kuvvetleri'nin bel kemiğini oluşturacaktır."
+      "class": "Platform / Alt Sistem",
+      "strategic_role": "",
+      "summary": "C2"
     },
     {
       "name": "SÜPER ŞİMŞEK",
@@ -509,9 +509,9 @@
       "path": "DOMINION_AEROSPACE/TUSAŞ/SÜPER_ŞİMŞEK",
       "readme_exists": true,
       "trl": 7.0,
-      "class": "Yüksek Hızlı Hedef Uçak / Dolanan Mühimmat / Elektronik Harp Platformu",
-      "strategic_role": "ANKA-3 ve KAAN'dan salınarak hava savunma radarlarını yanıltan veya kamikaze vuruş gerçekleştiren süpersonik kanat adamı bileşeni.",
-      "summary": "SÜPER ŞİMŞEK, TUSAŞ'ın başarılı ŞİMŞEK hedef uçak ailesinin turbojet motorlu, çok amaçlı ve yüksek hızlı yeni nesil türevidir. Havadan veya karadan fırlatılabilen platform; keşif, gözetleme, radar bastırma (SEAD), hava savunma aldatması ve harp başlığı takılarak hassas vuruş (kamikaze) görevlerini icra edebilmektedir."
+      "class": "Platform / Alt Sistem",
+      "strategic_role": "",
+      "summary": "S1"
     },
     {
       "name": "T129 ATAK",
@@ -520,9 +520,9 @@
       "path": "DOMINION_AEROSPACE/TUSAŞ/T129_ATAK",
       "readme_exists": true,
       "trl": 9.0,
-      "class": "İki Kişilik Ağır İklim ve Yüksek İrtifa Taarruz ve Keşif Helikopteri",
-      "strategic_role": "Türk Kara Kuvvetleri, Jandarma ve Emniyet'in yakın hava desteği omurgası; yüksek sıcaklık ve irtifada dünyanın en çevik taarruz platformlarından biri (Combat Proven).",
-      "summary": "T129 ATAK, sıcak hava ve yüksek irtifa gereksinimlerini karşılamak üzere optimize edilmiş, çift motorlu, tandem iki kişilik yeni nesil bir taarruz helikopteridir. ASELSAN aviyonikleri, ASELFLIR-300T/500 elektro-optik nişangahı ve kaska monteli entegre kumanda sistemi (AVCI) ile gece ve gündüz her türlü hava koşulunda nokta vuruşu icra eder."
+      "class": "Platform / Alt Sistem",
+      "strategic_role": "",
+      "summary": "E2"
     },
     {
       "name": "TÜRKSAT 6A",
@@ -531,9 +531,9 @@
       "path": "DOMINION_AEROSPACE/TUSAŞ/TÜRKSAT_6A",
       "readme_exists": true,
       "trl": 8.0,
-      "class": "Yerli Haberleşme Uydusu (GEO)",
-      "strategic_role": "Türkiye'nin kendi haberleşme uydusunu üretebilen 11 ülkeden biri olmasını sağlayan, uzaydaki en büyük milli varlığımız.",
-      "summary": "TÜRKSAT 6A; tasarımı, üretimi ve montajı tamamen Türkiye'de gerçekleştirilen ilk yerli haberleşme uydusudur. 42 derece doğu yörüngesinde görev yapacak uydu, mevcut uyduların (Türksat 3A, 4A, 5A) kapsama alanına ek olarak Hindistan'ı da içine alan geniş bir coğrafyaya hizmet verecektir."
+      "class": "Platform / Alt Sistem",
+      "strategic_role": "",
+      "summary": "S1"
     },
     {
       "name": "ŞİMŞEK",
@@ -542,9 +542,9 @@
       "path": "DOMINION_AEROSPACE/TUSAŞ/ŞİMŞEK",
       "readme_exists": true,
       "trl": 9.0,
-      "class": "Yüksek Hızlı Hedef Uçak / Sahte Hedef",
-      "strategic_role": "Hava savunma sistemlerinin (HİSAR, SİPER) test edilmesi için düşman uçağını taklit eder. Savaşta ise düşman radarlarını kandıran \"Sahte Hedef\" veya \"Kamikaze\" olarak kullanılır.",
-      "summary": "ŞİMŞEK; turbojet motorlu, yüksek hızlara çıkabilen, mancınıkla fırlatılan bir hava aracıdır. Başlangıçta eğitim ve test hedefi olarak tasarlanmış, sonrasında harp başlığı takılarak bir füzeye dönüştürülmüştür."
+      "class": "Platform / Alt Sistem",
+      "strategic_role": "",
+      "summary": "J1"
     },
     {
       "name": "ALPİN",
@@ -553,9 +553,9 @@
       "path": "DOMINION_AEROSPACE/Titra/ALPİN",
       "readme_exists": true,
       "trl": 7.0,
-      "class": "İnsansız Helikopter (Rotary Wing UAV)",
-      "strategic_role": "Kargo taşıma, lojistik destek ve afet bölgelerinde (yangın gözetleme gibi) insan riskini ortadan kaldıran çok yönlü platform.",
-      "summary": "ALPİN, insanlı bir İtalyan helikopterinin (Heli-Sport CH-7) Titra mühendisleri tarafından tamamen otonom hale getirilmesiyle ortaya çıkmış, uzun menzilli ve yüksek yük kapasiteli bir insansız helikopterdir."
+      "class": "Platform / Alt Sistem",
+      "strategic_role": "",
+      "summary": "P2"
     },
     {
       "name": "DELİ",
@@ -564,9 +564,9 @@
       "path": "DOMINION_AEROSPACE/Titra/DELİ",
       "readme_exists": true,
       "trl": 9.0,
-      "class": "Taktik Kamikaze İHA (Loitering Munition)",
-      "strategic_role": "Düşük maliyetli, elle atılabilen, sürü yeteneğine sahip intihar dronu.",
-      "summary": "DELİ; sabit kanatlı, katlanabilir pervaneli, yüksek süratle hedefe dalış yapabilen ve harp başlığı patlatarak hedefi imha eden bir kamikaze İHA sistemidir. Ukrayna-Rusya savaşında önemi anlaşılan \"Switchblade\" muadili bir sistemdir."
+      "class": "Platform / Alt Sistem",
+      "strategic_role": "",
+      "summary": "N1"
     },
     {
       "name": "BOZDOĞAN",
@@ -575,9 +575,9 @@
       "path": "DOMINION_AEROSPACE/TÜBİTAK_SAGE/BOZDOĞAN",
       "readme_exists": true,
       "trl": 9.0,
-      "class": "Görüş İçi Hava-Hava Füzesi (Within Visual Range Air-to-Air Missile - WVRAAM)",
-      "strategic_role": "AIM-9X Sidewinder muadili, yüksek manevra kabiliyetine sahip milli kızılötesi (IIR) güdümlü hava-hava füzesi; F-16 ÖZGÜR ve KAAN'ın birincil it dalaşı silahı.",
-      "summary": "BOZDOĞAN, GÖKTUĞ projesi kapsamında TÜBİTAK SAGE tarafından geliştirilen, katı yakıtlı roket motoru ve itki vektör kontrol (TVC) sistemiyle olağanüstü çeviklik sergileyen kısa menzilli bir hava-hava füzesidir. Gelişmiş çift renkli IIR (Kızılötesi Görüntüleyici) arayıcı başlığı ile flare ve sahte hedeflere karşı bağışıktır."
+      "class": "Platform / Alt Sistem",
+      "strategic_role": "",
+      "summary": "P3"
     },
     {
       "name": "GOKDOGAN",
@@ -586,9 +586,9 @@
       "path": "DOMINION_AEROSPACE/TÜBİTAK_SAGE/GOKDOGAN",
       "readme_exists": true,
       "trl": 9.0,
-      "class": "Görüş Ötesi Hava-Hava Füzesi (BVRAAM)",
-      "strategic_role": "F-16 ve KAAN'ın \"Uzun Kolu\". ABD yapımı AIM-120 AMRAAM füzelerinin yerli muadili.",
-      "summary": "GÖKDOĞAN, katı hal aktif radar arayıcı başlığı (RF) sayesinde \"At-Unut\" özelliğine sahip, görüş ötesindeki (BVR) hedeflere kilitlenebilen, elektronik harbe karşı dirençli üstün bir hava-hava füzesidir."
+      "class": "Platform / Alt Sistem",
+      "strategic_role": "",
+      "summary": "R2 --> R3"
     },
     {
       "name": "GÜNEŞ",
@@ -597,9 +597,9 @@
       "path": "DOMINION_AEROSPACE/TÜBİTAK_SAGE/GÜNEŞ",
       "readme_exists": true,
       "trl": 9.0,
-      "class": "Yeni Nesil Lazer ve Kızılötesi Görüntüleyici Arayıcı Başlık / Güdüm Kiti",
-      "strategic_role": "Konvansiyonel ve hafif hava mühimmatlarına hareketli hedeflere karşı yüksek hassasiyetli vuruş kabiliyeti kazandıran milli optik-elektronik güdüm beyni.",
-      "summary": "GÜNEŞ projesi, TÜBİTAK SAGE tarafından havadan atılan güdümlü mühimmatların (HGK, KGK, KUZGUN, TOLUN vb.) zorlu karıştırma ve sis koşullarında dahi hareketli veya gizlenmiş kara/deniz hedeflerini kesin isabetle vurabilmesi için geliştirilen çift modlu (Yarı Aktif Lazer + Kızılötesi Görüntüleyici IIR) yeni nesil güdüm ve arayıcı başlık sistemidir."
+      "class": "Platform / Alt Sistem",
+      "strategic_role": "",
+      "summary": "G1"
     },
     {
       "name": "KUZGUN",
@@ -608,9 +608,9 @@
       "path": "DOMINION_AEROSPACE/TÜBİTAK_SAGE/KUZGUN",
       "readme_exists": true,
       "trl": 7.0,
-      "class": "Modüler Müşterek Mühimmat Ailesi",
-      "strategic_role": "SİHA'lar, jetler ve deniz platformları için geliştirilen, maliyet etkin ve çok yönlü \"İsviçre Çakısı\" gibi mühimmat ailesi.",
-      "summary": "KUZGUN, farklı güdüm (Lazer, IIR, Radar, GPS) ve harp başlığı seçeneklerine sahip, hem itkili (turbojet/katı yakıt) hem de süzülen (serbest düşüş) varyantları olan yeni nesil bir mühimmat ailesidir."
+      "class": "Platform / Alt Sistem",
+      "strategic_role": "",
+      "summary": "C1"
     },
     {
       "name": "MORS",
@@ -619,9 +619,9 @@
       "path": "DOMINION_AEROSPACE/TÜBİTAK_SAGE/MORS",
       "readme_exists": true,
       "trl": 9.0,
-      "class": "Hassas Güdümlü Akıllı Havan ve Mini Roket Mühimmatı Ailesi",
-      "strategic_role": "Piyade birlikleri ve insansız kara/hava araçları için menzili artırılmış, nokta vuruş kabiliyetli mini roket ve akıllı havan sistemi.",
-      "summary": "MORS (Modüler Oturmalı Roket Sistemi), klasik havan ve hafif roketatarlardan ateşlenebilen veya dronelardan bırakılabilen, kanatçık açılmalı ve mini güdüm kiti entegre edilmiş hassas vuruş mühimmatıdır. Taktik sahada personelin riske girmeden düşman mevzilerini ve keskin nişancı yuvalarını ilk atışta imha etmesini sağlar."
+      "class": "Platform / Alt Sistem",
+      "strategic_role": "",
+      "summary": "F2 --> F3"
     },
     {
       "name": "SOM",
@@ -630,9 +630,9 @@
       "path": "DOMINION_AEROSPACE/TÜBİTAK_SAGE/SOM",
       "readme_exists": true,
       "trl": 9.0,
-      "class": "Hava-Yer Seyir Füzesi (Cruise Missile)",
-      "strategic_role": "F-16 ve SİHA'larımızdan atılan, düşman hava savunmasının menziline girmeden stratejik hedefleri vuran \"Balyoz\".",
-      "summary": "SOM; yoğun şekilde korunan kara ve deniz hedeflerine karşı kullanılmak üzere tasarlanmış, otonom, uzun menzilli, düşük görünürlüğe (stealth) sahip modüler bir seyir füzesi ailesidir."
+      "class": "Platform / Alt Sistem",
+      "strategic_role": "",
+      "summary": "N2 --> N3"
     },
     {
       "name": "İMECE",
@@ -641,9 +641,9 @@
       "path": "DOMINION_AEROSPACE/TÜBİTAK_SAGE/İMECE",
       "readme_exists": true,
       "trl": 9.0,
-      "class": "Yüksek Çözünürlüklü Yer Gözlem Uydusu",
-      "strategic_role": "Türkiye'nin metre altı çözünürlüğe sahip ilk yerli gözlem uydusu. Uzaydaki \"Keskin Göz\".",
-      "summary": "İMECE, yörünge kontrol sisteminden elektro-optik kamerasına, uçuş bilgisayarından yer istasyonu yazılımlarına kadar yüksek yerlilik oranıyla geliştirilmiş bir keşif gözetleme uydusudur. Dünyanın her yerinden sivil ve askeri amaçlı yüksek çözünürlüklü görüntü alabilir."
+      "class": "Platform / Alt Sistem",
+      "strategic_role": "",
+      "summary": "BU[BİLGE Uçuş Bilgisayarı]"
     },
     {
       "name": "ALBATROS-S",
@@ -652,9 +652,9 @@
       "path": "DOMINION_ELECTRONICS/ASELSAN/ALBATROS-S",
       "readme_exists": true,
       "trl": 9.0,
-      "class": "Sürü İnsansız Deniz Aracı (Sürü İDA / K-İDA)",
-      "strategic_role": "Mavi Vatan'da sürü halinde hareket ederek düşman filolarını kuşatan, liman girişlerini kapatan ve kamikaze vuruş yapabilen sürü zekalı deniz kalkanı.",
-      "summary": "ALBATROS-S, ASELSAN tarafından geliştirilen, yüksek otonomi kabiliyetine sahip ve sürü formasyonunda görev icra edebilen bir insansız deniz aracı (İDA) sistemidir. Merkezi bir operatöre bağımlı kalmaksızın sürü içindeki diğer botlarla kablosuz ağ kurarak engellerden sakınır, görev paylaşımı yapar ve hedefi müşterek olarak çevreler."
+      "class": "Platform / Alt Sistem",
+      "strategic_role": "",
+      "summary": "|RF Mesh Veri Bağı| Sub1[Üye Bot 1]"
     },
     {
       "name": "ASELFLIR-500",
@@ -663,9 +663,9 @@
       "path": "DOMINION_ELECTRONICS/ASELSAN/ASELFLIR-500",
       "readme_exists": true,
       "trl": 9.0,
-      "class": "Yeni Nesil Yüksek Performanslı Elektro-Optik Keşif, Gözetleme ve Hedefleme Sistemi",
-      "strategic_role": "Kanada'nın Wescam MX-15D ambargosunu tarihe gömen, Türk SİHA'larının (TB2, TB3, AKINCI, ANKA) ve helikopterlerinin gözü olan dünyanın en gelişmiş elektro-optik kameralarından biri.",
-      "summary": "ASELFLIR-500, İHA'lar, helikopterler ve uçaklar başta olmak üzere sabit ve döner kanatlı hava platformları için tasarlanmış yüksek çözünürlüklü bir elektro-optik keşif ve hedefleme sistemidir. Yüksek çözünürlüklü HD termal kamera, gündüz kamerası, kısa dalga kızılötesi (SWIR) kamera, lazer hedef işaretleyici ve lazer mesafe ölçeri kompakt bir gimball mimarisinde birleştirir."
+      "class": "Platform / Alt Sistem",
+      "strategic_role": "",
+      "summary": "Gyro"
     },
     {
       "name": "CENK 350N",
@@ -674,9 +674,9 @@
       "path": "DOMINION_ELECTRONICS/ASELSAN/CENK_350N",
       "readme_exists": true,
       "trl": 7.0,
-      "class": "AESA Gemi Radarı (4 Yüzlü Sabit Dizin)",
-      "strategic_role": "TF-2000 Hava Savunma Muhribi ve İSTİF Sınıfı Fırkateynlerin ana sensörü.",
-      "summary": "CENK-350N, gemilere entegre edilen, döner bir anten yerine geminin 4 yüzüne yerleştirilen sabit panellerden oluşan, GaN AESA teknolojisine sahip bir radardır. Ufuk hattı üzerindeki yüzlerce hedefi aynı anda takip edebilir."
+      "class": "Platform / Alt Sistem",
+      "strategic_role": "",
+      "summary": "DBF"
     },
     {
       "name": "EJDERHA",
@@ -685,9 +685,9 @@
       "path": "DOMINION_ELECTRONICS/ASELSAN/EJDERHA",
       "readme_exists": true,
       "trl": 7.0,
-      "class": "Yüksek Güçlü Elektromanyetik (YGEM) Silah Sistemi",
-      "strategic_role": "Elektronik cihazları kalıcı olarak yakarak veya geçici olarak durdurarak etkisiz hale getiren \"Görünmez Güç\".",
-      "summary": "EJDERHA, yönlendirilmiş mikrodalga enerjisi kullanarak, hedef sistemlerin (İHA, SİHA, EYP, Araç Elektroniği) elektronik devrelerini aşırı yükleyip yakmak veya işlevsiz hale getirmek için tasarlanmıştır."
+      "class": "Platform / Alt Sistem",
+      "strategic_role": "",
+      "summary": "TrackProcessor[Otomatik Hedef Takip Konsolu]"
     },
     {
       "name": "ERALP",
@@ -696,9 +696,9 @@
       "path": "DOMINION_ELECTRONICS/ASELSAN/ERALP",
       "readme_exists": true,
       "trl": 9.0,
-      "class": "S-Bant Taşınabilir AESA Erken İhbar Radarı",
-      "strategic_role": "Çelik Kubbe ve Türk Hava Kuvvetleri'nin ana kara konuşlu gözetleme gözü; 450+ km menzilde balistik füzeler ve hayalet (stealth) hedefleri tespit eden milli AESA radar devi.",
-      "summary": "ERALP (Taşınabilir Erken İhbar Radar Sistemi), ASELSAN tarafından geliştirilen, taktik tekerlekli askeri araçlar üzerinde hızla intikal ettirilebilen, Galyum Nitrat (GaN) yarı iletken teknolojisine sahip aktif elektronik huzme taramalı (AESA) yeni nesil bir erken ihbar radarıdır. Balistik füze fırlatmalarını fırlatış anından itibaren tespit edebilecek ve hava-soluyan hedefleri (savaş uçağı, İHA, seyir füzesi) yüzlerce kilometre öteden sınıflandırabilecek kapasitededir."
+      "class": "Platform / Alt Sistem",
+      "strategic_role": "",
+      "summary": "DBF"
     },
     {
       "name": "GÖKDENİZ",
@@ -707,9 +707,9 @@
       "path": "DOMINION_ELECTRONICS/ASELSAN/GÖKDENİZ",
       "readme_exists": true,
       "trl": 9.0,
-      "class": "Yakın Hava Savunma Sistemi (CIWS)",
-      "strategic_role": "Gemilerin son savunma hattı. ABD yapımı Phalanx sisteminin yerli ve daha üstün alternatifi.",
-      "summary": "GÖKDENİZ; KORKUT sisteminin deniz platformlarına uyarlanmış halidir. Gemiye yaklaşan anti-gemi füzelerini, helikopterleri ve asimetrik su üstü tehditlerini (botlar) imha etmek için kullanılır."
+      "class": "Platform / Alt Sistem",
+      "strategic_role": "",
+      "summary": "ThreatEval[Tehdit Değerlendirme & Önceliklendirme]"
     },
     {
       "name": "GÖKSUR",
@@ -720,7 +720,7 @@
       "trl": 7.0,
       "class": "Platform / Alt Sistem",
       "strategic_role": "",
-      "summary": "GÖKSUR Yakın Savunma Füze Sistemi, gemilerin hava tehditlerine (seyir füzeleri, İHA'lar, uçaklar) karşı korunması amacıyla geliştirilmiştir. 360 derece kapsama alanı ve yüksek manevra kabiliyetine sahip füzeleri ile kritik bir savunma katmanı oluşturur."
+      "summary": "ADVENT[ADVENT Savaş Yönetim Sistemi]"
     },
     {
       "name": "GÖKTAN",
@@ -729,9 +729,9 @@
       "path": "DOMINION_ELECTRONICS/ASELSAN/GÖKTAN",
       "readme_exists": true,
       "trl": 7.0,
-      "class": "AESA Burun Radarı (İHA/SİHA Versiyonu - Murad Türevi)",
-      "strategic_role": "AKINCI ve diğer SİHA'ların SAR/GMTI yeteneklerini maksimize eden radar.",
-      "summary": "GÖKTAN, özellikle İHA platformları için optimize edilmiş, SAR (Sentetik Açıklıklı Radar) yeteneği ile bulutların arkasından fotoğraf çeker gibi yer haritalaması yapabilen ve hareketli yer hedeflerini (GMTI) tespit edebilen AESA radarıdır."
+      "class": "Platform / Alt Sistem",
+      "strategic_role": "",
+      "summary": "GyroStabilizer[Çok Eksenli Ataletsel Stabilizasyon Ünitesi]"
     },
     {
       "name": "GÜRZ",
@@ -740,9 +740,9 @@
       "path": "DOMINION_ELECTRONICS/ASELSAN/GÜRZ",
       "readme_exists": true,
       "trl": 8.0,
-      "class": "Hibrit Hava Savunma Sistemi (Parçacıklı Mühimmat + Füze)",
-      "strategic_role": "İHA ve SİHA sürüleri ile seyir füzelerine karşı \"Son Savunma Hattı\" (Point Defense). Pantsir-S1 konseptinin çok daha gelişmiş yerli versiyonu.",
-      "summary": "GÜRZ, tek bir platform üzerinde radar, elektro-optik, 35mm parçacıklı mühimmat atabilen top ve hava savunma füzelerini barındıran otonom bir sistemdir. Hareketli birlikleri ve sabit tesisleri yoğun hava saldırılarına karşı korur."
+      "class": "Platform / Alt Sistem",
+      "strategic_role": "",
+      "summary": "TEWA[Otomatik Tehdit Değerlendirme & Silah Tahsis]"
     },
     {
       "name": "HAKİM",
@@ -751,9 +751,9 @@
       "path": "DOMINION_ELECTRONICS/ASELSAN/HAKİM",
       "readme_exists": true,
       "trl": 9.0,
-      "class": "Milli Hava Savunma Komuta ve Kontrol Sistemi (Air C2 / C4I)",
-      "strategic_role": "Çelik Kubbe ve Türk Hava Sahası üzerindeki tüm sensörleri, radarları ve hava savunma bataryalarını tek bir karar merkezinde birleştiren \"stratejik akıl\".",
-      "summary": "HAKİM, farklı tipteki radarlardan ve sensörlerden gelen iz bilgilerini birleştirerek Tanımlanmış Hava Resmi (RAP) üreten, tehdit değerlendirmesi ve silah tahsisi (TEWA) algoritmalarıyla operatörlere karar desteği sunan veya otonom angajman emirleri veren milli komuta kontrol yazılım ve donanım mimarisidir."
+      "class": "Platform / Alt Sistem",
+      "strategic_role": "",
+      "summary": "FusionEngine[Çoklu Sensör Veri Füzyonu & İz Korelasyonu]"
     },
     {
       "name": "HAVA SOJ",
@@ -764,7 +764,7 @@
       "trl": 7.0,
       "class": "Platform / Alt Sistem",
       "strategic_role": "",
-      "summary": "Hava Platformunda Uzaktan Elektronik Destek ve Elektronik Taarruz (HAVA SOJ) Sistemi, düşman radarlarını ve haberleşme sistemlerini tespit etmek, karıştırmak ve aldatmak amacıyla geliştirilmiştir. Bombardier Global 6000 uçağı üzerine entegre edilmektedir."
+      "summary": "DRFM"
     },
     {
       "name": "IHTAR",
@@ -773,9 +773,9 @@
       "path": "DOMINION_ELECTRONICS/ASELSAN/IHTAR",
       "readme_exists": true,
       "trl": 9.0,
-      "class": "Anti-Drone Sistemi (İHA Önleme)",
-      "strategic_role": "Kritik tesisleri ve kalabalık organizasyonları mini/mikro İHA saldırılarına karşı korur.",
-      "summary": "İHTAR; radar ve elektro-optik sensörleri ile İHA'ları tespit ve takip eden, RF karıştırma (Jamming) ile komuta kontrol bağlarını kesen ve opsiyonel olarak lazer silahı veya 40mm bombaatar (ATOM) ile fiziksel imha (Hard Kill) uygulayan entegre bir sistemdir."
+      "class": "Platform / Alt Sistem",
+      "strategic_role": "",
+      "summary": "C2[İHTAR Komuta Kontrol Yazılımı]"
     },
     {
       "name": "KARAT",
@@ -784,9 +784,9 @@
       "path": "DOMINION_ELECTRONICS/ASELSAN/KARAT",
       "readme_exists": true,
       "trl": 8.0,
-      "class": "5. Nesil Savaş Uçakları İçin Kızılötesi Arama ve Takip Sistemi (IRST)",
-      "strategic_role": "KAAN'ın radar yayını yapmaksızın (tamamen pasif ve hayalet kalarak) düşman hayalet uçaklarını ve füzelerini termal izlerinden onlarca kilometre öteden tespit eden gizli gözü.",
-      "summary": "KARAT, milli muharip uçak KAAN'ın burun üstü ön gövdesine entegre edilen, hava-hava hedeflerini yaydıkları kızılötesi (termal) ışıma sayesinde tespit ve takip eden gelişmiş bir elektro-optik sensör sistemidir. Radar yayını yapmadığı için düşman radar ikaz alıcıları (RWR) tarafından asla algılanamaz ve pilota tam pasif durumsal farkındalık sağlar."
+      "class": "Platform / Alt Sistem",
+      "strategic_role": "",
+      "summary": "Scanner[Hızlı İki Eksenli Stabilize Tarayıcı Ayna]"
     },
     {
       "name": "KORAL",
@@ -795,9 +795,9 @@
       "path": "DOMINION_ELECTRONICS/ASELSAN/KORAL",
       "readme_exists": true,
       "trl": 9.0,
-      "class": "Mobil Elektronik Harp Sistemi (KORAL & YENİ NESİL KORAL)",
-      "strategic_role": "\"Radarları Kör Eden Güç\". Düşman hava savunma sistemlerini işlemez hale getirerek operasyon sahasını temizler.",
-      "summary": "KORAL, düşman radarlarını tespit eden (ED - Elektronik Destek) ve onları karıştırıp körelten (ET - Elektronik Taarruz) bir sistemdir. Suriye, Libya ve Karabağ harekatlarında düşman hava savunma sistemlerini (Pantsir, SA-8 vb.) etkisiz hale getirerek İHA'ların güvenli operasyon yapmasını sağlamıştır."
+      "class": "Platform / Alt Sistem",
+      "strategic_role": "",
+      "summary": "|Kriptolu Fiber / Taktik RF Link| C2"
     },
     {
       "name": "KORKUT",
@@ -806,9 +806,9 @@
       "path": "DOMINION_ELECTRONICS/ASELSAN/KORKUT",
       "readme_exists": true,
       "trl": 9.0,
-      "class": "Kundağı Motorlu Hava Savunma Top Sistemi (SPAAG)",
-      "strategic_role": "Zırhlı birliklerin \"Hava Kalkanı\". Alçak irtifadan gelen uçak, helikopter ve İHA'lara karşı son savunma hattı.",
-      "summary": "KORKUT; FNSS ZMA-30 platformu üzerine entegre edilmiş, çift namlulu 35mm top ve arama radarından (MAR) oluşan bir hava savunma sistemidir. 3 Silah Sistemi Aracı ve 1 Komuta Kontrol Aracından oluşan takımlar halinde görev yapar."
+      "class": "Platform / Alt Sistem",
+      "strategic_role": "",
+      "summary": "AirPic[Hava Resmi & Tehdit Sıralama]"
     },
     {
       "name": "MURAD",
@@ -817,9 +817,9 @@
       "path": "DOMINION_ELECTRONICS/ASELSAN/MURAD",
       "readme_exists": true,
       "trl": 7.0,
-      "class": "AESA (Aktif Dizinli Taranan) Uçak Radarı",
-      "strategic_role": "\"Göklerin Gözü\". Savaş uçaklarımıza (F-16 ÖZGÜR, KAAN, AKINCI, KIZILELMA) nesil atlatan, rakiplerinden önce görmesini sağlayan kritik teknoloji.",
-      "summary": "MURAD, Galyum Nitrat (GaN) tabanlı transistör teknolojisi kullanılarak geliştirilen, mekanik radarlara göre çok daha uzun menzilli, karıştırmaya dayanıklı ve çok fonksiyonlu bir AESA radarıdır."
+      "class": "Platform / Alt Sistem",
+      "strategic_role": "",
+      "summary": "DigitalBeam"
     },
     {
       "name": "MİLKAR",
@@ -828,9 +828,9 @@
       "path": "DOMINION_ELECTRONICS/ASELSAN/MİLKAR",
       "readme_exists": true,
       "trl": 9.0,
-      "class": "Taktik ve Stratejik Muhabere Elektronik Harp / Karıştırma Sistemi",
-      "strategic_role": "Düşman VHF/UHF haberleşme şebekelerini, taktik telsizlerini ve komuta kontrol ağlarını tamamen felç eden, sınır ötesi harekatlarda düşman koordinasyonunu koparan elektronik taarruz silahı.",
-      "summary": "MİLKAR ailesi (MİLKAR-3A3, MİLKAR-4A2, MİLKAR-5S vb.), modern muharebe alanında kullanılan farklı frekans bantlarındaki (HF, VHF, UHF) düşman muhabere sistemlerine yönelik elektronik taarruz (karıştırma/aldatma) gerçekleştirmek amacıyla tasarlanmıştır. Yüksek çıkış gücü, geniş bant alıcı mimarisi ve taktik tekerlekli şasisiyle yüksek hareket kabiliyetine sahiptir."
+      "class": "Platform / Alt Sistem",
+      "strategic_role": "",
+      "summary": "AntArray[Geniş Bant Alıcı Direk Anteni]"
     },
     {
       "name": "PUHU",
@@ -839,9 +839,9 @@
       "path": "DOMINION_ELECTRONICS/ASELSAN/PUHU",
       "readme_exists": true,
       "trl": 9.0,
-      "class": "Taşınabilir V/UHF Taktik Muhabere Dinleme ve Yön Kestirim Sistemi (COMINT / DF)",
-      "strategic_role": "Özel kuvvetler, komando timleri ve sınır birliklerinin sırt çantasıyla taşıyabildiği, düşman telsiz yayınlarını saniyeler içinde haritada konumlandıran taktik kulak.",
-      "summary": "PUHU, taktik sahada görev yapan muharip timlerin düşman muhabere yayınlarını (VHF/UHF frekanslarında çalışan telsizler, frekans atlamalı cihazlar, el telsizleri) geniş bantta tarayan, sinyalleri demodüle edip dinleyen ve yüksek doğrulukla düşmanın koordinatlarını harita üzerinde çıkaran taşınabilir bir elektronik istihbarat sistemidir."
+      "class": "Platform / Alt Sistem",
+      "strategic_role": "",
+      "summary": "CompactAntenna[Taşınabilir Kompakt DF Anten Dizini]"
     },
     {
       "name": "SANCAK",
@@ -852,7 +852,7 @@
       "trl": 9.0,
       "class": "Yeni Nesil V/UHF Taktik Muhabere Elektronik Taarruz Sistemi (REDET II Fazı)",
       "strategic_role": "Yüksek hareket kabiliyetine sahip taktik birliklerin düşman telsiz şebekelerini karıştırma, sahte emir yayma ve muhabere istihbaratı toplama kabiliyeti.",
-      "summary": "SANCAK, düşman taktik muhabere sistemlerini (VHF/UHF telsizler, frekans atlamalı ağlar, veri linkleri) geniş bir harekat sahasında tespit, teşhis, dinleme, yön kestirimi ve elektronik taarruzla (karıştırma/aldatma) işlevsiz hale getirmek amacıyla milli imkanlarla geliştirilmiş yeni nesil bir elektronik harp sistemidir."
+      "summary": "**Geliştirici:** ASELSAN"
     },
     {
       "name": "SİPER",
@@ -861,9 +861,9 @@
       "path": "DOMINION_ELECTRONICS/ASELSAN/SİPER",
       "readme_exists": true,
       "trl": 8.0,
-      "class": "Uzun Menzilli Bölge Hava Savunma Sistemi",
-      "strategic_role": "Türkiye'nin \"Çelik Kubbesi\". S-400 ve Patriot muadili yerli stratejik hava savunma sistemi.",
-      "summary": "SİPER, stratejik tesisleri düşman hava taarruzlarına (savaş uçakları, seyir füzeleri, balistik füzeler) karşı uzun menzilde korumak için geliştirilmiştir. Katmanlı hava savunma mimarisinin en üst katmanını oluşturur."
+      "class": "Uzun Menzilli Bölge Hava ve Füze Savunma Sistemi (HİSAR-U Fazı)",
+      "strategic_role": "Türkiye'nin \"Çelik Kubbe\" hava savunma mimarisinin stratejik üst katmanı; stratejik tesisleri, metropolleri ve ordu harekat merkezlerini standoff silahlara ve balistik füzelere karşı korur.",
+      "summary": "**Üretici Konsorsiyumu:** ASELSAN (Sensör, Haberleşme, C2) & ROKETSAN (Füze, Fırlatma Sistemi) & TÜBİTAK SAGE (Harp Başlığı, Arayıcı Başlık)"
     },
     {
       "name": "TOYGUN",
@@ -871,10 +871,10 @@
       "dominion": "ELECTRONICS",
       "path": "DOMINION_ELECTRONICS/ASELSAN/TOYGUN",
       "readme_exists": true,
-      "trl": 6.0,
-      "class": "Elektro-Optik Sensör Sistemi (EOTS - Electro-Optical Targeting System)",
-      "strategic_role": "KAAN Milli Muharip Uçak ve KIZILELMA'nın gövde altına gömülü, düşük radar izine sahip \"Gözü\".",
-      "summary": "TOYGUN, F-35 uçaklarındaki EOTS sisteminin yerli muadilidir. Pod şeklinde harici asılan ASELFLIR sistemlerinden farklı olarak uçağın gövdesine entegre edilir, böylece uçağın radar kesit alanını (RCS) artırmaz. Lazer işaretleme, kızılötesi arama ve takip (IRST) yeteneklerine sahiptir."
+      "trl": 7.0,
+      "class": "5. Nesil Düşük Görünürlüklü Entegre Elektro-Optik Hedefleme Sistemi (EOTS)",
+      "strategic_role": "KAAN Milli Muharip Uçak, KIZILELMA ve insansız jet muhariplerinin gövde içine gömülü, radar izini bozmayan ve pasif olarak yüzlerce kilometre ötedeki hava ve kara hedeflerini lazerle işaretleyen optik kalbi.",
+      "summary": "**Geliştirici:** ASELSAN"
     },
     {
       "name": "TULGAR",
@@ -883,9 +883,9 @@
       "path": "DOMINION_ELECTRONICS/ASELSAN/TULGAR",
       "readme_exists": true,
       "trl": 8.0,
-      "class": "5. Nesil Kaska Monteli Entegre Kumanda ve Gösterge Sistemi (HMDS)",
-      "strategic_role": "KAAN pilotlarına 360 derece durumsal farkındalık, kask vizörüne yansıtılan sentetik görüş ve hedef kitleme sağlayan ileri aviyonik kask.",
-      "summary": "TULGAR, modern muharebe sahasında pilotun uçak kokpit panellerine bakma ihtiyacını asgari düzeye indiren, tüm uçuş, seyrüsefer ve hedef bilgilerini doğrudan vizör üzerinde yüksek çözünürlükle görüntüleyen kaska monteli bir gösterge sistemidir. KAAN'ın Elektro-Optik Hedefleme Sistemi (TOYGUN) ve Kızılötesi Arama-Takip (KARAT) sensörleriyle entegre çalışır."
+      "class": "5. Nesil Kaska Monteli Entegre Gösterge ve Nişangah Sistemi (HMDS)",
+      "strategic_role": "KAAN ve modern jet pilotlarına kokpit içi panellere bakma zorunluluğunu ortadan kaldıran, uçağın gövdesini saydamlaştırarak 360° durumsal farkındalık ve kafa hareketiyle füze kitleme kabiliyeti kazandıran yerli aviyonik vizyon sistemi.",
+      "summary": "**Geliştirici:** ASELSAN"
     },
     {
       "name": "TURAN",
@@ -894,9 +894,9 @@
       "path": "DOMINION_ELECTRONICS/ASELSAN/TURAN",
       "readme_exists": true,
       "trl": 9.0,
-      "class": "Zırhlı Araç Konuşlu Taktik Elektronik Harp ve Koruma Sistemi",
-      "strategic_role": "Zırhlı konvoyları ve taktik birlikleri RCIED (Uzaktan Komutalı El Yapımı Patlayıcı) ve düşman taktik muhaberesine karşı koruyan mobil zırhlı kalkan.",
-      "summary": "TURAN, hareket halindeki veya duraklayan askeri konvoyları, üst düzey askeri ve sivil VIP araçlarını uzaktan komutalı el yapımı patlayıcı düzeneklerine ve terör örgütlerinin telsiz/cep telefonu tabanlı tetikleme sistemlerine karşı koruyan, ayrıca taktik haberleşmeyi baskılayan entegre bir elektronik harp ve jammer sistemidir."
+      "class": "Zırhlı Konvoy ve Taktik Birlik Koruma / Reaktif Elektronik Karıştırma (RCIED Jammer) Sistemi",
+      "strategic_role": "Askeri konvoyları, üst düzey VIP heyetleri ve sınır birliklerini uzaktan komutalı el yapımı patlayıcılara (RCIED), düşman telsizlerine, dron tehditlerine ve hücresel ağ tetikleyicilerine karşı tam koruyan reaktif elektronik kalkan.",
+      "summary": "**Geliştirici:** ASELSAN"
     },
     {
       "name": "ULAQ",
@@ -905,9 +905,9 @@
       "path": "DOMINION_ELECTRONICS/ASELSAN/ULAQ",
       "readme_exists": true,
       "trl": 9.0,
-      "class": "İnsansız Deniz Aracı Faydalı Yük, Sensör ve Silah İstasyon Paketi",
-      "strategic_role": "İnsansız deniz araçlarına (İDA/SİDA) gece/gündüz elektro-optik görüş, taktik veri bağı, otonom seyir sensörleri ve stabilize silah kuleleri sağlayan milli aviyonik ve faydalı yük mimarisi.",
-      "summary": "ASELSAN ULAQ Faydalı Yük Sistemi; insansız deniz platformlarının uzaktan veya otonom olarak su üstü harbi, kıyı gözetleme, liman güvenliği ve asimetrik tehditlere müdahale görevlerini yerine getirmesini sağlayan entegre görev sistemidir. ASELSAN STAMP/SARP stabilize silah sistemleri ve DENİZGÖZÜ termal kameraları ile donatılmıştır."
+      "class": "İnsansız Deniz Aracı (İDA/SİDA) Sensör, Aviyonik ve Taktik Silah Faydalı Yük Paketi",
+      "strategic_role": "Mavi Vatan sınırlarında otonom su üstü harbi, liman/üs savunması ve asimetrik tehditlere müdahale kabiliyetini sıfır personel riskiyle kazandıran milli otonom deniz mimarisi.",
+      "summary": "**Geliştirici:** ASELSAN (Aviyonik, Sensör ve Silah İstasyonları) & ARES Tersanesi (Gövde ve Platform)"
     },
     {
       "name": "YILDIRIM-100",
@@ -916,9 +916,9 @@
       "path": "DOMINION_ELECTRONICS/ASELSAN/YILDIRIM-100",
       "readme_exists": true,
       "trl": 8.0,
-      "class": "Lazer Tabanlı Yönlendirilmiş Kızılötesi Karşı Tedbir Sistemi (DIRCM)",
-      "strategic_role": "Helikopterleri ve VIP nakliye uçaklarını omuzdan atılan ısı güdümlü uçaksavar füzelerine (MANPADS) karşı saniyenin onda biri sürede lazer ışınıyla kör ederek imha eden ileri elektro-optik kalkan.",
-      "summary": "YILDIRIM-100, döner ve sabit kanatlı hava araçlarına yaklaşan ısı güdümlü (kızılötesi arayıcı başlıklı) füzelere karşı çok taretli, yüksek hızlı yönlendirici ve katı hal lazer teknolojisi kullanan yeni nesil bir aktif savunma sistemidir. Klasik flare (ısı fişeği) sistemlerinin yetersiz kaldığı modern çift renkli IIR füzelerini optik olarak yakarak etkisiz kılar."
+      "class": "Havadan Yönlendirilmiş Kızılötesi Karşı Tedbir Sistemi (DIRCM - Directed Infrared Countermeasure)",
+      "strategic_role": "Helikopterleri, nakliye ve VIP uçaklarını alçak irtifada ölümcül tehdit oluşturan omuzdan atılan kızılötesi arayıcı başlıklı füzelere (MANPADS) karşı yüksek güçlü yönlendirilmiş lazer ışınıyla körleyerek bertaraf eden milli savunma kalkanı.",
+      "summary": "**Geliştirici:** ASELSAN"
     },
     {
       "name": "ÇELİK KUBBE",
@@ -927,9 +927,9 @@
       "path": "DOMINION_ELECTRONICS/ASELSAN/ÇELİK_KUBBE",
       "readme_exists": true,
       "trl": 8.0,
-      "class": "Çok Katmanlı Entegre Hava ve Füze Savunma Şemsiyesi (System of Systems)",
-      "strategic_role": "Tüm sensör, radar, füze, hava savunma topu ve yapay zeka komuta-kontrol unsurlarını tek bir gerçek zamanlı ağda birleştiren Türkiye'nin gök kubbe kalkanı.",
-      "summary": "ÇELİK KUBBE, Türkiye'nin hava sahasını çok alçak irtifadan uzay sınırına kadar 4 ana katmanda koruyan, sensörden vurucu unsura yapay zeka tabanlı hedef tahsisi yapabilen entegre hava savunma doktrinidir. 6 Ağustos 2024 Savunma Sanayii İcra Komitesi (SSİK) kararıyla resmileştirilen sistem; KORKUT'tan SİPER'e, ERALP'ten HAKİM C4I sistemine kadar bütün milli unsurları müşterek resimde buluşturur."
+      "class": "Çok Katmanlı Ağ Merkezli Entegre Hava ve Füze Savunma Mimarisi (System of Systems)",
+      "strategic_role": "Türkiye'nin tüm kara, deniz ve hava tabanlı radar, sensör, elektronik harp, komuta kontrol ve silah sistemlerini tek bir yapay zeka destekli müşterek resimde birleştiren \"Gök Vatan Kalkanı\".",
+      "summary": "**Koordinatör / Ana Yüklenici:** Savunma Sanayii Başkanlığı (SSB) liderliğinde ASELSAN, ROKETSAN, TÜBİTAK SAGE ve MKE Konsorsiyumu"
     },
     {
       "name": "ÖZGÜR",
@@ -938,9 +938,9 @@
       "path": "DOMINION_ELECTRONICS/ASELSAN/ÖZGÜR",
       "readme_exists": true,
       "trl": 9.0,
-      "class": "Platform / Alt Sistem",
-      "strategic_role": "",
-      "summary": "F-16 ÖZGÜR Projesi, Hava Kuvvetleri Komutanlığı envanterindeki F-16 Blok-30 uçaklarının milli imkanlarla modernize edilmesini kapsar. Milli görev bilgisayarı, IFF sistemi ve AESA radarı entegrasyonu ile uçaklar 4.5 nesil seviyesine çıkarılmaktadır."
+      "class": "4.5 Nesil Çok Rollü Muharip Uçak Milli Aviyonik ve Görev Sistemi Paketi",
+      "strategic_role": "F-16 savaş uçaklarının yabancı kaynak kodlarına ve ambargolarına bağımlılığını tamamen ortadan kaldıran, milli AESA radarı (MURAD) ve yerli füzelerin (BOZDOĞAN, GÖKDOĞAN, SOM, TOLUN) entegrasyonunu mümkün kılan milli aviyonik devrim.",
+      "summary": "**Geliştirici:** ASELSAN (Milli Görev Bilgisayarı, AESA Radar, Aviyonik) & TUSAŞ (Yapısal & Entegrasyon)"
     },
     {
       "name": "GIMBAL SISTEMLERI",
@@ -949,9 +949,9 @@
       "path": "DOMINION_ELECTRONICS/Altınay_Savunma/GIMBAL_SISTEMLERI",
       "readme_exists": true,
       "trl": 9.0,
-      "class": "Elektro-Optik Keşif, Gözetleme ve Hedefleme Sistemi",
-      "strategic_role": "SİHA'ların \"Gözü\". Kanada ambargosu sonrası yerlileştirilen en kritik alt sistemlerden biri.",
-      "summary": "Gimbal sistemleri; İHA gibi titreşimli platformlarda bile kameranın sabit kalmasını sağlayan, lazer ile hedef işaretleyip mühimmatın (MAM-L vb.) hedefe gitmesini sağlayan yüksek teknolojili kamera toplarıdır. ASELSAN CATS ve ASELFLIR-500 bu alandaki ana ürünlerdir."
+      "class": "Çok Eksenli Jiroskopik Stabilize Elektro-Optik Gimbal ve Yönlendirme Platformu",
+      "strategic_role": "İHA ve SİHA'ların (Bayraktar TB2, ANKA, AKSUNGUR, AKINCI) Kanada Wescam ambargosu sonrası yerlileştirilen, kilometrelerce uzaktan titremeyen optik görüş ve lazer işaretleme sağlayan en kritik mekatronik alt sistemi.",
+      "summary": "**Üretici:** Altınay Savunma (Hassas Mekatronik, Tork Motorları & Stabilizasyon) & ASELSAN (Optik, Lazer & Dedektör Sensörleri)"
     },
     {
       "name": "KOBOT",
@@ -960,9 +960,9 @@
       "path": "DOMINION_ELECTRONICS/Altınay_Savunma/KOBOT",
       "readme_exists": true,
       "trl": 9.0,
-      "class": "İnsansız Kara Aracı (İKA)",
-      "strategic_role": "Bomba imha ve keşif görevlerinde personelin güvenliğini sağlayan çevik robot.",
-      "summary": "KOBOT; zorlu arazi koşullarında, dar alanlarda, bina içlerinde veya mağaralarda keşif, gözetleme ve şüpheli paketlere müdahale edebilen, modüler yapılı, hafif sınıf bir insansız kara aracıdır."
+      "class": "Hafif Sınıf Taktik İnsansız Kara Aracı (İKA) & Bomba İmha Robotu",
+      "strategic_role": "Meskun mahal, dar bina içi, tünel, mağara ve şüpheli paket incelemelerinde askeri ve emniyet timlerinin hayati tehlikesini sıfırlayan, sırtta taşınabilir yüksek çeviklikte taktik robotik platform.",
+      "summary": "**Üretici:** Altınay Savunma Teknolojileri"
     },
     {
       "name": "PEREGRINE",
@@ -971,9 +971,9 @@
       "path": "DOMINION_ELECTRONICS/Altınay_Savunma/PEREGRINE",
       "readme_exists": true,
       "trl": 7.0,
-      "class": "Platform / Alt Sistem",
-      "strategic_role": "",
-      "summary": ""
+      "class": "Döner Kanatlı Kamikaze İHA / Taktik Dolanan Mühimmat (Loitering Munition)",
+      "strategic_role": "Meskun mahal, siper, mağara girişi ve bina içindeki korunaklı terör hedeflerine pencereden veya kapı aralığından yüksek hassasiyetle nokta dalışı yaparak sıfır sivil zayiatla imha kabiliyeti sunan tek er taşınabilir mikro kamikaze hava aracı.",
+      "summary": "**Üretici:** Altınay Savunma Teknolojileri"
     },
     {
       "name": "ADVENT",
@@ -982,9 +982,9 @@
       "path": "DOMINION_ELECTRONICS/HAVELSAN/ADVENT",
       "readme_exists": true,
       "trl": 9.0,
-      "class": "Ağ Destekli Veri Entegre Savaş Yönetim Sistemi",
-      "strategic_role": "Yeni nesil savaş gemilerinin \"Beyni\". Dünyadaki sayılı Ağ Merkezli harp sistemlerinden biri.",
-      "summary": "ADVENT (Ağ Destekli Veri Entegre), tek bir geminin komuta edilmesinden ziyade, bir filo (Task Force) gücünün tek bir merkezden yönetilmesine olanak sağlayan devrimsel bir savaş yönetim sistemidir. GENESIS sisteminin halefidir."
+      "class": "Yeni Nesil Ağ Destekli Veri Entegre Savaş Yönetim Sistemi (CMS - Combat Management System)",
+      "strategic_role": "Türk Deniz Kuvvetleri'nin tüm fırkateyn, korvet, LHD (TCG ANADOLU), denizaltı ve insansız deniz araçlarının ortak \"Harp Beyni\". Dünyada sadece birkaç ülkenin sahip olduğu \"Ağ Destekli Yetenek (CEC - Cooperative Engagement Capability)\" mimarisi.",
+      "summary": "**Geliştirici:** HAVELSAN & Deniz Kuvvetleri Komutanlığı (ARMERKOM / DzKK)"
     },
     {
       "name": "BAHA",
@@ -993,9 +993,9 @@
       "path": "DOMINION_ELECTRONICS/HAVELSAN/BAHA",
       "readme_exists": true,
       "trl": 9.0,
-      "class": "Platform / Alt Sistem",
-      "strategic_role": "",
-      "summary": ""
+      "class": "Bulut Altı Taktik İnsansız Hava Aracı (B-İHA) / Dikey Kalkış ve İniş (VTOL)",
+      "strategic_role": "HAVELSAN'ın \"Dijital Birlik\" karma sürü konseptinin hava ayağı; pist ihtiyacı olmaksızın en sarp arazilerden dikey havalanan, bulut tabakasının altından kesintisiz elektro-optik keşif ve hedef koordinatı aktaran taktik istihbarat platformu.",
+      "summary": "**Geliştirici:** HAVELSAN"
     },
     {
       "name": "BARKAN",
@@ -1004,9 +1004,9 @@
       "path": "DOMINION_ELECTRONICS/HAVELSAN/BARKAN",
       "readme_exists": true,
       "trl": 9.0,
-      "class": "Orta Sınıf İnsansız Kara Aracı (İKA-2)",
-      "strategic_role": "\"Dijital Birlik\" konseptinin kara unsuru. Askerin yanında yürüyen, yük taşıyan, ateş eden robot asker.",
-      "summary": "BARKAN; operasyon sahalarında keşif, gözetleme ve silahlı çatışma görevleri için tasarlanmış, otonom devriye atabilen, sürü halinde hareket edebilen paletli bir robottur."
+      "class": "Orta Sınıf Paletli Çok Maksatlı İnsansız Kara Aracı (İKA-2)",
+      "strategic_role": "HAVELSAN \"Dijital Birlik\" konseptinin kara muharebe omurgası; piyadenin yanında yürüyerek ağır silah desteği veren, yaralı tahliyesi ve mühimmat ikmali yapan, lazer güdümlü mini füzelerle hedefleri imha eden otonom taktik robot platform.",
+      "summary": "**Geliştirici:** HAVELSAN"
     },
     {
       "name": "CYBER SECURITY",
@@ -1015,9 +1015,9 @@
       "path": "DOMINION_ELECTRONICS/HAVELSAN/CYBER_SECURITY",
       "readme_exists": true,
       "trl": 9.0,
-      "class": "Siber Savunma ve Operasyon Merkezleri (SOC)",
-      "strategic_role": "Türkiye'nin dijital sınırlarını koruyan \"Siber Vatan\" savunması. Kritik altyapıların ve askeri ağların güvenliği.",
-      "summary": "HAVELSAN, Türkiye'nin siber güvenlik stratejilerinin merkezinde yer alarak; Siber Operasyon Merkezleri (SOM) kurulumu, yerli siber güvenlik yazılımları (Gözcü, Kalkan) ve siber istihbarat çözümleri sunar."
+      "class": "Askeri Düzey Kurumsal ve Kritik Altyapı Siber Güvenlik Süiti (SIEM, SOAR, EDR, Malware Analizi)",
+      "strategic_role": "Cumhurbaşkanlığı, TSK askeri veri hatları, bakanlıklar, bankacılık ve kritik enerji şebekelerini yabancı siber güvenlik yazılımlarına (Splunk, QRadar, CrowdStrike) bağımlı kalmadan koruyan %100 milli siber savunma kalkanı.",
+      "summary": "**Geliştirici:** HAVELSAN"
     },
     {
       "name": "KAPGAN",
@@ -1026,9 +1026,9 @@
       "path": "DOMINION_ELECTRONICS/HAVELSAN/KAPGAN",
       "readme_exists": true,
       "trl": 7.0,
-      "class": "Platform / Alt Sistem",
-      "strategic_role": "",
-      "summary": ""
+      "class": "Ağır Sınıf Çok Maksatlı İnsansız Kara Aracı (A-İKA)",
+      "strategic_role": "\"Dijital Birlik\" konseptinin en yüksek ateş gücüne sahip zırhlı kara vurucusu; 30 mm otomatik top ve tanksavar füzeleri taşıyarak düşman zırhlılarını, beton sığınaklarını ve siperlerini insansız olarak imha eden otonom taarruz canavarı.",
+      "summary": "**Geliştirici:** HAVELSAN"
     },
     {
       "name": "MAIN AI",
@@ -1037,9 +1037,9 @@
       "path": "DOMINION_ELECTRONICS/HAVELSAN/MAIN_AI",
       "readme_exists": true,
       "trl": 7.0,
-      "class": "Kurumsal Büyük Dil Modeli (LLM) / Generative AI",
-      "strategic_role": "Türkiye'nin kamu ve askeri kurumları için geliştirilen, verisi ülke içinde kalan, güvenli Yapay Zeka platformu. \"Türkiye'nin GPT'si\".",
-      "summary": "MAIN (Multifunctional Artificial Intelligence Network), kurumların hassas verilerini dışarıya çıkarmadan (OpenAI veya Google sunucularına göndermeden) özetleme, kod üretme, doküman analizi ve içerik üretimi yapabilmelerini sağlayan, tamamen kapalı devre çalışabilen bir yapay zeka asistanıdır."
+      "class": "Güvenli ve Kapalı Devre Kurumsal Büyük Dil Modeli (LLM) & Üretken Yapay Zeka (GenAI) Platformu",
+      "strategic_role": "Türkiye'nin kamu kurumları, askeri karargahları ve savunma sanayii kuruluşlarının \"Çok Gizli\" dereceli verilerini yabancı bulut ve yapay zeka sunucularına (OpenAI, Microsoft, Google) göndermeksizin, tamamen kurum sunucularında (On-Premise / Air-Gapped) çalıştıran milli yapay zeka asistanı (\"Türkiye'nin Savunma GPT'si\").",
+      "summary": "**Geliştirici:** HAVELSAN"
     },
     {
       "name": "SANCAR",
@@ -1048,9 +1048,9 @@
       "path": "DOMINION_ELECTRONICS/HAVELSAN/SANCAR",
       "readme_exists": true,
       "trl": 8.0,
-      "class": "Platform / Alt Sistem",
-      "strategic_role": "",
-      "summary": ""
+      "class": "Taktik Sınıf Silahlı İnsansız Deniz Aracı (SİDA)",
+      "strategic_role": "ADVENT Savaş Yönetim Sistemi'ne doğrudan entegre olan, Yonca-Onuk'un dünyaca ünlü derin-V gövde mimarisi sayesinde 40+ knot süratle dalgalı denizlerde asimetrik taarruz, üs koruması ve mayın tarama icra eden otonom deniz savaşçısı.",
+      "summary": "**Geliştirici:** HAVELSAN (Görev Bilgisayarı, ADVENT KALYON C2, Otonomi) & Yonca-Onuk Tersanesi (Gelişmiş Kompozit Gövde & Sevk)"
     },
     {
       "name": "SIMULATORS",
@@ -1059,9 +1059,9 @@
       "path": "DOMINION_ELECTRONICS/HAVELSAN/SIMULATORS",
       "readme_exists": true,
       "trl": 9.0,
-      "class": "Askeri ve Sivil Eğitim Simülatörleri",
-      "strategic_role": "Pilotların, tankçıların ve gemi personelinin gerçek mühimmat ve risk olmadan, en gerçekçi senaryolarda eğitilmesini sağlayan sistemler. Bölgesel eğitim merkezi olma vizyonu.",
-      "summary": "HAVELSAN; uçak (F-16, HÜRJET), helikopter (ATAK, BLACKHAWK), kara aracı (ZMA, Tank) ve denizaltı simülatörleri konusunda dünyanın önde gelen firmalarından biridir. THY başta olmak üzere sivil havayollarına da pilot eğitim simülatörleri (Level D) üretir."
+      "class": "Platform / Alt Sistem",
+      "strategic_role": "",
+      "summary": "ISLEM"
     },
     {
       "name": "MİLDAR",
@@ -1070,9 +1070,9 @@
       "path": "DOMINION_ELECTRONICS/METEKSAN/MİLDAR",
       "readme_exists": true,
       "trl": 8.0,
-      "class": "Milimetre Dalga Radarı (Millimeter Wave Radar)",
-      "strategic_role": "ATAK helikopterlerinin \"Gece Gözü\". Sis, duman ve toz bulutu arkasındaki hedefleri görebilen radar teknolojisi.",
-      "summary": "MİLDAR; helikopterler ve İHA'lar için geliştirilmiş, özellikle tanksavar füzelerine (UMTAS) hedef işaretlemesi yapabilen, arazi haritalaması ve engel tespiti sağlayan yüksek teknolojili bir radardır. Apache helikopterlerindeki Longbow radarının yerli muadilidir."
+      "class": "Platform / Alt Sistem",
+      "strategic_role": "",
+      "summary": "B[\"RF Alıcı / Verici Ünitesi\"]"
     },
     {
       "name": "NAZAR",
@@ -1083,7 +1083,7 @@
       "trl": 9.0,
       "class": "Platform / Alt Sistem",
       "strategic_role": "",
-      "summary": "NAZAR Lazer Elektronik Harp Sistemi, deniz platformlarını elektro-optik (EO) ve kızılötesi (IR) güdümlü füzelerden korumak amacıyla geliştirilmiştir. Çok bantlı bir lazer sistemi kullanarak füzeleri uzak mesafelerden \"kör eder\" veya \"tahrip eder\"."
+      "summary": "A2[\"Erken İhbar & Rota Tespiti\"]"
     },
     {
       "name": "RETINAR",
@@ -1094,7 +1094,7 @@
       "trl": 9.0,
       "class": "Platform / Alt Sistem",
       "strategic_role": "",
-      "summary": ""
+      "summary": "|Ham Eko & Doppler| B[\"Sinyal İşleme & Hedef Teşhisi\"]"
     },
     {
       "name": "YAKAMOZ",
@@ -1103,9 +1103,9 @@
       "path": "DOMINION_ELECTRONICS/METEKSAN/YAKAMOZ",
       "readme_exists": true,
       "trl": 9.0,
-      "class": "Karinaya Monteli Sonar Sistemi",
-      "strategic_role": "MİLGEM Korvetlerinin \"Sualtı Kulağı\". Denizaltıları tespit eden milli sonar.",
-      "summary": "YAKAMOZ; askeri gemilerin gövdesine (karina) monte edilen, aktif ve pasif modlarda çalışarak denizaltıları, torpidoları ve su altı engellerini tespit eden, yüksek performanslı bir sonar ailesidir."
+      "class": "Platform / Alt Sistem",
+      "strategic_role": "",
+      "summary": "A2"
     },
     {
       "name": "DATA LINKS",
@@ -1114,9 +1114,9 @@
       "path": "DOMINION_ELECTRONICS/MilSOFT/DATA_LINKS",
       "readme_exists": true,
       "trl": 9.0,
-      "class": "Askeri Haberleşme ve Veri Bağı Yazılımları",
-      "strategic_role": "Farklı platformların (Uçak, Gemi, Tank) aynı dili konuşmasını sağlayan \"Dijital Esperanto\". Müşterek harekatın olmazsa olmazı.",
-      "summary": "Taktik Veri Linkleri (Link-11, Link-16, Link-22, JREAP); askeri platformlar arasında taktik resmin (dost/düşman konumları, emirler, istihbarat) gerçek zamanlı ve karıştırılamaz şekilde paylaşılmasını sağlayan standartlardır. MilSOFT, bu karmaşık protokolleri milli imkanlarla yazılıma dökmüştür."
+      "class": "Platform / Alt Sistem",
+      "strategic_role": "",
+      "summary": "L1"
     },
     {
       "name": "ACMI POD",
@@ -1125,9 +1125,9 @@
       "path": "DOMINION_ELECTRONICS/SDT/ACMI_POD",
       "readme_exists": true,
       "trl": 9.0,
-      "class": "Hava Muharebe Eğitim Sistemi (Air Combat Maneuvering Instrumentation)",
-      "strategic_role": "Pilotların gerçek mühimmat harcamadan, sanal ortamda birbirleriyle it dalaşı (dogfight) yapmasını ve eğitilmesini sağlayan sistem. \"Top Gun\" eğitimlerinin yerli teknolojisi.",
-      "summary": "ACMI (Air Combat Maneuvering Instrumentation) Podu; savaş uçaklarının kanat ucuna takılan, uçağın tüm hareketlerini, silah sistemlerini ve sensör verilerini kaydeden ve yer istasyonuna ileten bir eğitim sistemidir."
+      "class": "Platform / Alt Sistem",
+      "strategic_role": "",
+      "summary": "|P2P Ağ| F2"
     },
     {
       "name": "ALTAY",
@@ -1136,9 +1136,9 @@
       "path": "DOMINION_LAND/BMC/ALTAY",
       "readme_exists": true,
       "trl": 9.0,
-      "class": "Yeni Nesil Ana Muharebe Tankı (AMT)",
-      "strategic_role": "Türkiye'nin yurtdışından tank tedariğine ve modernizasyonuna olan bağımlılığını bitiren projedir.",
-      "summary": "ALTAY, 3. Nesil+ (Gen 3+) özelliklere sahip, bugünün ve geleceğin muharebe sahası koşullarına göre tasarlanmış, dünyanın en modern ana muharebe tanklarından biridir. Üstün hareket kabiliyeti, ateş gücü ve beka özellikleriyle öne çıkar."
+      "class": "Platform / Alt Sistem",
+      "strategic_role": "",
+      "summary": "K1"
     },
     {
       "name": "KIRPI",
@@ -1147,9 +1147,9 @@
       "path": "DOMINION_LAND/BMC/KIRPI",
       "readme_exists": true,
       "trl": 9.0,
-      "class": "MRAP (Mine Resistant Ambush Protected) - Mayına Karşı Korumalı Araç",
-      "strategic_role": "Mehmetçiğin can güvenliğini en üst düzeyde sağlayan \"Yürüyen Kale\". Dünyada sınıfının en iyilerinden biri.",
-      "summary": "KİRPİ, başta mayın ve el yapımı patlayıcılar (EYP) olmak üzere her türlü balistik tehdide karşı üstün koruma sağlayan zırhlı personel taşıyıcıdır. Monokok gövde yapısı ve V-şeklindeki alt tabanı patlama basıncını dağıtarak personeli korur."
+      "class": "Platform / Alt Sistem",
+      "strategic_role": "",
+      "summary": "B1 --> B3"
     },
     {
       "name": "KİRPİ II",
@@ -1160,7 +1160,7 @@
       "trl": 9.0,
       "class": "Platform / Alt Sistem",
       "strategic_role": "",
-      "summary": ""
+      "summary": "B1"
     },
     {
       "name": "VURAN",
@@ -1169,9 +1169,9 @@
       "path": "DOMINION_LAND/BMC/VURAN",
       "readme_exists": true,
       "trl": 9.0,
-      "class": "Çok Amaçlı Zırhlı Araç (4x4 MPAV)",
-      "strategic_role": "KİRPİ'ye göre daha çevik, şehir içi ve meskun mahal operasyonları için ideal taktik araç.",
-      "summary": "VURAN; koruma, hareket kabiliyeti ve atış gücünü birleştiren 4x4 taktik tekerlekli zırhlı araçtır. Yüksek balistik ve mayın korumasına sahiptir. Modüler yapısı sayesinde üzerine ÇNRA, Havan veya Hava Savunma (SUNGUR) sistemleri entegre edilebilir."
+      "class": "Platform / Alt Sistem",
+      "strategic_role": "",
+      "summary": "M1 & M2 & M3 & M4"
     },
     {
       "name": "AZRA",
@@ -1180,9 +1180,9 @@
       "path": "DOMINION_LAND/BMC_POWER/AZRA",
       "readme_exists": true,
       "trl": 8.0,
-      "class": "600 Beygir Sıralı 6 Silindirli Askeri Dizel Motor",
-      "strategic_role": "Ağır zırhlı personel taşıyıcılar, tank kurtarıcı araçlar ve 8x8 taktik muharebe araçları için yüksek çekiş gücü sunan milli güç ünitesi.",
-      "summary": "AZRA, 6 silindirli, 12.8 litrelik sıralı motor mimarisine sahip, turboşarjlı ve ara soğutuculu bir askeri dizel motordur. TSK'nın zırhlı muharebe araçları ve lojistik destek platformlarının yüksek güç ihtiyacı için geliştirilmiştir."
+      "class": "Platform / Alt Sistem",
+      "strategic_role": "",
+      "summary": "B[\"12.8L Sıralı 6 Silindir Yanma Odası\"]"
     },
     {
       "name": "BATU",
@@ -1191,9 +1191,9 @@
       "path": "DOMINION_LAND/BMC_POWER/BATU",
       "readme_exists": true,
       "trl": 8.0,
-      "class": "Ağır Zırhlı Muharebe Aracı ve Tank Güç Grubu (Powerpack)",
-      "strategic_role": "ALTAY Ana Muharebe Tankı'nın kalbini oluşturan, yabancı motor ve transmisyon ambargolarına son veren 1500 beygirlik milli güç grubu.",
-      "summary": "BATU Güç Grubu; 12 silindirli, V tipi, turboşarjlı ve ara soğutuculu su soğutmalı bir dizel motor ile bu motora entegre milli çapraz tahrikli (cross-drive) hidromekanik direksiyonlu bir transmisyonun birleşiminden oluşur. 65+ tonluk ALTAY tankını her türlü zorlu arazi koşulunda yüksek hız ve ivmeyle hareket ettirecek torka sahiptir."
+      "class": "Platform / Alt Sistem",
+      "strategic_role": "",
+      "summary": "M3"
     },
     {
       "name": "TUNA",
@@ -1202,9 +1202,9 @@
       "path": "DOMINION_LAND/BMC_POWER/TUNA",
       "readme_exists": true,
       "trl": 9.0,
-      "class": "400 Beygir Sıralı 4 Silindirli Askeri Dizel Motor",
-      "strategic_role": "BMC VURAN ve KİRPİ gibi binlerce adet üretilen taktik tekerlekli zırhlı aracın motor bağımsızlığını sağlayan seri üretim milli dizel motor.",
-      "summary": "TUNA, 4x4 ve 6x6 taktik tekerlekli zırhlı araçlar için özel olarak tasarlanmış, 4 silindirli, 8.4 litre hacimli sıralı bir dizel motordur. Ağır zırh yükü altındaki araçlara yüksek tork ve güvenilirlik sunar."
+      "class": "Platform / Alt Sistem",
+      "strategic_role": "",
+      "summary": "H2 --> M1"
     },
     {
       "name": "UTKU",
@@ -1213,9 +1213,9 @@
       "path": "DOMINION_LAND/BMC_POWER/UTKU",
       "readme_exists": true,
       "trl": 8.0,
-      "class": "Orta ve Ağır Zırhlı Muharebe Aracı Güç Grubu (1000 HP Powerpack)",
-      "strategic_role": "Fırtına Obüsü, TULPAR ve Yeni Nesil Paletli ZMA'ların motor-transmisyon bağımsızlığını sağlayan milli güç paketi.",
-      "summary": "UTKU, 40 tona kadar olan paletli hafif tank ve zırhlı muharebe araçları (ZMA) için özel olarak geliştirilmiş 1.000 beygirlik yerli güç grubudur. V8 tipi turboşarjlı dizel motor ve çapraz tahrikli otomatik transmisyonu içerir."
+      "class": "Platform / Alt Sistem",
+      "strategic_role": "",
+      "summary": "A3"
     },
     {
       "name": "M2 QCB",
@@ -1224,9 +1224,9 @@
       "path": "DOMINION_LAND/CANİK/M2_QCB",
       "readme_exists": true,
       "trl": 9.0,
-      "class": "12.7mm (.50 Cal) Ağır Makineli Tüfek",
-      "strategic_role": "Dünyanın en dayanıklı ve savaş kanıtlı ağır makineli tüfeklerinden biri. TSK'nın dışa bağımlılığını bitirdi ve İngiltere, Ukrayna gibi ülkelere ihraç edildi.",
-      "summary": "CANiK M2 QCB (Quick Change Barrel); zırhlı araçlar, tekneler ve tripod üzerinde piyade desteği için kullanılan, 12.7x99mm NATO mühimmatı atan, namlusu hızlı değiştirilebilen yerli ağır makineli tüfektir."
+      "class": "Platform / Alt Sistem",
+      "strategic_role": "",
+      "summary": "E1 & E2 & E3 & E4"
     },
     {
       "name": "METE MC9",
@@ -1235,9 +1235,9 @@
       "path": "DOMINION_LAND/CANİK/METE_MC9",
       "readme_exists": true,
       "trl": 9.0,
-      "class": "9x19mm Mikro Kompakt Polimer Gövdeli Yarı Otomatik Tabanca",
-      "strategic_role": "Gizli taşıma ve özel görev personeli için geliştirilen, ABD pazarında \"Yılın Tabancası\" ödülünü kazanan küresel Türk mühendislik başarısı.",
-      "summary": "METE MC9, CANİK'in ödüllü METE serisi tasarım felsefesini ultra kompakt (mikro) boyutlara taşıyan 9x19 mm kalibreli polimer gövdeli bir tabancadır. Yalnızca 28 mm inceliğe sahip olmasına rağmen yüksek şarjör kapasitesi (12+1 ve 15+1), iğne vuruşlu (striker-fired) mekanizması ve fabrikasyon mikro optik (red dot) montaj yuvası ile sınıfının en gelişmiş tabancalarından biridir."
+      "class": "Platform / Alt Sistem",
+      "strategic_role": "",
+      "summary": "MEKANIK"
     },
     {
       "name": "VENOM LR",
@@ -1246,9 +1246,9 @@
       "path": "DOMINION_LAND/CANİK/VENOM_LR",
       "readme_exists": true,
       "trl": 9.0,
-      "class": "30mm Orta Kalibre Otomatik Top",
-      "strategic_role": "Zırhlı araçların ve deniz platformlarının ana silahı. Düşük geri tepmesi sayesinde daha hafif araçlara entegre edilebilir.",
-      "summary": "VENOM LR (Low Recoil); 30x113mm mühimmat kullanan, düşük geri tepme kuvvetine sahip, elektrikli ateşleme sistemli modern bir otomatik toptur. Özellikle insansız kara araçları ve hafif zırhlılar için idealdir."
+      "class": "Platform / Alt Sistem",
+      "strategic_role": "",
+      "summary": "V2 --> V3"
     },
     {
       "name": "KAPLAN",
@@ -1257,9 +1257,9 @@
       "path": "DOMINION_LAND/FNSS/KAPLAN",
       "readme_exists": true,
       "trl": 9.0,
-      "class": "Orta Sınıf Tank (MT) / Silah Taşıyıcı Araç (STA)",
-      "strategic_role": "Türkiye'nin ihraç ettiği ilk tank sınıfı araç (Endonezya ortaklığı).",
-      "summary": "KAPLAN ailesi, yeni nesil zırhlı muharebe aracı şasisi üzerine bina edilmiş bir ürün ailesidir. KAPLAN MT (Harimau), Endonezya için geliştirilen orta sınıf bir tanktır. KAPLAN STA ise TSK için geliştirilen, tanksavar füzeleri taşıyan paletli bir avcıdır."
+      "class": "Platform / Alt Sistem",
+      "strategic_role": "",
+      "summary": "**\"Ağır tankların adım atamadığı engebeli ve sulak coğrafyalarda zırhlı süvari üstünlüğü: Yüksek ateş gücü, amfibi beka ve stratejik çeviklik.\"**"
     },
     {
       "name": "PARS",
@@ -1268,9 +1268,9 @@
       "path": "DOMINION_LAND/FNSS/PARS",
       "readme_exists": true,
       "trl": 9.0,
-      "class": "Taktik Tekerlekli Zırhlı Araç (TTZA)",
-      "strategic_role": "Malezya ve Umman gibi ülkelerin ordularının bel kemiğini oluşturan, ihracat şampiyonu zırhlı araç ailesi.",
-      "summary": "PARS ailesi (PARS III, PARS IV, PARS ALPHA), yüksek hareket kabiliyetine sahip, modüler ve çok yönlü tekerlekli zırhlı araçlardır. Özellikle mayın koruması ve bağımsız süspansiyon sistemi ile öne çıkar."
+      "class": "Platform / Alt Sistem",
+      "strategic_role": "",
+      "summary": "**\"Tekerlekli zırhlı muharebe araçlarında küresel çeviklik standardı: Bütün akslardan yönlendirme, hidropnömatik süspansiyon ve yengeç yürüyüşü ile sınır tanımayan taktik mobilite.\"**"
     },
     {
       "name": "PARS 4x4",
@@ -1281,7 +1281,7 @@
       "trl": 9.0,
       "class": "Platform / Alt Sistem",
       "strategic_role": "",
-      "summary": ""
+      "summary": "**\"Düşük siluet, sıfır hazırlıkla amfibi yüzebilirlik ve arkadan motor yerleşimiyle zırhlı avcısı: Pusu doktrininin tekerlekli süvarisi.\"**"
     },
     {
       "name": "SAMUR",
@@ -1290,9 +1290,9 @@
       "path": "DOMINION_LAND/FNSS/SAMUR",
       "readme_exists": true,
       "trl": 9.0,
-      "class": "Amfibi Zırhlı Seyyar Yüzücü Hücum Köprüsü (Amphibious Bridging Vehicle)",
-      "strategic_role": "Türk Silahlı Kuvvetleri'nin sulu engellerden süratle geçiş harekatını sağlayan, nehir ve gölleri dakikalar içinde tankların geçebileceği köprülere dönüştüren mühendislik harikası.",
-      "summary": "SAMUR (Seyyar Yüzücü Hücum Köprüsü), Türk Kara Kuvvetleri'nin nehir ve göl gibi sulu engelleri hızlı bir şekilde aşabilmesi için tamamen milli imkanlarla geliştirilmiş bir amfibi istihkam aracıdır. Karada 8x8 sürüş konfigürasyonuna sahip olan araç, suya girdiğinde açılan rampaları ve su jetleri sayesinde tek başına feribot, yan yana kenetlendiğinde ise onlarca metrelik bir köprü oluşturur."
+      "class": "Platform / Alt Sistem",
+      "strategic_role": "",
+      "summary": "**\"Nehirleri dakikalar içinde otoyola çeviren milli istihkam dehasi: Ağır tank birliklerine sulu engellerde kesintisiz taarruz sürekliliği.\"**"
     },
     {
       "name": "ZAHA",
@@ -1301,9 +1301,9 @@
       "path": "DOMINION_LAND/FNSS/ZAHA",
       "readme_exists": true,
       "trl": 9.0,
-      "class": "Zırhlı Amfibi Hücum Aracı (MAV - Marine Assault Vehicle)",
-      "strategic_role": "TCG ANADOLU'dan kıyıya zırhlı çıkarma yapabilen, dünyada sadece iki ülkenin (ABD ve Türkiye) üretebildiği nadir bir araç.",
-      "summary": "ZAHA; havuzlu çıkarma gemilerinden (LHD) denize inip, yüksek süratle kıyıya yüzerek çıkan ve karada bir zırhlı personel taşıyıcı gibi harekat icra edebilen amfibi bir araçtır. Deniz piyadelerinin güvenli intikali için kritiktir."
+      "class": "Platform / Alt Sistem",
+      "strategic_role": "",
+      "summary": "**\"Açık deniz dalgalarından sahil tahkimatına uzanan zırhlı çıkarma gücü: Kendini düzelten gövde yapısı ve ÇAKA kulesi ile TCG ANADOLU'nun mızrak ucu.\"**"
     },
     {
       "name": "HIZIR",
@@ -1312,9 +1312,9 @@
       "path": "DOMINION_LAND/Katmerciler/HIZIR",
       "readme_exists": true,
       "trl": 9.0,
-      "class": "Taktik Tekerlekli Zırhlı Araç (4x4)",
-      "strategic_role": "Sınır güvenliği ve terörle mücadele için geliştirilmiş güçlü bir platform.",
-      "summary": "HIZIR; 9 personeli taşıyabilen, kırsal ve kentsel alanlarda operasyonel ihtiyaçları karşılamak üzere geliştirilmiş, yüksek balistik ve mayın korumasına sahip bir araçtır."
+      "class": "Platform / Alt Sistem",
+      "strategic_role": "",
+      "summary": "**\"Sınıfının en güçlü 400 beygirlik motoruyla dik yamaçları ve sınır hatlarını fetheden çevik zırhlı: ATEŞ mobil gözetleme projesinin çelik omurgası.\"**"
     },
     {
       "name": "KIRAÇ",
@@ -1323,9 +1323,9 @@
       "path": "DOMINION_LAND/Katmerciler/KIRAÇ",
       "readme_exists": true,
       "trl": 9.0,
-      "class": "4x4 Zırhlı ve Zırhsız Yeni Nesil Kriminal İnceleme Aracı (Olay Yeri İnceleme)",
-      "strategic_role": "Adli kolluk birimlerine olay yerinde tam teşekküllü mobil laboratuvar, balistik koruma ve dijital delil analiz yeteneği kazandıran milli platform.",
-      "summary": "KIRAÇ, Emniyet Genel Müdürlüğü Kriminal Daire Başkanlığı ve Jandarma Genel Komutanlığı'nın olay yeri inceleme kabiliyetlerini modernize etmek üzere geliştirilmiştir. Zırhlı ve zırhsız versiyonları bulunan araç; kimyasal analiz, parmak izi eşleme, balistik tespit, drone destekli alan gözetleme ve uydu bağlantılı adli veri tabanı sorgulama ekipmanlarıyla donatılmış yürüyen bir adli tıp laboratuvarıdır."
+      "class": "Platform / Alt Sistem",
+      "strategic_role": "",
+      "summary": "**\"Sıcak çatışma sahasında adli tıbbın ve kriminal bilimin mobil kalesi: Olay yerinde delil analizini dijitalleştiren dünyanın öncü kriminal zırhlısı.\"**"
     },
     {
       "name": "76MM DENİZ TOPU",
@@ -1336,7 +1336,7 @@
       "trl": 9.0,
       "class": "Platform / Alt Sistem",
       "strategic_role": "",
-      "summary": ""
+      "summary": "**\"Açık denizlerde ambargoları parçalayan milli mühendislik şaheseri: Dakikada 80 mermiyle su üstü, kıyı ve hava hedeflerine karşı milli ateş kalkanı.\"**"
     },
     {
       "name": "BORAN",
@@ -1345,9 +1345,9 @@
       "path": "DOMINION_LAND/MKE/BORAN",
       "readme_exists": true,
       "trl": 9.0,
-      "class": "105mm Havadan Taşınabilir Hafif Obüs",
-      "strategic_role": "Helikopterle dağın tepesine indirilebilen, komando birliklerinin ateş gücü. Dağlık arazide terörle mücadelenin kilit silahı.",
-      "summary": "BORAN; 105mm çapında, ASELSAN atış kontrol sistemi ile donatılmış, Skorsky helikopterleriyle taşınabilen modern ve hafif bir obüstür. Klasik obüslerin aksine dakikalar içinde atışa hazır hale gelir."
+      "class": "Platform / Alt Sistem",
+      "strategic_role": "",
+      "summary": "**\"Kartalların yuvasına helikopterle inen komando ateşi: 1 dakikada mevzilenen, GPS ve atış bilgisayarıyla ilk atımda hedefi vuran hafif topçu mucizesi.\"**"
     },
     {
       "name": "FIRTINA II",
@@ -1356,9 +1356,9 @@
       "path": "DOMINION_LAND/MKE/FIRTINA_II",
       "readme_exists": true,
       "trl": 9.0,
-      "class": "Kundağı Motorlu Obüs (155mm)",
-      "strategic_role": "Kara Kuvvetleri'nin en önemli \"Ateş Destek\" unsuru. Sınır ötesi operasyonların vazgeçilmezi.",
-      "summary": "FIRTINA II, TSK envanterindeki FIRTINA obüslerinin, modern elektronikler, tamamen elektrikli kule takat sistemi ve yeni nesil atış kontrol sistemleri ile donatılmış gelişmiş versiyonudur."
+      "class": "Platform / Alt Sistem",
+      "strategic_role": "",
+      "summary": "**\"Kara Kuvvetleri'nin çelik yumruğu: 40+ km menzilde tek bir obüsten aynı anda hedefe düşen ölümcül mermiler ve yerli UTKU güç grubuyla durdurulamaz kudret.\"**"
     },
     {
       "name": "MPT-76",
@@ -1369,7 +1369,7 @@
       "trl": 9.0,
       "class": "Platform / Alt Sistem",
       "strategic_role": "",
-      "summary": ""
+      "summary": "**\"NATO standartlarının en ağır 42 dayanıklılık testini sıfır hatayla geçen dünyadaki tek tüfek: Mehmetçiğin çamurda, karda ve fırtınada asla tutukluk yapmayan çelik iradesi.\"**"
     },
     {
       "name": "PIRANA",
@@ -1378,9 +1378,9 @@
       "path": "DOMINION_LAND/MKE/PIRANA",
       "readme_exists": true,
       "trl": 8.0,
-      "class": "Yüksek Hızlı Kamikaze İnsansız Deniz Aracı (K-İDA)",
-      "strategic_role": "Düşman savaş gemilerine, lojistik konvoylara ve kritik liman altyapılarına karşı asimetrik taarruz icra eden otonom patlayıcı yüklü deniz mühimmatı.",
-      "summary": "MKE PİRANA, modern deniz muharebelerinde düşman su üstü filolarına karşı doyurma saldırısı (saturation attack) gerçekleştirmek amacıyla geliştirilmiş, düşük radar ve termal izli, yüksek süratli bir kamikaze insansız deniz aracıdır. Gövde içerisine yerleştirilmiş yüzlerce kilogramlık yüksek infilaklı harp başlığı ve darbe/yaklaşma tapaları ile hedef geminin su kesimini delerek batmasını sağlar."
+      "class": "Platform / Alt Sistem",
+      "strategic_role": "",
+      "summary": "**\"Mavi Vatan'ın görünmez asimetrik torpidosu: 50+ knot sürat, düşük radar izi ve 200+ kg patlayıcı yüküyle düşman donanmalarının omurgasını kıran kamikaze deniz akıncısı.\"**"
     },
     {
       "name": "TOLGA",
@@ -1389,9 +1389,9 @@
       "path": "DOMINION_LAND/MKE/TOLGA",
       "readme_exists": true,
       "trl": 8.0,
-      "class": "Anti-Drone / C-UAS (Sürü Drone Savunma Sistemi)",
-      "strategic_role": "Kritik askeri üsleri, sınır karakollarını ve zırhlı birlikleri mikro/mini kamikaze drone ve FPV saldırılarına karşı kinetik ve parçacıklı mühimmatla koruyan hava savunma kalkanı.",
-      "summary": "TOLGA, asimetrik muharebe sahasının en tehlikeli unsurlarından biri haline gelen kamikaze FPV dronelar ve ticari modifiye edilmiş mini İHA sürülerini tespit, teşhis ve kinetik olarak imha etmek üzere MKE tarafından geliştirilmiş bir nokta hava savunma sistemidir. Radar, elektro-optik ve parça tesirli akıllı mühimmat fırlatıcısını tek platformda birleştirir."
+      "class": "Platform / Alt Sistem",
+      "strategic_role": "",
+      "summary": "**\"Kamikaze FPV ve sürü drone tehditlerine karşı hava kalkanı: Mikro-radar tespiti, yapay zeka ve 40mm akıllı parçacıklı mühimmatla gök kubbede çelik şarapnel bulutu.\"**"
     },
     {
       "name": "YAVUZ",
@@ -1400,9 +1400,9 @@
       "path": "DOMINION_LAND/MKE/YAVUZ",
       "readme_exists": true,
       "trl": 9.0,
-      "class": "Kamyona Monteli Obüs (155mm)",
-      "strategic_role": "Yüksek taktik mobiliteye sahip, hızla mevzi değiştirip atış yapabilen (Shoot & Scoot) topçu sistemi.",
-      "summary": "YAVUZ, 6x6 taktik tekerlekli bir araç üzerine monte edilmiş, FIRTINA obüsü ile aynı balistik özelliklere sahip 155mm 52 kalibre bir silah sistemidir. Paletli obüslere göre daha hızlı intikal edebilir ve lojistiği daha kolaydır."
+      "class": "Platform / Alt Sistem",
+      "strategic_role": "",
+      "summary": "**\"Tekerlekler üzerinde 40 km'lik stratejik balistik vuruş: 'Vur ve Kaç' doktriniyle 1 dakikada mevzilenen, paletli obüs gücünü otoban süratiyle birleştiren taktik topçu sistemi.\"**"
     },
     {
       "name": "EJDER YALÇIN",
@@ -1411,9 +1411,9 @@
       "path": "DOMINION_LAND/Nurol_Makina/EJDER_YALÇIN",
       "readme_exists": true,
       "trl": 9.0,
-      "class": "Taktik Tekerlekli Zırhlı Araç (4x4)",
-      "strategic_role": "Kendi sınıfında dünyanın en çok tercih edilen araçlarından biri. Çöl, kış ve meskun mahal koşullarında kendini kanıtlamış \"Çöl Çitaları\".",
-      "summary": "Ejder Yalçın 4x4; yüksek koruma seviyesini, yüksek mobilite ve faydalı yük taşıma kapasitesiyle birleştiren modüler bir zırhlı araçtır. Ambulans, komuta kontrol, hava savunma veya tanksavar aracı olarak konfigüre edilebilir."
+      "class": "Platform / Alt Sistem",
+      "strategic_role": "",
+      "summary": "**\"Muharebe sahasında efsaneleşen çöl çitası: V-gövde mimarisi, eşsiz mayın bekası ve 10'dan fazla dünya ordusunda kendini kanıtlamış küresel zırhlı muharebe standardı.\"**"
     },
     {
       "name": "ILGAZ",
@@ -1422,9 +1422,9 @@
       "path": "DOMINION_LAND/Nurol_Makina/ILGAZ",
       "readme_exists": true,
       "trl": 9.0,
-      "class": "4x4 Taktik Tekerlekli Hafif Zırhlı İç Güvenlik ve Özel Harekat Aracı",
-      "strategic_role": "Şehir içi asayiş, terörle mücadele ve sınır devriye görevlerinde yüksek manevra kabiliyeti ve balistik koruma sağlayan çevik zırhlı platform.",
-      "summary": "ILGAZ II, özel harekat timlerinin, polis ve jandarma kuvvetlerinin meskun mahal operasyonlarında, sınır güvenliğinde ve kritik tesis korumasında güvenle intikal etmelerini sağlamak amacıyla tasarlanmış yüksek balistik korumalı 4x4 zırhlı araçtır. Modüler tasarımı sayesinde ambulans, komuta kontrol ve keşif araçlarına dönüştürülebilir."
+      "class": "Platform / Alt Sistem",
+      "strategic_role": "",
+      "summary": "**\"Kentsel asayiş ve meskun mahal terör operasyonlarının çevik koruyucusu: Kompakt boyutlar, yüksek balistik zırh ve entegre atış mazgallarıyla kolluğun çelik zırhı.\"**"
     },
     {
       "name": "YÖRÜK",
@@ -1433,9 +1433,9 @@
       "path": "DOMINION_LAND/Nurol_Makina/YÖRÜK",
       "readme_exists": true,
       "trl": 9.0,
-      "class": "Yeni Nesil Hafif Zırhlı Araç",
-      "strategic_role": "Zırhlı araç dünyasının \"Spor Arabası\". Hafif, hızlı ve çok çevik.",
-      "summary": "YÖRÜK (NMS 4x4); ölçeklenebilir zırh yapısı ve kompozit malzemeleri sayesinde sınıfının en hafif ve en hızlı araçlarından biridir. Otoyolda yüksek hız yapabilirken arazide de üstün performans gösterir."
+      "class": "Platform / Alt Sistem",
+      "strategic_role": "",
+      "summary": "**\"Zırhlı muharebe araçlarının spor arabası: 140 km/sa azami sürat, 6 metre dönüş yarıçapı, sahada sökülüp takılan modüler zırhı ve YALMAN kulesiyle hızlı taarruzun zirvesi.\"**"
     },
     {
       "name": "AKREP II",
@@ -1444,9 +1444,9 @@
       "path": "DOMINION_LAND/OTOKAR/AKREP_II",
       "readme_exists": true,
       "trl": 8.0,
-      "class": "İleri Teknoloji Zırhlı Keşif ve Gözetleme Aracı",
-      "strategic_role": "Türkiye'nin ilk elektrikli zırhlı aracı. Düşük termal ve akustik iz.",
-      "summary": "AKREP II, Otokar tarafından geliştirilen; dizel, hibrit ve **tam elektrikli** güç grubu seçeneklerine sahip, modüler yapıda bir zırhlı araç platformudur. Düşük silueti, yüksek hareket kabiliyeti ve sessiz harekat yeteneği ile keşif, gözetleme ve destek görevleri için optimize edilmiştir."
+      "class": "Platform / Alt Sistem",
+      "strategic_role": "",
+      "summary": "**\"Türkiye'nin ilk elektrikli zırhlısı: Sıfır termal ve akustik iz ile hayalet gibi sızan, yengeç yürüyüşüyle manevra yapan ve 90mm topla vuran yeni nesil muharebe avcısı.\"**"
     },
     {
       "name": "ALPAR",
@@ -1454,10 +1454,10 @@
       "dominion": "LAND",
       "path": "DOMINION_LAND/OTOKAR/ALPAR",
       "readme_exists": true,
-      "trl": 6.0,
-      "class": "Ağır Sınıf İnsansız Kara Aracı (İKA)",
-      "strategic_role": "İnsansız ordular konseptinin ağır sınıf öncüsü. Otonom ateş desteği.",
-      "summary": "ALPAR, Otokar'ın insansız kara araçları ailesinin en ağır üyesidir (15 Ton sınıfı). İnsanlı araçlarla (Manned-Unmanned Teaming - MUM-T) birlikte görev yapabilen, otonom devriye, gözetleme ve ateş desteği sağlayan fütüristik bir platformdur. Seri hibrit güç grubu sayesinde sessiz intikal yeteneğine sahiptir."
+      "trl": 4.0,
+      "class": "Platform / Alt Sistem",
+      "strategic_role": "",
+      "summary": "(Sensör Füzyonu & Yol Planlama)\"]"
     },
     {
       "name": "ARMA",
@@ -1465,10 +1465,10 @@
       "dominion": "LAND",
       "path": "DOMINION_LAND/OTOKAR/ARMA",
       "readme_exists": true,
-      "trl": 9.0,
-      "class": "Çok Tekerlekli Modüler Zırhlı Araç",
-      "strategic_role": "Yüksek taktik hareket kabiliyeti ve amfibi yetenek.",
-      "summary": "ARMA ailesi, yüksek taktik ve teknik özelliklere sahip, çok amaçlı tekerlekli zırhlı araçlardır. Modüler yapısı sayesinde; Zırhlı Personel Taşıyıcı, Zırhlı Muharebe Aracı, Havan Aracı, Komuta Kontrol Aracı gibi farklı görev profillerine uyarlanabilir. Mayın ve balistik koruması ile personelin güvenliğini en üst düzeyde sağlar."
+      "trl": 4.5,
+      "class": "Platform / Alt Sistem",
+      "strategic_role": "",
+      "summary": "TURRET_OPTIONS"
     },
     {
       "name": "ARMA 8x8",
@@ -1476,10 +1476,10 @@
       "dominion": "LAND",
       "path": "DOMINION_LAND/OTOKAR/ARMA_8x8",
       "readme_exists": true,
-      "trl": 9.0,
-      "class": "8x8 Tekerlekli Zırhlı Muharebe Aracı",
-      "strategic_role": "Yüksek tonaj taşıma kapasitesi ve üstün arazi performansı.",
-      "summary": "ARMA 8x8; ARMA ailesinin en güçlü üyesidir. Daha yüksek koruma, daha fazla ateş gücü ve daha geniş iç hacim sunar. Özellikle ağır silah kulelerinin entegrasyonu için ideal bir platformdur."
+      "trl": 4.5,
+      "class": "Platform / Alt Sistem",
+      "strategic_role": "",
+      "summary": "WEAPON_SYSTEMS"
     },
     {
       "name": "COBRA II",
@@ -1487,10 +1487,10 @@
       "dominion": "LAND",
       "path": "DOMINION_LAND/OTOKAR/COBRA_II",
       "readme_exists": true,
-      "trl": 9.0,
-      "class": "Taktik Tekerlekli Zırhlı Araç (4x4)",
-      "strategic_role": "Sınıfının en yüksek koruma ve taşıma kapasitesine sahip aracı.",
-      "summary": "COBRA II, mevcut COBRA aracının başarısı üzerine geliştirilmiş, daha yüksek taşıma kapasitesi ve daha geniş iç hacim sunan modüler bir platformdur. Üstün hareket kabiliyeti ile meskun mahalden zorlu arazi koşullarına kadar geniş bir yelpazede görev yapabilir."
+      "trl": 4.5,
+      "class": "Platform / Alt Sistem",
+      "strategic_role": "",
+      "summary": "WEAPON_SYSTEMS"
     },
     {
       "name": "TULPAR",
@@ -1498,10 +1498,10 @@
       "dominion": "LAND",
       "path": "DOMINION_LAND/OTOKAR/TULPAR",
       "readme_exists": true,
-      "trl": 8.0,
-      "class": "Yeni Nesil Paletli Zırhlı Muharebe Aracı (ZMA)",
-      "strategic_role": "Ana Muharebe Tankları ile müşterek harekat icra edebilecek ağır sınıf zırhlı araç.",
-      "summary": "İsmini Manas Destanı'ndaki kanatlı attan alan TULPAR; günümüzün ve geleceğin muharebe sahası gereksinimlerine cevap verecek şekilde tasarlanmış, çok amaçlı ve modüler bir paletli araç platformudur. ALTAY tankı ile birlikte görev yapabilecek beka ve hareket kabiliyetine sahiptir."
+      "trl": 5.0,
+      "class": "Platform / Alt Sistem",
+      "strategic_role": "",
+      "summary": "TURRET_OPTIONS"
     },
     {
       "name": "GÖKBORA",
@@ -1509,10 +1509,10 @@
       "dominion": "LAND",
       "path": "DOMINION_LAND/ROKETSAN/GÖKBORA",
       "readme_exists": true,
-      "trl": 6.0,
+      "trl": 4.0,
       "class": "Platform / Alt Sistem",
       "strategic_role": "",
-      "summary": ""
+      "summary": "(Elektronik Karşı Tedbir Dirençli)\"]"
     },
     {
       "name": "KARAOK",
@@ -1520,10 +1520,10 @@
       "dominion": "LAND",
       "path": "DOMINION_LAND/ROKETSAN/KARAOK",
       "readme_exists": true,
-      "trl": 9.0,
-      "class": "Kısa Menzilli Tanksavar Silahı (ATGM)",
-      "strategic_role": "Tek er tarafından kullanılan, \"At-Unut\" özellikli ilk milli tanksavar (Javelin Muadili).",
-      "summary": "KARAOK, özel kuvvetler ve piyade birlikleri için geliştirilen, omuzdan atılan (tek kullanımlık lançer), hafif ve etkili bir tanksavar füzesidir. \"Top Attack\" (üstten vuruş) yeteneği ile tankların en zayıf olduğu tavan zırhını hedef alabilir."
+      "trl": 4.5,
+      "class": "Platform / Alt Sistem",
+      "strategic_role": "",
+      "summary": "|Hedef Koordinat & Görüntü| LOCK_ON"
     },
     {
       "name": "OMTAS",
@@ -1531,10 +1531,10 @@
       "dominion": "LAND",
       "path": "DOMINION_LAND/ROKETSAN/OMTAS",
       "readme_exists": true,
-      "trl": 9.0,
-      "class": "Orta Menzilli Kızılötesi Güdümlü Tanksavar Füzesi (Medium Range Anti-Tank Missile)",
-      "strategic_role": "Piyade birlikleri ve FNSS Pars / Kaplan gibi Silah Taşıyıcı Araçlar (STA) için reaktif zırhlı ana muharebe tanklarını 4 km menzilde imha eden milli zırh kırıcı.",
-      "summary": "OMTAS, piyade tarafından üçayak üzerinden veya zırhlı araç kulelerinden atılabilen, gece/gündüz her türlü hava koşulunda zırhlı tehditleri etkisiz hale getirmek için tasarlanmış bir tanksavar füze sistemidir. Kızılötesi arayıcı başlığı ve çift yönlü RF veri bağı sayesinde hedefini uçuş esnasında güncelleyebilir veya sütre arkasındaki hedeflere kilitlenebilir."
+      "trl": 4.5,
+      "class": "Platform / Alt Sistem",
+      "strategic_role": "",
+      "summary": "|Çift Yönlü Canlı Video & Komut| MID_COURSE_RF"
     },
     {
       "name": "SUNGUR",
@@ -1542,10 +1542,10 @@
       "dominion": "LAND",
       "path": "DOMINION_LAND/ROKETSAN/SUNGUR",
       "readme_exists": true,
-      "trl": 9.0,
-      "class": "Portatif Hava Savunma Füze Sistemi (MANPADS / PORSAV)",
-      "strategic_role": "Mehmetçiğin omuzdan atılan \"Hava Kalkanı\". Stinger füzelerinin yerli muadili ve daha üstünü.",
-      "summary": "SUNGUR, hareketli birliklerin, konvoyların ve kritik tesislerin kısa menzilli hava savunmasını sağlamak üzere geliştirilmiştir. Omuzdan atılabildiği gibi (MANPADS), araç üzerine (BMC VURAN) monte kaideli sistem olarak da kullanılabilir."
+      "trl": 4.5,
+      "class": "Platform / Alt Sistem",
+      "strategic_role": "",
+      "summary": "|Hedef Tahsisi| SUNGUR_FIRE_CONTROL"
     },
     {
       "name": "TRG-230",
@@ -1553,10 +1553,10 @@
       "dominion": "LAND",
       "path": "DOMINION_LAND/ROKETSAN/TRG-230",
       "readme_exists": true,
-      "trl": 9.0,
-      "class": "Yüksek İsabetli Çok Namlulu Roketatar Füzesi (Lazer/KKS Güdümlü)",
-      "strategic_role": "70 km derinlikteki düşman topçu mevzilerini, radar istasyonlarını ve lojistik merkezleri milimetrik doğrulukla (CEP < 2m) imha eden kara ateş gücü.",
-      "summary": "TRG-230, ROKETSAN tarafından yüksek öncelikli kara hedeflerine karşı 20-70 km menzil aralığında yoğun ve hassas ateş gücü sağlamak amacıyla geliştirilmiş güdümlü bir füzedir. Küresel Konumlama Sistemi (KKS) ve Ataletsel Navigasyon Sistemi (ANS) güdümünün yanı sıra İHA veya karadan aydınlatılan lazer arayıcı başlıklı varyantı (TRLG-230) da mevcuttur."
+      "trl": 4.5,
+      "class": "Platform / Alt Sistem",
+      "strategic_role": "",
+      "summary": "LAUNCHER_VEHICLE"
     },
     {
       "name": "SAR127",
@@ -1564,10 +1564,10 @@
       "dominion": "LAND",
       "path": "DOMINION_LAND/Sarsılmaz/SAR127",
       "readme_exists": true,
-      "trl": 9.0,
+      "trl": 4.5,
       "class": "Platform / Alt Sistem",
       "strategic_role": "",
-      "summary": ""
+      "summary": "LAND_UKSS"
     },
     {
       "name": "SAR56",
@@ -1575,10 +1575,10 @@
       "dominion": "LAND",
       "path": "DOMINION_LAND/Sarsılmaz/SAR56",
       "readme_exists": true,
-      "trl": 9.0,
-      "class": "Piyade Tüfeği (5.56x45mm)",
-      "strategic_role": "Özel Kuvvetler ve Jandarma'nın ihtiyaçlarına göre tasarlanmış, ergonomik ve hafif saldırı tüfeği.",
-      "summary": "SAR56; AR-15 platformunun ergonomisini, kısa vuruşlu gaz piston sisteminin (short stroke gas piston) güvenilirliği ile birleştiren modern bir piyade tüfeğidir. MPT-55'ten edinilen tecrübelerle geliştirilmiştir."
+      "trl": 4.5,
+      "class": "Platform / Alt Sistem",
+      "strategic_role": "",
+      "summary": "AMBI_CONTROLS"
     },
     {
       "name": "SAR9",
@@ -1586,10 +1586,10 @@
       "dominion": "LAND",
       "path": "DOMINION_LAND/Sarsılmaz/SAR9",
       "readme_exists": true,
-      "trl": 9.0,
-      "class": "Yarı Otomatik Tabanca (9x19mm)",
-      "strategic_role": "TSK ve Emniyet'in standart görev tabancası. ABD'de \"Yılın Tabancası\" ödüllerini toplamış yerli gurur.",
-      "summary": "SAR9; polimer gövdeli, iğne ateşlemeli (striker-fired), yüksek kapasiteli ve ergonomik bir görev tabancasıdır. Zorlu koşullarda (çamur, kum, buz) çalışabilmesi için tasarlanmıştır."
+      "trl": 4.5,
+      "class": "Platform / Alt Sistem",
+      "strategic_role": "",
+      "summary": "ERGONOMICS_SAFETY"
     },
     {
       "name": "SARBOT",
@@ -1597,10 +1597,10 @@
       "dominion": "LAND",
       "path": "DOMINION_LAND/Sarsılmaz/SARBOT",
       "readme_exists": true,
-      "trl": 7.0,
+      "trl": 5.0,
       "class": "Platform / Alt Sistem",
       "strategic_role": "",
-      "summary": ""
+      "summary": "(SLAM + Engel Sakınma)\"]"
     },
     {
       "name": "ARES 150",
@@ -1608,10 +1608,10 @@
       "dominion": "SEA",
       "path": "DOMINION_SEA/ARES/ARES_150",
       "readme_exists": true,
-      "trl": 9.0,
+      "trl": 4.5,
       "class": "Platform / Alt Sistem",
       "strategic_role": "",
-      "summary": ""
+      "summary": "WEAPON_PAYLOAD"
     },
     {
       "name": "ULAQ DERE",
@@ -1619,10 +1619,10 @@
       "dominion": "SEA",
       "path": "DOMINION_SEA/ARES/ULAQ_DERE",
       "readme_exists": true,
-      "trl": 9.0,
-      "class": "Silahlı İnsansız Deniz Aracı (SİDA)",
-      "strategic_role": "Dünyanın ilk seri üretim ve harbe hazır SİDA'sı. Mavi Vatan'ın \"İnsansız Kurtları\".",
-      "summary": "ULAQ, gelişmiş kompozit malzemeden üretilen, aktif/pasif stabilizasyon sistemlerine sahip, yapay zeka destekli, otonom veya uzaktan komutalı bir insansız deniz aracıdır. Keşif, gözetleme, istihbarat, su üstü harbi, hava savunma, denizaltı savunma harbi ve asimetrik harp gibi görevleri icra edebilir."
+      "trl": 4.5,
+      "class": "Platform / Alt Sistem",
+      "strategic_role": "",
+      "summary": "ULAQ_AUTONOMY"
     },
     {
       "name": "ADKG",
@@ -1630,10 +1630,10 @@
       "dominion": "SEA",
       "path": "DOMINION_SEA/ASFAT/ADKG",
       "readme_exists": true,
-      "trl": 8.0,
+      "trl": 4.0,
       "class": "Platform / Alt Sistem",
       "strategic_role": "",
-      "summary": ""
+      "summary": "COMBAT_ELECTRONICS"
     },
     {
       "name": "HİSAR SINIFI OPV",
@@ -1641,10 +1641,10 @@
       "dominion": "SEA",
       "path": "DOMINION_SEA/ASFAT/HİSAR_SINIFI_OPV",
       "readme_exists": true,
-      "trl": 7.0,
-      "class": "Açık Deniz Karakol Gemisi (Offshore Patrol Vessel)",
-      "strategic_role": "Barış zamanında karakol, savaş zamanında ise \"Hazır Kıta\" bir savaş gemisi. MİLGEM altyapısı üzerine kurgulanmış esnek güç.",
-      "summary": "HİSAR Sınıfı (TCG AKHİSAR ve TCG KOÇHİSAR); MİLGEM ADA Sınıfı korvetlerin tekne formu kullanılarak tasarlanan, ancak ana tahrik sistemi (CODAD yerine CODELOD olabilir) ve silah yükü göreve göre değiştirilebilen \"Yerinde Hazır\" (Fitted for but not with) konseptli gemilerdir."
+      "trl": 4.0,
+      "class": "Platform / Alt Sistem",
+      "strategic_role": "",
+      "summary": "ADVENT_C4ISR"
     },
     {
       "name": "MEMATT",
@@ -1653,9 +1653,9 @@
       "path": "DOMINION_SEA/ASFAT/MEMATT",
       "readme_exists": true,
       "trl": 9.0,
-      "class": "Mekanik Mayın Temizleme Teçhizatı",
-      "strategic_role": "Azerbaycan'ın işgalden kurtarılan topraklarının temizlenmesinde kritik rol oynayan, uzaktan kumandalı mayın avcısı.",
-      "summary": "MEMATT (Mekanik Mayın Temizleme Teçhizatı); anti-personel mayınlarını etkisiz hale getirerek sahayı güvenli hale getirmek için tasarlanmış, uzaktan kumanda edilebilen, zırhlı ve balistik korumalı bir iş makinesidir."
+      "class": "Platform / Alt Sistem",
+      "strategic_role": "",
+      "summary": "RF_TX"
     },
     {
       "name": "PN MILGEM",
@@ -1664,9 +1664,9 @@
       "path": "DOMINION_SEA/ASFAT/PN_MILGEM",
       "readme_exists": true,
       "trl": 9.0,
-      "class": "Ağır Korvet / Hafif Firkateyn",
-      "strategic_role": "Türkiye'nin tek kalemde gerçekleştirdiği en büyük savunma sanayii ihracatı (Pakistan). MİLGEM ADA sınıfının daha büyük ve ağır silahlı versiyonu.",
-      "summary": "Pakistan Donanması boister (PN) için özel olarak tasarlanan bu gemiler, ADA sınıfı korvetlerin gövde tasarımı üzerine inşa edilmiş, ancak daha gelişmiş sensörler ve dikey atım sistemi (VLS) ile donatılarak bir firkateyn yeteneğine kavuşturulmuştur."
+      "class": "Platform / Alt Sistem",
+      "strategic_role": "",
+      "summary": "LINK"
     },
     {
       "name": "TCG İSTANBUL",
@@ -1675,9 +1675,9 @@
       "path": "DOMINION_SEA/ASFAT/TCG_İSTANBUL",
       "readme_exists": true,
       "trl": 9.0,
-      "class": "MİLGEM İ-Sınıfı (İstif Sınıfı) Fırkateyn",
-      "strategic_role": "Türkiye'nin ilk milli fırkateyni; %80'in üzerinde yerlilik oranı, MİDLAS dikey atım sistemi, CENK-350N AESA radarı ve ADVENT Savaş Yönetim Sistemi ile donatılmıştır.",
-      "summary": "MİLGEM ADA sınıfı korvetlerin elde ettiği başarı sonrası, açık denizlerde hava savunma, denizaltı savunma ve su üstü harbi icra edebilmek amacıyla gövdesi 14 metre uzatılarak geliştirilen ilk Türk milli fırkateynidir. 19 Ocak 2024 tarihinde Deniz Kuvvetleri Komutanlığı'na resmen teslim edilmiştir."
+      "class": "Platform / Alt Sistem",
+      "strategic_role": "",
+      "summary": "KEMENT"
     },
     {
       "name": "SALDIRGAN",
@@ -1686,9 +1686,9 @@
       "path": "DOMINION_SEA/DEARSAN/SALDIRGAN",
       "readme_exists": true,
       "trl": 9.0,
-      "class": "C92 Sınıfı Yüksek Hızlı Denizaltı Savunma ve Su Üstü Harbi Korveti",
-      "strategic_role": "Özel sektör Türk tersaneciliğinin küresel deniz kuvvetlerine ihraç ettiği, ATMACA ve dikey atım hava savunma sistemleriyle donatılabilen muharip korvet platformu.",
-      "summary": "DEARSAN C92 (SALDIRGAN Sınıfı), açık denizlerde ve kıyı sularında devriye, eskort, denizaltı savunma harbi (DSH), su üstü harbi (SUH) ve hava savunma harbi (HSH) icra etmek üzere tasarlanmış 92 metrelik modern bir savaş gemisidir. Nijerya Deniz Kuvvetleri ve diğer müttefik donanmalar için inşa edilerek başarıyla ihraç edilmiştir."
+      "class": "Platform / Alt Sistem",
+      "strategic_role": "",
+      "summary": "DLINK"
     },
     {
       "name": "MİLDEN",
@@ -1697,9 +1697,9 @@
       "path": "DOMINION_SEA/DzKK/MİLDEN",
       "readme_exists": true,
       "trl": 5.0,
-      "class": "Havadan Bağımsız Tahrik Sistemli (AIP) Ağır Taarruz Denizaltısı",
-      "strategic_role": "Türkiye'nin kendi özgün tasarımıyla baştan sona inşa edeceği ilk yerli denizaltı; Mavi Vatan'da mutlak sualtı caydırıcılığı.",
-      "summary": "MİLDEN (Milli Denizaltı), Türk Deniz Kuvvetleri'nin Reis sınıfı (Tip-214) denizaltı inşa ve modernizasyon tecrübesini milli imkanlarla taçlandıran dev projedir. Tamamen yerli sonar, milli savaş yönetim sistemi (ADVENT MİLDEN), yerli torpidolar ve dikey atım lançerleri ile donatılarak okyanus aşırı görev yapabilecek derinlik ve menzile sahip olacaktır."
+      "class": "Platform / Alt Sistem",
+      "strategic_role": "",
+      "summary": "FIRE_CTRL"
     },
     {
       "name": "AKYA",
@@ -1708,9 +1708,9 @@
       "path": "DOMINION_SEA/ROKETSAN/AKYA",
       "readme_exists": true,
       "trl": 9.0,
-      "class": "Yeni Nesil Ağır Sınıf Torpido (533mm)",
-      "strategic_role": "Denizaltılarımızın \"Sualtı Mızrağı\". Yabancı torpidolara bağımlılığı bitiren stratejik bir mühimmat.",
-      "summary": "AKYA, denizaltılardan su üstü hedeflerine ve diğer denizaltılara karşı kullanılan, tel güdümlü, fiber optik kablolu, aktif/pasif sonar başlıklı, yüksek hızlı ve uzun menzilli bir ağır torpidodur."
+      "class": "Platform / Alt Sistem",
+      "strategic_role": "",
+      "summary": "FIBER"
     },
     {
       "name": "ATMACA",
@@ -1719,9 +1719,9 @@
       "path": "DOMINION_SEA/ROKETSAN/ATMACA",
       "readme_exists": true,
       "trl": 9.0,
-      "class": "Satıhtan Satıha Güdümlü Mermi (Anti-Ship Missile)",
-      "strategic_role": "\"Mavi Vatan\"ın Çelik Kılıcı. Harpoon füzelerinin yerli alternatifi.",
-      "summary": "ATMACA, her türlü hava şartında kullanılabilen, karşı tedbirlere dayanıklı, hedef güncelleme, yeniden saldırı ve görev iptal yeteneklerine sahip modern bir gemisavar füzesidir. MİLGEM korvetlerimizin ana vuruş gücünü oluşturmaktadır."
+      "class": "Platform / Alt Sistem",
+      "strategic_role": "",
+      "summary": "BOOSTER"
     },
     {
       "name": "LEVENT",
@@ -1730,9 +1730,9 @@
       "path": "DOMINION_SEA/ROKETSAN/LEVENT",
       "readme_exists": true,
       "trl": 7.0,
-      "class": "Gemi Konuşlu Nokta Hava Savunma ve Füze Önleme Sistemi (RAM Muadili CIWS)",
-      "strategic_role": "Donanmamızın muharip gemilerini deniz yalayarak gelen gemisavar füzelerine, İHA ve helikopterlere karşı son savunma hattında koruyan milli füze kalkanı.",
-      "summary": "LEVENT, Amerikan üretimi RAM (Rolling Airframe Missile) sisteminin ambargo tehdidine karşı milli bir çözüm olarak geliştirilmiştir. ROKETSAN'ın SUNGUR portatif hava savunma füzesi tecrübesi üzerine inşa edilen ve gemi üzeri döner lançer mimarisine sahip olan sistem; 11 km menzile kadar yaklaşan ses altı ve ses üstü gemisavar füzelerini son saniyelerde havada imha eder."
+      "class": "Platform / Alt Sistem",
+      "strategic_role": "",
+      "summary": "CMS[\"ADVENT Savaş Yönetim Sistemi\"]"
     },
     {
       "name": "MİDLAS",
@@ -1741,9 +1741,9 @@
       "path": "DOMINION_SEA/ROKETSAN/MİDLAS",
       "readme_exists": true,
       "trl": 8.0,
-      "class": "Gemi Konuşlu Dikey Atım Sistemi (VLS - Vertical Launch System)",
-      "strategic_role": "Yabancı ambargoları kıran, TCG İSTANBUL ve TF-2000 gibi milli muharip gemilerin gövdesinden hava savunma ve seyir füzelerini dikey ateşleyen stratejik sistem.",
-      "summary": "MİDLAS, Türk Deniz Kuvvetleri muharip platformlarının dikey füze fırlatma ihtiyacını milli imkanlarla karşılamak üzere geliştirilmiş çok hücreli modüler bir fırlatma sistemidir. ABD menşeili Mk41 VLS ambargosuna yanıt olarak rekor sürede geliştirilmiş ve TCG İSTANBUL (F-515) fırkateynine entegre edilmiştir."
+      "class": "Platform / Alt Sistem",
+      "strategic_role": "",
+      "summary": "C2"
     },
     {
       "name": "ORKA",
@@ -1752,9 +1752,9 @@
       "path": "DOMINION_SEA/ROKETSAN/ORKA",
       "readme_exists": true,
       "trl": 7.0,
-      "class": "324mm Hafif Sınıf Torpido",
-      "strategic_role": "Denizaltı Savunma Harbi (DSH) için kritik öneme sahip. Helikopterlerden ve su üstü gemilerinden atılarak düşman denizaltılarını avlar. ABD yapımı MK-46/54 torpidolarının yerli muadili.",
-      "summary": "ORKA; su üstü gemileri ve hava araçlarından (SEAHAWK, MELTEM, SİHA) atılabilen, denizaltı hedeflerine karşı kullanılan yeni nesil, yüksek hassasiyetli bir hafif torpidodur."
+      "class": "Platform / Alt Sistem",
+      "strategic_role": "",
+      "summary": "MPA"
     },
     {
       "name": "TCG ANADOLU",
@@ -1763,9 +1763,9 @@
       "path": "DOMINION_SEA/SEDEF/TCG_ANADOLU",
       "readme_exists": true,
       "trl": 9.0,
-      "class": "Çok Maksatlı Amfibi Hücum Gemisi (LHD) / SİHA Gemisi",
-      "strategic_role": "Türk Donanmasının \"Amiral Gemisi\". Dünyanın ilk \"SİHA Gemisi\" konsepti.",
-      "summary": "TCG ANADOLU, bir tabur tam teşekküllü askeri (ZAHA, Tank, Zırhlı Araç) istenilen coğrafyaya intikal ettirebilen, üzerine helikopter ve SİHA konuşlandırılabilen devasa bir yüzen üs ve güç aktarım platformudur."
+      "class": "Platform / Alt Sistem",
+      "strategic_role": "",
+      "summary": "FLIGHT_DECK"
     },
     {
       "name": "TCG TRAKYA",
@@ -1774,9 +1774,9 @@
       "path": "DOMINION_SEA/SEDEF/TCG_TRAKYA",
       "readme_exists": true,
       "trl": 1.0,
-      "class": "Uçak Gemisi (Aircraft Carrier)",
-      "strategic_role": "Türkiye'nin \"Mavi Vatan\" ve ötesindeki haklarını koruyacak, yüzen bir hava üssü. TCG Anadolu'dan daha büyük, daha hızlı ve daha fazla uçak kapasiteli.",
-      "summary": "TCG TRAKYA, TCG Anadolu'nun (LHD) başarısının ardından Türkiye'nin gerçek anlamda bir uçak gemisine sahip olma vizyonunun ürünüdür. Tamamıyla milli imkanlarla tasarlanması ve inşa edilmesi planlanmaktadır."
+      "class": "Platform / Alt Sistem",
+      "strategic_role": "",
+      "summary": "KAAN_N"
     },
     {
       "name": "MARLİN",
@@ -1785,9 +1785,9 @@
       "path": "DOMINION_SEA/SEFİNE/MARLİN",
       "readme_exists": true,
       "trl": 9.0,
-      "class": "Silahlı ve Elektronik Harp İnsansız Deniz Aracı (SİDA)",
-      "strategic_role": "Dünyanın elektronik harp kabiliyetine sahip ilk insansız su üstü aracı; NATO REPMUS ve Dynamic Messenger tatbikatlarında görev almış küresel referans platformu.",
-      "summary": "MARLİN SİDA, kıyı sularından açık denizlere kadar su üstü harbi (SUH), denizaltı savunma harbi (DSH) ve özellikle Elektronik Harp (EH) icra etmek üzere geliştirilmiştir. ASELSAN'ın özel olarak minyatürize ettiği elektronik harp podları ile düşman radar ve muhabere sistemlerini karıştırma, aldatma ve sinyal istihbaratı toplama kabiliyetine sahiptir."
+      "class": "Platform / Alt Sistem",
+      "strategic_role": "",
+      "summary": "SHIP_CMS"
     },
     {
       "name": "MİLGEM",
@@ -1796,9 +1796,9 @@
       "path": "DOMINION_SEA/STM/MİLGEM",
       "readme_exists": true,
       "trl": 9.0,
-      "class": "Korvet (Corvette)",
-      "strategic_role": "Türkiye'nin kendi savaş gemisini tasarlayıp üretebildiği ilk milli gemi projesi. Donanmamızın omurgası.",
-      "summary": "MİLGEM (Milli Gemi) projesi kapsamında üretilen ADA Sınıfı Korvetler; su üstü harbi, denizaltı savunma harbi (DSH) ve hava savunma harbi görevlerini icra edebilen, yüksek yerlilik oranına sahip, stealth (radar görünmezliği) özellikli modern savaş gemileridir."
+      "class": "Platform / Alt Sistem",
+      "strategic_role": "",
+      "summary": "LINK"
     },
     {
       "name": "STM500",
@@ -1807,9 +1807,9 @@
       "path": "DOMINION_SEA/STM/STM500",
       "readme_exists": true,
       "trl": 6.0,
-      "class": "Küçük Tonajlı Denizaltı (Shallow Water Attack Submarine)",
-      "strategic_role": "Sığ sularda, Ege gibi adalar denizinde harekat yapabilen, Özel Kuvvetler sızdırabilen milli tasarım denizaltı.",
-      "summary": "STM500; keşif gözetleme, özel kuvvetler harekatı ve denizaltı harbi görevleri için tasarlanmış, 500 ton sınıfında, dizel-elektrik tahrikli, modern ve kompakt bir denizaltıdır. Büyük denizaltıların giremediği sığ sulara girebilir."
+      "class": "Platform / Alt Sistem",
+      "strategic_role": "",
+      "summary": "CMS"
     },
     {
       "name": "STM MPAC",
@@ -1818,9 +1818,9 @@
       "path": "DOMINION_SEA/STM/STM_MPAC",
       "readme_exists": true,
       "trl": 7.0,
-      "class": "Yeni Nesil Ağır Silahlı Çok Maksatlı Hücumbot (Fast Attack Craft)",
-      "strategic_role": "Adalar Denizi ve Mavi Vatan'da 40+ knot süratle intikal edip ATMACA füzeleri ve hava savunma füzeleriyle yıldırım taarruz icra eden milli hücumbot.",
-      "summary": "STM-MPAC, Türk Deniz Kuvvetleri'nin Türk Tipi Hücumbot ihtiyacını karşılamak üzere tasarlanmış, tek gövdeli (monohull), yüksek süratli ve stealth gövde geometrisine sahip modern bir hücumbottur. Ağır deniz koşullarında stabilite sağlayan özel baş formu ve güçlü CODAG/CODAD tahrik sistemi ile donatılmıştır."
+      "class": "Platform / Alt Sistem",
+      "strategic_role": "",
+      "summary": "ADVENT[\"ADVENT Hücumbot SYS\"]"
     },
     {
       "name": "MRTP24",
@@ -1831,7 +1831,7 @@
       "trl": 9.0,
       "class": "Platform / Alt Sistem",
       "strategic_role": "",
-      "summary": ""
+      "summary": "|\"Kriptolu Taktik Veri Bağı\"| MRTP24"
     },
     {
       "name": "MRTP SERISI",
@@ -1840,9 +1840,9 @@
       "path": "DOMINION_SEA/Yonca-Onuk/MRTP_SERISI",
       "readme_exists": true,
       "trl": 9.0,
-      "class": "Hızlı Müdahale ve Hücumbot (Fast Intervention Craft)",
-      "strategic_role": "Dünyanın en hızlı ve manevra kabiliyeti en yüksek kompozit gövdeli askeri botları. \"Denizlerin Ferrarisi\".",
-      "summary": "MRTP (Multi Role Tactical Platform) serisi; ileri kompozit malzemelerden üretilen, çok yüksek süratlere çıkabilen ve ağır deniz koşullarında bile görev yapabilen botlardır. MRTP-24, MRTP-34 ve MRTP-45 gibi farklı boy ve tonajlarda modelleri vardır."
+      "class": "Platform / Alt Sistem",
+      "strategic_role": "",
+      "summary": "ARNESON"
     }
   ]
 }

@@ -1,61 +1,83 @@
-# 🦅 Proje: KIZILELMA (Muharip İnsansız Uçak Sistemi)
+# 🦅 Proje: Bayraktar KIZILELMA (Muharip İnsansız Uçak Sistemi - MİUS)
 
-![KIZILELMA](../../../_ASSETS/hero_banner.png)
+[![TRL](https://img.shields.io/badge/TRL-8_Sistem_Kalifiye-yellowgreen?style=for-the-badge&logo=target&logoColor=white)](../../../docs/TRL_GUIDE.md)
+[![Dominion](https://img.shields.io/badge/DOMINION-AEROSPACE-00b4d8?style=for-the-badge&logo=spacex&logoColor=white)](../../README.md)
+[![Üretici](https://img.shields.io/badge/ÜRETİCİ-BAYKAR-0052CC?style=for-the-badge)](../README.md)
+[![Durum](https://img.shields.io/badge/DURUM-Seri_Üretim_Hazırlığı-brightgreen?style=for-the-badge&logo=shield&logoColor=white)](#)
 
-> **"İnsansız Savaşın Yeni Şafağı: Agresif Manevra ve Görünmez Güç"**
+<p align="center">
+  <img src="../../../_ASSETS/hero_banner.png" alt="Bayraktar KIZILELMA MİUS" width="800" />
+</p>
+<p align="center">
+  <img src="../../../_ASSETS/aerospace_icon.png" alt="AEROSPACE DOMINION" width="100" />
+</p>
 
-KIZILELMA, Türkiye'nin insansız savaş uçağı konseptinde dünya liderliğine oynayan hamlesidir. Klasik İHA'ların ötesinde, agresif manevra kabiliyeti ve stealth mimarisiyle hava-hava muharebesi yapabilen bir platformdur.
+## 🛡️ Stratejik Tanım & Doktriner Öncelik
+**Bayraktar KIZILELMA (MİUS)**, Türk askeri havacılık tarihinde yeni bir çağ açan, agresif manevra kabiliyeti, düşük radar kesit alanı (Stealth mimarisi), dahili silah istasyonları ve süpersonik/transonik hız potansiyeline sahip Türkiye'nin ilk muharip insansız savaş uçağıdır.
 
-## 🛠 Teknik Kapasite Özeti
+Klasik İHA konseptinin çok ötesinde, insanlı 5. nesil savaş uçakları ile hava-hava muharebesi (Dogfight ve BVR) yapabilecek şekilde tasarlanan KIZILELMA, TCG ANADOLU gibi kısa pistli amfibi hücum gemilerinden katapultsuz iniş-kalkış yapabilen dünyadaki ilk insansız savaş jetidir. ASELSAN MURAD AESA radarı, elektro-optik hedefleme sistemleri ve milli hava-hava füzeleri (GÖKDOĞAN, BOZDOĞAN) ile donatılan platform, Türk Hava Kuvvetleri'nin **Loyal Wingman** doktrininde KAAN'ın en kritik harekât ortağıdır.
 
-| Parametre | Detay | Özellik |
+## 📊 Kapsamlı Teknik Özellikler
+
+| Parametre | Değer / Sınıf | Operasyonel Detay |
 | :--- | :--- | :--- |
-| **Tür** | MİUS (Muharip İnsansız Uçak Sistemi) | Tam Otonom Operasyon |
-| **Maksimum Kalkış** | 6.000 kg | TCG Anadolu'dan İniş-Kalkış |
-| **Hız** | 0.6 - 0.9 Mach (Transonik) | Süpersonik modeller planlanıyor |
-| **Faydalı Yük** | 1.500 kg | Dahili ve Harici İstasyonlar |
-| **Menzil** | 500+ nm (Muharip Yarıçap) | 5 Saat Havada Kalış |
+| **Sınıfı** | MİUS (Muharip İnsansız Uçak Sistemi / Loyal Wingman) | İnsansız Jet Savaş Uçağı |
+| **Maksimum Kalkış Ağırlığı (MTOW)** | 6.000 - 8.500 kg | Genişletilmiş gövde ve yakıt kapasitesi |
+| **Faydalı Yük Kapasitesi** | 1.500 kg (Dahili Silah İstasyonları + Harici Pylonlar) | Stealth mühimmat taşınabilirlik |
+| **Tahrik Ünitesi** | AI-25TLT / AI-322F (Art Yakıcılı) / TEI-TF6000 | Subsonik (KIZILELMA-A) ve Süpersonik (KIZILELMA-B/C) |
+| **Seyir / Azami Hız** | 0.6 - 0.9 Mach (KIZILELMA-A) / 1.2+ Mach Süpersonik | Transonik ve süpersonik avcı kabiliyeti |
+| **Operasyonel İrtifa / Tavan** | 35.000 - 45.000 Feet (Servis Tavanı) | Yüksek irtifa hava hakimiyeti |
+| **Havada Kalış / Yarıçap** | 5+ Saat / 500+ NM Muharip Harekât Yarıçapı | Derin harekât ve filo koruma |
+| **Kalkış / İniş Pist Kabiliyeti** | Kısa Pistli Uçak Gemileri (TCG ANADOLU) ve Meydanlar | Katapultsuz kalkış ve yakalama kancalı iniş |
+| **Radar Kesit Alanı (RCS)** | Çok Düşük Görünürlük (VLO / Stealth) | Açılı gövde, V-kuyruk ve dahili istasyonlar |
+| **Sensör Mimarisi** | ASELSAN MURAD AESA Radarı + ASELFLIR-500 + EOTS/IRST | Çok kanallı sensör füzyonu |
 
-## 🕹️ Operasyonel Yetenekler ve Yapay Zeka
-KIZILELMA, BAYKAR'ın geliştirdiği gelişmiş yapay zeka algoritmaları sayesinde:
-- **Otonom Agresif Manevralar:** İnsanlı savaş uçaklarının G-kuvveti limitlerinin ötesinde manevra yapabilme.
-- **TCG Anadolu Entegrasyonu:** Kısa pistli gemilerden herhangi bir yakalama ekipmanı olmadan iniş ve kalkış yapabilen dünyadaki ilklerden biri.
-- **Akıllı Sürü Operasyonu:** Diğer İHA/SİHA'lar ve KAAN ile senkronize görev icrası.
+## 🧩 Alt Sistemler ve Aviyonik/Elektronik Entegrasyonu
+- **ASELSAN MURAD AESA Radarı:** Çok kanallı elektronik tarama, hava-hava BVR hedef takibi, SAR haritalama ve elektronik harp taarruz modülleri.
+- **KEMENT & Milli Taktik Veri Bağı:** KAAN, F-16 ÖZGÜR, HAVA SOJ ve yer istasyonları ile mikro saniye düzeyinde senkronize veri paylaşımı (Loyal Wingman mimarisi).
+- **Yapay Zeka Muharebe Beyni:** İnsan pilotların G limitlerinin (9G+) üzerinde +10G/-5G agresif manevraları otonom icra eden derin öğrenme tabanlı it dalaşı algoritmaları.
+- **Dahili Silah Yuvası ve Pnömatik Salıcılar:** Radar izini minimumda tutarak gövde içinden SOM-J, TOLUN ve hava-hava füzelerini yüksek süratte fırlatabilen salım mekanizması.
 
-## 💥 Mühimmat Enformasyonu
-- **Hava-Hava:** GÖKDOĞAN, BOZDOĞAN.
-- **Hava-Yer:** SOM-J, MAM Serisi (L/T), KUZGUN.
-- **Elektronik Taarruz:** Minyatür bombalar ve EH podları.
+## 🎯 Görev Profili, Muharebe Senaryoları & Mühimmat Yelpazesi
+- **İtiraz Edilen Hava Sahasına Giriş (SEAD/DEAD):** Düşman erken ihbar radarlarının kapsama alanına stealth profilde sızarak hava savunma sistemlerini SOM-J veya KEMANKEŞ 2 ile etkisiz kılma.
+- **Görüş Ötesi Hava-Hava Muharebesi (BVR):** AESA radar tespitiyle onlarca mil uzaktan GÖKDOĞAN füzeleri fırlatarak düşman savaş uçaklarını önleme.
+- **TCG ANADOLU Donanma Hava Şemsiyesi:** Mavi Vatan üzerinde açık deniz görevlerinde düşman deniz karakol ve taarruz uçaklarına karşı hava savunma devriyesi.
+- **Mühimmat Yelpazesi:**
+  - *Hava-Hava:* GÖKDOĞAN, BOZDOĞAN, AKDOĞAN.
+  - *Hava-Yer:* SOM-J, ÇAKIR, TOLUN, TEBER-82, MAM-T, KUZGUN, KEMANKEŞ 2.
 
-## 🌐 Ekosistem Entegrasyonu (Aggressive Synergy)
-KIZILELMA, Türkiye'nin "İnsansız Hava Muharebesi" doktrininin öncü kuvvetidir:
-- **KAAN & Loyal Wingman:** KAAN pilotu tarafından yönlendirilen, en riskli görevlere (İtirazlı Hava Sahası) önden giren agresif saldırı ortağı.
-- **TCG ANADOLU:** Dünyada bir ilk olarak, kısa pistli bir gemiden katapult yardımı olmadan otonom operasyon yapabilme kabiliyeti.
-- **AKINCI ile Sürü Operasyonu:** AKINCI'nın sensör gücünü, KIZILELMA'nın yüksek hızı ve manevra kabiliyetiyle birleştiren karma sürüler.
+## 📐 Mimari ve Görev Akış Şeması
 
-## 📊 Alt Sistemler ve Yerlilik
-- **Motor:** Ukrayna menşeli AI-25TLT/AI-322F ile başlayan seri, ileride TEI tarafından geliştirilen milli turbofan motorlarla (TF6000) devam edecektir.
-- **Aviyonik Sistemler:** Tamamen BAYKAR bünyesinde geliştirilen, yapay zeka destekli otonom uçuş ve görev yönetim yazılımları.
-- **AESA Radar:** Milli MURAD AESA radar entegrasyonu ile kendi başına hedef tespit ve angajman kapasitesi.
+```mermaid
+flowchart TD
+    subgraph Hava_Savunma_Agi ["Loyal Wingman & Ağ Entegrasyonu"]
+        K1["KAAN / F-16 ÖZGÜR (Lider Uçak)"] <-->|KEMENT / Taktik Veri Bağı| KZ["Bayraktar KIZILELMA MİUS"]
+        C2["Hava Harekât Merkezi"] <-->|Kriptolu BLOS Link| KZ
+    end
 
-## 🔮 Gelecek Vizyonu ve Blok Modernizasyonu
-- **KIZILELMA-A:** Mevcut transonik prototip üzerinden seri üretim başlangıcı.
-- **KIZILELMA-B:** Süpersonik hıza ulaşabilen, daha güçlü motor ve stealth özellikleri artırılmış model.
-- **İnsansız İt dalaşı (Dogfight):** Yapay zekanın limitlerini zorlayan, insanlı uçakların yapamayacağı manevraları otonom icra eden varyant.
-- **Uzay Entegrasyonu:** Alçak dünya yörüngesi uydularıyla (FERGANİ) doğrudan veri bağı üzerinden küresel operasyon kapasitesi.
+    subgraph Platform_Aviyonik ["Sensör ve Görev Algoritmaları"]
+        KZ --> R1["ASELSAN MURAD AESA Radarı"]
+        KZ --> O1["EOTS / IRST Elektro-Optik Takip"]
+        R1 & O1 --> AI["Yapay Zeka İt Dalaşı (Dogfight) Algoritması"]
+    end
 
-## 🚀 Geliştirme Durumu (TRL 8)
+    subgraph Muharebe_Angajmani ["Mühimmat Salım İstasyonları"]
+        AI --> DAH["Dahili Silah Yuvası (Stealth Mod)"]
+        DAH --> S1["SOM-J Seyir Füzesi"]
+        DAH --> S2["GÖKDOĞAN BVR Hava-Hava"]
+        DAH --> S3["TOLUN Minyatür Bomba"]
+    end
+```
 
-### 📈 Milat Çizgisi
-- [x] Kavramsal Tasarım ve İmalat
-- [x] Teker Kesme ve İlk Uçuş (14 Aralık 2022)
-- [x] Orta İrtifa Sistem Tanımlama Testleri
-- [/] Seri Üretim Hazırlıkları (A Blok)
-- [ ] Operasyonel Göreve Kabul
+## 🚀 TRL Seviyesi ve Gelişim Yol Haritası
+- **Mevcut Seviye: TRL 8 (Sistem Kalifiye / Seri Üretim Hazırlığı)**
+- [x] Kavramsal Tasarım ve İmalat Fazı Tamamlandı (2021-2022)
+- [x] İlk Uçuş Başarıyla Gerçekleştirildi (14 Aralık 2022)
+- [x] Kol Uçuşları (AKINCI ile Formasyon Uçuş Testleri)
+- [x] İkinci Prototip Uçuşları ve Sistem Doğrulamaları (2023-2024)
+- [x] Art Yakıcılı (Afterburner) Süpersonik Motor Uçuş Testleri
+- [ ] TCG ANADOLU Güverte İniş ve Kalkış Testleri
+- [ ] Seri Üretim Teslimatları ve Hava Kuvvetleri Envanterine Giriş (2025-2026)
 
-
-
-## 📁 Proje Varlıkları (Project Assets)
-- (Bu proje dizininde henüz ek dosya bulunmamaktadır.)
 ---
-[⬅️ BAYKAR Ana Sayfası](../README.md) | [🏠 Ana Sayfa](../../../README.md)
+[⬅️ Üst Dizine](../README.md) | [🏛️ Dominion Hub](../../README.md) | [🏠 Ana Sayfa](../../../README.md)

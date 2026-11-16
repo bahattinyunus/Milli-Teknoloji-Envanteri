@@ -1,36 +1,78 @@
-# 📡 Proje: ERALP (Taşınabilir Erken İhbar Radar Sistemi - TEİRS)
+# 📡 Proje: ASELSAN ERALP (Erken İhbar Radar Sistemi - TEİRS)
 
-> **Geliştirici:** ASELSAN  
-> **Sınıf:** S-Bant Taşınabilir AESA Erken İhbar Radarı  
-> **Stratejik Önem:** Çelik Kubbe ve Türk Hava Kuvvetleri'nin ana kara konuşlu gözetleme gözü; 450+ km menzilde balistik füzeler ve hayalet (stealth) hedefleri tespit eden milli AESA radar devi.
+<p align="center">
+  <img src="https://img.shields.io/badge/TRL-9_Operasyonel-00E676?style=for-the-badge&logo=shield&logoColor=white" alt="TRL Seviyesi">
+  <img src="https://img.shields.io/badge/Dominion-ELECTRONICS_%26_AI-blue?style=for-the-badge&logo=cpu&logoColor=white" alt="Dominion">
+  <img src="https://img.shields.io/badge/Üretici-ASELSAN-0052cc?style=for-the-badge&logo=target&logoColor=white" alt="Üretici">
+  <img src="https://img.shields.io/badge/Görev-Stratejik_Erken_İhbar_%26_Balistik_Savunma-purple?style=for-the-badge&logo=radar&logoColor=white" alt="Stratejik Görev">
+</p>
 
-![ERALP](https://www.aselsan.com/uploads/eralp.jpg)
+<p align="center">
+  <img src="../../../_ASSETS/defense_icon.png" alt="Dominion Electronics" width="120">
+</p>
 
-## 📝 Proje Tanımı
-ERALP (Taşınabilir Erken İhbar Radar Sistemi), ASELSAN tarafından geliştirilen, taktik tekerlekli askeri araçlar üzerinde hızla intikal ettirilebilen, Galyum Nitrat (GaN) yarı iletken teknolojisine sahip aktif elektronik huzme taramalı (AESA) yeni nesil bir erken ihbar radarıdır. Balistik füze fırlatmalarını fırlatış anından itibaren tespit edebilecek ve hava-soluyan hedefleri (savaş uçağı, İHA, seyir füzesi) yüzlerce kilometre öteden sınıflandırabilecek kapasitededir.
+## 🛡️ Stratejik Tanım & Doktriner Öncelik
+**ASELSAN ERALP** (Taşınabilir Erken İhbar Radar Sistemi - TEİRS), Türkiye'nin hava sahasını yüzlerce kilometre derinlikten başlayarak koruyan, balistik füzeler, hayalet (stealth) uçaklar, seyir füzeleri ve anti-radyasyon mühimmatlarına karşı geliştirilmiş stratejik AESA erken ihbar radarıdır. Galyum Nitrür (GaN) teknolojisi ve sayısal hüzme oluşturma mimarisiyle donatılan ERALP; 450+ kilometre menzilden itibaren hava hedeflerini 3 boyutlu tespit eder. SİPER Uzun Menzilli Bölge Hava ve Füze Savunma Sistemi'nin ana arama radarı olarak "Çelik Kubbe" doktrininin gözü ve erken uyarı kalkanıdır.
 
-## ⚙️ Teknik Özellikler
+```mermaid
+flowchart TD
+    subgraph AirThreats [Hava Sahası Tehditleri]
+        BM[Balistik Füzeler]
+        Stealth[5. Nesil Hayalet Uçaklar]
+        Cruise[Alçak İrtifa Seyir Füzeleri]
+    end
 
-| Özellik | Değer |
+    subgraph ERALPArchitecture [ERALP AESA Radar Sistemi]
+        GaNAntenna[Katı Hal GaN Aktif Faz Dizinli Anten]
+        DBF[Sayısal Hüzme Oluşturma Ünitesi]
+        GaNAntenna --> DBF
+        DBF --> SignalProc[Gelişmiş Radar Sinyal & Veri İşleme]
+        SignalProc --> IFF[Entegre Mod-5 IFF Tanıma]
+    end
+
+    subgraph DefenseNetwork [Çelik Kubbe & Silah Tahsis]
+        AirThreats -.->|450+ km Tespit| GaNAntenna
+        SignalProc --> HAKIM[HAKİM Milli Hava Komuta Kontrol]
+        HAKIM --> SIPER[SİPER Füze Bataryası Ara Safha Güdüm]
+        HAKIM --> RADNET[RADNET / NATO Entegre Hava Resmi]
+    end
+```
+
+## 📊 Kapsamlı Teknik Özellikler
+
+| Parametre | Değer / Açıklama |
 | :--- | :--- |
-| **Frekans Bandı** | S-Bant |
-| **Menzil** | 450+ km |
-| **Mimari** | Aktif Elektronik Taramalı Dizin (AESA) / GaN Teknolojisi |
-| **Hedef Tipleri** | Balistik Füzeler, Hayalet (Düşük RCS) Uçaklar, Seyir Füzeleri, İHA'lar |
-| **Konuşlanma Süresi** | < 30 Dakika (Taktik Şasi Üzerinde Hidrolik Kurulum) |
-| **Taşıyıcı Platform** | 8x8 Taktik Tekerlekli Araçlar (Radar, Komuta ve Jeneratör Aracı) |
-| **Entegrasyon** | HAKİM C4I, RADNET ve ÇELİK KUBBE Mimarisi |
+| **Radar Sınıfı** | Taktik Taşınabilir Erken İhbar Radarı (AESA - TEİRS) |
+| **Çalışma Frekansı** | S-Bant (Uzun menzilli tespit ve zorlu hava koşullarına dayanım) |
+| **Tespit Menzili** | 450+ km (Balistik füze ve standart savaş uçağı hedefleri) |
+| **Düşük RCS Tespiti** | 5. Nesil hayalet uçakları ve seyir füzelerini onlarca kilometreden teşhis |
+| **Anten Mimarisi** | Sayısal Hüzme Oluşturma (DBF) altyapılı Katı Hal GaN Modülleri |
+| **Çalışma Modları** | 360° Sürekli Döner Arama veya Sektörel / Sabit Odaklı Takip Modu |
+| **İntikal ve Kurulum** | 8x8 Taktik Askeri Şasi, < 60 dakikada hidrolik otonom kurulum |
+| **Stratejik Yetenek** | Balistik füzelerin fırlatılış noktası, yörüngesi ve darbe noktası kestirimi |
+| **Taşınabilirlik** | C-130 ve A400M askeri nakliye uçakları ile stratejik havadan intikal |
+| **Dost-Düşman Teşhis** | NATO STANAG uyumlu entegre IFF Mod-5 / Mod-S sorgulayıcı |
 
-## 🌟 Öne Çıkan Yetenekler
-- **Anti-Balistik Tehdit İkazı:** Fırlatılan balistik füzelerin fırlatılış noktası, yörüngesi ve düşüş noktasını milisaniyeler içinde hesaplayarak savunma sistemlerini alarma geçirme.
-- **Elektronik Harp Koruması:** Çoklu huzme oluşturma, sayısal hüzme şekillendirme ve gelişmiş elektronik karşı-karşı tedbir (ECCM) algoritmaları.
-- **Milli GaN Çekirdek:** Transmit/Receive (T/R) modülleri ASELSAN ve Bilkent NANOTAM bünyesinde üretilen yerli GaN bileşenlerle donatılmıştır.
+## 🧩 Alt Sistemler ve Aviyonik/Elektronik Entegrasyonu
+- **GaN Alıcı/Verici (T/R) Modül Dizilimi:** Yüksek ışıma gücü, termal dayanım ve modüler yedekli yapı.
+- **Sayısal Hüzme Şekillendirme (Digital Beamforming):** Aynı anda yüzlerce farklı irtifa ve sektörde çoklu iz oluşturma.
+- **Elektronik Harp Koruma Tedbirleri (ECCM):** Düşman karıştırmalarını anında tespit eden yan kulakçık köreltme ve frekans atlama algoritmaları.
+- **HAKİM & RADNET Haberleşme Arayüzü:** Üretilen taktik hava resmini şifreli telsiz ve fiber hatlar üzerinden komuta merkezine iletme.
+- **Dahili Yardımcı Güç Ünitesi (APU):** Şebekeden bağımsız, taktik sahada günlerce kesintisiz operasyon sağlayan jeneratör paketi.
 
-## 🚀 Geliştirme Durumu (TRL 9)
-- [x] Fabrika Kabul ve Alan Performans Testleri Başarıyla Tamamlandı
-- [x] Balistik ve Hava Soluyan Hedef Tespit Gösterimleri İcra Edildi
-- [x] Türk Hava Kuvvetleri Komutanlığı'na İlk Teslimat Gerçekleştirildi (2023)
-- [x] Seri Üretim Birlikleri Dağıtımı Aktif
+## 🎯 Görev Profili, Muharebe Senaryoları & Operasyonel Yetenek
+- **Balistik Füze Erken Uyarısı:** Düşman balistik füzelerini motor yanma safhasından (boost-phase) itibaren takip ederek hava savunma füzelerine önleme verisi üretme.
+- **Hava Savunma Bataryası Yönetimi:** SİPER Ürün-1 ve Ürün-2 bataryaları için hedef tespit, sınıflandırma ve füze ateşleme öncesi hedef atama.
+- **Milli Hava Resmi Üretimi:** NATO erken ihbar radarlarından tamamen bağımsız, milli algoritmalarla Türkiye ve çevre coğrafyanın radar resmini çıkarma.
+- **Sınır Boyu Mobil Gözetleme:** Tehdit odaklı olarak ihtiyaç duyulan sınır bölgelerine saatler içinde intikal ederek erken ikaz boşluklarını kapatma.
+
+## 🚀 TRL Seviyesi ve Gelişim Yol Haritası
+- **Mevcut Seviye: TRL 9 (Envantere Kabul Edilmiş Operasyonel Sistem)**
+- [x] Sistem gereksinimleri, prototip tasarımı ve GaN modül üretimi.
+- [x] Fabrika kabul ve saha menzil doğrulama testleri.
+- [x] SİPER uzun menzilli hava savunma atışlı testlerinde hedef takip başarısı.
+- [x] Türk Hava Kuvvetleri Komutanlığı'na ilk teslimatın yapılması ve operasyonel göreve başlama.
+- [ ] Seri üretim ERALP radarlarının Türkiye genelindeki radar üslerine yaygınlaştırılması.
 
 ---
-[⬅️ ASELSAN Ana Sayfası](../README.md) | [🏠 Ana Sayfa](../../../README.md)
+[⬅️ Üst Dizine](../README.md) | [🏛️ Dominion Hub](../../README.md) | [🏠 Ana Sayfa](../../../README.md)

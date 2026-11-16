@@ -1,69 +1,92 @@
 # ✈️ Proje: HÜRJET (Jet Eğitim ve Hafif Taarruz Uçağı)
 
-![HÜRJET](../../../_ASSETS/hero_banner.png)
+[![TRL](https://img.shields.io/badge/TRL-8_Uçuş_Testi_ve_Gelişmiş_Zarf-blue?style=for-the-badge&logo=shield)](README.md) [![Dominion](https://img.shields.io/badge/DOMINION-AEROSPACE-0052cc?style=for-the-badge&logo=spacex&logoColor=white)](../../README.md) [![Üretici](https://img.shields.io/badge/ÜRETİCİ-TUSAŞ-red?style=for-the-badge)](../README.md) [![Durum](https://img.shields.io/badge/DURUM-Uçuş_Testleri_Devam_Ediyor-yellow?style=for-the-badge)](README.md)
 
-> **"Geleceğin Pilotları İçin Çelik Kanatlar: Eğitimden Muharebeye"**
+<div align="center">
+  <img src="../../../_ASSETS/aerospace_icon.png" alt="DOMINION AEROSPACE" width="100"/>
+</div>
 
-HÜRJET, Türkiye'nin ilk süpersonik jet eğitim ve hafif taarruz uçağıdır. Modern savaş uçağı eğitiminden yakın hava desteği görevlerine kadar geniş bir yelpazede hizmet verebilme kapasitesine sahiptir.
+![TUSAŞ HÜRJET Süpersonik İleri Jet Eğitim ve Hafif Muharip Uçak](../../../_ASSETS/hero_banner.png)
 
-## 📝 Proje Açıklaması
-HÜRJET, TUSAŞ tarafından Hava Kuvvetleri'nin T-38 ve NF-5 uçaklarının yerini alması ve geleceğin pilotlarının 5. nesil uçaklara (KAAN) hazırlanması amacıyla geliştirilmiştir. Süpersonik hız yeteneği, gelişmiş dijital uçuş sistemi (Fly-By-Wire) ve modern kokpit mimarisiyle donatılan platform, sadece bir eğitim uçağı değil, aynı zamanda mühimmat taşıma kapasitesiyle etkili bir yakın hava desteği aracıdır.
-
-### 🎭 Çok Yönlü Operasyonel Esneklik
-HÜRJET, akrobatik gösteri uçağı, hafif taarruz uçağı ve ileri jet eğitim uçağı olarak üç farklı konfigürasyonda görev yapabilir. Ayrıca, TCG Anadolu gibi uçak gemilerinden operasyon yapabilecek deniz varyantı çalışmalarıyla Türkiye'nin deniz havacılığı vizyonuna da hizmet etmektedir.
-
-## 🛠 Teknik Master Katalog
-
-| Parametre | Detay | Özellik |
-| :--- | :--- | :--- |
-| **Rol** | Gelişmiş Jet Eğitimi / Hafif Taarruz | Süpersonik Kapasite |
-| **Maksimum Hız** | 1.4 Mach | Yüksek Mürekkep Manevra Kabiliyeti |
-| **Servis İrtifası** | 45.000 ft | Gelişmiş Kokpit (Large Area Display) |
-| **Faydalı Yük** | 2.700+ kg | 7 Harici Silah İstasyonu |
-| **Menzil** | 2.222 km | Gelişmiş Dijital Uçuş Sistemi (FBW) |
-
-## 🎯 Çok Yönlü Görev Profilleri
-1.  **Gelişmiş Jet Eğitimi:** 5. nesil uçaklara (KAAN) pilot hazırlama.
-2.  **Hafif Taarruz:** Terörle mücadele ve yakın hava desteği (CAS).
-3.  **Hava Gösteri:** Türk Yıldızları ve SoloTürk gibi gösteri ekipleri için yeni nesil platform.
-4.  **Uçak Gemisi Operasyonları:** TCG Anadolu gibi gemilerden operasyon yapabilecek modifikasyonlar planlanmaktadır.
-
-## 💥 Mühimmat ve Sensör Paketi
-- **Mühimmat:** GÖKDOĞAN, BOZDOĞAN, HGK-82, KGK-82, Minyatür Bombalar.
-- **Sensörler:** Lazer işaretleme podları, opsiyonel AESA radarı entegrasyonu.
-
-## 🌐 Ekosistem Entegrasyonu (Training Connectivity)
-HÜRJET, KAAN'a giden yolda sadece bir eğitim aracı değil, operasyonel bir köprüdür:
-- **LVC (Live-Virtual-Constructive):** Havada uçarken yerdeki simülatörlerle veya sanal düşmanlarla (VR/AR) eğitim yapabilme yeteneği.
-- **Ağ Merkezli Eğitim:** Pilot adaylarının Link-16 üzerinden KAAN ve AKINCI ile koordinasyon kurmayı havada öğrenmesi.
-- **Deniz Havacılığı:** TCG Anadolu gibi gemilere iniş-kalkış yapabilen varyantıyla deniz kuvvetleri unsurları arasında entegrasyon.
-
-## 📊 Alt Sistemler ve Yerlilik
-- **Uçuş Kontrol Bilgisayarı (FCC):** 4 yedekli, tamamen yerli yazılımla kontrol edilen dijital uçuş sistemi.
-- **Modern Kokpit (LAD):** 20 inç geniş alan ekranı (Large Area Display) ile 5. nesil uçak arayüz deneyimi.
-- **Uçuş Test Enstrümantasyonu:** Verilerin anlık olarak yer istasyonuna aktarıldığı milli telemetri sistemleri.
-
-## 🔮 Gelecek Vizyonu: Blok ve Varyantlar
-- **Varyant L (Jet Eğitim):** T-38'lerin yerini alacak ana yapı.
-- **Varyant C (Hafif Taarruz):** Terörle mücadele için optimize edilmiş, yerli mühimmat yüklü muharip yapı.
-- **Varyant N (Deniz):** Katlanabilir kanatlar ve güçlendirilmiş gövde ile uçak gemisi kullanımı.
-- **Aerobatik:** Türk Yıldızları için özel hafifletilmiş ve duman sistemli versiyon.
-
-## 📈 Milat Çizgesi
-- [x] Konsept Tasarım Onayı
-- [x] Yer Testleri
-- [x] İlk Uçuş (25 Nisan 2023)
-- [/] Süpersonik Hız Testleri
-- [ ] Hava Kuvvetleri Envanterine Giriş (2025+)
-
-
-
-
-## 🚀 Geliştirme Durumu (TRL 8)
-- [x] Sistem Entegrasyonu ve Kalifikasyon
-- [x] Jet Eğitim ve Hafif Taarruz Uçağı (Uçuş Test Fazı)
-
-## 📁 Proje Varlıkları (Project Assets)
-- (Bu proje dizininde henüz ek dosya bulunmamaktadır.)
 ---
-[⬅️ TUSAŞ Ana Sayfası](../README.md) | [🏠 Ana Sayfa](../../../README.md)
+
+### 🛡️ Stratejik Tanım & Doktriner Öncelik
+HÜRJET, Türk Hava Kuvvetleri'nin envanterindeki emektar T-38M Arı jet eğitim uçakları ile NF-5A/B Türk Yıldızları akrotim uçaklarının yerini almak ve modern 5. nesil savaş pilotlarının (KAAN ve F-16 Viper) yetiştirilmesini sağlamak amacıyla TUSAŞ tarafından tasarlanıp üretilen tek motorlu, tandem koltuklu süpersonik jet uçağıdır. Gelişmiş uçuş kontrol sistemi, modern sayısal aviyonik kokpiti ve 3.000 kg'a varan harici mühimmat taşıma kapasitesi ile HÜRJET; sadece ileri jet eğitimi değil, aynı zamanda yakın hava desteği (CAS), hava devriyesi (CAP) ve taktik taarruz görevlerini de maliyet etkin şekilde icra edebilecek yetenektedir.
+
+---
+
+### 📊 Kapsamlı Teknik Özellikler Tablosu
+
+| Parametre | Değer / Özellik |
+| :--- | :--- |
+| **Maksimum Kalkış Ağırlığı (MTOW)** | 8.300 kg |
+| **Harici Yük / Mühimmat Kapasitesi** | 3.000 kg (7 Silah İstasyonu) |
+| **Motor** | 1 x General Electric F404-GE-102 Turbofan (17.700 lbf artyakıcılı itki) |
+| **Maksimum Hız** | Mach 1.4 (Süpersonik) |
+| **Servis Tavanı** | 45.000 ft (13.716 m) |
+| **Tırmanma Hızı** | 39.000 ft/dk |
+| **Menzil / Harekât Yarıçapı** | 2.222 km (Dahili yakıt) / Görev yarıçapı ~900 km |
+| **G Limitleri** | +8g / -3g |
+| **Kanat Açıklığı / Uzunluk** | 9.5 metre / 13.6 metre |
+| **Kokpit Konfigürasyonu** | Tandem 2 Koltuk (Martin-Baker Fırlatma Koltukları, Geniş Ekranlı MFD) |
+
+---
+
+### 🧩 Alt Sistemler ve Aviyonik/Elektronik Entegrasyonu
+- **Kokpit ve Göstergeler:** Geniş Alan Göstergesi (LAD - Large Area Display), Sayısal Kask Monteli Nişangah (HMDS), HOTAS kumandaları.
+- **Uçuş Kontrol:** 4 Kanallı Sayısal Fly-By-Wire (FBW) Uçuş Kontrol Bilgisayarı.
+- **Radar ve Sensörler:** ASELSAN MURAD Hafif AESA Radarı entegrasyon opsiyonu, LDP (Hedefleme Podu) taşıma yeteneği.
+- **Ağ Merkezli Harp & Veri Bağı:** Link-16 taktik veri bağı, KEMENT veri terminali, Havada Yakıt İkmali (IFR) yeteneği.
+- **Gömülü Eğitim Sistemi (ETS):** Radar, füze ve tehdit simülasyonunu kokpit ekranlarına gerçek zamanlı yansıtan sanal taktik eğitim yazılımı.
+
+---
+
+### 🎯 Görev Profili, Muharebe Senaryoları & Mühimmat Yelpazesi
+- **İleri Seviye Jet Pilot Eğitimi (AJT):** 5. nesil avcı uçaklarına (KAAN) geçiş yapacak harbe hazırlık pilot eğitimi.
+- **Hafif Muharip ve Yakın Hava Desteği (LCA):** GBU, MAM serisi, TOLUN ve TEBER güdümlü mühimmatlarıyla kara hedeflerine nokta atışı.
+- **Hava Devriyesi & Sınır Güvenliği:** BOZDOĞAN ve GÖKDOĞAN füzeleriyle alçaktan uçan İHA veya hava hedeflerini önleme.
+- **Akrotim Gösteri Uçuşları:** Türk Yıldızları bünyesinde yüksek manevralı gösteri formasyonu.
+
+---
+
+### 📐 Özel Mimari ve Görev Akış Şeması
+```mermaid
+graph TD
+    subgraph "İtki & Aerodinamik Platform"
+        P1["F404-GE-102 Artyakıcılı Turbofan Motor"]
+        P2["Fly-By-Wire 4-Yedekli Uçuş Kontrol"]
+        P3["Süpersonik Gövde Tasarımı (Mach 1.4)"]
+    end
+    subgraph "Sayısal Kokpit & Taktik Eğitim"
+        C1["Büyük Alan Göstergesi (LAD - 8x20 inç)"]
+        C2["Gömülü Taktik Eğitim Sistemi (ETS Simülatör)"]
+        C3["Link-16 / KEMENT Taktik Veri Ağı"]
+    end
+    subgraph "Mühimmat & Taarruz Entegrasyonu"
+        M1["MURAD Burun AESA Radarı"]
+        M2["GÖKDOĞAN & BOZDOĞAN Hava-Hava Füzeleri"]
+        M3["TOLUN / TEBER / HGK Hassas Güdümlü Bombalar"]
+    end
+    P1 --> P2 --> P3
+    P2 --> C1
+    C2 --> C1
+    C3 --> C1
+    M1 --> C1
+    C1 --> M2
+    C1 --> M3
+```
+
+---
+
+### 🚀 TRL Seviyesi ve Gelişim Yol Haritası
+- [x] Kavramsal ve Detay Tasarım Doğrulaması
+- [x] İlk Motor Çalıştırma (Ocak 2023)
+- [x] İlk Uçuş Doğrulaması (25 Nisan 2023)
+- [x] Süpersonik Zarf Testleri ve İrtifa Açma Uçuşları
+- [x] İkinci Prototip Montaj ve Test Süreci
+- [ ] Hava Kuvvetleri Filo Kabulü ve İlk Parti Seri Teslimatlar
+
+---
+
+### 🔗 Sağlam İç Dizin Navigasyonu
+[⬅️ Üst Dizine](../README.md) | [🏛️ Dominion Hub](../../README.md) | [🏠 Ana Sayfa](../../../README.md)

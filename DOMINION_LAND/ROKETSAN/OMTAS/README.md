@@ -1,34 +1,100 @@
 # 🛡️ Proje: ROKETSAN OMTAS (Orta Menzilli Tanksavar Silah Sistemi)
 
-> **Geliştirici:** ROKETSAN  
-> **Sınıf:** Orta Menzilli Kızılötesi Güdümlü Tanksavar Füzesi (Medium Range Anti-Tank Missile)  
-> **Stratejik Önem:** Piyade birlikleri ve FNSS Pars / Kaplan gibi Silah Taşıyıcı Araçlar (STA) için reaktif zırhlı ana muharebe tanklarını 4 km menzilde imha eden milli zırh kırıcı.
+<div align="center">
 
-![OMTAS](https://www.roketsan.com.tr/uploads/omtas.jpg)
+<img src="../../../_ASSETS/defense_icon.png" width="90" alt="Land Dominion Icon" />
 
-## 📝 Proje Tanımı
-OMTAS, piyade tarafından üçayak üzerinden veya zırhlı araç kulelerinden atılabilen, gece/gündüz her türlü hava koşulunda zırhlı tehditleri etkisiz hale getirmek için tasarlanmış bir tanksavar füze sistemidir. Kızılötesi arayıcı başlığı ve çift yönlü RF veri bağı sayesinde hedefini uçuş esnasında güncelleyebilir veya sütre arkasındaki hedeflere kilitlenebilir.
+[![TRL](https://img.shields.io/badge/TRL-9-00E676?style=for-the-badge&logo=shield&logoColor=white)](../../../docs/TRL_GUIDE.md)
+[![Dominion](https://img.shields.io/badge/DOMINION-LAND-green?style=for-the-badge&logo=target&logoColor=white)](../../README.md)
+[![Üretici](https://img.shields.io/badge/MANUFACTURER-ROKETSAN-red?style=for-the-badge)](../README.md)
+[![Durum](https://img.shields.io/badge/STATUS-SER%C4%B0%20%C3%9CRET%C4%B0M%20%2F%20MUHAREBE%20KANITLI-success?style=for-the-badge)]()
 
-## ⚙️ Teknik Özellikler
+</div>
 
-| Özellik | Değer |
-| :--- | :--- |
-| **Menzil** | 200 Metre - 4.000 Metre (4 km) |
-| **Çap** | 160 mm |
-| **Ağırlık** | ~35 kg (Füze ve Fırlatma Tüpü) |
-| **Güdüm** | IIR (Görüntüleyici Kızılötesi) Başlık + Çift Yönlü RF Veri Bağı |
-| **Harp Başlığı** | Reaktif Zırhlara (ERA) Karşı Etkili Tandem Başlık |
-| **Atış Modları** | At-Unut, At-Güncelle, Sütre Gerisinden Atış, Üstten Vuruş (Top Attack) |
-
-## 🌟 Öne Çıkan Yetenekler
-- **Üstten Vuruş Modu (Top Attack):** Tankların en zayıf korunan bölgesi olan tavan taret zırhına dik açıyla dalarak hedefin tek atışta imhası.
-- **Uçuş Sırasında Hedef Değiştirme:** Hedefin yanıltıcı sis atması veya kaçması durumunda operatörün füzeyi başka bir zırhlı araca yönlendirebilmesi.
-- **Yüksek Çözünürlüklü Termal Nişangah:** Füze atıcı birimi üzerinde yer alan bağımsız termal kamera ile gece şartlarında 5+ km mesafeden hedef teşhisi.
-
-## 🚀 Geliştirme Durumu (TRL 9)
-- [x] Kalifikasyon ve TSK Kabul Atışları Tamamlandı
-- [x] Silah Taşıyıcı Araçlar (STA) Projesi Kapsamında Yüzlerce Adet Envantere Girdi
-- [x] Türk Silahlı Kuvvetleri Tarafından Aktif Muharebe Sahasında Kullanılmaktadır
+<p align="center">
+  <img src="https://www.roketsan.com.tr/uploads/omtas.jpg" alt="ROKETSAN OMTAS Orta Menzilli Tanksavar Füzesi" width="85%" style="border-radius: 8px;" />
+</p>
 
 ---
-[⬅️ ROKETSAN Ana Sayfası](../README.md) | [🏠 Ana Sayfa](../../../README.md)
+
+## 🛡️ Stratejik Tanım & Doktriner Öncelik
+
+**OMTAS (Orta Menzilli Tanksavar Silah Sistemi)**, ROKETSAN tarafından modern kara muharebe sahasındaki en ağır zırhlı ve reaktif korumalı (ERA) ana muharebe tanklarını 4 kilometre mesafeden imha etmek üzere geliştirilmiş milli tanksavar füze sistemidir. Piyade birlikleri tarafından üçayak (tripod) üzerinden fırlatılabildiği gibi, Türk Kara Kuvvetleri'nin **Silah Taşıyıcı Araçlar (STA)** projesi kapsamında FNSS KAPLAN ve PARS 4x4 araç kulelerine entegre edilerek mobil avcı birliklerinin ana vurucu gücünü oluşturmuştur.
+
+Platformu benzersiz kılan unsur; Görüntüleyici Kızılötesi (IIR) arayıcı başlığı ile çift yönlü RF (Radyo Frekans) veri bağı entegrasyonudur. Bu sayede operatör füzeyi sütre (tepe, bina, orman) gerisinden ateşleyebilir, uçuş esnasında füze kamerasından gelen canlı görüntüyü izleyerek hedef seçimi yapabilir, uçuş sırasında hedef değiştirebilir (At-Güncelle) veya doğrudan "At-Unut" modunda angajman icra edebilir.
+
+---
+
+## 📊 Kapsamlı Teknik Özellikler
+
+| Parametre | Değer / Özellik | Açıklama |
+| :--- | :--- | :--- |
+| **Etkili Menzil** | 200 Metre - 4.000 Metre (4 km) | Gündüz, gece ve zorlu hava koşullarında kesintisiz |
+| **Füze Çapı** | 160 mm | Ağır zırh tahribatı için optimize edilmiş gövde |
+| **Füze & Tüp Ağırlığı** | ~35 kg | Tripod ve araç kulelerine uyumlu modüler yapı |
+| **Güdüm Mimarisi** | Soğutmalı IIR Arayıcı Başlık + Çift Yönlü RF Veri Bağı | Gerçek zamanlı video aktarımı ve telekomut |
+| **Harp Başlığı Tipi** | Reaktif Zırhlara (ERA) Karşı Etkili Tandem Başlık | Ana tank zırhını yüksek derinlikte delme kabiliyeti |
+| **Vuruş Modları** | Doğrudan Vuruş (Direct) & Üstten Vuruş (Top Attack) | Zırhın zayıf noktasına milimetrik yönlendirme |
+| **Atış Modları** | At-Unut, At-Güncelle, Sütre Gerisinden Atış | Görüş hattı dışındaki (BLOS) hedeflere angajman |
+| **Platform Entegrasyonu** | Üçayak, KAPLAN STA, PARS 4x4 STA, ZMA, İKA | STANAG 4569 uyumlu zırhlı araç kuleleri |
+
+---
+
+## 🧩 Alt Sistemler ve Aviyonik / Elektronik Entegrasyonu
+
+```mermaid
+graph TD
+    subgraph FIRE_UNIT["OMTAS Atış Kontrol ve Nişangah Ünitesi"]
+        TV_THERMAL["Yüksek Çözünürlüklü Termal Nişangah Kamera"]
+        RF_TRANSCEIVER["Çift Yönlü RF Taktik Veri Bağı Alıcı/Vericisi"]
+        OPERATOR_DISP["Operatör Kontrol & Hedef Seçim Konsolu"]
+    end
+
+    subgraph MISSILE_SYSTEM["OMTAS Güdümlü Füze"]
+        IIR_HEAD["Görüntüleyici Kızılötesi (IIR) Optik Başlık"]
+        MID_COURSE_RF["Füze İçi RF Anten & Veri Çözücü"]
+        TANDEM_CHARGE["Tandem Harp Başlığı (Öncü + Ana Şarj)"]
+        SOLID_MOTOR["Az Dumanlı Çift Kademeli Katı Yakıt Motoru"]
+    end
+
+    subgraph CARRIER_VEHICLE["Platform Entegrasyonu (STA / İKA)"]
+        YALCIN_TURRET["FNSS KORHAN / YALÇIN Kule Lançeri"]
+        KARA_BMS["ASELSAN Muharebe Sahası Yönetim Sistemi"]
+    end
+
+    FIRE_UNIT <==>|Çift Yönlü Canlı Video & Komut| MID_COURSE_RF
+    MID_COURSE_RF --> IIR_HEAD
+    IIR_HEAD --> TANDEM_CHARGE
+    CARRIER_VEHICLE --> FIRE_UNIT
+    SOLID_MOTOR --> MISSILE_SYSTEM
+```
+
+- **Sütre Gerisinden Güvenli Atış (LOAL):** Operatör hedefin görüş hattında olmadığı durumlarda füzeyi ateşler; füze tepeyi aştığında canlı görüntü operatör ekranına gelir, operatör tankı işaretler ve füze hedefe dalar.
+- **Tandem Harp Başlığı Teknolojisi:** Öncü şarj (pre-cursor) tank üzerindeki patlayıcı reaktif zırh kasetini (ERA) patlatıp nötralize ederken, hemen ardından patlayan ana şarj tankın ana kompozit zırhını delerek içerideki personeli ve mühimmatı imha eder.
+- **Ağır Kule Entegrasyonu:** STA araçlarında çift lançerli kule üzerinde tam stabilize şekilde seyir halindeyken bile hedefe kilitlenme ve atış kabiliyeti.
+
+---
+
+## 🎯 Görev Profili, Muharebe Senaryoları & Mühimmat Yelpazesi
+
+1. **Zırhlı Birlik Karşı Taarruzunun Kırılması:** 4 km menzilde düşman tank bölüklerinin koordineli karşı taarruzlarını üstten vuruş modu ile durdurma.
+2. **Gizli ve Sütre Arkası Pusular:** Piyade veya STA unsurlarının tepe arkasında gizlenerek düşman radar ve optiklerine görünmeden atış yapması.
+3. **Müstahkem Tahkimat ve Beton Sığınak İmhası:** Doğrudan vuruş modunda düşmanın komuta merkezlerini ve beton siperlerini tek atışta çökertme.
+4. **İnsansız Araçlarla Koordineli Av:** İnsansız hava araçlarının işaretlediği koordinata doğru ateşlenip havada hedef güncelleme ile tank avı.
+
+---
+
+## 🚀 TRL Seviyesi ve Gelişim Yol Haritası
+
+- **Mevcut Durum:** `TRL 9` (Tam kalifiye, seri üretimde, yüzlerce adet TSK ve Jandarma envanterine teslim edilmiş muharebe kanıtlı sistem).
+- [x] Sistem tasarım, yer ve uçuş kalifikasyon testleri
+- [x] STA (Silah Taşıyıcı Araçlar) projesi kapsamında KAPLAN ve PARS entegrasyonu
+- [x] Hareketli hedef ve ERA zırhlı hedef imha doğrulama atışları
+- [x] Seri üretim bantlarından yüzlerce adedin Türk Kara Kuvvetleri'ne teslimatı
+- [x] Dost ve müttefik ülkelere yönelik ihracat teslimatları
+
+---
+
+## 🔗 İç Dizin Navigasyonu
+
+[⬅️ Üst Dizine (ROKETSAN)](../README.md) | [🏛️ Dominion Hub (DOMINION_LAND)](../../README.md) | [🏠 Ana Sayfa](../../../README.md)

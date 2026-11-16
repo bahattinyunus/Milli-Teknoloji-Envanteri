@@ -1,31 +1,94 @@
-# 🪖 Proje: TULGAR (Kaska Monteli Gösterge Sistemi)
+# 🪖 Proje: ASELSAN TULGAR (Kaska Monteli Gösterge Sistemi - HMDS)
+
+[![TRL](https://img.shields.io/badge/TRL-8_Uçuş_Doğrulaması-yellowgreen?style=for-the-badge&logo=shield)](https://www.aselsan.com)
+[![Dominion](https://img.shields.io/badge/Dominion-ELECTRONICS-blue?style=for-the-badge&logo=cpu)](../../README.md)
+[![Üretici](https://img.shields.io/badge/Üretici-ASELSAN-red?style=for-the-badge)](../README.md)
+[![Durum](https://img.shields.io/badge/Durum-Entegrasyon_ve_Uçuş_Testi-brightgreen?style=for-the-badge)](#)
+
+<div align="center">
+  <img src="../../../_ASSETS/defense_icon.png" alt="Dominion Electronics Varlık İkonu" width="120" />
+</div>
 
 > **Geliştirici:** ASELSAN  
-> **Sınıf:** 5. Nesil Kaska Monteli Entegre Kumanda ve Gösterge Sistemi (HMDS)  
-> **Stratejik Önem:** KAAN pilotlarına 360 derece durumsal farkındalık, kask vizörüne yansıtılan sentetik görüş ve hedef kitleme sağlayan ileri aviyonik kask.
-
-## 📝 Proje Tanımı
-TULGAR, modern muharebe sahasında pilotun uçak kokpit panellerine bakma ihtiyacını asgari düzeye indiren, tüm uçuş, seyrüsefer ve hedef bilgilerini doğrudan vizör üzerinde yüksek çözünürlükle görüntüleyen kaska monteli bir gösterge sistemidir. KAAN'ın Elektro-Optik Hedefleme Sistemi (TOYGUN) ve Kızılötesi Arama-Takip (KARAT) sensörleriyle entegre çalışır.
-
-## ⚙️ Teknik Özellikler
-
-| Özellik | Detay |
-| :--- | :--- |
-| **Görüntü Teknolojisi** | Sayısal Renkli Mikro Ekran / Vizöre Yansıtma |
-| **Kafa Takip Sistemi** | Hibrit (Optik ve İnertial) Ultra Hassas Kafa Takip |
-| **Ağırlık & Ergonomi** | Düşük Ağırlıklı Karbon Kompozit Kask Kabuğu, Pilot Başına Özel Üretim |
-| **Gece Görüş** | Entegre Dijital Gece Görüş ve Termal Görüntü Bindirme |
-| **Görüş Açısı (FoV)** | 40° x 30° Geniş Görüş Alanı |
-
-## 🌟 Öne Çıkan Yetenekler
-- **"Gövdenin Arkasını Görebilme":** Gövde üzeri sensör füzyonu sayesinde pilot kokpit tabanına veya kanat altına baktığında uçağın altındaki hedefi kesintisiz görebilir.
-- **Yüksek G Toleransı:** 9G manevralar altında bile kafa pozisyonunu milimetre altı hassasiyetle hesaplama.
-- **Hedef Kitleme (Off-Boresight):** Pilotun sadece hedefe bakmasıyla BOZDOĞAN veya GÖKDOĞAN füzelerini düşman uçağına angaje edebilme kabiliyeti.
-
-## 🚀 Geliştirme Durumu (TRL 8)
-- [x] Tasarım ve Ergonomi Testleri Tamamlandı
-- [x] Aviyonik Simülatör ve Laboratuvar Testleri Başarılı
-- [x] KAAN Uçuş Test Programına Entegrasyon Süreci Aktif
+> **Sınıf:** 5. Nesil Kaska Monteli Entegre Gösterge ve Nişangah Sistemi (HMDS)  
+> **Stratejik Önem:** KAAN ve modern jet pilotlarına kokpit içi panellere bakma zorunluluğunu ortadan kaldıran, uçağın gövdesini saydamlaştırarak 360° durumsal farkındalık ve kafa hareketiyle füze kitleme kabiliyeti kazandıran yerli aviyonik vizyon sistemi.
 
 ---
-[⬅️ ASELSAN Ana Sayfası](../README.md) | [🏠 Ana Sayfa](../../../README.md)
+
+## 🛡️ Stratejik Tanım & Doktriner Öncelik
+ASELSAN TULGAR, beşinci nesil savaş uçaklarının (başta KAAN Milli Muharip Uçak olmak üzere) yüksek dinamizmli hava muharebesi senaryolarında pilotun reaksiyon süresini saniyelerden milisaniyelere indiren yüksek teknolojili bir Kaska Monteli Gösterge Sistemidir (HMDS). Klasik uçaklardaki Head-Up Display (HUD) cihazını tamamen ortadan kaldıran TULGAR; uçağın hız, irtifa, hücum açısı gibi temel seyrüsefer bilgilerini ve sensör füzyonu ile elde edilen radar, FLIR ve füze ikaz verilerini pilotun vizörüne yüksek kontrastlı renkli mikro-ekranlar vasıtasıyla yansıtır. Uçağın gövde dışı kameralarıyla (EOTS/TOYGUN ve DAS) senkronize çalışan hibrit kafa takip sistemi, pilot kafasını nereye çevirirse kokpit zeminini "saydamlaştırarak" uçağın altındaki veya arkasındaki hedefleri doğrudan görmesini sağlar.
+
+```mermaid
+flowchart TD
+    subgraph Pilot_Kask_Birimleri["ASELSAN TULGAR Donanımı"]
+        KASK["Karbon-Kompozit Ergonomik Kask Kabuğu"]
+        DISP["Çift Kanallı Yüksek Parlaklıklı Renkli Sayısal Vizör"]
+        HTS["Hibrit Kafa Takip Sensörleri (Optik + İnertial MEMS)"]
+        NVG["Entegre Sayısal Gece Görüş Sensör Modülü"]
+        KASK --- DISP
+        KASK --- HTS
+        KASK --- NVG
+    end
+
+    subgraph Uçak_Aviyonik_Merkezi["KAAN Aviyonik & Görev Bilgisayarı"]
+        MC["Milli Görev Bilgisayarı"]
+        TOYGUN["TOYGUN EOTS & Gövde İçi Kameralar"]
+        DAS["Dağıtık Açıklıklı Kızılötesi Sensör Ağı (DAS)"]
+        RADAR["MURAD AESA Radarı"]
+    end
+
+    subgraph Yüksek_Açılı_Füze_Güdümü["Off-Boresight Angajmanı"]
+        BOZDOGAN["BOZDOĞAN Görüş İçi Hava-Hava Füzesi (HOBS)"]
+        GOKDOGAN["GÖKDOĞAN Görüş Ötesi Hava-Hava Füzesi"]
+    end
+
+    HTS ==>|Kafa Açısı & Bakış Doğrultusu (LOS)| MC
+    TOYGUN & DAS & RADAR ==>|Sensör Füzyon Görüntüsü| MC
+    MC ==>|Sentetik Görüş & Taktik Hedefleme| DISP
+    MC ==>|Nişan Hattı Koordinatı| BOZDOGAN
+    MC ==>|Nişan Hattı Koordinatı| GOKDOGAN
+```
+
+---
+
+## 📊 Kapsamlı Teknik Özellikler
+
+| Parametre | Değer / Detay |
+| :--- | :--- |
+| **Görüntü Teknolojisi** | Çift Renkli Sayısal Mikro-Ekran / Geniş Açı Vizöre Yansıtma |
+| **Görüş Alanı (FoV)** | 40° Yatay x 30° Dikey Geniş Görüş Açısı |
+| **Kafa Takip Hassasiyeti** | < 1 miliradyan açısal doğruluk (Optik Kamera + Dahili IMU Hibrit Takip) |
+| **G-Kuvveti Dayanımı** | -3G ila +9G Ani Manevra Yükleri Altında Tam Kararlılık |
+| **Kask Malzemesi** | Aramid & Karbon Fiber Güçlendirilmiş Ultra Hafif Kompozit |
+| **Ağırlık Merkezi** | Pilot boyun kaslarını yormayan, pilot kafa taramasına özel optimize ağırlık dağılımı |
+| **Gece Görüş Entegrasyonu** | Vizöre entegre dijital gece görüş sensörü (harici ağır gece gözlüğü gerektirmez) |
+| **Oksijen & Kask İçi İletişim**| KBRN filtre uyumlu entegre maske ve gürültü önleyici aktif kulaklık mimarisi |
+
+---
+
+## 🧩 Alt Sistemler ve Aviyonik/Elektronik Entegrasyonu
+- **Off-Boresight (Eksen Dışı) Füze Kitleme:** Pilotun uçağın burnunu hedefe çevirmesine gerek kalmadan, yalnızca düşman jetine bakarak BOZDOĞAN hava-hava füzesini kitleyip ateşleyebilmesi.
+- **Saydam Gövde ve DAS Görüntü Bindirme:** Gövde çevresindeki termal kameraların görüntüsünü kask vizöründe birleştirerek gece uçuşunda dahi yer yüzeyini ve dost/düşman unsurları 360 derece kesintisiz görme.
+- **Düşman Radar & Tehdit Uyarı Sembolojisi:** RWR ve Füze İkaz Sistemleri tarafından algılanan bir tehdit yaklaşırken vizörde kırmızı yön oku ve sesli yönlendirme ile anında pilotu uyarma.
+- **Yapay Zeka Destekli Taktik Katman:** Hava hedeflerinin dost, düşman veya tarafsız olduğu bilgisini vizörde otomatik renk kodlarıyla (yeşil/kırmızı/sarı) doğrudan hedefin üzerinde etiketleme.
+
+---
+
+## 🎯 Görev Profili, Muharebe Senaryoları & Mühimmat Yelpazesi
+- **İt Dalaşı (Dogfight) ve Yüksek G Manevraları:** Dar açı dönüş manevralarında pilot kafasını serbestçe çevirerek düşmanı gözden kaçırmaz ve anında füze angajmanı kurar.
+- **Gece Alçak İrtifa Sızma ve Yer Taarruzu:** Entegre gece görüş ve sentetik FLIR bindirmesi sayesinde dağlık coğrafyada sıfır görüşte bile yer engebelerini görerek güvenle uçuş.
+- **Ağ Merkezli Takım Uçuşu:** Lider pilotun baktığı koordinatı veri bağı üzerinden koldaki diğer uçakların kasklarına ve KIZILELMA/ANKA-3 SİHA'larına anında aktarma.
+
+---
+
+## 🚀 TRL Seviyesi ve Gelişim Yol Haritası
+- **Mevcut Seviye:** **TRL 8 (Uçuş Testleri ve Platform Entegrasyonu Doğrulandı)**
+- [x] Özel Pilot Ergonomi ve Kask Kabuğu Tasarım Kalifikasyonu
+- [x] Laboratuvar ve Santrifüj Yüksek-G Dayanıklılık Testleri
+- [x] F-16 ÖZGÜR Platformunda Ön Uçuş ve Entegrasyon Doğrulamaları
+- [x] KAAN Uçuş Test Programı Kokpit Sistemlerine Tam Entegrasyon
+- [ ] Seri Üretim ve Tüm Beşinci Nesil Jet Filolarına Standart Donanım Dağıtımı
+
+---
+
+[⬅️ Üst Dizine](../README.md) | [🏛️ Dominion Hub](../../README.md) | [🏠 Ana Sayfa](../../../README.md)

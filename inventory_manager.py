@@ -76,8 +76,8 @@ class InventoryManager:
             with open(readme_path, 'r', encoding='utf-8') as f:
                 content = f.read()
 
-            # 1. TRL extraction (supports TRL X, TRL X-Y, TRL X.Y)
-            trl_match = re.search(r"TRL\s*(\d)(?:-(\d))?", content, re.IGNORECASE)
+            # 1. TRL extraction (supports TRL X, TRL-X, TRL: X, TRL X-Y)
+            trl_match = re.search(r"TRL[\s\-_:]*(\d)(?:-(\d))?", content, re.IGNORECASE)
             if trl_match:
                 d1 = int(trl_match.group(1))
                 d2 = int(trl_match.group(2)) if trl_match.group(2) else d1

@@ -1,34 +1,73 @@
-# 🛳️ Proje: ASELSAN ALBATROS-S (İnsansız Deniz Aracı Sürüsü)
+# 🛳️ Proje: ASELSAN ALBATROS-S (Sürü İnsansız Deniz Aracı)
 
-> **Geliştirici:** ASELSAN  
-> **Sınıf:** Sürü İnsansız Deniz Aracı (Sürü İDA / K-İDA)  
-> **Stratejik Önem:** Mavi Vatan'da sürü halinde hareket ederek düşman filolarını kuşatan, liman girişlerini kapatan ve kamikaze vuruş yapabilen sürü zekalı deniz kalkanı.
+<p align="center">
+  <img src="https://img.shields.io/badge/TRL-9_Operasyonel-00E676?style=for-the-badge&logo=shield&logoColor=white" alt="TRL Seviyesi">
+  <img src="https://img.shields.io/badge/Dominion-ELECTRONICS_%26_AI-blue?style=for-the-badge&logo=cpu&logoColor=white" alt="Dominion">
+  <img src="https://img.shields.io/badge/Üretici-ASELSAN-0052cc?style=for-the-badge&logo=target&logoColor=white" alt="Üretici">
+  <img src="https://img.shields.io/badge/Muharebe_Durumu-Combat_Proven-ff0055?style=for-the-badge&logo=flame&logoColor=white" alt="Muharebe Durumu">
+</p>
 
-![ALBATROS-S](https://www.aselsan.com/uploads/albatros-s.jpg)
+<p align="center">
+  <img src="../../../_ASSETS/defense_icon.png" alt="Dominion Electronics" width="120">
+</p>
 
-## 📝 Proje Tanımı
-ALBATROS-S, ASELSAN tarafından geliştirilen, yüksek otonomi kabiliyetine sahip ve sürü formasyonunda görev icra edebilen bir insansız deniz aracı (İDA) sistemidir. Merkezi bir operatöre bağımlı kalmaksızın sürü içindeki diğer botlarla kablosuz ağ kurarak engellerden sakınır, görev paylaşımı yapar ve hedefi müşterek olarak çevreler.
+## 🛡️ Stratejik Tanım & Doktriner Öncelik
+**ALBATROS-S**, Türk Deniz Kuvvetleri'nin "Mavi Vatan" doktrininde asimetrik deniz harbinin kurallarını değiştiren sürü zekalı otonom insansız deniz aracıdır (S-İDA / K-İDA). Merkezi bir operatöre bağımlı kalmaksızın, kendi aralarında kurdukları kablosuz mesh ağ üzerinden dinamik görev dağılımı yapan ALBATROS-S botları; düşman su üstü filolarını çevreleme, sahil ve üs savunması ile intihar (kamikaze) dalışıyla ana muharip gemileri batırma kabiliyetine sahiptir. Dağıtık liderlik mimarisi sayesinde lider bot saf dışı kalsa dahi sürü otonom olarak yeni liderini seçerek taarruzu kesintisiz icra eder.
 
-## ⚙️ Teknik Özellikler
+```mermaid
+flowchart TD
+    subgraph SwarmControl [Sürü Ağı & Görev Yönetimi]
+        Leader[Lider ALBATROS-S] <-->|RF Mesh Veri Bağı| Sub1[Üye Bot 1]
+        Leader <-->|RF Mesh Veri Bağı| Sub2[Üye Bot 2]
+        Leader <-->|SATCOM / KEMENT Link| C2[Sahil / Gemi Komuta Merkezi]
+    end
 
-| Özellik | Detay |
+    subgraph SensorsAndAutonomy [Otonom Seyrüsefer Katmanı]
+        NavRadar[Seyir Radarı] & EO[Elektro-Optik Kamera] --> NavComp[Otonom Seyir & Çarpışma Önleme]
+        NavComp --> Drive[Dizel İçten Takma Tahrik]
+    end
+
+    subgraph Engagement [Angajman & Hedef İmha]
+        Sub1 -->|Pusu & Çevreleme| Target[Düşman Su Üstü Harp Gemisi]
+        Sub2 -->|Kamikaze Yüksek Hızlı Dalış| Target
+        Warhead[250+ kg Harp Başlığı] -->|Darbe Sensörü Tetikleme| Imha[Hedefin Batırılması]
+    end
+```
+
+## 📊 Kapsamlı Teknik Özellikler
+
+| Parametre | Değer / Açıklama |
 | :--- | :--- |
-| **Hız** | 40+ Knot |
-| **Menzil** | 200+ Deniz Mili |
-| **Faydalı Yük Kapasitesi** | 250+ kg (Patlayıcı Başlık veya Elektro-Optik Keşif Sistemi) |
-| **Otonomi Kabiliyeti** | Otonom Seyrüsefer, Dinamik Formasyon Değiştirme, Sürü Halinde Çevreleme |
-| **Haberleşme** | Karıştırmaya Dayanıklı RF Ağ Linki ve Uydu Muhaberesi |
-| **Operasyonel Kontrol** | Tek Merkezden / Sahil Kontrol İstasyonundan 10+ Botun Eşzamanlı İdaresi |
+| **Gövde Tipi & Boyutlar** | Kompozit V-Gövde, Boy: 7.20 m, En: 2.00 m, Draft: ~0.50 m |
+| **Maksimum Sürat** | 40+ Knot (Yüksek Hızlı İntikal ve Taarruz) |
+| **Operasyonel Menzil** | 200+ Deniz Mili (NM) |
+| **Görev Süresi** | 10+ Saat Kesintisiz Seyir |
+| **Faydalı Yük Kapasitesi** | 250+ kg (Harp Başlığı, EO/IR Keşif Gimbalı veya Elektronik Harp Yükü) |
+| **Tahrik Sistemi** | Yüksek Güçlü İçten Takma Dizel Motor & Su Jeti / Pervane |
+| **Otonomi Seviyesi** | Seviye-4 (Tam Otonom Formasyon, Çarpışma Önleme COLREG Uyumlu) |
+| **Haberleşme Mimarisi** | Karıştırmaya Dayanıklı Sayısal RF Mesh Link + SATCOM Uydu Terminali |
+| **Sürü Kapasitesi** | Tek merkezden 10+ botun tam koordineli müşterek idaresi |
 
-## 🌟 Öne Çıkan Yetenekler
-- **Sürü Zekası ve Dağıtık Liderlik:** Lider bot vurulduğunda veya devre dışı kaldığında sürünün otomatik olarak yeni bir lider seçmesi ve göreve kesintisiz devam etmesi.
-- **Kamikaze Saldırı Kabiliyeti:** Harp başlığı yüklü ALBATROS-S botunun hedef su üstü gemisine yüksek hızla dalarak hedefin batırılması (2023 yılında yapılan canlı atış testinde hedef gemi başarıyla batırılmıştır).
-- **Milli Aviyonik Mimari:** Tamamen yerli oto-pilot, çarpışma önleme algoritmaları ve görev planlama yazılımı.
+## 🧩 Alt Sistemler ve Aviyonik/Elektronik Entegrasyonu
+- **Sürü Zekası Algoritmaları:** Dağıtık optimizasyon, dinamik rol paylaşımı ve sürü çevreleme (flocking/swarming) matematiksel modelleri.
+- **Milli Aviyonik Mimari:** ASELSAN otopilot, seyrüsefer sensör füzyonu (GNSS + INS + Doppler Velocity Log).
+- **Anti-GNSS Karıştırma Sistemi:** Düşman elektronik taarruzu altında dahi konum doğruluğunu koruyan yedekli ataletsel navigasyon.
+- **KEMENT ve ADVENT Entegrasyonu:** MİLGEM fırkateynleri ve kıyı gözetleme radarlarıyla eşzamanlı taktik resim paylaşımı.
+- **Milli Kamikaze Harp Başlığı:** ROKETSAN / TÜBİTAK SAGE menşeli, su kesiminde zırh delici ve yüksek patlayıcı tahrip gücüne sahip özel başlık.
 
-## 🚀 Geliştirme Durumu (TRL 9)
-- [x] Sürü Formasyon ve Dinamik Görev Paylaşımı Testleri Başarıyla Yapıldı
-- [x] Canlı Harp Başlığı ile Hedef Gemi Batırma Testi İcra Edildi (2023)
-- [x] Türk Deniz Kuvvetleri Envanterine Giriş ve Operasyonel Sürü Kullanımı
+## 🎯 Görev Profili, Muharebe Senaryoları & Mühimmat Yelpazesi
+- **Sürü Halinde Kamikaze Taarruz:** Düşman korvet veya fırkateynlerine karşı çoklu yönden eşzamanlı dalış yaparak savunma sistemlerini doyum noktasına ulaştırma.
+- **Boğaz ve Liman Koruma:** Kritik deniz geçitlerinde şüpheli teknelere karşı otonom önleme, ikaz ve müdahale.
+- **Elektronik Aldatma ve Yem Görevi:** Düşman radar ve kıyı bataryalarını üzerine çekerek dost hava ve deniz platformlarına operasyonel serbesti sağlama.
+- **Canlı Batırma Başarısı:** Ekim 2023'te Mersin açıklarında gerçekleştirilen canlı atışlı testte 22 metrelik hedef gemiyi doğrudan vurarak başarıyla batırmıştır.
+
+## 🚀 TRL Seviyesi ve Gelişim Yol Haritası
+- **Mevcut Seviye: TRL 9 (Saha Kanıtlanmış Operasyonel Sistem - Combat Proven)**
+- [x] Otonom formasyon ve dinamik sürü görev paylaşımı testleri.
+- [x] Denizaltı savunma ve su üstü harbi simülasyonları.
+- [x] Canlı harp başlıklı kamikaze vuruş testi ve hedef geminin batırılması (2023).
+- [x] Türk Deniz Kuvvetleri Komutanlığı envanterine kabul ve çoklu bot teslimatı.
+- [ ] Denizaltı tespit sonarı ve hafif torpido entegrasyonu sürü modelleri.
 
 ---
-[⬅️ ASELSAN Ana Sayfası](../README.md) | [🏠 Ana Sayfa](../../../README.md)
+[⬅️ Üst Dizine](../README.md) | [🏛️ Dominion Hub](../../README.md) | [🏠 Ana Sayfa](../../../README.md)
