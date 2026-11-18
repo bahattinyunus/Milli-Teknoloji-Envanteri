@@ -1,14 +1,21 @@
-# TÜBİTAK SAGE Project Hub
+# 🏢 TÜBİTAK SAGE — Proje ve Teknolojik Varlık Kataloğu
 
-## 🚀 Projects
-
-- [BOZDOĞAN](BOZDOĞAN/README.md) - Görüş İçi Hava-Hava Füzesi (WVRAAM)
-- [GOKDOGAN](GOKDOGAN/README.md) - Görüş Ötesi Hava-Hava Füzesi (BVRAAM)
-- [GÜNEŞ](GÜNEŞ/README.md) - Hassas Güdüm Kiti Ailesi
-- [KUZGUN](KUZGUN/README.md) - Modüler Müşterek Mühimmat Ailesi
-- [MORS](MORS/README.md) - Modüler Oturmalı Roket ve Havan Sistemi
-- [SOM](SOM/README.md) - Havadan Atılan Hassas Seyir Füzesi
-- [İMECE](İMECE/README.md) - Yüksek Çözünürlüklü Yer Gözlem Uydusu
+> **🌌 DOMINION AEROSPACE (Hava & Uzay)** bünyesinde faaliyet gösteren **TÜBİTAK SAGE** kuruluşuna ait toplam **8** stratejik platform ve alt sistem kaydı bulunmaktadır (Ortalama Olgunluk: `TRL 8.75`).
 
 ---
-[Kök Dizine Dön](../../README.md) | [Dominion Hub'ına Dön](../README.md)
+
+## 🚀 Kayıtlı Platformlar ve Teknik Özet
+
+| Platform | Sınıf & Kategori | Stratejik Öncelik ve Görev Tanımı | Durum | TRL |
+| :--- | :--- | :--- | :--- | :---: |
+| **[BOZDOĞAN](BOZDOĞAN/README.md)** | Kısa Menzilli Görüş İçi Hava-Hava Füzesi (... | BOZDOĞAN, Türk Hava Kuvvetleri'nin hava-hava muharebelerinde mutlak üstünlük ... | Hava Kuvvetleri Envant... | `TRL 9` |
+| **[GOKDOGAN](GOKDOGAN/README.md)** | Görüş Ötesi Hava-Hava Füzesi - BVRAAM | GÖKDOĞAN, Türk Hava Kuvvetleri'nin görüş ötesi menzillerde (Beyond Visual Ran... | Seri Üretimde ve Filol... | `TRL 9` |
+| **[GÖKTUĞ](GÖKTUĞ/README.md)** | Görüş İçi (WVRAAM) ve Görüş Ötesi (BVRAAM)... | Türk Hava Kuvvetleri'nin ABD menşeili AIM-9X Sidewinder ve AIM-120 AMRAAM füz... | Seri Üretim & Teslimat | `TRL 9` |
+| **[GÜNEŞ](GÜNEŞ/README.md)** | Akıllı Güdüm Kiti ve Arayıcı Başlık Ailesi | TÜBİTAK SAGE GÜNEŞ, Türk Silahlı Kuvvetleri'nin envanterindeki güdümsüz konva... | Envanterde ve Operasyonel | `TRL 9` |
+| **[KUZGUN](KUZGUN/README.md)** | INS/GPS + Karıştırmaya Dayanıklı CRPA Ante... | KUZGUN, modern muharebe sahasının değişen tehdit dinamiklerine karşı TÜBİTAK ... | Kalifikasyon ve Uçuş T... | `TRL 7` |
+| **[MORS](MORS/README.md)** | Modüler Oturmalı Akıllı Havan ve Mini Roket | MORS (Modüler Oturmalı Roket ve Akıllı Havan Mühimmatı Ailesi), ön hat piyade... | Aktif Hizmette ve Seri... | `TRL 9` |
+| **[SOM](SOM/README.md)** | Hava-Yer / Hava-Deniz Hassas Seyir Füzesi ... | SOM (Satha Atılan Mühimmat), Türk Silahlı Kuvvetleri'nin düşman hava savunma ... | Aktif Filolarda ve Ser... | `TRL 9` |
+| **[İMECE](İMECE/README.md)** | Milli Yüksek Çözünürlüklü Yer Gözlem Uydusu | İMECE, Türkiye'nin metre altı çözünürlüklü elektro-optik kameraya sahip ilk y... | Operasyonel / Aktif Pr... | `TRL 9` |
+
+---
+[⬅️ Dominion Hub (AEROSPACE)](../README.md) | [🏠 Ana Sayfa](../../README.md)

@@ -19,9 +19,10 @@ if sys.stderr.encoding != 'utf-8':
     except Exception:
         pass
 
+
 class InventoryManager:
     """
-    Milli Teknoloji Envanteri - Kurumsal Envanter Yönetim ve Analiz Motoru v3.5
+    Milli Teknoloji Envanteri - Kurumsal Envanter Yönetim ve Analiz Motoru v4.0
     Türkiye Cumhuriyeti Savunma ve Havacılık Ekosistemi Stratejik Yönetim Sistemi
     """
     def __init__(self, root_dir=None):
@@ -52,8 +53,16 @@ class InventoryManager:
                                 structure[d][c].append(p)
         return structure
 
+    def _clean_text(self, text):
+        if not text:
+            return ""
+        text = re.sub(r'[*_`~]', '', text)
+        text = re.sub(r'\[([^\]]+)\]\([^\)]+\)', r'\1', text)
+        text = re.sub(r'\s+', ' ', text)
+        return text.strip()
+
     def extract_project_metadata(self, proj_path, proj_name=None, company_name=None, dominion_name=None):
-        """Extracts rich metadata (TRL, class, strategic role, summary) from project README."""
+        """Extracts rich metadata (TRL, class, strategic role, summary, image, specs, status) from project README."""
         proj_name = proj_name or os.path.basename(proj_path).replace('_', ' ')
         readme_path = os.path.join(proj_path, 'README.md')
         
@@ -66,7 +75,10 @@ class InventoryManager:
             'trl': None,
             'class': 'Platform / Alt Sistem',
             'strategic_role': '',
-            'summary': ''
+            'summary': '',
+            'image': '',
+            'status': 'Operasyonel / Aktif Program',
+            'specs': {}
         }
 
         if not metadata['readme_exists']:
@@ -76,38 +88,127 @@ class InventoryManager:
             with open(readme_path, 'r', encoding='utf-8') as f:
                 content = f.read()
 
-            # 1. TRL extraction (supports TRL X, TRL-X, TRL: X, TRL X-Y)
-            trl_match = re.search(r"TRL[\s\-_:]*(\d)(?:-(\d))?", content, re.IGNORECASE)
-            if trl_match:
-                d1 = int(trl_match.group(1))
-                d2 = int(trl_match.group(2)) if trl_match.group(2) else d1
-                metadata['trl'] = float((d1 + d2) / 2.0)
+            # 1. Accurate TRL extraction (Priority 1: shields.io badge, Priority 2: Mevcut Durum/Seviye line, Priority 3: general TRL tag)
+            trl_val = None
+            badge_trl = re.search(r"badge/TRL-(\d)(?:[._%20-](\d))?(?![0-9])", content, re.IGNORECASE)
+            if badge_trl:
+                d1 = int(badge_trl.group(1))
+                d2 = int(badge_trl.group(2)) if badge_trl.group(2) else d1
+                if 1 <= d1 <= 9 and 1 <= d2 <= 9:
+                    trl_val = float((d1 + d2) / 2.0)
 
-            # 2. Sınıf / Tip / Class extraction
-            class_match = re.search(r"\*\*(?:Sınıf|Sınıfı|Tip|Türü|Tür):\*\*\s*([^\n\r]+)", content, re.IGNORECASE)
+            if trl_val is None:
+                status_trl = re.search(r"(?:Mevcut\s+(?:Durum|Seviye|Olgunluk\s+Seviyesi))[^\n\r]*?TRL[\s\-_:]*(\d)(?:\s*-\s*(\d))?", content, re.IGNORECASE)
+                if status_trl:
+                    d1 = int(status_trl.group(1))
+                    d2 = int(status_trl.group(2)) if status_trl.group(2) else d1
+                    if 1 <= d1 <= 9 and 1 <= d2 <= 9:
+                        trl_val = float((d1 + d2) / 2.0)
+
+            if trl_val is None:
+                gen_trl = re.search(r"\bTRL[\s\-_:]*([1-9])(?:\s*-\s*([1-9]))?\b", content, re.IGNORECASE)
+                if gen_trl:
+                    d1 = int(gen_trl.group(1))
+                    d2 = int(gen_trl.group(2)) if gen_trl.group(2) else d1
+                    trl_val = float((d1 + d2) / 2.0)
+
+            metadata['trl'] = trl_val
+
+            # 2. Extract Image path (normalize relative path to root _ASSETS/...)
+            img_match = re.search(r'src=["\'](?:\.\./)+(_ASSETS/[^"\']+)["\']', content)
+            if not img_match:
+                img_match = re.search(r'\((?:\.\./)+(_ASSETS/[^\)]+)\)', content)
+            if img_match:
+                metadata['image'] = img_match.group(1).strip()
+            else:
+                # Fallback check in _ASSETS/platforms
+                safe_name = os.path.basename(proj_path)
+                cand = f"_ASSETS/platforms/{safe_name}.jpg"
+                if os.path.exists(os.path.join(self.root_dir, cand)):
+                    metadata['image'] = cand
+
+            # 3. Extract Status from badge or text
+            status_badge = re.search(r"badge/(?:DURUM|STATUS|Durum)-([^?\"'\)]+)", content)
+            if status_badge:
+                raw_st = status_badge.group(1)
+                # Strip trailing color suffix like -success, -brightgreen, -yellow, -ff9100
+                raw_st = re.sub(r'-(?:success|brightgreen|green|yellow|orange|blue|red|grey|6c757d|ff9100|00E676|29b6f6)$', '', raw_st, flags=re.IGNORECASE)
+                raw_st = raw_st.replace('%20', ' ').replace('%2F', '/').replace('%C4%B0', 'İ').replace('%C3%9C', 'Ü').replace('%C5%9E', 'Ş').replace('%C3%87', 'Ç').replace('%C4%9E', 'Ğ').replace('%C3%96', 'Ö').replace('_', ' ')
+                metadata['status'] = self._clean_text(raw_st)
+
+            # 4. Extract Specs table rows
+            table_rows = re.findall(r"^\|\s*\*\*([^*|]+)\*\*\s*\|\s*([^|\n]+)\|", content, re.MULTILINE)
+            specs_dict = {}
+            for k, v in table_rows:
+                clean_k = self._clean_text(k)
+                clean_v = self._clean_text(v)
+                if clean_k and clean_v and clean_k.lower() not in ['parametre', 'özellik', 'kriter']:
+                    specs_dict[clean_k] = clean_v
+            metadata['specs'] = specs_dict
+
+            # 5. Extract Class / Category (Multi-tier extraction)
+            extracted_class = None
+            # Tier A: Explicit bold label
+            class_match = re.search(r"\*\*(?:Sınıf|Sınıfı|Tip|Türü|Tür|Gemi Sınıfı|Füze Tipi|Sistem Sınıfı|Kategori):\*\*\s*([^\n\r|]+)", content, re.IGNORECASE)
             if class_match:
-                clean_class = class_match.group(1).strip()
-                clean_class = re.sub(r'[*_`]', '', clean_class)
-                metadata['class'] = clean_class
+                extracted_class = self._clean_text(class_match.group(1))
 
-            # 3. Stratejik Önem extraction
-            strat_match = re.search(r"\*\*(?:Stratejik Önem|Stratejik Seviye|Önem):\*\*\s*([^\n\r]+)", content, re.IGNORECASE)
+            # Tier B: From specs table keys
+            if not extracted_class or extracted_class == 'Platform / Alt Sistem':
+                for key_cand in ['Sınıfı', 'Sınıf', 'Sistem Sınıfı', 'Sistem Türü', 'Platform Sınıfı', 'Gemi Sınıfı', 'Füze Tipi', 'Motor Tipi', 'Tipi', 'Türü', 'Araç Sınıfı', 'Platform Tipi', 'Güdüm Mimarisi', 'Kalibre']:
+                    if key_cand in specs_dict:
+                        extracted_class = specs_dict[key_cand]
+                        break
+
+            # Tier C: From H1 Title parenthetical: # ... Proje: NAME (Class Description) or # ... Proje: NAME Descriptive Class
+            if not extracted_class or extracted_class == 'Platform / Alt Sistem':
+                h1_line = re.search(r"^#\s+.*?Proje:\s*(.+)$", content, re.MULTILINE)
+                if h1_line:
+                    raw_h1 = h1_line.group(1).strip()
+                    paren = re.search(r"\(([^\)\n]+)\)", raw_h1)
+                    if paren and len(self._clean_text(paren.group(1))) > 6:
+                        extracted_class = self._clean_text(paren.group(1))
+                    else:
+                        full_h1 = self._clean_text(re.sub(r"\([^\)]*\)", "", raw_h1))
+                        for token in [company_name, proj_name, os.path.basename(proj_path)]:
+                            if token:
+                                full_h1 = re.sub(r'^' + re.escape(token) + r'[\s\-_:]*', '', full_h1, flags=re.IGNORECASE)
+                        if len(full_h1) > 5:
+                            extracted_class = full_h1
+
+            if extracted_class:
+                metadata['class'] = extracted_class
+
+            # 6. Extract Strategic Role & Summary
+            strat_match = re.search(r"\*\*(?:Stratejik Önem|Stratejik Seviye|Önem|Stratejik Rol):\*\*\s*([^\n\r]+)", content, re.IGNORECASE)
             if strat_match:
-                clean_strat = strat_match.group(1).strip()
-                clean_strat = re.sub(r'[*_`]', '', clean_strat)
-                metadata['strategic_role'] = clean_strat
+                metadata['strategic_role'] = self._clean_text(strat_match.group(1))
 
-            # 4. Summary extraction (First paragraph or Proje Tanımı)
-            tanim_match = re.search(r"##\s*📝\s*Proje Tanımı\s*\n+([^\n#]+)", content, re.IGNORECASE)
-            if tanim_match:
-                metadata['summary'] = tanim_match.group(1).strip()
-            elif not metadata['summary']:
-                # fallback to blockquote
-                quote_match = re.search(r">([^\n]+)", content)
+            # Extract section under Stratejik Tanım & Doktriner Öncelik or Proje Tanımı
+            desc_section = re.search(r"##+\s*(?:🛡️\s*)?(?:Stratejik Tanım[^\n]*|Proje Tanımı[^\n]*)\n+([^\n#<][^\n]+)", content, re.IGNORECASE)
+            if desc_section:
+                first_para = self._clean_text(desc_section.group(1))
+                metadata['summary'] = first_para
+                if not metadata['strategic_role']:
+                    # Extract first sentence as strategic role
+                    first_sent = re.split(r'(?<=[.!?])\s+', first_para)[0]
+                    metadata['strategic_role'] = first_sent
+
+            if not metadata['summary']:
+                quote_match = re.search(r"^>\s*([^\n]+)", content, re.MULTILINE)
                 if quote_match:
-                    metadata['summary'] = quote_match.group(1).strip()
+                    metadata['summary'] = self._clean_text(quote_match.group(1))
 
-        except Exception as e:
+            if not metadata['strategic_role'] and metadata['summary']:
+                metadata['strategic_role'] = metadata['summary'][:160] + ('...' if len(metadata['summary']) > 160 else '')
+
+            # Fallback if class is still generic
+            if metadata['class'] == 'Platform / Alt Sistem' and metadata['strategic_role']:
+                short_role = metadata['strategic_role'].split(';')[0].split('.')[0]
+                if 5 < len(short_role) <= 75:
+                    metadata['class'] = short_role
+
+        except Exception:
             pass
 
         return metadata
@@ -130,7 +231,7 @@ class InventoryManager:
         return projects
 
     def analyze_health(self):
-        """Comprehensive repository integrity and specification health audit."""
+        """Comprehensive repository integrity, asset validation, and specification health audit."""
         print("\n🔍 ======================================================= 🔍")
         print("     MİLLİ TEKNOLOJİ ENVANTERİ: SİSTEM SAĞLIK DENETİMİ     ")
         print("🔍 ======================================================= 🔍\n")
@@ -143,6 +244,8 @@ class InventoryManager:
         missing_trls = []
         placeholders = []
         broken_links = []
+        missing_images = []
+        generic_classes = []
         
         for p in all_projs:
             tag = f"{p['company']}/{p['name']}"
@@ -157,6 +260,10 @@ class InventoryManager:
                     placeholders.append(tag)
                 if p['trl'] is None:
                     missing_trls.append(tag)
+                if not p['image'] or not os.path.exists(os.path.join(self.root_dir, p['image'])):
+                    missing_images.append(tag)
+                if p['class'] == 'Platform / Alt Sistem':
+                    generic_classes.append(tag)
 
                 # Check internal links
                 links = re.findall(r"\[.*?\]\(((\.\./)+[^)]+)\)", content)
@@ -166,7 +273,13 @@ class InventoryManager:
                         broken_links.append(f"{tag} -> {l}")
 
         # Compute Score
-        penalties = (len(missing_readmes) * 15) + (len(short_readmes) * 5) + (len(missing_trls) * 5) + (len(broken_links) * 2)
+        penalties = (
+            (len(missing_readmes) * 15) +
+            (len(short_readmes) * 5) +
+            (len(missing_trls) * 5) +
+            (len(broken_links) * 2) +
+            (len(missing_images) * 2)
+        )
         score = max(0, 100 - penalties)
         grade = "A+" if score >= 98 else ("A" if score >= 90 else ("B" if score >= 80 else ("C" if score >= 70 else "F")))
 
@@ -204,6 +317,17 @@ class InventoryManager:
         else:
             print("✅ 5. Tüm iç dizin ve ana sayfa bağlantıları doğrulanmış ve sağlam.")
 
+        if missing_images:
+            print(f"⚠️  Görsel Eksik ({len(missing_images)}):")
+            for mi in missing_images[:5]: print(f"   - {mi}")
+        else:
+            print("✅ 6. Tüm platformların yüksek çözünürlüklü görsel varlıkları (_ASSETS/platforms) doğrulanmış.")
+
+        if generic_classes:
+            print(f"ℹ️  Genel Sınıf Etiketli ({len(generic_classes)} proje)")
+        else:
+            print("✅ 7. Tüm platformların spesifik sınıf ve doktriner görev tanımları ayrıştırılmış.")
+
         print("\n🎯 Denetim Sonucu: MİLLİ TEKNOLOJİ ENVANTERİ YÜKSEK KALİTE STANDARTLARINI SAĞLAMAKTADIR.\n")
 
     def show_stats(self):
@@ -218,7 +342,6 @@ class InventoryManager:
         valid_trls = [p['trl'] for p in all_projs if p['trl'] is not None]
         avg_trl = sum(valid_trls) / len(valid_trls) if valid_trls else 0.0
 
-        # Dominion breakdown
         dom_map = {
             'AEROSPACE': {'count': 0, 'trl_sum': 0, 'trls': []},
             'ELECTRONICS': {'count': 0, 'trl_sum': 0, 'trls': []},
@@ -241,7 +364,7 @@ class InventoryManager:
             comp_counts[c] = comp_counts.get(c, 0) + 1
             
             if p['trl']:
-                k = f"TRL {int(p['trl'])}"
+                k = f"TRL {int(round(p['trl']))}"
                 trl_dist[k] = trl_dist.get(k, 0) + 1
 
         print(f"🇹🇷 Toplam Kayıtlı Platform / Sistem : {total_projects}")
@@ -256,8 +379,8 @@ class InventoryManager:
             bar = '█' * int(pct // 4) + '░' * (25 - int(pct // 4))
             print(f"📍 {dom:<12} | {cnt:>3} Proje ({pct:>5.1f}%) | Ort. TRL: {dom_avg:.2f} | [{bar}]")
 
-        print("\n--- EN ÇOK PLATFORM GELİŞTİREN LİDER KURUMLAR (TOP 6) ---")
-        sorted_comps = sorted(comp_counts.items(), key=lambda x: x[1], reverse=True)[:6]
+        print("\n--- EN ÇOK PLATFORM GELİŞTİREN LİDER KURUMLAR (TOP 8) ---")
+        sorted_comps = sorted(comp_counts.items(), key=lambda x: x[1], reverse=True)[:8]
         for idx, (c, count) in enumerate(sorted_comps, 1):
             c_pct = (count / total_projects) * 100
             print(f"  {idx}. {c:<22} : {count:>2} Proje ({c_pct:>4.1f}%)")
@@ -267,7 +390,7 @@ class InventoryManager:
             k = f"TRL {i}"
             c = trl_dist.get(k, 0)
             bar = '■' * c
-            print(f"  {k} : {c:>2} Proje {bar}")
+            print(f"  {k} : {c:>3} Proje {bar}")
         print()
 
     def show_matrix(self):
@@ -300,7 +423,6 @@ class InventoryManager:
         
         def norm(t):
             if not t: return ""
-            # Case & diacritic folding
             t = t.replace('İ', 'i').replace('I', 'ı').replace('ç', 'c').replace('Ç', 'c')
             t = t.replace('ğ', 'g').replace('Ğ', 'g').replace('ö', 'o').replace('Ö', 'o')
             t = t.replace('ş', 's').replace('Ş', 's').replace('ü', 'u').replace('Ü', 'u')
@@ -318,6 +440,7 @@ class InventoryManager:
             p_class = norm(p['class'])
             p_strat = norm(p['strategic_role'])
             p_sum = norm(p['summary'])
+            p_specs = norm(" ".join(f"{k} {v}" for k, v in p.get('specs', {}).items()))
 
             if q == p_name:
                 score += 15
@@ -333,6 +456,8 @@ class InventoryManager:
                 score += 3
             if q in p_sum:
                 score += 2
+            if q in p_specs:
+                score += 2
 
             if score > 0:
                 matches.append((score, p))
@@ -345,12 +470,12 @@ class InventoryManager:
 
         print(f"🎯 Toplam {len(matches)} eşleşen kayıt bulundu:\n")
         for _, p in matches:
-            trl_str = f"TRL {p['trl']:.1f}" if p['trl'] else "TRL Bilinmiyor"
+            trl_str = f"TRL {int(p['trl'])}" if p['trl'] and p['trl'].is_integer() else (f"TRL {p['trl']:.1f}" if p['trl'] else "TRL Bilinmiyor")
             print(f"🔹 [{p['dominion']}] {p['name']} ({p['company']}) - [{trl_str}]")
             if p['class']:
                 print(f"   📂 Sınıf: {p['class']}")
             if p['strategic_role']:
-                print(f"   💡 Stratejik Önem: {p['strategic_role']}")
+                print(f"   💡 Stratejik Önem: {p['strategic_role'][:130]}...")
             print(f"   🔗 Dosya: {p['path']}/README.md\n")
 
     def export_json(self, output_file="inventory_data.json"):
@@ -364,7 +489,7 @@ class InventoryManager:
                 "generated_at": datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
                 "total_projects": len(all_projs),
                 "average_trl": round(sum(valid_trls) / len(valid_trls), 2) if valid_trls else 0.0,
-                "version": "3.5"
+                "version": "4.0"
             },
             "projects": all_projs
         }
@@ -376,7 +501,7 @@ class InventoryManager:
     def export_csv(self, output_file="inventory_data.csv"):
         """Exports inventory database to CSV spreadsheet format."""
         all_projs = self.get_all_projects(refresh=True)
-        fields = ['dominion', 'company', 'name', 'trl', 'class', 'strategic_role', 'path']
+        fields = ['dominion', 'company', 'name', 'trl', 'status', 'class', 'strategic_role', 'image', 'path']
         
         file_path = os.path.join(self.root_dir, output_file)
         with open(file_path, "w", encoding="utf-8", newline='') as f:
@@ -387,9 +512,11 @@ class InventoryManager:
                     'dominion': p['dominion'],
                     'company': p['company'],
                     'name': p['name'],
-                    'trl': p['trl'] if p['trl'] else '',
+                    'trl': int(p['trl']) if p['trl'] and p['trl'].is_integer() else (p['trl'] if p['trl'] else ''),
+                    'status': p['status'],
                     'class': p['class'],
                     'strategic_role': p['strategic_role'],
+                    'image': p['image'],
                     'path': p['path']
                 })
         print(f"✅ CSV tablo verisi başarıyla ihraç edildi: {output_file}")
@@ -433,13 +560,15 @@ class InventoryManager:
             f.write("## 🏛️ Detaylı Platform Matrisi\n\n")
             for d, stat in dom_stats.items():
                 f.write(f"### 📍 DOMINION_{d} ({stat['count']} Platform)\n\n")
-                f.write("| Proje / Platform | Üretici / Kurum | Sınıf / Rol | TRL |\n")
-                f.write("| :--- | :--- | :--- | :--- |\n")
+                f.write("| Proje / Platform | Üretici / Kurum | Sınıf & Stratejik Rol | Durum | TRL |\n")
+                f.write("| :--- | :--- | :--- | :--- | :---: |\n")
                 for p in sorted(stat['projects'], key=lambda x: (x['company'], x['name'])):
-                    trl_str = f"TRL {p['trl']:.1f}" if p['trl'] else "TRL ?"
-                    role_str = p['class'] if p['class'] != 'Platform / Alt Sistem' else (p['strategic_role'][:40] + '...' if len(p['strategic_role']) > 40 else p['strategic_role'])
+                    trl_str = f"TRL {int(p['trl'])}" if p['trl'] and p['trl'].is_integer() else (f"TRL {p['trl']:.1f}" if p['trl'] else "TRL ?")
+                    role_str = p['class'] if p['class'] != 'Platform / Alt Sistem' else p['strategic_role']
                     if not role_str: role_str = "Kritik Savunma Sistemi"
-                    f.write(f"| **[{p['name']}](./{p['path']}/README.md)** | {p['company']} | {role_str} | {trl_str} |\n")
+                    if len(role_str) > 65: role_str = role_str[:62] + "..."
+                    st_str = p['status'] if len(p['status']) <= 30 else p['status'][:27] + "..."
+                    f.write(f"| **[{p['name']}](./{p['path']}/README.md)** | {p['company']} | {role_str} | {st_str} | `{trl_str}` |\n")
                 f.write("\n")
 
             f.write("---\n\n")
@@ -456,7 +585,7 @@ class InventoryManager:
             t15 = len([p for p in all_projs if p['trl'] and p['trl'] < 6])
             f.write(f"**{t15} Proje** (%{(t15/total_projects)*100:.1f})\n\n")
 
-            f.write("*(Bu rapor `inventory_manager.py` tarafından otomatik olarak üretilmiştir.)*\n")
+            f.write("*(Bu rapor `inventory_manager.py v4.0` tarafından otomatik olarak üretilmiştir.)*\n")
             
         print(f"✅ Rapor başarıyla oluşturuldu: {output_file}")
 
@@ -465,31 +594,28 @@ class InventoryManager:
         print("\n🖥️  --- Milli Teknoloji Envanteri: İnteraktif Dashboard Güncelleniyor --- 🖥️\n")
         all_projs = self.get_all_projects(refresh=True)
         
-        # Prepare lightweight project list for browser
         projects_payload = []
         dominion_counts = {'AEROSPACE': 0, 'ELECTRONICS': 0, 'LAND': 0, 'SEA': 0}
-        trl_counts = {f"TRL {i}": 0 for i in range(1, 10)}
-        manufacturer_counts = {}
 
         for p in all_projs:
             dom = p['dominion']
             if dom in dominion_counts:
                 dominion_counts[dom] += 1
-            
-            mfg = p['company']
-            manufacturer_counts[mfg] = manufacturer_counts.get(mfg, 0) + 1
 
-            if p['trl']:
-                t_key = f"TRL {int(p['trl'])}"
-                trl_counts[t_key] = trl_counts.get(t_key, 0) + 1
+            # Take top 6 key specs for lightweight UI preview
+            top_specs = dict(list(p.get('specs', {}).items())[:6])
 
             projects_payload.append({
                 "name": p['name'],
                 "company": p['company'],
                 "dominion": p['dominion'],
-                "trl": p['trl'] if p['trl'] is not None else "N/A",
+                "trl": int(p['trl']) if p['trl'] and p['trl'].is_integer() else (p['trl'] if p['trl'] is not None else "N/A"),
+                "status": p['status'],
                 "class": p['class'],
-                "role": p['strategic_role'],
+                "role": p['strategic_role'] or p['summary'],
+                "summary": p['summary'],
+                "image": p['image'],
+                "specs": top_specs,
                 "path": f"{p['path']}/README.md"
             })
 
@@ -501,27 +627,13 @@ class InventoryManager:
         with open(dash_file, 'r', encoding='utf-8') as f:
             html = f.read()
 
-        # 1. Inject inventoryData
+        # Inject inventoryData
         json_data = json.dumps(projects_payload, ensure_ascii=False)
         html = re.sub(
             r'const inventoryData = \[.*?\];',
             f'const inventoryData = {json_data};',
             html,
             flags=re.DOTALL
-        )
-
-        # 2. Inject chart data
-        dom_labels = list(dominion_counts.keys())
-        dom_values = list(dominion_counts.values())
-        html = re.sub(
-            r'labels:\s*\["AEROSPACE"[^\]]*\]',
-            f'labels: {json.dumps(dom_labels)}',
-            html
-        )
-        html = re.sub(
-            r'data:\s*\[\s*\d+,\s*\d+,\s*\d+,\s*\d+\s*\]',
-            f'data: {json.dumps(dom_values)}',
-            html
         )
 
         with open(dash_file, 'w', encoding='utf-8') as f:
@@ -533,14 +645,13 @@ class InventoryManager:
         """Syncs all project entries, badges, and tables in root README.md with iconic portal layout."""
         print("\n🔄 --- Ana README.md İkonik Portala Dönüştürülerek Senkronize Ediliyor --- 🔄\n")
         full_readme = os.path.join(self.root_dir, readme_path)
-        if not os.path.exists(full_readme):
-            print(f"❌ {readme_path} bulunamadı!")
-            return
 
         all_projs = self.get_all_projects(refresh=True)
         total_projects = len(all_projs)
         valid_trls = [p['trl'] for p in all_projs if p['trl'] is not None]
         avg_trl = sum(valid_trls) / len(valid_trls) if valid_trls else 0.0
+        t89_count = len([p for p in all_projs if p['trl'] and p['trl'] >= 8])
+        companies_count = len(set(p['company'] for p in all_projs))
 
         header_part = f"""# 🇹🇷 Milli Teknoloji Envanteri (National Defense & Tech Portal)
 
@@ -555,9 +666,9 @@ class InventoryManager:
 <p align="center">
   <a href="https://github.com/bahattinyunus/Milli-Teknoloji-Envanteri"><img src="https://img.shields.io/badge/Envanter-{total_projects}+_Stratejik_Platform-00f2fe?style=for-the-badge&logo=target&logoColor=black" alt="Envanter Sayısı"></a>
   <a href="docs/TRL_GUIDE.md"><img src="https://img.shields.io/badge/Ortalama_TRL-{avg_trl:.2f}_%2F_9.00-00E676?style=for-the-badge&logo=speedtest&logoColor=black" alt="Ortalama TRL"></a>
-  <a href="DASHBOARD.html"><img src="https://img.shields.io/badge/Muharebe_Hazırlık-100%25_Operasyonel-ff007f?style=for-the-badge&logo=shield&logoColor=white" alt="Operasyonel"></a>
-  <a href="docs/ARCHITECTURE.md"><img src="https://img.shields.io/badge/Doktrin-Çelik_Kubbe_&_MUM--T-7928CA?style=for-the-badge&logo=airplayvideo&logoColor=white" alt="Doktrin"></a>
-  <a href="docs/API_CLI.md"><img src="https://img.shields.io/badge/Standart-NATO_&_SSB_TRL-blueviolet?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Standart"></a>
+  <a href="INVENTORY_REPORT.md"><img src="https://img.shields.io/badge/Seri_Üretim_(TRL_8--9)-{t89_count}_Sistem-ff007f?style=for-the-badge&logo=shield&logoColor=white" alt="Operasyonel"></a>
+  <a href="docs/ARCHITECTURE.md"><img src="https://img.shields.io/badge/Savunma_Kurumu-{companies_count}_Lider_Kuruluş-7928CA?style=for-the-badge&logo=airplayvideo&logoColor=white" alt="Kurumlar"></a>
+  <a href="DASHBOARD.html"><img src="https://img.shields.io/badge/Komuta_Merkezi-Canlı_Dashboard_v4.0-blueviolet?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Dashboard"></a>
 </p>
 
 <p align="center">
@@ -580,8 +691,8 @@ Milli Teknoloji Envanteri, Türkiye'nin **2053 ve 2071 stratejik vizyonlarına**
 ### 🌟 Dört Boyutlu Muharebe Hakimiyeti:
 1. **🌌 Hava ve Uzay:** 5. Nesil Hayalet Uçak (KAAN), İnsansız Muharip Uçaklar (KIZILELMA, ANKA-3), Yüksek İrtifa TİHA'lar ve Alçak Yörünge Uydu Takımları.
 2. **📡 Siber ve Elektronik Harp:** AESA Radarları (ERALP, CENK, MURAD), Çelik Kubbe Yapay Zeka Karar Ağı, ADVENT Savaş Yönetimi ve KORAL/REDET EH Sistemleri.
-3. **🚜 Kara ve Zırhlı Muharebe:** ALTAY Yeni Nesil Ana Muharebe Tankı, FIRTINA II Obüsleri, İleri Zırhlı Taktik Araçlar ve Balistik Derin Darbe Füzeleri (BORA, TAYFUN).
-4. **⚓ Mavi Vatan:** TCG ANADOLU Çok Maksatlı Amfibi Hücum Gemisi, MİLGEM İ-Sınıfı Fırkateynler, MİLDEN Havadan Bağımsız Tahrikli Denizaltılar ve Otonom SİDA Sürüleri.
+3. **🚜 Kara ve Zırhlı Muharebe:** ALTAY Yeni Nesil Ana Muharebe Tankı, FIRTINA II Obüsleri, İleri Zırhlı Taktik Araçlar ve Balistik Derin Darbe Füzeleri (BORA, TAYFUN, CENK).
+4. **⚓ Mavi Vatan:** TCG ANADOLU Çok Maksatlı Amfibi Hücum Gemisi, TF-2000 Hava Savunma Muhribi, MİLGEM İ-Sınıfı Fırkateynler, MİLDEN Denizaltıları ve Otonom SİDA Sürüleri.
 
 ---
 
@@ -593,17 +704,17 @@ Milli Teknoloji Envanteri, Türkiye'nin **2053 ve 2071 stratejik vizyonlarına**
 | **[KIZILELMA](./DOMINION_AEROSPACE/BAYKAR/KIZILELMA/README.md)** | BAYKAR | AEROSPACE | İnsansız Savaş Uçağı (MİUS), Düşük RCS, Süpersonik İtki, MUM-T | `TRL 8` |
 | **[ANKA-3](./DOMINION_AEROSPACE/TUSAŞ/ANKA-3/README.md)** | TUSAŞ | AEROSPACE | Uçan Kanat (Flying Wing) Derin Darbe Hayalet SİHA | `TRL 7` |
 | **[ÇELİK KUBBE](./DOMINION_ELECTRONICS/ASELSAN/ÇELİK_KUBBE/README.md)** | SSB / ASELSAN | ELECTRONICS | Çok Katmanlı Yapay Zeka Destekli Entegre Hava Savunma Sistemi | `TRL 8` |
-| **[TCG ANADOLU](./DOMINION_SEA/DzKK/TCG_ANADOLU/README.md)** | DzKK / SEDEF | SEA | Dünyanın İlk SİHA/LHD Amfibi Görev Gemisi | `TRL 9` |
-| **[TCG İSTANBUL (F-515)](./DOMINION_SEA/STM/TCG_İSTANBUL/README.md)** | STM / DzKK | SEA | Milli MİLGEM İ-Sınıfı Fırkateyn, MİDLAS Dikey Atım & ADVENT SYS | `TRL 9` |
-| **[ALTAY](./DOMINION_LAND/BMC/ALTAY/README.md)** | BMC | LAND | Yeni Nesil Ana Muharebe Tankı, AKKOR Aktif Koruma, 1500 BG BATU | `TRL 8` |
-| **[TAYFUN](./DOMINION_LAND/ROKETSAN/TAYFUN/README.md)** | ROKETSAN | LAND | Kısa/Orta Menzilli Stratejik Hipersonik/Balistik Füze Sistemi | `TRL 8` |
+| **[TCG ANADOLU](./DOMINION_SEA/SEDEF/TCG_ANADOLU/README.md)** | SEDEF / DzKK | SEA | Dünyanın İlk SİHA/LHD Amfibi Görev Gemisi | `TRL 9` |
+| **[TCG İSTANBUL (F-515)](./DOMINION_SEA/ASFAT/TCG_İSTANBUL/README.md)** | STM / ASFAT | SEA | Milli MİLGEM İ-Sınıfı Fırkateyn, MİDLAS Dikey Atım & ADVENT SYS | `TRL 9` |
+| **[ALTAY](./DOMINION_LAND/BMC/ALTAY/README.md)** | BMC | LAND | Yeni Nesil Ana Muharebe Tankı, AKKOR Aktif Koruma, 1500 BG BATU | `TRL 9` |
+| **[TAYFUN](./DOMINION_AEROSPACE/ROKETSAN/TAYFUN/README.md)** | ROKETSAN | AEROSPACE | Kısa/Orta Menzilli Stratejik Hipersonik/Balistik Füze Sistemi | `TRL 9` |
 
 ---
 
 ## 🏛️ Kurumsal Dominion Envanteri
 
 > [!NOTE]
-> Aşağıdaki tablolar `inventory_manager.py` analiz motoru tarafından otomatik olarak taranıp doğrulanmıştır. Her platformun detaylı teknik özelliklerine, silah konfigürasyonlarına ve motor tiplerine ilgili bağlantıdan ulaşabilirsiniz.
+> Aşağıdaki tablolar `inventory_manager.py v4.0` analiz motoru tarafından otomatik olarak taranıp doğrulanmıştır. Her platformun detaylı teknik özelliklerine, silah konfigürasyonlarına ve motor tiplerine ilgili bağlantıdan ulaşabilirsiniz.
 """
 
         dominion_meta = {
@@ -619,7 +730,7 @@ Milli Teknoloji Envanteri, Türkiye'nin **2053 ve 2071 stratejik vizyonlarına**
             ),
             'LAND': (
                 '🚜 DOMINION LAND (Kara & Zırh)',
-                'Ana Muharebe Tankları, Zırhlı Taktik Araçlar, Ağır Topçu, Balistik Füzeler ve Güç Grupları',
+                'Ana Muharebe Tankları, Zırhlı Taktik Araçlar, Ağır Topçu, Güdümlü Füzeler ve Güç Grupları',
                 'DOMINION_LAND'
             ),
             'SEA': (
@@ -645,7 +756,7 @@ Milli Teknoloji Envanteri, Türkiye'nin **2053 ve 2071 stratejik vizyonlarına**
                 trl_val = f"`TRL {int(p['trl'])}`" if p['trl'] and p['trl'].is_integer() else (f"`TRL {p['trl']:.1f}`" if p['trl'] else "`TRL 7`")
                 role = p['class'] if p['class'] and p['class'] != 'Platform / Alt Sistem' else p['strategic_role']
                 if not role: role = "Kritik Savunma Teknolojisi"
-                if len(role) > 55: role = role[:52] + "..."
+                if len(role) > 65: role = role[:62] + "..."
                 tables_text += f"| **[{p['name']}](./{p['path']}/README.md)** | {p['company']} | {role} | {trl_val} |\n"
 
             tables_text += "\n</details>\n"
@@ -717,7 +828,7 @@ flowchart LR
     end
 
     subgraph SWARM_STRIKE ["Akıllı Karma Sürü & Kamikaze"]
-        ALPAGU["ALPAGU Akıllı Dolanan Mühimmat"]
+        ALPAGU["ALPAGU / DELİ Dolanan Mühimmat"]
         KARGU["KARGU Döner Kanatlı Vurucu İHA"]
         BOYGA["BOYGA Havan Mühimmatı Bırakan İHA"]
     end
@@ -749,7 +860,7 @@ Envanterin metodolojisi, savunma mimarisi ve API kullanımı hakkında hazırlan
 | **Sistem Mimarisi** | Ağ merkezli harp, Çelik Kubbe ve Mavi Vatan entegrasyon doktrini | [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md) |
 | **TRL Değerlendirme Kılavuzu** | NASA/DoD ve SSB TRL 1-9 savunma sanayii hazırlık standartları | [docs/TRL_GUIDE.md](docs/TRL_GUIDE.md) |
 | **CLI & Veri Tabanı API** | `inventory_manager.py` komut satırı araçları ve veri formatları | [docs/API_CLI.md](docs/API_CLI.md) |
-| **İnteraktif Komuta Ekranı** | Fütüristik ses efektli, radarlı ve filtreli canlı gösterge paneli | [DASHBOARD.html](DASHBOARD.html) |
+| **İnteraktif Komuta Ekranı** | Görsel galerili, karşılaştırma modüllü, ses efektli canlı gösterge paneli | [DASHBOARD.html](DASHBOARD.html) |
 | **Stratejik Rapor** | Genel ekosistem olgunluk analizi ve şirket bazlı dağılım raporu | [INVENTORY_REPORT.md](INVENTORY_REPORT.md) |
 | **JSON Veri Tabanı** | Makine tarafından işlenebilir güncel envanter veri tabanı | [inventory_data.json](inventory_data.json) |
 | **CSV Tablo Verisi** | Elektronik tablo ve veri analizi için düzleştirilmiş veri | [inventory_data.csv](inventory_data.csv) |
@@ -761,7 +872,7 @@ Envanterin metodolojisi, savunma mimarisi ve API kullanımı hakkında hazırlan
 Gelişmiş otomasyon ve veri doğrulama motoru ile envanteri yönetmek için kullanılan temel komutlar:
 
 ```bash
-# Sistem sağlık denetimi (Tüm spec-sheet ve bağlantıları doğrular)
+# Sistem sağlık denetimi (Tüm spec-sheet, görsel ve bağlantıları doğrular)
 python inventory_manager.py --health
 
 # Stratejik istatistikleri ve TRL metriklerini terminalde göster
@@ -773,7 +884,7 @@ python inventory_manager.py --matrix
 # Akıllı çok terimli arama motorunu çalıştır
 python inventory_manager.py --search "AESA"
 
-# Tüm sistemleri (README, Dashboard, Rapor, JSON, CSV) tek seferde senkronize et
+# Tüm sistemleri (README, Hub'lar, Dashboard, Rapor, JSON, CSV) tek seferde senkronize et
 python inventory_manager.py --sync-all
 ```
 
@@ -801,46 +912,89 @@ Milli Teknoloji Envanteri açık kaynaklı, şeffaf ve kurumsal bir bilgi bankas
 
         print(f"✅ {readme_path} başarıyla güncellendi ({total_projects} Proje, TRL {avg_trl:.2f}).")
 
-        with open(full_readme, 'w', encoding='utf-8') as f:
-            f.write(header_part + tables_text + footer_part)
-
-        print(f"✅ {readme_path} başarıyla güncellendi ({total_projects} Proje, TRL {avg_trl:.2f}).")
-
     def sync_dominion_hubs(self):
-        """Synchronizes each dominion's hub README.md with all company and project links."""
-        print("\n🏛️  --- Dominion Hub README Dosyaları Senkronize Ediliyor --- 🏛️\n")
+        """Synchronizes each dominion's hub README.md and company README.md with rich project tables."""
+        print("\n🏛️  --- Dominion & Şirket Hub README Dosyaları Senkronize Ediliyor --- 🏛️\n")
         dominion_titles = {
-            'DOMINION_AEROSPACE': 'DOMINION AEROSPACE (Hava & Uzay)',
-            'DOMINION_ELECTRONICS': 'DOMINION ELECTRONICS & AI (Dijital Egemenlik)',
-            'DOMINION_LAND': 'DOMINION LAND (Kara & Zırh)',
-            'DOMINION_SEA': 'DOMINION SEA (Mavi Vatan)'
+            'DOMINION_AEROSPACE': ('🌌 DOMINION AEROSPACE (Hava & Uzay)', 'Hava Hakimiyeti, İnsansız Hava Araçları, Helikopterler, İtki Motorları ve Uydu Sistemleri'),
+            'DOMINION_ELECTRONICS': ('📡 DOMINION ELECTRONICS & AI (Dijital Egemenlik)', 'AESA Radarları, Elektronik Harp, Komuta Kontrol (C4I), Askeri Yapay Zeka ve Elektro-Optik Sistemler'),
+            'DOMINION_LAND': ('🚜 DOMINION LAND (Kara & Zırh)', 'Ana Muharebe Tankları, Zırhlı Taktik Araçlar, Ağır Topçu, Güdümlü Füzeler ve Güç Grupları'),
+            'DOMINION_SEA': ('⚓ DOMINION SEA (Mavi Vatan)', 'Fırkateynler, Amfibi Hücum Gemileri, Havadan Bağımsız Denizaltılar ve Otonom SİDA Sürüleri')
         }
+
+        all_projs = self.get_all_projects(refresh=True)
 
         for d, companies in self.structure.items():
             hub_path = os.path.join(self.root_dir, d, 'README.md')
-            title = dominion_titles.get(d, d)
+            title, desc = dominion_titles.get(d, (d, ''))
+            dom_short = d.replace('DOMINION_', '')
+            dom_projs = [p for p in all_projs if p['dominion'] == dom_short]
+            dom_trls = [p['trl'] for p in dom_projs if p['trl'] is not None]
+            dom_avg = sum(dom_trls) / len(dom_trls) if dom_trls else 0.0
+
             lines = [
-                f"# {title} Index\n",
-                "## 🏢 Kurumsal Dizin (Corporate Index)\n"
+                f"# {title}\n",
+                f"> *{desc}*\n",
+                f"- **Toplam Kayıtlı Platform:** `{len(dom_projs)}`",
+                f"- **Aktif Savunma Kuruluşu:** `{len(companies)}`",
+                f"- **Ortalama Teknoloji Hazırlık Seviyesi (TRL):** `TRL {dom_avg:.2f} / 9.00`\n",
+                "---\n",
+                "## 🏢 Kurumsal Dizin ve Platform Matrisi\n"
             ]
 
             for c, projs in sorted(companies.items()):
                 comp_name = c.replace('_', ' ')
-                lines.append(f"### [{comp_name}]({c}/README.md)")
-                for p in sorted(projs):
-                    proj_name = p.replace('_', ' ')
-                    lines.append(f"- [{proj_name}]({c}/{p}/README.md)")
+                comp_projs = [p for p in dom_projs if p['company'] == comp_name]
+                comp_projs.sort(key=lambda x: x['name'])
+
+                lines.append(f"### 🏛️ [{comp_name}]({c}/README.md) ({len(comp_projs)} Platform)\n")
+                lines.append("| Platform / Sistem | Sınıf & Stratejik Rol | Durum | TRL |")
+                lines.append("| :--- | :--- | :--- | :---: |")
+                for cp in comp_projs:
+                    proj_folder = os.path.basename(cp['path'])
+                    trl_str = f"`TRL {int(cp['trl'])}`" if cp['trl'] and cp['trl'].is_integer() else (f"`TRL {cp['trl']:.1f}`" if cp['trl'] else "`TRL 7`")
+                    cls_str = cp['class'] if len(cp['class']) <= 60 else cp['class'][:57] + "..."
+                    st_str = cp['status'] if len(cp['status']) <= 28 else cp['status'][:25] + "..."
+                    lines.append(f"| **[{cp['name']}]({c}/{proj_folder}/README.md)** | {cls_str} | {st_str} | {trl_str} |")
                 lines.append("")
+
+                # Also update Company Hub README.md
+                comp_readme_path = os.path.join(self.root_dir, d, c, 'README.md')
+                c_trls = [cp['trl'] for cp in comp_projs if cp['trl'] is not None]
+                c_avg = sum(c_trls) / len(c_trls) if c_trls else 0.0
+                c_lines = [
+                    f"# 🏢 {comp_name} — Proje ve Teknolojik Varlık Kataloğu\n",
+                    f"> **{title}** bünyesinde faaliyet gösteren **{comp_name}** kuruluşuna ait toplam **{len(comp_projs)}** stratejik platform ve alt sistem kaydı bulunmaktadır (Ortalama Olgunluk: `TRL {c_avg:.2f}`).\n",
+                    "---\n",
+                    "## 🚀 Kayıtlı Platformlar ve Teknik Özet\n",
+                    "| Platform | Sınıf & Kategori | Stratejik Öncelik ve Görev Tanımı | Durum | TRL |",
+                    "| :--- | :--- | :--- | :--- | :---: |"
+                ]
+                for cp in comp_projs:
+                    proj_folder = os.path.basename(cp['path'])
+                    trl_str = f"`TRL {int(cp['trl'])}`" if cp['trl'] and cp['trl'].is_integer() else (f"`TRL {cp['trl']:.1f}`" if cp['trl'] else "`TRL 7`")
+                    cls_str = cp['class'] if len(cp['class']) <= 45 else cp['class'][:42] + "..."
+                    role_str = (cp['strategic_role'] or cp['summary'] or 'Kritik Milli Savunma Sistemi')
+                    if len(role_str) > 80: role_str = role_str[:77] + "..."
+                    st_str = cp['status'] if len(cp['status']) <= 25 else cp['status'][:22] + "..."
+                    c_lines.append(f"| **[{cp['name']}]({proj_folder}/README.md)** | {cls_str} | {role_str} | {st_str} | {trl_str} |")
+
+                c_lines.extend([
+                    "\n---",
+                    f"[⬅️ Dominion Hub ({dom_short})](../README.md) | [🏠 Ana Sayfa](../../README.md)\n"
+                ])
+                with open(comp_readme_path, 'w', encoding='utf-8') as cf:
+                    cf.write("\n".join(c_lines))
 
             lines.append("---")
             lines.append("[⬅️ Ana Sayfaya Dön](../README.md)\n")
 
             with open(hub_path, 'w', encoding='utf-8') as f:
                 f.write("\n".join(lines))
-            print(f"✅ {d}/README.md güncellendi.")
+            print(f"✅ {d}/README.md ve bağlı {len(companies)} şirket dizini güncellendi.")
 
     def sync_all(self):
-        """One-stop orchestrator: updates readme, report, json, csv, and dashboard."""
+        """One-stop orchestrator: updates readme, hubs, report, json, csv, and dashboard."""
         print("\n🚀 ======================================================= 🚀")
         print("    MİLLİ TEKNOLOJİ ENVANTERİ: TAM EKOSİSTEM SENKRONİZASYONU   ")
         print("🚀 ======================================================= 🚀\n")
@@ -853,8 +1007,9 @@ Milli Teknoloji Envanteri açık kaynaklı, şeffaf ve kurumsal bir bilgi bankas
         self.analyze_health()
         print("\n🎉 Tüm envanter veri tabanı, raporları ve arayüzleri senkronize edildi!\n")
 
+
 def main():
-    parser = argparse.ArgumentParser(description="Milli Teknoloji Envanteri Yönetim Sistemi v3.5 (Kurumsal)")
+    parser = argparse.ArgumentParser(description="Milli Teknoloji Envanteri Yönetim Sistemi v4.0 (Kurumsal)")
     parser.add_argument('--health', action='store_true', help="Kapsamlı sistem sağlık kontrolü yap")
     parser.add_argument('--stats', action='store_true', help="Stratejik istatistikleri ve TRL metriklerini göster")
     parser.add_argument('--matrix', action='store_true', help="Şirket vs. Dominion yetenek matrisini göster")
@@ -864,7 +1019,7 @@ def main():
     parser.add_argument('--export-json', action='store_true', help="Tüm veri tabanını JSON formatında ihraç et")
     parser.add_argument('--export-csv', action='store_true', help="Tüm veri tabanını CSV formatında ihraç et")
     parser.add_argument('--sync', action='store_true', help="Alt projeleri ana README.md'ye senkronize et")
-    parser.add_argument('--sync-all', action='store_true', help="Tüm sistemleri (README, Rapor, JSON, CSV, Dashboard) tek seferde senkronize et")
+    parser.add_argument('--sync-all', action='store_true', help="Tüm sistemleri (README, Hub'lar, Rapor, JSON, CSV, Dashboard) tek seferde senkronize et")
 
     args = parser.parse_args()
     manager = InventoryManager()
@@ -882,6 +1037,7 @@ def main():
 
     if not any([args.health, args.stats, args.matrix, args.search, args.dashboard, args.report, args.export_json, args.export_csv, args.sync, args.sync_all]):
         parser.print_help()
+
 
 if __name__ == "__main__":
     main()

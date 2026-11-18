@@ -1,9 +1,14 @@
-# 📡 ASELSAN (DOMINION AEROSPACE)
+# 🏢 ASELSAN — Proje ve Teknolojik Varlık Kataloğu
 
-ASELSAN'ın havacılık ve hassas güdümlü mühimmat sistemleri geliştirme ve entegrasyon merkezi.
-
-## 🎯 Projeler
-- [TOLUN](TOLUN/README.md) - Minyatür Bomba (Güdümlü Nüfuz Edici Mühimmat)
+> **🌌 DOMINION AEROSPACE (Hava & Uzay)** bünyesinde faaliyet gösteren **ASELSAN** kuruluşuna ait toplam **1** stratejik platform ve alt sistem kaydı bulunmaktadır (Ortalama Olgunluk: `TRL 9.00`).
 
 ---
-[⬅️ DOMINION AEROSPACE Index](../README.md) | [🏠 Ana Sayfaya Dön](../../README.md)
+
+## 🚀 Kayıtlı Platformlar ve Teknik Özet
+
+| Platform | Sınıf & Kategori | Stratejik Öncelik ve Görev Tanımı | Durum | TRL |
+| :--- | :--- | :--- | :--- | :---: |
+| **[TOLUN](TOLUN/README.md)** | GPS / INS (KKS / ANS) + IIR Opsiyonu | TOLUN, Türk Hava Kuvvetleri ve müttefik hava platformları için hava-yer taarr... | Operasyonel / Seri Üretim | `TRL 9` |
+
+---
+[⬅️ Dominion Hub (AEROSPACE)](../README.md) | [🏠 Ana Sayfa](../../README.md)

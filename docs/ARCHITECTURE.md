@@ -60,10 +60,10 @@ Türkiye'nin tüm deniz, hava ve kara platformları bağımsız adacıklar olara
 ### ⚓ ADVENT SYS (Ağ Destekli Veri Entegre Savaş Yönetim Sistemi)
 - **Geliştirici:** Dz.K.K. Araştırma Merkezi Komutanlığı (ARMERKOM) & HAVELSAN
 - **Kabiliyet:** Tek bir geminin radarında görünen hedef, yüzlerce mil uzaktaki başka bir geminin MİDLAS dikey lançerinden atılan füzeyle vurulabilir (Cooperative Engagement Capability - CEC).
-- **Entegre Platformlar:** TCG ANADOLU, TCG İSTANBUL, ADA Sınıfı Korvetler, MİLDEN, MARLİN ve SİDA filoları.
+- **Entegre Platformlar:** TCG ANADOLU, TF-2000 Hava Savunma Muhribi, TCG İSTANBUL, HİSAR Sınıfı ADKG, ADA Sınıfı Korvetler, MİLDEN, MARLİN ve SİDA filoları.
 
 ### 🦅 MUM-T (Manned-Unmanned Teaming / İnsanlı-İnsansız Birlikteliği)
-- **KAAN & Loyal Wingman Doktrini:** 5. nesil savaş uçağı KAAN, düşman hava sahasına tek başına girmez. Önünde radar izi düşük KIZILELMA ve ANKA-3 otonom olarak uçar, hava savunma radarlarını yanıltmak için SÜPER ŞİMŞEK decoy'larını salar ve pilotun iş yükünü asgariye indirir.
+- **KAAN & Loyal Wingman Doktrini:** 5. nesil savaş uçağı KAAN, düşman hava sahasına tek başına girmez. Önünde radar izi düşük KIZILELMA ve ANKA-3 otonom olarak uçar, hava savunma radarlarını yanıltmak için SÜPER ŞİMŞEK decoy'larını salar, GÖKTUĞ (GÖKDOĞAN & BOZDOĞAN) füzeleriyle hava hedeflerini temizler ve pilotun iş yükünü asgariye indirir.
 
 ---
 
@@ -71,10 +71,11 @@ Türkiye'nin tüm deniz, hava ve kara platformları bağımsız adacıklar olara
 
 | Motor / Güç Grubu | Üretici | Güç Seviyesi | Hedef Platform | Durum |
 | :--- | :--- | :--- | :--- | :--- |
-| **TEI-TF6000** | TEI | 6.000 lbf | KIZILELMA-A, HÜRJET, ANKA-3 | Prototip Çalıştı (TRL 7) |
-| **TEI-TF10000** | TEI | 10.000 lbf (Art Yakıcılı) | KIZILELMA-B (Süpersonik), Ağır Jetler | İmalat Fazı (TRL 6) |
+| **TEI-TF6000** | TEI | 6.000 lbf | KIZILELMA-A, ANKA-3 | Prototip Çalıştı (TRL 7) |
+| **TEI-TF10000** | TEI | 10.000 lbf (Art Yakıcılı) | KIZILELMA-B (Süpersonik), HÜRJET | İmalat Fazı (TRL 6) |
 | **TEI-TS1400** | TEI | 1.400 SHP | GÖKBEY, T129 ATAK | Uçuş Testleri (TRL 8) |
-| **TEI-PD170** | TEI | 170 HP | ANKA, AKSUNGUR, Bayraktar TB3 | Seri Üretim (TRL 9) |
+| **TEI-PD170 / PD222** | TEI | 170 - 222 HP | ANKA, AKSUNGUR, Bayraktar TB3 | Seri Üretim (TRL 9) |
 | **BATU** | BMC POWER | 1.500 BG | ALTAY Ana Muharebe Tankı | Araç Testi (TRL 8) |
-| **UTKU** | BMC POWER | 1.000 BG | Fırtına II, TULPAR ZMA | Test Kulesi (TRL 8) |
-| **TUNA** | BMC POWER | 400 BG | BMC VURAN, KİRPİ | Seri Üretim (TRL 9) |
+| **UTKU** | BMC POWER | 1.000 BG | FIRTINA II, TULPAR ZMA | Test Kulesi (TRL 8) |
+| **AZRA** | BMC POWER | 600 BG | 8x8 Taktik Tekerlekli Zırhlı Araçlar | Kalifikasyon (TRL 8) |
+| **TUNA** | BMC POWER | 400 BG | BMC VURAN, KİRPİ II | Seri Üretim (TRL 9) |
